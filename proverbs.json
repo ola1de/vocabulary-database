@@ -1,0 +1,1908 @@
+{
+  "category": "proverbs",
+  "title": "Proverbs",
+  "words": [
+    {
+      "id": "pv-001",
+      "word": "A stitch in time saves nine",
+      "pos": "proverb",
+      "definition": "Prompt action prevents bigger problems later.",
+      "example": "Fix that leak now — a stitch in time saves nine."
+    },
+    {
+      "id": "pv-002",
+      "word": "Actions speak louder than words",
+      "pos": "proverb",
+      "definition": "What people do reveals more than what they say.",
+      "example": "Actions speak louder than words; watch him."
+    },
+    {
+      "id": "pv-003",
+      "word": "A picture is worth a thousand words",
+      "pos": "proverb",
+      "definition": "Images convey information more effectively than words.",
+      "example": "Show them the graph — a picture is worth a thousand words."
+    },
+    {
+      "id": "pv-004",
+      "word": "Better late than never",
+      "pos": "proverb",
+      "definition": "Doing something late is better than not doing it at all.",
+      "example": "He apologised — better late than never."
+    },
+    {
+      "id": "pv-005",
+      "word": "Birds of a feather flock together",
+      "pos": "proverb",
+      "definition": "People of similar character tend to associate.",
+      "example": "They all love chess; birds of a feather flock together."
+    },
+    {
+      "id": "pv-006",
+      "word": "Don't judge a book by its cover",
+      "pos": "proverb",
+      "definition": "Do not evaluate something only by its outward appearance.",
+      "example": "She seems shy, but don't judge a book by its cover."
+    },
+    {
+      "id": "pv-007",
+      "word": "Don't count your chickens before they hatch",
+      "pos": "proverb",
+      "definition": "Do not assume success before it happens.",
+      "example": "We might win, but don't count your chickens before they hatch."
+    },
+    {
+      "id": "pv-008",
+      "word": "Every dog has its day",
+      "pos": "proverb",
+      "definition": "Everyone gets a chance eventually.",
+      "example": "Keep trying — every dog has its day."
+    },
+    {
+      "id": "pv-009",
+      "word": "Fortune favours the bold",
+      "pos": "proverb",
+      "definition": "Brave action often leads to success.",
+      "example": "She applied for the top job; fortune favours the bold."
+    },
+    {
+      "id": "pv-010",
+      "word": "Haste makes waste",
+      "pos": "proverb",
+      "definition": "Rushing leads to mistakes and lost effort.",
+      "example": "Slow down — haste makes waste."
+    },
+    {
+      "id": "pv-011",
+      "word": "Honesty is the best policy",
+      "pos": "proverb",
+      "definition": "Being truthful is always the wisest course.",
+      "example": "Just admit it — honesty is the best policy."
+    },
+    {
+      "id": "pv-012",
+      "word": "If it ain't broke, don't fix it",
+      "pos": "proverb",
+      "definition": "Do not change what is working well.",
+      "example": "Leave the system alone; if it ain't broke, don't fix it."
+    },
+    {
+      "id": "pv-013",
+      "word": "Look before you leap",
+      "pos": "proverb",
+      "definition": "Consider possible consequences before acting.",
+      "example": "Sign nothing yet — look before you leap."
+    },
+    {
+      "id": "pv-014",
+      "word": "Necessity is the mother of invention",
+      "pos": "proverb",
+      "definition": "Difficulty inspires creative solutions.",
+      "example": "He built a cooler from a bucket; necessity is the mother of invention."
+    },
+    {
+      "id": "pv-015",
+      "word": "No man is an island",
+      "pos": "proverb",
+      "definition": "No one is completely independent of others.",
+      "example": "Ask for help — no man is an island."
+    },
+    {
+      "id": "pv-016",
+      "word": "Practice makes perfect",
+      "pos": "proverb",
+      "definition": "Regular practice leads to mastery.",
+      "example": "Keep drilling those scales — practice makes perfect."
+    },
+    {
+      "id": "pv-017",
+      "word": "Rome wasn't built in a day",
+      "pos": "proverb",
+      "definition": "Important work takes time.",
+      "example": "Be patient with the project; Rome wasn't built in a day."
+    },
+    {
+      "id": "pv-018",
+      "word": "The early bird catches the worm",
+      "pos": "proverb",
+      "definition": "Those who act promptly get the best opportunities.",
+      "example": "She got there first — the early bird catches the worm."
+    },
+    {
+      "id": "pv-019",
+      "word": "The grass is always greener on the other side",
+      "pos": "proverb",
+      "definition": "People often envy others' situations.",
+      "example": "He regrets moving; the grass is always greener on the other side."
+    },
+    {
+      "id": "pv-020",
+      "word": "The pen is mightier than the sword",
+      "pos": "proverb",
+      "definition": "Writing and ideas are more powerful than force.",
+      "example": "Peaceful protest works — the pen is mightier than the sword."
+    },
+    {
+      "id": "pv-021",
+      "word": "There's no place like home",
+      "pos": "proverb",
+      "definition": "Home is the best and most comforting place.",
+      "example": "After the trip she sighed, there's no place like home."
+    },
+    {
+      "id": "pv-022",
+      "word": "Two heads are better than one",
+      "pos": "proverb",
+      "definition": "Two people working together achieve more.",
+      "example": "Let's plan it together — two heads are better than one."
+    },
+    {
+      "id": "pv-023",
+      "word": "Where there's a will, there's a way",
+      "pos": "proverb",
+      "definition": "Determination overcomes obstacles.",
+      "example": "She learned to walk again; where there's a will, there's a way."
+    },
+    {
+      "id": "pv-024",
+      "word": "You reap what you sow",
+      "pos": "proverb",
+      "definition": "Your actions bring corresponding results.",
+      "example": "He treated people badly and now suffers — you reap what you sow."
+    },
+    {
+      "id": "pv-025",
+      "word": "A watched pot never boils",
+      "pos": "proverb",
+      "definition": "Time seems to pass slowly when one is anxiously waiting.",
+      "example": "Stop staring at the phone; a watched pot never boils."
+    },
+    {
+      "id": "pv-026",
+      "word": "Absence makes the heart grow fonder",
+      "pos": "proverb",
+      "definition": "Being apart strengthens affection.",
+      "example": "She missed him terribly — absence makes the heart grow fonder."
+    },
+    {
+      "id": "pv-027",
+      "word": "All good things must come to an end",
+      "pos": "proverb",
+      "definition": "Nothing pleasant lasts forever.",
+      "example": "The holiday is over; all good things must come to an end."
+    },
+    {
+      "id": "pv-028",
+      "word": "All that glitters is not gold",
+      "pos": "proverb",
+      "definition": "Attractive things are not always valuable.",
+      "example": "Read the fine print — all that glitters is not gold."
+    },
+    {
+      "id": "pv-029",
+      "word": "An apple a day keeps the doctor away",
+      "pos": "proverb",
+      "definition": "Eating fruit daily keeps you healthy.",
+      "example": "She snacks on apples — an apple a day keeps the doctor away."
+    },
+    {
+      "id": "pv-030",
+      "word": "Beauty is in the eye of the beholder",
+      "pos": "proverb",
+      "definition": "Perceptions of beauty are subjective.",
+      "example": "He liked the odd sculpture; beauty is in the eye of the beholder."
+    },
+    {
+      "id": "pv-031",
+      "word": "Beggars can't be choosers",
+      "pos": "proverb",
+      "definition": "Those in need must accept what is offered.",
+      "example": "Take the free room — beggars can't be choosers."
+    },
+    {
+      "id": "pv-032",
+      "word": "Blood is thicker than water",
+      "pos": "proverb",
+      "definition": "Family bonds are stronger than other ties.",
+      "example": "She defended her brother; blood is thicker than water."
+    },
+    {
+      "id": "pv-033",
+      "word": "Charity begins at home",
+      "pos": "proverb",
+      "definition": "One's first duty is to one's own family.",
+      "example": "Help your parents first — charity begins at home."
+    },
+    {
+      "id": "pv-034",
+      "word": "Curiosity killed the cat",
+      "pos": "proverb",
+      "definition": "Being too inquisitive can be dangerous.",
+      "example": "Don't peek in there — curiosity killed the cat."
+    },
+    {
+      "id": "pv-035",
+      "word": "Do unto others as you would have them do unto you",
+      "pos": "proverb",
+      "definition": "Treat others as you wish to be treated.",
+      "example": "Be kind — do unto others as you would have them do unto you."
+    },
+    {
+      "id": "pv-036",
+      "word": "Don't bite the hand that feeds you",
+      "pos": "proverb",
+      "definition": "Do not harm those who help you.",
+      "example": "Respect your boss — don't bite the hand that feeds you."
+    },
+    {
+      "id": "pv-037",
+      "word": "Don't put off till tomorrow what you can do today",
+      "pos": "proverb",
+      "definition": "Do not procrastinate.",
+      "example": "Finish the essay tonight — don't put off till tomorrow what you can do today."
+    },
+    {
+      "id": "pv-038",
+      "word": "Easy come, easy go",
+      "pos": "proverb",
+      "definition": "Things gained without effort are lost as easily.",
+      "example": "He won the money and spent it — easy come, easy go."
+    },
+    {
+      "id": "pv-039",
+      "word": "Empty vessels make the most noise",
+      "pos": "proverb",
+      "definition": "Foolish people talk the loudest.",
+      "example": "Ignore his boasting — empty vessels make the most noise."
+    },
+    {
+      "id": "pv-040",
+      "word": "Every rose has its thorn",
+      "pos": "proverb",
+      "definition": "Every good thing has some drawback.",
+      "example": "The job pays well but is stressful — every rose has its thorn."
+    },
+    {
+      "id": "pv-041",
+      "word": "Familiarity breeds contempt",
+      "pos": "proverb",
+      "definition": "Knowing someone too well can reduce respect.",
+      "example": "They quarrel constantly — familiarity breeds contempt."
+    },
+    {
+      "id": "pv-042",
+      "word": "First come, first served",
+      "pos": "proverb",
+      "definition": "Those who arrive first are served first.",
+      "example": "Tickets go on sale at nine — first come, first served."
+    },
+    {
+      "id": "pv-043",
+      "word": "God helps those who help themselves",
+      "pos": "proverb",
+      "definition": "People must make their own efforts.",
+      "example": "Apply for jobs; God helps those who help themselves."
+    },
+    {
+      "id": "pv-044",
+      "word": "Good things come to those who wait",
+      "pos": "proverb",
+      "definition": "Patience is rewarded.",
+      "example": "Keep saving — good things come to those who wait."
+    },
+    {
+      "id": "pv-045",
+      "word": "Great minds think alike",
+      "pos": "proverb",
+      "definition": "Clever people often reach the same conclusions.",
+      "example": "We both suggested it; great minds think alike."
+    },
+    {
+      "id": "pv-046",
+      "word": "He who laughs last laughs longest",
+      "pos": "proverb",
+      "definition": "Ultimate success is what matters.",
+      "example": "She lost round one but won overall — he who laughs last laughs longest."
+    },
+    {
+      "id": "pv-047",
+      "word": "Home is where the heart is",
+      "pos": "proverb",
+      "definition": "Home is wherever one's loved ones are.",
+      "example": "She moved to be with him; home is where the heart is."
+    },
+    {
+      "id": "pv-048",
+      "word": "If you can't beat them, join them",
+      "pos": "proverb",
+      "definition": "If you can't defeat opponents, become an ally.",
+      "example": "Everyone runs marathons now — if you can't beat them, join them."
+    },
+    {
+      "id": "pv-049",
+      "word": "It's better to be safe than sorry",
+      "pos": "proverb",
+      "definition": "Precaution is preferable to regret.",
+      "example": "Wear a helmet — better safe than sorry."
+    },
+    {
+      "id": "pv-050",
+      "word": "Laughter is the best medicine",
+      "pos": "proverb",
+      "definition": "A cheerful attitude aids recovery and wellbeing.",
+      "example": "Watch comedies; laughter is the best medicine."
+    },
+    {
+      "id": "pv-051",
+      "word": "Let bygones be bygones",
+      "pos": "proverb",
+      "definition": "Forgive past offences and move on.",
+      "example": "We agreed to let bygones be bygones."
+    },
+    {
+      "id": "pv-052",
+      "word": "Many hands make light work",
+      "pos": "proverb",
+      "definition": "A task is easier when many help.",
+      "example": "Everyone pitch in — many hands make light work."
+    },
+    {
+      "id": "pv-053",
+      "word": "Money doesn't grow on trees",
+      "pos": "proverb",
+      "definition": "Money is not obtained without effort.",
+      "example": "Stop wasting cash — money doesn't grow on trees."
+    },
+    {
+      "id": "pv-054",
+      "word": "Never look a gift horse in the mouth",
+      "pos": "proverb",
+      "definition": "Do not criticise something given for free.",
+      "example": "Take the phone; never look a gift horse in the mouth."
+    },
+    {
+      "id": "pv-055",
+      "word": "Nothing ventured, nothing gained",
+      "pos": "proverb",
+      "definition": "Without risk there is no reward.",
+      "example": "Just ask her out — nothing ventured, nothing gained."
+    },
+    {
+      "id": "pv-056",
+      "word": "One good turn deserves another",
+      "pos": "proverb",
+      "definition": "A kindness should be returned.",
+      "example": "Let me help you — one good turn deserves another."
+    },
+    {
+      "id": "pv-057",
+      "word": "Out of sight, out of mind",
+      "pos": "proverb",
+      "definition": "People and things forgotten when not seen.",
+      "example": "Since he left the city, out of sight, out of mind."
+    },
+    {
+      "id": "pv-058",
+      "word": "People who live in glass houses shouldn't throw stones",
+      "pos": "proverb",
+      "definition": "Do not criticise faults you have yourself.",
+      "example": "She should not judge; people in glass houses shouldn't throw stones."
+    },
+    {
+      "id": "pv-059",
+      "word": "Silence is golden",
+      "pos": "proverb",
+      "definition": "Sometimes it is best to say nothing.",
+      "example": "In this argument, silence is golden."
+    },
+    {
+      "id": "pv-060",
+      "word": "Slow and steady wins the race",
+      "pos": "proverb",
+      "definition": "Consistent effort achieves success.",
+      "example": "Study daily; slow and steady wins the race."
+    },
+    {
+      "id": "pv-061",
+      "word": "Still waters run deep",
+      "pos": "proverb",
+      "definition": "Quiet people often have depth of character.",
+      "example": "He hardly speaks, but still waters run deep."
+    },
+    {
+      "id": "pv-062",
+      "word": "Strike while the iron is hot",
+      "pos": "proverb",
+      "definition": "Act at the best opportunity.",
+      "example": "Send the offer now — strike while the iron is hot."
+    },
+    {
+      "id": "pv-063",
+      "word": "The apple doesn't fall far from the tree",
+      "pos": "proverb",
+      "definition": "Children resemble their parents.",
+      "example": "She's stubborn like her mother; the apple doesn't fall far from the tree."
+    },
+    {
+      "id": "pv-064",
+      "word": "The best things in life are free",
+      "pos": "proverb",
+      "definition": "The most valuable things cost nothing.",
+      "example": "Time with family — the best things in life are free."
+    },
+    {
+      "id": "pv-065",
+      "word": "The customer is always right",
+      "pos": "proverb",
+      "definition": "Businesses should defer to customers' opinions.",
+      "example": "Refund it; the customer is always right."
+    },
+    {
+      "id": "pv-066",
+      "word": "The road to hell is paved with good intentions",
+      "pos": "proverb",
+      "definition": "Good intentions do not excuse harmful outcomes.",
+      "example": "He meant well but caused chaos — the road to hell is paved with good intentions."
+    },
+    {
+      "id": "pv-067",
+      "word": "The squeaky wheel gets the grease",
+      "pos": "proverb",
+      "definition": "Those who complain loudest get attention.",
+      "example": "Keep asking — the squeaky wheel gets the grease."
+    },
+    {
+      "id": "pv-068",
+      "word": "The truth will out",
+      "pos": "proverb",
+      "definition": "Truth cannot stay hidden forever.",
+      "example": "They'll uncover the fraud — the truth will out."
+    },
+    {
+      "id": "pv-069",
+      "word": "Time is money",
+      "pos": "proverb",
+      "definition": "Time wasted is money lost.",
+      "example": "Hurry up — time is money."
+    },
+    {
+      "id": "pv-070",
+      "word": "Time heals all wounds",
+      "pos": "proverb",
+      "definition": "Emotional pain fades with time.",
+      "example": "Give it a year — time heals all wounds."
+    },
+    {
+      "id": "pv-071",
+      "word": "Too many cooks spoil the broth",
+      "pos": "proverb",
+      "definition": "Too many people involved ruin a task.",
+      "example": "Only two of us should plan it — too many cooks spoil the broth."
+    },
+    {
+      "id": "pv-072",
+      "word": "Truth is stranger than fiction",
+      "pos": "proverb",
+      "definition": "Real life is often more unusual than made-up stories.",
+      "example": "No one would believe it — truth is stranger than fiction."
+    },
+    {
+      "id": "pv-073",
+      "word": "Variety is the spice of life",
+      "pos": "proverb",
+      "definition": "New and varied experiences make life interesting.",
+      "example": "Try a new hobby; variety is the spice of life."
+    },
+    {
+      "id": "pv-074",
+      "word": "When in Rome, do as the Romans do",
+      "pos": "proverb",
+      "definition": "Adopt local customs when you visit a place.",
+      "example": "Bow when greeted — when in Rome, do as the Romans do."
+    },
+    {
+      "id": "pv-075",
+      "word": "When the cat's away, the mice will play",
+      "pos": "proverb",
+      "definition": "People misbehave when supervision is absent.",
+      "example": "With their teacher out, when the cat's away the mice will play."
+    },
+    {
+      "id": "pv-076",
+      "word": "You can lead a horse to water but you can't make it drink",
+      "pos": "proverb",
+      "definition": "You can give someone a chance, not force them to use it.",
+      "example": "I offered advice — you can lead a horse to water but you can't make it drink."
+    },
+    {
+      "id": "pv-077",
+      "word": "You can't have your cake and eat it too",
+      "pos": "proverb",
+      "definition": "You cannot enjoy both of two mutually exclusive options.",
+      "example": "Choose one — you can't have your cake and eat it too."
+    },
+    {
+      "id": "pv-078",
+      "word": "You can't teach an old dog new tricks",
+      "pos": "proverb",
+      "definition": "It is hard to change long-established habits.",
+      "example": "He won't learn the software — you can't teach an old dog new tricks."
+    },
+    {
+      "id": "pv-079",
+      "word": "A friend in need is a friend indeed",
+      "pos": "proverb",
+      "definition": "A true friend helps in times of trouble.",
+      "example": "She came at once — a friend in need is a friend indeed."
+    },
+    {
+      "id": "pv-080",
+      "word": "A chain is only as strong as its weakest link",
+      "pos": "proverb",
+      "definition": "A group is limited by its weakest member.",
+      "example": "Train the new intern — a chain is only as strong as its weakest link."
+    },
+    {
+      "id": "pv-081",
+      "word": "A journey of a thousand miles begins with a single step",
+      "pos": "proverb",
+      "definition": "Great tasks start with small first actions.",
+      "example": "Just write one page — a journey of a thousand miles begins with a single step."
+    },
+    {
+      "id": "pv-082",
+      "word": "A leopard cannot change its spots",
+      "pos": "proverb",
+      "definition": "People rarely change their nature.",
+      "example": "He'll lie again; a leopard cannot change its spots."
+    },
+    {
+      "id": "pv-083",
+      "word": "An ounce of prevention is worth a pound of cure",
+      "pos": "proverb",
+      "definition": "Preventing problems is easier than fixing them.",
+      "example": "Get the vaccine — an ounce of prevention is worth a pound of cure."
+    },
+    {
+      "id": "pv-084",
+      "word": "As you make your bed, so you must lie in it",
+      "pos": "proverb",
+      "definition": "You must accept the results of your choices.",
+      "example": "You chose this path; as you make your bed, so you must lie in it."
+    },
+    {
+      "id": "pv-085",
+      "word": "Beauty is only skin deep",
+      "pos": "proverb",
+      "definition": "Character matters more than looks.",
+      "example": "Kindness lasts — beauty is only skin deep."
+    },
+    {
+      "id": "pv-086",
+      "word": "Better safe than sorry",
+      "pos": "proverb",
+      "definition": "It is wiser to be cautious.",
+      "example": "Wear the seatbelt — better safe than sorry."
+    },
+    {
+      "id": "pv-087",
+      "word": "Cleanliness is next to godliness",
+      "pos": "proverb",
+      "definition": "Being clean is virtuous.",
+      "example": "Tidy your room — cleanliness is next to godliness."
+    },
+    {
+      "id": "pv-088",
+      "word": "Do not bite off more than you can chew",
+      "pos": "proverb",
+      "definition": "Do not attempt more than you can manage.",
+      "example": "Drop a course — don't bite off more than you can chew."
+    },
+    {
+      "id": "pv-089",
+      "word": "Don't cross the bridge until you come to it",
+      "pos": "proverb",
+      "definition": "Do not worry about a problem until it arises.",
+      "example": "We'll see about that; don't cross the bridge until you come to it."
+    },
+    {
+      "id": "pv-090",
+      "word": "Every man has his price",
+      "pos": "proverb",
+      "definition": "Anyone can be bribed for enough money.",
+      "example": "They found his weakness; every man has his price."
+    },
+    {
+      "id": "pv-091",
+      "word": "Give a man enough rope and he will hang himself",
+      "pos": "proverb",
+      "definition": "Given freedom, a fool will ruin himself.",
+      "example": "Let him talk; give a man enough rope and he will hang himself."
+    },
+    {
+      "id": "pv-092",
+      "word": "Give credit where credit is due",
+      "pos": "proverb",
+      "definition": "Acknowledge people's contributions.",
+      "example": "Thank the intern — give credit where credit is due."
+    },
+    {
+      "id": "pv-093",
+      "word": "God helps those who help themselves",
+      "pos": "proverb",
+      "definition": "People must act to solve their own problems.",
+      "example": "Send the applications; God helps those who help themselves."
+    },
+    {
+      "id": "pv-094",
+      "word": "Half a loaf is better than none",
+      "pos": "proverb",
+      "definition": "A little of something is better than nothing.",
+      "example": "Take the offer — half a loaf is better than none."
+    },
+    {
+      "id": "pv-095",
+      "word": "Hindsight is twenty-twenty",
+      "pos": "proverb",
+      "definition": "Past events are easy to understand after they happen.",
+      "example": "We should have sold; hindsight is twenty-twenty."
+    },
+    {
+      "id": "pv-096",
+      "word": "Ignorance is bliss",
+      "pos": "proverb",
+      "definition": "Not knowing something unpleasant can be comforting.",
+      "example": "She doesn't know he lied — ignorance is bliss."
+    },
+    {
+      "id": "pv-097",
+      "word": "It never rains but it pours",
+      "pos": "proverb",
+      "definition": "Troubles come all at once.",
+      "example": "Car broke, roof leaked — it never rains but it pours."
+    },
+    {
+      "id": "pv-098",
+      "word": "Jack of all trades, master of none",
+      "pos": "proverb",
+      "definition": "Someone skilled at many things but expert at none.",
+      "example": "He tries everything — jack of all trades, master of none."
+    },
+    {
+      "id": "pv-099",
+      "word": "Let the punishment fit the crime",
+      "pos": "proverb",
+      "definition": "Penalties should match the offence.",
+      "example": "A warning is enough; let the punishment fit the crime."
+    },
+    {
+      "id": "pv-100",
+      "word": "Little strokes fell great oaks",
+      "pos": "proverb",
+      "definition": "Small efforts accomplish big things over time.",
+      "example": "Save a little each week — little strokes fell great oaks."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "pv-q1",
+      "question": "Which word means: \"Prompt action prevents bigger problems later.\"?",
+      "options": [
+        "A stitch in time saves nine",
+        "A friend in need is a friend indeed",
+        "Many hands make light work",
+        "Don't cross the bridge until you come to it"
+      ],
+      "answer": 0,
+      "explanation": "A stitch in time saves nine (proverb) — Prompt action prevents bigger problems later."
+    },
+    {
+      "id": "pv-q2",
+      "question": "Which word means: \"What people do reveals more than what they say.\"?",
+      "options": [
+        "Honesty is the best policy",
+        "One good turn deserves another",
+        "Charity begins at home",
+        "Actions speak louder than words"
+      ],
+      "answer": 3,
+      "explanation": "Actions speak louder than words (proverb) — What people do reveals more than what they say."
+    },
+    {
+      "id": "pv-q3",
+      "question": "Which word means: \"Images convey information more effectively than words.\"?",
+      "options": [
+        "A picture is worth a thousand words",
+        "Necessity is the mother of invention",
+        "Time is money",
+        "Half a loaf is better than none"
+      ],
+      "answer": 0,
+      "explanation": "A picture is worth a thousand words (proverb) — Images convey information more effectively than words."
+    },
+    {
+      "id": "pv-q4",
+      "question": "Which word means: \"Doing something late is better than not doing it at all.\"?",
+      "options": [
+        "Necessity is the mother of invention",
+        "Laughter is the best medicine",
+        "A friend in need is a friend indeed",
+        "Better late than never"
+      ],
+      "answer": 3,
+      "explanation": "Better late than never (proverb) — Doing something late is better than not doing it at all."
+    },
+    {
+      "id": "pv-q5",
+      "question": "Which word means: \"People of similar character tend to associate.\"?",
+      "options": [
+        "Let the punishment fit the crime",
+        "As you make your bed, so you must lie in it",
+        "Birds of a feather flock together",
+        "Actions speak louder than words"
+      ],
+      "answer": 2,
+      "explanation": "Birds of a feather flock together (proverb) — People of similar character tend to associate."
+    },
+    {
+      "id": "pv-q6",
+      "question": "Which word means: \"Do not evaluate something only by its outward appearance.\"?",
+      "options": [
+        "Don't judge a book by its cover",
+        "Little strokes fell great oaks",
+        "Don't bite the hand that feeds you",
+        "If it ain't broke, don't fix it"
+      ],
+      "answer": 0,
+      "explanation": "Don't judge a book by its cover (proverb) — Do not evaluate something only by its outward appearance."
+    },
+    {
+      "id": "pv-q7",
+      "question": "Which word means: \"Do not assume success before it happens.\"?",
+      "options": [
+        "No man is an island",
+        "Actions speak louder than words",
+        "Don't count your chickens before they hatch",
+        "Too many cooks spoil the broth"
+      ],
+      "answer": 2,
+      "explanation": "Don't count your chickens before they hatch (proverb) — Do not assume success before it happens."
+    },
+    {
+      "id": "pv-q8",
+      "question": "Which word means: \"Everyone gets a chance eventually.\"?",
+      "options": [
+        "The apple doesn't fall far from the tree",
+        "The grass is always greener on the other side",
+        "All good things must come to an end",
+        "Every dog has its day"
+      ],
+      "answer": 3,
+      "explanation": "Every dog has its day (proverb) — Everyone gets a chance eventually."
+    },
+    {
+      "id": "pv-q9",
+      "question": "Which word means: \"Brave action often leads to success.\"?",
+      "options": [
+        "There's no place like home",
+        "Fortune favours the bold",
+        "Good things come to those who wait",
+        "The apple doesn't fall far from the tree"
+      ],
+      "answer": 1,
+      "explanation": "Fortune favours the bold (proverb) — Brave action often leads to success."
+    },
+    {
+      "id": "pv-q10",
+      "question": "Which word means: \"Rushing leads to mistakes and lost effort.\"?",
+      "options": [
+        "Too many cooks spoil the broth",
+        "Rome wasn't built in a day",
+        "Haste makes waste",
+        "A leopard cannot change its spots"
+      ],
+      "answer": 2,
+      "explanation": "Haste makes waste (proverb) — Rushing leads to mistakes and lost effort."
+    },
+    {
+      "id": "pv-q11",
+      "question": "Which word means: \"Being truthful is always the wisest course.\"?",
+      "options": [
+        "Empty vessels make the most noise",
+        "No man is an island",
+        "Too many cooks spoil the broth",
+        "Honesty is the best policy"
+      ],
+      "answer": 3,
+      "explanation": "Honesty is the best policy (proverb) — Being truthful is always the wisest course."
+    },
+    {
+      "id": "pv-q12",
+      "question": "Which word means: \"Do not change what is working well.\"?",
+      "options": [
+        "Beggars can't be choosers",
+        "Beauty is in the eye of the beholder",
+        "Better late than never",
+        "If it ain't broke, don't fix it"
+      ],
+      "answer": 3,
+      "explanation": "If it ain't broke, don't fix it (proverb) — Do not change what is working well."
+    },
+    {
+      "id": "pv-q13",
+      "question": "Which word means: \"Consider possible consequences before acting.\"?",
+      "options": [
+        "Home is where the heart is",
+        "Look before you leap",
+        "Easy come, easy go",
+        "Beauty is only skin deep"
+      ],
+      "answer": 1,
+      "explanation": "Look before you leap (proverb) — Consider possible consequences before acting."
+    },
+    {
+      "id": "pv-q14",
+      "question": "Which word means: \"Difficulty inspires creative solutions.\"?",
+      "options": [
+        "God helps those who help themselves",
+        "Practice makes perfect",
+        "Don't cross the bridge until you come to it",
+        "Necessity is the mother of invention"
+      ],
+      "answer": 3,
+      "explanation": "Necessity is the mother of invention (proverb) — Difficulty inspires creative solutions."
+    },
+    {
+      "id": "pv-q15",
+      "question": "Which word means: \"No one is completely independent of others.\"?",
+      "options": [
+        "No man is an island",
+        "Necessity is the mother of invention",
+        "Beauty is in the eye of the beholder",
+        "Easy come, easy go"
+      ],
+      "answer": 0,
+      "explanation": "No man is an island (proverb) — No one is completely independent of others."
+    },
+    {
+      "id": "pv-q16",
+      "question": "Which word means: \"Regular practice leads to mastery.\"?",
+      "options": [
+        "If you can't beat them, join them",
+        "Practice makes perfect",
+        "Honesty is the best policy",
+        "Rome wasn't built in a day"
+      ],
+      "answer": 1,
+      "explanation": "Practice makes perfect (proverb) — Regular practice leads to mastery."
+    },
+    {
+      "id": "pv-q17",
+      "question": "Which word means: \"Important work takes time.\"?",
+      "options": [
+        "One good turn deserves another",
+        "You reap what you sow",
+        "Rome wasn't built in a day",
+        "Time is money"
+      ],
+      "answer": 2,
+      "explanation": "Rome wasn't built in a day (proverb) — Important work takes time."
+    },
+    {
+      "id": "pv-q18",
+      "question": "Which word means: \"Those who act promptly get the best opportunities.\"?",
+      "options": [
+        "Do not bite off more than you can chew",
+        "One good turn deserves another",
+        "The early bird catches the worm",
+        "There's no place like home"
+      ],
+      "answer": 2,
+      "explanation": "The early bird catches the worm (proverb) — Those who act promptly get the best opportunities."
+    },
+    {
+      "id": "pv-q19",
+      "question": "Which word means: \"People often envy others' situations.\"?",
+      "options": [
+        "He who laughs last laughs longest",
+        "Necessity is the mother of invention",
+        "Don't bite the hand that feeds you",
+        "The grass is always greener on the other side"
+      ],
+      "answer": 3,
+      "explanation": "The grass is always greener on the other side (proverb) — People often envy others' situations."
+    },
+    {
+      "id": "pv-q20",
+      "question": "Which word means: \"Writing and ideas are more powerful than force.\"?",
+      "options": [
+        "God helps those who help themselves",
+        "Haste makes waste",
+        "The pen is mightier than the sword",
+        "Do unto others as you would have them do unto you"
+      ],
+      "answer": 2,
+      "explanation": "The pen is mightier than the sword (proverb) — Writing and ideas are more powerful than force."
+    },
+    {
+      "id": "pv-q21",
+      "question": "Which word means: \"Home is the best and most comforting place.\"?",
+      "options": [
+        "First come, first served",
+        "The grass is always greener on the other side",
+        "Let bygones be bygones",
+        "There's no place like home"
+      ],
+      "answer": 3,
+      "explanation": "There's no place like home (proverb) — Home is the best and most comforting place."
+    },
+    {
+      "id": "pv-q22",
+      "question": "Which word means: \"Two people working together achieve more.\"?",
+      "options": [
+        "Fortune favours the bold",
+        "No man is an island",
+        "When the cat's away, the mice will play",
+        "Two heads are better than one"
+      ],
+      "answer": 3,
+      "explanation": "Two heads are better than one (proverb) — Two people working together achieve more."
+    },
+    {
+      "id": "pv-q23",
+      "question": "Which word means: \"Determination overcomes obstacles.\"?",
+      "options": [
+        "God helps those who help themselves",
+        "Where there's a will, there's a way",
+        "The grass is always greener on the other side",
+        "If it ain't broke, don't fix it"
+      ],
+      "answer": 1,
+      "explanation": "Where there's a will, there's a way (proverb) — Determination overcomes obstacles."
+    },
+    {
+      "id": "pv-q24",
+      "question": "Which word means: \"Your actions bring corresponding results.\"?",
+      "options": [
+        "Home is where the heart is",
+        "The customer is always right",
+        "First come, first served",
+        "You reap what you sow"
+      ],
+      "answer": 3,
+      "explanation": "You reap what you sow (proverb) — Your actions bring corresponding results."
+    },
+    {
+      "id": "pv-q25",
+      "question": "Which word means: \"Time seems to pass slowly when one is anxiously waiting.\"?",
+      "options": [
+        "A watched pot never boils",
+        "A friend in need is a friend indeed",
+        "Good things come to those who wait",
+        "An ounce of prevention is worth a pound of cure"
+      ],
+      "answer": 0,
+      "explanation": "A watched pot never boils (proverb) — Time seems to pass slowly when one is anxiously waiting."
+    },
+    {
+      "id": "pv-q26",
+      "question": "Which word means: \"Being apart strengthens affection.\"?",
+      "options": [
+        "Let bygones be bygones",
+        "Nothing ventured, nothing gained",
+        "Truth is stranger than fiction",
+        "Absence makes the heart grow fonder"
+      ],
+      "answer": 3,
+      "explanation": "Absence makes the heart grow fonder (proverb) — Being apart strengthens affection."
+    },
+    {
+      "id": "pv-q27",
+      "question": "Which word means: \"Nothing pleasant lasts forever.\"?",
+      "options": [
+        "All good things must come to an end",
+        "Beggars can't be choosers",
+        "Let bygones be bygones",
+        "Time heals all wounds"
+      ],
+      "answer": 0,
+      "explanation": "All good things must come to an end (proverb) — Nothing pleasant lasts forever."
+    },
+    {
+      "id": "pv-q28",
+      "question": "Which word means: \"Attractive things are not always valuable.\"?",
+      "options": [
+        "All that glitters is not gold",
+        "Time is money",
+        "Every man has his price",
+        "When the cat's away, the mice will play"
+      ],
+      "answer": 0,
+      "explanation": "All that glitters is not gold (proverb) — Attractive things are not always valuable."
+    },
+    {
+      "id": "pv-q29",
+      "question": "Which word means: \"Eating fruit daily keeps you healthy.\"?",
+      "options": [
+        "A stitch in time saves nine",
+        "An apple a day keeps the doctor away",
+        "Blood is thicker than water",
+        "If you can't beat them, join them"
+      ],
+      "answer": 1,
+      "explanation": "An apple a day keeps the doctor away (proverb) — Eating fruit daily keeps you healthy."
+    },
+    {
+      "id": "pv-q30",
+      "question": "Which word means: \"Perceptions of beauty are subjective.\"?",
+      "options": [
+        "The early bird catches the worm",
+        "Strike while the iron is hot",
+        "Beauty is in the eye of the beholder",
+        "Variety is the spice of life"
+      ],
+      "answer": 2,
+      "explanation": "Beauty is in the eye of the beholder (proverb) — Perceptions of beauty are subjective."
+    },
+    {
+      "id": "pv-q31",
+      "question": "Which word means: \"Those in need must accept what is offered.\"?",
+      "options": [
+        "Empty vessels make the most noise",
+        "The early bird catches the worm",
+        "If you can't beat them, join them",
+        "Beggars can't be choosers"
+      ],
+      "answer": 3,
+      "explanation": "Beggars can't be choosers (proverb) — Those in need must accept what is offered."
+    },
+    {
+      "id": "pv-q32",
+      "question": "Which word means: \"Family bonds are stronger than other ties.\"?",
+      "options": [
+        "All good things must come to an end",
+        "Blood is thicker than water",
+        "An apple a day keeps the doctor away",
+        "Charity begins at home"
+      ],
+      "answer": 1,
+      "explanation": "Blood is thicker than water (proverb) — Family bonds are stronger than other ties."
+    },
+    {
+      "id": "pv-q33",
+      "question": "Which word means: \"One's first duty is to one's own family.\"?",
+      "options": [
+        "Give credit where credit is due",
+        "Practice makes perfect",
+        "Charity begins at home",
+        "Give a man enough rope and he will hang himself"
+      ],
+      "answer": 2,
+      "explanation": "Charity begins at home (proverb) — One's first duty is to one's own family."
+    },
+    {
+      "id": "pv-q34",
+      "question": "Which word means: \"Being too inquisitive can be dangerous.\"?",
+      "options": [
+        "One good turn deserves another",
+        "Curiosity killed the cat",
+        "It's better to be safe than sorry",
+        "Give a man enough rope and he will hang himself"
+      ],
+      "answer": 1,
+      "explanation": "Curiosity killed the cat (proverb) — Being too inquisitive can be dangerous."
+    },
+    {
+      "id": "pv-q35",
+      "question": "Which word means: \"Treat others as you wish to be treated.\"?",
+      "options": [
+        "You can lead a horse to water but you can't make it drink",
+        "Better safe than sorry",
+        "Haste makes waste",
+        "Do unto others as you would have them do unto you"
+      ],
+      "answer": 3,
+      "explanation": "Do unto others as you would have them do unto you (proverb) — Treat others as you wish to be treated."
+    },
+    {
+      "id": "pv-q36",
+      "question": "Which word means: \"Do not harm those who help you.\"?",
+      "options": [
+        "Don't bite the hand that feeds you",
+        "If you can't beat them, join them",
+        "Better late than never",
+        "The grass is always greener on the other side"
+      ],
+      "answer": 0,
+      "explanation": "Don't bite the hand that feeds you (proverb) — Do not harm those who help you."
+    },
+    {
+      "id": "pv-q37",
+      "question": "Which word means: \"Do not procrastinate.\"?",
+      "options": [
+        "Actions speak louder than words",
+        "When in Rome, do as the Romans do",
+        "Haste makes waste",
+        "Don't put off till tomorrow what you can do today"
+      ],
+      "answer": 3,
+      "explanation": "Don't put off till tomorrow what you can do today (proverb) — Do not procrastinate."
+    },
+    {
+      "id": "pv-q38",
+      "question": "Which word means: \"Things gained without effort are lost as easily.\"?",
+      "options": [
+        "Strike while the iron is hot",
+        "Easy come, easy go",
+        "It never rains but it pours",
+        "The early bird catches the worm"
+      ],
+      "answer": 1,
+      "explanation": "Easy come, easy go (proverb) — Things gained without effort are lost as easily."
+    },
+    {
+      "id": "pv-q39",
+      "question": "Which word means: \"Foolish people talk the loudest.\"?",
+      "options": [
+        "People who live in glass houses shouldn't throw stones",
+        "Empty vessels make the most noise",
+        "Great minds think alike",
+        "Half a loaf is better than none"
+      ],
+      "answer": 1,
+      "explanation": "Empty vessels make the most noise (proverb) — Foolish people talk the loudest."
+    },
+    {
+      "id": "pv-q40",
+      "question": "Which word means: \"Every good thing has some drawback.\"?",
+      "options": [
+        "Every dog has its day",
+        "Every rose has its thorn",
+        "As you make your bed, so you must lie in it",
+        "The pen is mightier than the sword"
+      ],
+      "answer": 1,
+      "explanation": "Every rose has its thorn (proverb) — Every good thing has some drawback."
+    },
+    {
+      "id": "pv-q41",
+      "question": "Which word means: \"Knowing someone too well can reduce respect.\"?",
+      "options": [
+        "The road to hell is paved with good intentions",
+        "Actions speak louder than words",
+        "There's no place like home",
+        "Familiarity breeds contempt"
+      ],
+      "answer": 3,
+      "explanation": "Familiarity breeds contempt (proverb) — Knowing someone too well can reduce respect."
+    },
+    {
+      "id": "pv-q42",
+      "question": "Which word means: \"Those who arrive first are served first.\"?",
+      "options": [
+        "God helps those who help themselves",
+        "Truth is stranger than fiction",
+        "First come, first served",
+        "Curiosity killed the cat"
+      ],
+      "answer": 2,
+      "explanation": "First come, first served (proverb) — Those who arrive first are served first."
+    },
+    {
+      "id": "pv-q43",
+      "question": "Which word means: \"People must make their own efforts.\"?",
+      "options": [
+        "God helps those who help themselves",
+        "There's no place like home",
+        "Do unto others as you would have them do unto you",
+        "One good turn deserves another"
+      ],
+      "answer": 0,
+      "explanation": "God helps those who help themselves (proverb) — People must make their own efforts."
+    },
+    {
+      "id": "pv-q44",
+      "question": "Which word means: \"Patience is rewarded.\"?",
+      "options": [
+        "It never rains but it pours",
+        "Rome wasn't built in a day",
+        "All that glitters is not gold",
+        "Good things come to those who wait"
+      ],
+      "answer": 3,
+      "explanation": "Good things come to those who wait (proverb) — Patience is rewarded."
+    },
+    {
+      "id": "pv-q45",
+      "question": "Which word means: \"Clever people often reach the same conclusions.\"?",
+      "options": [
+        "Great minds think alike",
+        "Many hands make light work",
+        "You reap what you sow",
+        "An apple a day keeps the doctor away"
+      ],
+      "answer": 0,
+      "explanation": "Great minds think alike (proverb) — Clever people often reach the same conclusions."
+    },
+    {
+      "id": "pv-q46",
+      "question": "Which word means: \"Ultimate success is what matters.\"?",
+      "options": [
+        "Beauty is only skin deep",
+        "The apple doesn't fall far from the tree",
+        "Familiarity breeds contempt",
+        "He who laughs last laughs longest"
+      ],
+      "answer": 3,
+      "explanation": "He who laughs last laughs longest (proverb) — Ultimate success is what matters."
+    },
+    {
+      "id": "pv-q47",
+      "question": "Which word means: \"Home is wherever one's loved ones are.\"?",
+      "options": [
+        "As you make your bed, so you must lie in it",
+        "It's better to be safe than sorry",
+        "Don't count your chickens before they hatch",
+        "Home is where the heart is"
+      ],
+      "answer": 3,
+      "explanation": "Home is where the heart is (proverb) — Home is wherever one's loved ones are."
+    },
+    {
+      "id": "pv-q48",
+      "question": "Which word means: \"If you can't defeat opponents, become an ally.\"?",
+      "options": [
+        "Haste makes waste",
+        "If you can't beat them, join them",
+        "Necessity is the mother of invention",
+        "Home is where the heart is"
+      ],
+      "answer": 1,
+      "explanation": "If you can't beat them, join them (proverb) — If you can't defeat opponents, become an ally."
+    },
+    {
+      "id": "pv-q49",
+      "question": "Which word means: \"Precaution is preferable to regret.\"?",
+      "options": [
+        "There's no place like home",
+        "Too many cooks spoil the broth",
+        "It's better to be safe than sorry",
+        "Don't put off till tomorrow what you can do today"
+      ],
+      "answer": 2,
+      "explanation": "It's better to be safe than sorry (proverb) — Precaution is preferable to regret."
+    },
+    {
+      "id": "pv-q50",
+      "question": "Which word means: \"A cheerful attitude aids recovery and wellbeing.\"?",
+      "options": [
+        "Actions speak louder than words",
+        "Laughter is the best medicine",
+        "You can't teach an old dog new tricks",
+        "Jack of all trades, master of none"
+      ],
+      "answer": 1,
+      "explanation": "Laughter is the best medicine (proverb) — A cheerful attitude aids recovery and wellbeing."
+    },
+    {
+      "id": "pv-q51",
+      "question": "Which word means: \"Forgive past offences and move on.\"?",
+      "options": [
+        "Birds of a feather flock together",
+        "Let bygones be bygones",
+        "An ounce of prevention is worth a pound of cure",
+        "Beggars can't be choosers"
+      ],
+      "answer": 1,
+      "explanation": "Let bygones be bygones (proverb) — Forgive past offences and move on."
+    },
+    {
+      "id": "pv-q52",
+      "question": "Which word means: \"A task is easier when many help.\"?",
+      "options": [
+        "Don't judge a book by its cover",
+        "Many hands make light work",
+        "The apple doesn't fall far from the tree",
+        "When in Rome, do as the Romans do"
+      ],
+      "answer": 1,
+      "explanation": "Many hands make light work (proverb) — A task is easier when many help."
+    },
+    {
+      "id": "pv-q53",
+      "question": "Which word means: \"Money is not obtained without effort.\"?",
+      "options": [
+        "Money doesn't grow on trees",
+        "Every rose has its thorn",
+        "Actions speak louder than words",
+        "He who laughs last laughs longest"
+      ],
+      "answer": 0,
+      "explanation": "Money doesn't grow on trees (proverb) — Money is not obtained without effort."
+    },
+    {
+      "id": "pv-q54",
+      "question": "Which word means: \"Do not criticise something given for free.\"?",
+      "options": [
+        "Jack of all trades, master of none",
+        "Never look a gift horse in the mouth",
+        "Familiarity breeds contempt",
+        "Let bygones be bygones"
+      ],
+      "answer": 1,
+      "explanation": "Never look a gift horse in the mouth (proverb) — Do not criticise something given for free."
+    },
+    {
+      "id": "pv-q55",
+      "question": "Which word means: \"Without risk there is no reward.\"?",
+      "options": [
+        "Money doesn't grow on trees",
+        "Nothing ventured, nothing gained",
+        "Ignorance is bliss",
+        "God helps those who help themselves"
+      ],
+      "answer": 1,
+      "explanation": "Nothing ventured, nothing gained (proverb) — Without risk there is no reward."
+    },
+    {
+      "id": "pv-q56",
+      "question": "Which word means: \"A kindness should be returned.\"?",
+      "options": [
+        "You can't have your cake and eat it too",
+        "Better late than never",
+        "It's better to be safe than sorry",
+        "One good turn deserves another"
+      ],
+      "answer": 3,
+      "explanation": "One good turn deserves another (proverb) — A kindness should be returned."
+    },
+    {
+      "id": "pv-q57",
+      "question": "Which word means: \"People and things forgotten when not seen.\"?",
+      "options": [
+        "There's no place like home",
+        "The pen is mightier than the sword",
+        "Easy come, easy go",
+        "Out of sight, out of mind"
+      ],
+      "answer": 3,
+      "explanation": "Out of sight, out of mind (proverb) — People and things forgotten when not seen."
+    },
+    {
+      "id": "pv-q58",
+      "question": "Which word means: \"Do not criticise faults you have yourself.\"?",
+      "options": [
+        "People who live in glass houses shouldn't throw stones",
+        "God helps those who help themselves",
+        "All that glitters is not gold",
+        "Beauty is in the eye of the beholder"
+      ],
+      "answer": 0,
+      "explanation": "People who live in glass houses shouldn't throw stones (proverb) — Do not criticise faults you have yourself."
+    },
+    {
+      "id": "pv-q59",
+      "question": "Which word means: \"Sometimes it is best to say nothing.\"?",
+      "options": [
+        "Silence is golden",
+        "The road to hell is paved with good intentions",
+        "The truth will out",
+        "Hindsight is twenty-twenty"
+      ],
+      "answer": 0,
+      "explanation": "Silence is golden (proverb) — Sometimes it is best to say nothing."
+    },
+    {
+      "id": "pv-q60",
+      "question": "Which word means: \"Consistent effort achieves success.\"?",
+      "options": [
+        "Home is where the heart is",
+        "Easy come, easy go",
+        "Good things come to those who wait",
+        "Slow and steady wins the race"
+      ],
+      "answer": 3,
+      "explanation": "Slow and steady wins the race (proverb) — Consistent effort achieves success."
+    },
+    {
+      "id": "pv-q61",
+      "question": "Which word means: \"Quiet people often have depth of character.\"?",
+      "options": [
+        "A chain is only as strong as its weakest link",
+        "All good things must come to an end",
+        "Still waters run deep",
+        "Beggars can't be choosers"
+      ],
+      "answer": 2,
+      "explanation": "Still waters run deep (proverb) — Quiet people often have depth of character."
+    },
+    {
+      "id": "pv-q62",
+      "question": "Which word means: \"Act at the best opportunity.\"?",
+      "options": [
+        "Actions speak louder than words",
+        "Look before you leap",
+        "Strike while the iron is hot",
+        "The grass is always greener on the other side"
+      ],
+      "answer": 2,
+      "explanation": "Strike while the iron is hot (proverb) — Act at the best opportunity."
+    },
+    {
+      "id": "pv-q63",
+      "question": "Which word means: \"Children resemble their parents.\"?",
+      "options": [
+        "The apple doesn't fall far from the tree",
+        "Look before you leap",
+        "The customer is always right",
+        "Silence is golden"
+      ],
+      "answer": 0,
+      "explanation": "The apple doesn't fall far from the tree (proverb) — Children resemble their parents."
+    },
+    {
+      "id": "pv-q64",
+      "question": "Which word means: \"The most valuable things cost nothing.\"?",
+      "options": [
+        "The best things in life are free",
+        "There's no place like home",
+        "Fortune favours the bold",
+        "Don't bite the hand that feeds you"
+      ],
+      "answer": 0,
+      "explanation": "The best things in life are free (proverb) — The most valuable things cost nothing."
+    },
+    {
+      "id": "pv-q65",
+      "question": "Which word means: \"Businesses should defer to customers' opinions.\"?",
+      "options": [
+        "Haste makes waste",
+        "Give credit where credit is due",
+        "Where there's a will, there's a way",
+        "The customer is always right"
+      ],
+      "answer": 3,
+      "explanation": "The customer is always right (proverb) — Businesses should defer to customers' opinions."
+    },
+    {
+      "id": "pv-q66",
+      "question": "Which word means: \"Good intentions do not excuse harmful outcomes.\"?",
+      "options": [
+        "Out of sight, out of mind",
+        "The road to hell is paved with good intentions",
+        "Charity begins at home",
+        "Let the punishment fit the crime"
+      ],
+      "answer": 1,
+      "explanation": "The road to hell is paved with good intentions (proverb) — Good intentions do not excuse harmful outcomes."
+    },
+    {
+      "id": "pv-q67",
+      "question": "Which word means: \"Those who complain loudest get attention.\"?",
+      "options": [
+        "Don't put off till tomorrow what you can do today",
+        "Don't judge a book by its cover",
+        "Home is where the heart is",
+        "The squeaky wheel gets the grease"
+      ],
+      "answer": 3,
+      "explanation": "The squeaky wheel gets the grease (proverb) — Those who complain loudest get attention."
+    },
+    {
+      "id": "pv-q68",
+      "question": "Which word means: \"Truth cannot stay hidden forever.\"?",
+      "options": [
+        "The truth will out",
+        "Out of sight, out of mind",
+        "Home is where the heart is",
+        "The road to hell is paved with good intentions"
+      ],
+      "answer": 0,
+      "explanation": "The truth will out (proverb) — Truth cannot stay hidden forever."
+    },
+    {
+      "id": "pv-q69",
+      "question": "Which word means: \"Time wasted is money lost.\"?",
+      "options": [
+        "The customer is always right",
+        "Don't cross the bridge until you come to it",
+        "Money doesn't grow on trees",
+        "Time is money"
+      ],
+      "answer": 3,
+      "explanation": "Time is money (proverb) — Time wasted is money lost."
+    },
+    {
+      "id": "pv-q70",
+      "question": "Which word means: \"Emotional pain fades with time.\"?",
+      "options": [
+        "Time heals all wounds",
+        "A journey of a thousand miles begins with a single step",
+        "Every dog has its day",
+        "As you make your bed, so you must lie in it"
+      ],
+      "answer": 0,
+      "explanation": "Time heals all wounds (proverb) — Emotional pain fades with time."
+    },
+    {
+      "id": "pv-q71",
+      "question": "Which word means: \"Too many people involved ruin a task.\"?",
+      "options": [
+        "Easy come, easy go",
+        "Necessity is the mother of invention",
+        "The pen is mightier than the sword",
+        "Too many cooks spoil the broth"
+      ],
+      "answer": 3,
+      "explanation": "Too many cooks spoil the broth (proverb) — Too many people involved ruin a task."
+    },
+    {
+      "id": "pv-q72",
+      "question": "Which word means: \"Real life is often more unusual than made-up stories.\"?",
+      "options": [
+        "An apple a day keeps the doctor away",
+        "Haste makes waste",
+        "Laughter is the best medicine",
+        "Truth is stranger than fiction"
+      ],
+      "answer": 3,
+      "explanation": "Truth is stranger than fiction (proverb) — Real life is often more unusual than made-up stories."
+    },
+    {
+      "id": "pv-q73",
+      "question": "Which word means: \"New and varied experiences make life interesting.\"?",
+      "options": [
+        "Slow and steady wins the race",
+        "As you make your bed, so you must lie in it",
+        "Great minds think alike",
+        "Variety is the spice of life"
+      ],
+      "answer": 3,
+      "explanation": "Variety is the spice of life (proverb) — New and varied experiences make life interesting."
+    },
+    {
+      "id": "pv-q74",
+      "question": "Which word means: \"Adopt local customs when you visit a place.\"?",
+      "options": [
+        "Necessity is the mother of invention",
+        "You reap what you sow",
+        "Hindsight is twenty-twenty",
+        "When in Rome, do as the Romans do"
+      ],
+      "answer": 3,
+      "explanation": "When in Rome, do as the Romans do (proverb) — Adopt local customs when you visit a place."
+    },
+    {
+      "id": "pv-q75",
+      "question": "Which word means: \"People misbehave when supervision is absent.\"?",
+      "options": [
+        "Many hands make light work",
+        "When the cat's away, the mice will play",
+        "God helps those who help themselves",
+        "Fortune favours the bold"
+      ],
+      "answer": 1,
+      "explanation": "When the cat's away, the mice will play (proverb) — People misbehave when supervision is absent."
+    },
+    {
+      "id": "pv-q76",
+      "question": "Which word means: \"You can give someone a chance, not force them to use it.\"?",
+      "options": [
+        "Ignorance is bliss",
+        "Give a man enough rope and he will hang himself",
+        "All that glitters is not gold",
+        "You can lead a horse to water but you can't make it drink"
+      ],
+      "answer": 3,
+      "explanation": "You can lead a horse to water but you can't make it drink (proverb) — You can give someone a chance, not force them to use it."
+    },
+    {
+      "id": "pv-q77",
+      "question": "Which word means: \"You cannot enjoy both of two mutually exclusive options.\"?",
+      "options": [
+        "Time heals all wounds",
+        "Silence is golden",
+        "You can't have your cake and eat it too",
+        "Birds of a feather flock together"
+      ],
+      "answer": 2,
+      "explanation": "You can't have your cake and eat it too (proverb) — You cannot enjoy both of two mutually exclusive options."
+    },
+    {
+      "id": "pv-q78",
+      "question": "Which word means: \"It is hard to change long-established habits.\"?",
+      "options": [
+        "You can't teach an old dog new tricks",
+        "All that glitters is not gold",
+        "Familiarity breeds contempt",
+        "An ounce of prevention is worth a pound of cure"
+      ],
+      "answer": 0,
+      "explanation": "You can't teach an old dog new tricks (proverb) — It is hard to change long-established habits."
+    },
+    {
+      "id": "pv-q79",
+      "question": "Which word means: \"A true friend helps in times of trouble.\"?",
+      "options": [
+        "Home is where the heart is",
+        "One good turn deserves another",
+        "Every dog has its day",
+        "A friend in need is a friend indeed"
+      ],
+      "answer": 3,
+      "explanation": "A friend in need is a friend indeed (proverb) — A true friend helps in times of trouble."
+    },
+    {
+      "id": "pv-q80",
+      "question": "Which word means: \"A group is limited by its weakest member.\"?",
+      "options": [
+        "All that glitters is not gold",
+        "Let the punishment fit the crime",
+        "A picture is worth a thousand words",
+        "A chain is only as strong as its weakest link"
+      ],
+      "answer": 3,
+      "explanation": "A chain is only as strong as its weakest link (proverb) — A group is limited by its weakest member."
+    },
+    {
+      "id": "pv-q81",
+      "question": "Which word means: \"Great tasks start with small first actions.\"?",
+      "options": [
+        "Honesty is the best policy",
+        "A journey of a thousand miles begins with a single step",
+        "An ounce of prevention is worth a pound of cure",
+        "Where there's a will, there's a way"
+      ],
+      "answer": 1,
+      "explanation": "A journey of a thousand miles begins with a single step (proverb) — Great tasks start with small first actions."
+    },
+    {
+      "id": "pv-q82",
+      "question": "Which word means: \"People rarely change their nature.\"?",
+      "options": [
+        "Empty vessels make the most noise",
+        "Many hands make light work",
+        "Honesty is the best policy",
+        "A leopard cannot change its spots"
+      ],
+      "answer": 3,
+      "explanation": "A leopard cannot change its spots (proverb) — People rarely change their nature."
+    },
+    {
+      "id": "pv-q83",
+      "question": "Which word means: \"Preventing problems is easier than fixing them.\"?",
+      "options": [
+        "You reap what you sow",
+        "Curiosity killed the cat",
+        "An ounce of prevention is worth a pound of cure",
+        "Cleanliness is next to godliness"
+      ],
+      "answer": 2,
+      "explanation": "An ounce of prevention is worth a pound of cure (proverb) — Preventing problems is easier than fixing them."
+    },
+    {
+      "id": "pv-q84",
+      "question": "Which word means: \"You must accept the results of your choices.\"?",
+      "options": [
+        "Empty vessels make the most noise",
+        "As you make your bed, so you must lie in it",
+        "Good things come to those who wait",
+        "Jack of all trades, master of none"
+      ],
+      "answer": 1,
+      "explanation": "As you make your bed, so you must lie in it (proverb) — You must accept the results of your choices."
+    },
+    {
+      "id": "pv-q85",
+      "question": "Which word means: \"Character matters more than looks.\"?",
+      "options": [
+        "Never look a gift horse in the mouth",
+        "Beauty is only skin deep",
+        "Still waters run deep",
+        "Strike while the iron is hot"
+      ],
+      "answer": 1,
+      "explanation": "Beauty is only skin deep (proverb) — Character matters more than looks."
+    },
+    {
+      "id": "pv-q86",
+      "question": "Which word means: \"It is wiser to be cautious.\"?",
+      "options": [
+        "Every man has his price",
+        "When in Rome, do as the Romans do",
+        "He who laughs last laughs longest",
+        "Better safe than sorry"
+      ],
+      "answer": 3,
+      "explanation": "Better safe than sorry (proverb) — It is wiser to be cautious."
+    },
+    {
+      "id": "pv-q87",
+      "question": "Which word means: \"Being clean is virtuous.\"?",
+      "options": [
+        "Haste makes waste",
+        "Better safe than sorry",
+        "Cleanliness is next to godliness",
+        "Half a loaf is better than none"
+      ],
+      "answer": 2,
+      "explanation": "Cleanliness is next to godliness (proverb) — Being clean is virtuous."
+    },
+    {
+      "id": "pv-q88",
+      "question": "Which word means: \"Do not attempt more than you can manage.\"?",
+      "options": [
+        "Actions speak louder than words",
+        "Silence is golden",
+        "Do not bite off more than you can chew",
+        "The pen is mightier than the sword"
+      ],
+      "answer": 2,
+      "explanation": "Do not bite off more than you can chew (proverb) — Do not attempt more than you can manage."
+    },
+    {
+      "id": "pv-q89",
+      "question": "Which word means: \"Do not worry about a problem until it arises.\"?",
+      "options": [
+        "Cleanliness is next to godliness",
+        "No man is an island",
+        "Don't cross the bridge until you come to it",
+        "Money doesn't grow on trees"
+      ],
+      "answer": 2,
+      "explanation": "Don't cross the bridge until you come to it (proverb) — Do not worry about a problem until it arises."
+    },
+    {
+      "id": "pv-q90",
+      "question": "Which word means: \"Anyone can be bribed for enough money.\"?",
+      "options": [
+        "Rome wasn't built in a day",
+        "People who live in glass houses shouldn't throw stones",
+        "A leopard cannot change its spots",
+        "Every man has his price"
+      ],
+      "answer": 3,
+      "explanation": "Every man has his price (proverb) — Anyone can be bribed for enough money."
+    },
+    {
+      "id": "pv-q91",
+      "question": "Which word means: \"Given freedom, a fool will ruin himself.\"?",
+      "options": [
+        "It never rains but it pours",
+        "Birds of a feather flock together",
+        "Give a man enough rope and he will hang himself",
+        "All that glitters is not gold"
+      ],
+      "answer": 2,
+      "explanation": "Give a man enough rope and he will hang himself (proverb) — Given freedom, a fool will ruin himself."
+    },
+    {
+      "id": "pv-q92",
+      "question": "Which word means: \"Acknowledge people's contributions.\"?",
+      "options": [
+        "It's better to be safe than sorry",
+        "Give credit where credit is due",
+        "You can't have your cake and eat it too",
+        "All that glitters is not gold"
+      ],
+      "answer": 1,
+      "explanation": "Give credit where credit is due (proverb) — Acknowledge people's contributions."
+    },
+    {
+      "id": "pv-q93",
+      "question": "Which word means: \"People must act to solve their own problems.\"?",
+      "options": [
+        "God helps those who help themselves",
+        "Do not bite off more than you can chew",
+        "When the cat's away, the mice will play",
+        "Actions speak louder than words"
+      ],
+      "answer": 0,
+      "explanation": "God helps those who help themselves (proverb) — People must act to solve their own problems."
+    },
+    {
+      "id": "pv-q94",
+      "question": "Which word means: \"A little of something is better than nothing.\"?",
+      "options": [
+        "Half a loaf is better than none",
+        "Every rose has its thorn",
+        "The customer is always right",
+        "Empty vessels make the most noise"
+      ],
+      "answer": 0,
+      "explanation": "Half a loaf is better than none (proverb) — A little of something is better than nothing."
+    },
+    {
+      "id": "pv-q95",
+      "question": "Which word means: \"Past events are easy to understand after they happen.\"?",
+      "options": [
+        "As you make your bed, so you must lie in it",
+        "Money doesn't grow on trees",
+        "Silence is golden",
+        "Hindsight is twenty-twenty"
+      ],
+      "answer": 3,
+      "explanation": "Hindsight is twenty-twenty (proverb) — Past events are easy to understand after they happen."
+    },
+    {
+      "id": "pv-q96",
+      "question": "Which word means: \"Not knowing something unpleasant can be comforting.\"?",
+      "options": [
+        "Nothing ventured, nothing gained",
+        "Ignorance is bliss",
+        "Time heals all wounds",
+        "The squeaky wheel gets the grease"
+      ],
+      "answer": 1,
+      "explanation": "Ignorance is bliss (proverb) — Not knowing something unpleasant can be comforting."
+    },
+    {
+      "id": "pv-q97",
+      "question": "Which word means: \"Troubles come all at once.\"?",
+      "options": [
+        "It never rains but it pours",
+        "Silence is golden",
+        "If you can't beat them, join them",
+        "Nothing ventured, nothing gained"
+      ],
+      "answer": 0,
+      "explanation": "It never rains but it pours (proverb) — Troubles come all at once."
+    },
+    {
+      "id": "pv-q98",
+      "question": "Which word means: \"Someone skilled at many things but expert at none.\"?",
+      "options": [
+        "Time heals all wounds",
+        "One good turn deserves another",
+        "Jack of all trades, master of none",
+        "It's better to be safe than sorry"
+      ],
+      "answer": 2,
+      "explanation": "Jack of all trades, master of none (proverb) — Someone skilled at many things but expert at none."
+    },
+    {
+      "id": "pv-q99",
+      "question": "Which word means: \"Penalties should match the offence.\"?",
+      "options": [
+        "Don't put off till tomorrow what you can do today",
+        "Every man has his price",
+        "Let the punishment fit the crime",
+        "A leopard cannot change its spots"
+      ],
+      "answer": 2,
+      "explanation": "Let the punishment fit the crime (proverb) — Penalties should match the offence."
+    },
+    {
+      "id": "pv-q100",
+      "question": "Which word means: \"Small efforts accomplish big things over time.\"?",
+      "options": [
+        "A picture is worth a thousand words",
+        "As you make your bed, so you must lie in it",
+        "If it ain't broke, don't fix it",
+        "Little strokes fell great oaks"
+      ],
+      "answer": 3,
+      "explanation": "Little strokes fell great oaks (proverb) — Small efforts accomplish big things over time."
+    }
+  ]
+}

@@ -1,0 +1,1908 @@
+{
+  "category": "measurement-instruments",
+  "title": "Measurement Instruments",
+  "words": [
+    {
+      "id": "mi-01",
+      "word": "Thermometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring temperature.",
+      "example": "The thermometer read 39 degrees Celsius."
+    },
+    {
+      "id": "mi-02",
+      "word": "Barometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring atmospheric pressure.",
+      "example": "The falling barometer warned of a storm."
+    },
+    {
+      "id": "mi-03",
+      "word": "Hygrometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring humidity.",
+      "example": "The hygrometer confirmed the room was too dry."
+    },
+    {
+      "id": "mi-04",
+      "word": "Anemometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring wind speed.",
+      "example": "The anemometer spun rapidly in the gale."
+    },
+    {
+      "id": "mi-05",
+      "word": "Altimeter",
+      "pos": "noun",
+      "definition": "An instrument for measuring altitude.",
+      "example": "The altimeter showed the plane at 30,000 feet."
+    },
+    {
+      "id": "mi-06",
+      "word": "Odometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring distance travelled.",
+      "example": "The odometer clocked another 400 miles."
+    },
+    {
+      "id": "mi-07",
+      "word": "Speedometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring speed.",
+      "example": "The speedometer needle crept past ninety."
+    },
+    {
+      "id": "mi-08",
+      "word": "Tachometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring rotational speed.",
+      "example": "The tachometer redlined at 8,000 rpm."
+    },
+    {
+      "id": "mi-09",
+      "word": "Ammeter",
+      "pos": "noun",
+      "definition": "An instrument for measuring electric current.",
+      "example": "The ammeter registered a small leak."
+    },
+    {
+      "id": "mi-10",
+      "word": "Voltmeter",
+      "pos": "noun",
+      "definition": "An instrument for measuring electric voltage.",
+      "example": "The voltmeter showed a steady 12 volts."
+    },
+    {
+      "id": "mi-11",
+      "word": "Ohmmeter",
+      "pos": "noun",
+      "definition": "An instrument for measuring electrical resistance.",
+      "example": "The ohmmeter identified the broken conductor."
+    },
+    {
+      "id": "mi-12",
+      "word": "Multimeter",
+      "pos": "noun",
+      "definition": "An instrument that combines voltmeter, ammeter, and ohmmeter.",
+      "example": "A multimeter is essential to any electrician."
+    },
+    {
+      "id": "mi-13",
+      "word": "Galvanometer",
+      "pos": "noun",
+      "definition": "An instrument for detecting small electric currents.",
+      "example": "The galvanometer deflected at the slightest current."
+    },
+    {
+      "id": "mi-14",
+      "word": "Manometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring the pressure of gases or liquids.",
+      "example": "The manometer confirmed gas-line pressure."
+    },
+    {
+      "id": "mi-15",
+      "word": "Piezometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring liquid pressure at depth.",
+      "example": "Piezometers monitor groundwater levels."
+    },
+    {
+      "id": "mi-16",
+      "word": "Sphygmomanometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring blood pressure.",
+      "example": "The sphygmomanometer cuff inflated snugly."
+    },
+    {
+      "id": "mi-17",
+      "word": "Stethoscope",
+      "pos": "noun",
+      "definition": "An instrument for listening to internal sounds of the body.",
+      "example": "The stethoscope revealed a faint murmur."
+    },
+    {
+      "id": "mi-18",
+      "word": "Otoscope",
+      "pos": "noun",
+      "definition": "An instrument for examining the ear.",
+      "example": "The otoscope showed a mild infection."
+    },
+    {
+      "id": "mi-19",
+      "word": "Ophthalmoscope",
+      "pos": "noun",
+      "definition": "An instrument for examining the interior of the eye.",
+      "example": "The ophthalmoscope revealed retinal changes."
+    },
+    {
+      "id": "mi-20",
+      "word": "Microscope",
+      "pos": "noun",
+      "definition": "An instrument for viewing very small objects.",
+      "example": "The microscope revealed hidden structures."
+    },
+    {
+      "id": "mi-21",
+      "word": "Telescope",
+      "pos": "noun",
+      "definition": "An instrument for viewing distant objects.",
+      "example": "The telescope resolved the ring system."
+    },
+    {
+      "id": "mi-22",
+      "word": "Periscope",
+      "pos": "noun",
+      "definition": "An instrument for observing over an obstacle.",
+      "example": "The submarine raised its periscope."
+    },
+    {
+      "id": "mi-23",
+      "word": "Spectroscope",
+      "pos": "noun",
+      "definition": "An instrument for observing spectra.",
+      "example": "The spectroscope identified the element."
+    },
+    {
+      "id": "mi-24",
+      "word": "Chronometer",
+      "pos": "noun",
+      "definition": "A precise timepiece, especially one used at sea.",
+      "example": "The chronometer solved the longitude problem."
+    },
+    {
+      "id": "mi-25",
+      "word": "Metronome",
+      "pos": "noun",
+      "definition": "A device that marks time by regular beats.",
+      "example": "The metronome kept the pianist steady."
+    },
+    {
+      "id": "mi-26",
+      "word": "Seismograph",
+      "pos": "noun",
+      "definition": "An instrument for recording earthquakes.",
+      "example": "The seismograph traced the tremor faithfully."
+    },
+    {
+      "id": "mi-27",
+      "word": "Bathometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring sea depth.",
+      "example": "A bathometer surveyed the trench."
+    },
+    {
+      "id": "mi-28",
+      "word": "Sonar",
+      "pos": "noun",
+      "definition": "A system for detecting objects underwater by sound.",
+      "example": "Sonar located the submerged vessel."
+    },
+    {
+      "id": "mi-29",
+      "word": "Radar",
+      "pos": "noun",
+      "definition": "A system for detecting objects by radio waves.",
+      "example": "Radar tracked the incoming aircraft."
+    },
+    {
+      "id": "mi-30",
+      "word": "Lidar",
+      "pos": "noun",
+      "definition": "A detection system that uses laser light.",
+      "example": "Lidar maps forest canopy structure."
+    },
+    {
+      "id": "mi-31",
+      "word": "Theodolite",
+      "pos": "noun",
+      "definition": "A surveying instrument for measuring angles.",
+      "example": "The theodolite fixed the exact boundary."
+    },
+    {
+      "id": "mi-32",
+      "word": "Sextant",
+      "pos": "noun",
+      "definition": "An instrument for measuring the angle between two visible objects, especially for navigation.",
+      "example": "The sextant remains a backup for celestial navigation."
+    },
+    {
+      "id": "mi-33",
+      "word": "Astrolabe",
+      "pos": "noun",
+      "definition": "A historical instrument for observing celestial positions.",
+      "example": "The astrolabe guided medieval astronomers."
+    },
+    {
+      "id": "mi-34",
+      "word": "Compass",
+      "pos": "noun",
+      "definition": "An instrument for showing direction.",
+      "example": "The compass needle swung to magnetic north."
+    },
+    {
+      "id": "mi-35",
+      "word": "Protractor",
+      "pos": "noun",
+      "definition": "An instrument for measuring angles.",
+      "example": "The protractor helped mark a perfect 45 degrees."
+    },
+    {
+      "id": "mi-36",
+      "word": "Caliper",
+      "pos": "noun",
+      "definition": "An instrument for measuring the dimensions of an object.",
+      "example": "Digital calipers report to 0.01 mm."
+    },
+    {
+      "id": "mi-37",
+      "word": "Micrometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring very small distances or thicknesses.",
+      "example": "The micrometer measured the shim to a thousandth of an inch."
+    },
+    {
+      "id": "mi-38",
+      "word": "Vernier",
+      "pos": "noun",
+      "definition": "A device using a sliding secondary scale for fine measurement.",
+      "example": "Vernier calipers add extra precision."
+    },
+    {
+      "id": "mi-39",
+      "word": "Densitometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring optical density.",
+      "example": "Radiographers use a densitometer to verify exposures."
+    },
+    {
+      "id": "mi-40",
+      "word": "Refractometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring the refractive index.",
+      "example": "Winemakers use a refractometer to gauge sugar."
+    },
+    {
+      "id": "mi-41",
+      "word": "Colorimeter",
+      "pos": "noun",
+      "definition": "An instrument for measuring colour intensity.",
+      "example": "A colorimeter validated the paint match."
+    },
+    {
+      "id": "mi-42",
+      "word": "Spectrometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring the wavelengths of a spectrum.",
+      "example": "The mass spectrometer identified the compound."
+    },
+    {
+      "id": "mi-43",
+      "word": "Calorimeter",
+      "pos": "noun",
+      "definition": "An instrument for measuring heat.",
+      "example": "The calorimeter measured the reaction's enthalpy."
+    },
+    {
+      "id": "mi-44",
+      "word": "Pyrometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring high temperatures.",
+      "example": "A pyrometer monitored the furnace."
+    },
+    {
+      "id": "mi-45",
+      "word": "Rheostat",
+      "pos": "noun",
+      "definition": "An instrument for controlling electric resistance.",
+      "example": "A rheostat dimmed the theatre lights."
+    },
+    {
+      "id": "mi-46",
+      "word": "Oscilloscope",
+      "pos": "noun",
+      "definition": "An instrument for displaying electronic signals as waveforms.",
+      "example": "The oscilloscope showed a clean sine wave."
+    },
+    {
+      "id": "mi-47",
+      "word": "Spirometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring lung capacity.",
+      "example": "The spirometer indicated reduced lung function."
+    },
+    {
+      "id": "mi-48",
+      "word": "Actinometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring the intensity of radiation.",
+      "example": "An actinometer monitored the UV lamp."
+    },
+    {
+      "id": "mi-49",
+      "word": "Audiometer",
+      "pos": "noun",
+      "definition": "An instrument for measuring hearing acuity.",
+      "example": "The audiometer revealed high-frequency loss."
+    },
+    {
+      "id": "mi-50",
+      "word": "Dosimeter",
+      "pos": "noun",
+      "definition": "An instrument for measuring radiation dose.",
+      "example": "Every technician wore a dosimeter."
+    },
+    {
+      "id": "mi-051",
+      "word": "Accelerometer",
+      "pos": "noun",
+      "definition": "Measures acceleration.",
+      "example": "Phones use an accelerometer for step counts."
+    },
+    {
+      "id": "mi-052",
+      "word": "Alcoholmeter",
+      "pos": "noun",
+      "definition": "Measures alcohol in liquid.",
+      "example": "The alcoholmeter checked the wine."
+    },
+    {
+      "id": "mi-053",
+      "word": "Ampere-hour meter",
+      "pos": "noun",
+      "definition": "Measures charge over time.",
+      "example": "The AH meter tracked battery use."
+    },
+    {
+      "id": "mi-054",
+      "word": "Bolometer",
+      "pos": "noun",
+      "definition": "Measures radiant energy.",
+      "example": "A bolometer detected faint infrared."
+    },
+    {
+      "id": "mi-055",
+      "word": "Cathetometer",
+      "pos": "noun",
+      "definition": "Measures small vertical distances.",
+      "example": "The cathetometer aligned the optics."
+    },
+    {
+      "id": "mi-056",
+      "word": "Chronograph",
+      "pos": "noun",
+      "definition": "Watch that measures elapsed time.",
+      "example": "The pilot's chronograph was accurate."
+    },
+    {
+      "id": "mi-057",
+      "word": "Clinometer",
+      "pos": "noun",
+      "definition": "Measures angles of slope.",
+      "example": "The clinometer gauged the incline."
+    },
+    {
+      "id": "mi-058",
+      "word": "Cyclometer",
+      "pos": "noun",
+      "definition": "Measures wheel revolutions.",
+      "example": "The cyclometer logged the ride."
+    },
+    {
+      "id": "mi-059",
+      "word": "Diffractometer",
+      "pos": "noun",
+      "definition": "Measures X-ray diffraction.",
+      "example": "The diffractometer analysed the crystal."
+    },
+    {
+      "id": "mi-060",
+      "word": "Dynamometer",
+      "pos": "noun",
+      "definition": "Measures force or power.",
+      "example": "The dynamometer tested the engine."
+    },
+    {
+      "id": "mi-061",
+      "word": "Electrometer",
+      "pos": "noun",
+      "definition": "Measures electric charge.",
+      "example": "An electrometer read the static."
+    },
+    {
+      "id": "mi-062",
+      "word": "Endoscope",
+      "pos": "noun",
+      "definition": "Views inside the body.",
+      "example": "The endoscope revealed the ulcer."
+    },
+    {
+      "id": "mi-063",
+      "word": "Ergometer",
+      "pos": "noun",
+      "definition": "Measures work performed.",
+      "example": "The rowing ergometer tracked wattage."
+    },
+    {
+      "id": "mi-064",
+      "word": "Eudiometer",
+      "pos": "noun",
+      "definition": "Measures gas volume changes.",
+      "example": "A eudiometer captured the reaction."
+    },
+    {
+      "id": "mi-065",
+      "word": "Fluorometer",
+      "pos": "noun",
+      "definition": "Measures fluorescence.",
+      "example": "The fluorometer analysed the sample."
+    },
+    {
+      "id": "mi-066",
+      "word": "Gravimeter",
+      "pos": "noun",
+      "definition": "Measures gravitational force.",
+      "example": "The gravimeter surveyed the site."
+    },
+    {
+      "id": "mi-067",
+      "word": "Hectometer (device)",
+      "pos": "noun",
+      "definition": "Distance metering device.",
+      "example": "The hectometer marked track lengths."
+    },
+    {
+      "id": "mi-068",
+      "word": "Hydrometer",
+      "pos": "noun",
+      "definition": "Measures liquid density.",
+      "example": "The hydrometer floated in the syrup."
+    },
+    {
+      "id": "mi-069",
+      "word": "Kymograph",
+      "pos": "noun",
+      "definition": "Records physiological waves.",
+      "example": "The kymograph traced muscle contractions."
+    },
+    {
+      "id": "mi-070",
+      "word": "Laser rangefinder",
+      "pos": "noun",
+      "definition": "Measures distance by laser.",
+      "example": "The rangefinder shot 500 metres."
+    },
+    {
+      "id": "mi-071",
+      "word": "Lux meter",
+      "pos": "noun",
+      "definition": "Measures illuminance.",
+      "example": "The lux meter checked office lighting."
+    },
+    {
+      "id": "mi-072",
+      "word": "Magnetometer",
+      "pos": "noun",
+      "definition": "Measures magnetic fields.",
+      "example": "The magnetometer mapped anomalies."
+    },
+    {
+      "id": "mi-073",
+      "word": "Mass spectrometer",
+      "pos": "noun",
+      "definition": "Sorts ions by mass.",
+      "example": "The mass spectrometer identified the compound."
+    },
+    {
+      "id": "mi-074",
+      "word": "Nephelometer",
+      "pos": "noun",
+      "definition": "Measures suspended particles.",
+      "example": "The nephelometer read turbidity."
+    },
+    {
+      "id": "mi-075",
+      "word": "Optometer",
+      "pos": "noun",
+      "definition": "Measures eye refraction.",
+      "example": "The optometer began the exam."
+    },
+    {
+      "id": "mi-076",
+      "word": "Oximeter",
+      "pos": "noun",
+      "definition": "Measures blood oxygen.",
+      "example": "A pulse oximeter clipped to her finger."
+    },
+    {
+      "id": "mi-077",
+      "word": "Pedometer",
+      "pos": "noun",
+      "definition": "Counts steps.",
+      "example": "The pedometer logged 10,000 steps."
+    },
+    {
+      "id": "mi-078",
+      "word": "pH meter",
+      "pos": "noun",
+      "definition": "Measures acidity.",
+      "example": "The pH meter confirmed neutrality."
+    },
+    {
+      "id": "mi-079",
+      "word": "Photometer",
+      "pos": "noun",
+      "definition": "Measures light intensity.",
+      "example": "The photometer calibrated the lamp."
+    },
+    {
+      "id": "mi-080",
+      "word": "Plethysmograph",
+      "pos": "noun",
+      "definition": "Measures volume changes in the body.",
+      "example": "A plethysmograph tracked breathing."
+    },
+    {
+      "id": "mi-081",
+      "word": "Polarimeter",
+      "pos": "noun",
+      "definition": "Measures light polarisation.",
+      "example": "The polarimeter measured sugar concentration."
+    },
+    {
+      "id": "mi-082",
+      "word": "Potentiometer",
+      "pos": "noun",
+      "definition": "Measures voltage.",
+      "example": "The potentiometer balanced the circuit."
+    },
+    {
+      "id": "mi-083",
+      "word": "Psychrometer",
+      "pos": "noun",
+      "definition": "Measures humidity by two thermometers.",
+      "example": "The psychrometer estimated humidity."
+    },
+    {
+      "id": "mi-084",
+      "word": "Radiometer",
+      "pos": "noun",
+      "definition": "Measures radiant energy.",
+      "example": "The radiometer captured solar flux."
+    },
+    {
+      "id": "mi-085",
+      "word": "Salinometer",
+      "pos": "noun",
+      "definition": "Measures salt content.",
+      "example": "The salinometer tested the brine."
+    },
+    {
+      "id": "mi-086",
+      "word": "Sonometer",
+      "pos": "noun",
+      "definition": "Measures sound frequency.",
+      "example": "A sonometer tuned the strings."
+    },
+    {
+      "id": "mi-087",
+      "word": "Speedometer (marine)",
+      "pos": "noun",
+      "definition": "Ship speed indicator.",
+      "example": "The marine speedometer read ten knots."
+    },
+    {
+      "id": "mi-088",
+      "word": "Sphygmograph",
+      "pos": "noun",
+      "definition": "Records the pulse.",
+      "example": "A sphygmograph traced the beat."
+    },
+    {
+      "id": "mi-089",
+      "word": "Stopwatch",
+      "pos": "noun",
+      "definition": "Times short intervals.",
+      "example": "The stopwatch clicked at the finish."
+    },
+    {
+      "id": "mi-090",
+      "word": "Sundial",
+      "pos": "noun",
+      "definition": "Time by shadow.",
+      "example": "The sundial marked the hour."
+    },
+    {
+      "id": "mi-091",
+      "word": "Tape measure",
+      "pos": "noun",
+      "definition": "Flexible length-measuring tool.",
+      "example": "The tape measure ran twenty metres."
+    },
+    {
+      "id": "mi-092",
+      "word": "Tensiometer",
+      "pos": "noun",
+      "definition": "Measures surface tension.",
+      "example": "The tensiometer analysed the fluid."
+    },
+    {
+      "id": "mi-093",
+      "word": "Tonometer",
+      "pos": "noun",
+      "definition": "Measures eye pressure.",
+      "example": "The tonometer screened for glaucoma."
+    },
+    {
+      "id": "mi-094",
+      "word": "Turbidimeter",
+      "pos": "noun",
+      "definition": "Measures cloudiness of fluids.",
+      "example": "The turbidimeter tested the water."
+    },
+    {
+      "id": "mi-095",
+      "word": "Vibrometer",
+      "pos": "noun",
+      "definition": "Measures vibration.",
+      "example": "The vibrometer inspected the engine."
+    },
+    {
+      "id": "mi-096",
+      "word": "Viscometer",
+      "pos": "noun",
+      "definition": "Measures viscosity.",
+      "example": "The viscometer read the oil."
+    },
+    {
+      "id": "mi-097",
+      "word": "Voltohmmeter",
+      "pos": "noun",
+      "definition": "Combines voltmeter and ohmmeter.",
+      "example": "A voltohmmeter checked the circuit."
+    },
+    {
+      "id": "mi-098",
+      "word": "Water meter",
+      "pos": "noun",
+      "definition": "Measures water flow.",
+      "example": "The water meter recorded consumption."
+    },
+    {
+      "id": "mi-099",
+      "word": "Wattmeter",
+      "pos": "noun",
+      "definition": "Measures electric power.",
+      "example": "The wattmeter read 500 watts."
+    },
+    {
+      "id": "mi-100",
+      "word": "Wind vane",
+      "pos": "noun",
+      "definition": "Shows wind direction.",
+      "example": "The wind vane turned toward the sea."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "mea-q1",
+      "question": "Which word means: \"An instrument for measuring temperature.\"?",
+      "options": [
+        "Thermometer",
+        "Mass spectrometer",
+        "Magnetometer",
+        "Hectometer (device)"
+      ],
+      "answer": 0,
+      "explanation": "Thermometer (noun) — An instrument for measuring temperature."
+    },
+    {
+      "id": "mea-q2",
+      "question": "Which word means: \"An instrument for measuring atmospheric pressure.\"?",
+      "options": [
+        "Dynamometer",
+        "Telescope",
+        "Barometer",
+        "Spirometer"
+      ],
+      "answer": 2,
+      "explanation": "Barometer (noun) — An instrument for measuring atmospheric pressure."
+    },
+    {
+      "id": "mea-q3",
+      "question": "Which word means: \"An instrument for measuring humidity.\"?",
+      "options": [
+        "Hygrometer",
+        "Oximeter",
+        "Astrolabe",
+        "Theodolite"
+      ],
+      "answer": 0,
+      "explanation": "Hygrometer (noun) — An instrument for measuring humidity."
+    },
+    {
+      "id": "mea-q4",
+      "question": "Which word means: \"An instrument for measuring wind speed.\"?",
+      "options": [
+        "Anemometer",
+        "Optometer",
+        "Nephelometer",
+        "Ampere-hour meter"
+      ],
+      "answer": 0,
+      "explanation": "Anemometer (noun) — An instrument for measuring wind speed."
+    },
+    {
+      "id": "mea-q5",
+      "question": "Which word means: \"An instrument for measuring altitude.\"?",
+      "options": [
+        "Ergometer",
+        "Turbidimeter",
+        "Altimeter",
+        "Calorimeter"
+      ],
+      "answer": 2,
+      "explanation": "Altimeter (noun) — An instrument for measuring altitude."
+    },
+    {
+      "id": "mea-q6",
+      "question": "Which word means: \"An instrument for measuring distance travelled.\"?",
+      "options": [
+        "Odometer",
+        "Radiometer",
+        "Refractometer",
+        "pH meter"
+      ],
+      "answer": 0,
+      "explanation": "Odometer (noun) — An instrument for measuring distance travelled."
+    },
+    {
+      "id": "mea-q7",
+      "question": "Which word means: \"An instrument for measuring speed.\"?",
+      "options": [
+        "Multimeter",
+        "Speedometer",
+        "Ammeter",
+        "Wind vane"
+      ],
+      "answer": 1,
+      "explanation": "Speedometer (noun) — An instrument for measuring speed."
+    },
+    {
+      "id": "mea-q8",
+      "question": "Which word means: \"An instrument for measuring rotational speed.\"?",
+      "options": [
+        "Tachometer",
+        "Cathetometer",
+        "Wind vane",
+        "Stethoscope"
+      ],
+      "answer": 0,
+      "explanation": "Tachometer (noun) — An instrument for measuring rotational speed."
+    },
+    {
+      "id": "mea-q9",
+      "question": "Which word means: \"An instrument for measuring electric current.\"?",
+      "options": [
+        "Dosimeter",
+        "Ammeter",
+        "Potentiometer",
+        "Psychrometer"
+      ],
+      "answer": 1,
+      "explanation": "Ammeter (noun) — An instrument for measuring electric current."
+    },
+    {
+      "id": "mea-q10",
+      "question": "Which word means: \"An instrument for measuring electric voltage.\"?",
+      "options": [
+        "Nephelometer",
+        "Spectrometer",
+        "Voltmeter",
+        "Lux meter"
+      ],
+      "answer": 2,
+      "explanation": "Voltmeter (noun) — An instrument for measuring electric voltage."
+    },
+    {
+      "id": "mea-q11",
+      "question": "Which word means: \"An instrument for measuring electrical resistance.\"?",
+      "options": [
+        "Sphygmograph",
+        "Telescope",
+        "Speedometer",
+        "Ohmmeter"
+      ],
+      "answer": 3,
+      "explanation": "Ohmmeter (noun) — An instrument for measuring electrical resistance."
+    },
+    {
+      "id": "mea-q12",
+      "question": "Which word means: \"An instrument that combines voltmeter, ammeter, and ohmmeter.\"?",
+      "options": [
+        "Clinometer",
+        "Densitometer",
+        "Lidar",
+        "Multimeter"
+      ],
+      "answer": 3,
+      "explanation": "Multimeter (noun) — An instrument that combines voltmeter, ammeter, and ohmmeter."
+    },
+    {
+      "id": "mea-q13",
+      "question": "Which word means: \"An instrument for detecting small electric currents.\"?",
+      "options": [
+        "Galvanometer",
+        "Ohmmeter",
+        "Endoscope",
+        "Rheostat"
+      ],
+      "answer": 0,
+      "explanation": "Galvanometer (noun) — An instrument for detecting small electric currents."
+    },
+    {
+      "id": "mea-q14",
+      "question": "Which word means: \"An instrument for measuring the pressure of gases or liquids.\"?",
+      "options": [
+        "Ohmmeter",
+        "Protractor",
+        "Ampere-hour meter",
+        "Manometer"
+      ],
+      "answer": 3,
+      "explanation": "Manometer (noun) — An instrument for measuring the pressure of gases or liquids."
+    },
+    {
+      "id": "mea-q15",
+      "question": "Which word means: \"An instrument for measuring liquid pressure at depth.\"?",
+      "options": [
+        "Wattmeter",
+        "Ergometer",
+        "Piezometer",
+        "Ophthalmoscope"
+      ],
+      "answer": 2,
+      "explanation": "Piezometer (noun) — An instrument for measuring liquid pressure at depth."
+    },
+    {
+      "id": "mea-q16",
+      "question": "Which word means: \"An instrument for measuring blood pressure.\"?",
+      "options": [
+        "Sphygmomanometer",
+        "Bathometer",
+        "Salinometer",
+        "Optometer"
+      ],
+      "answer": 0,
+      "explanation": "Sphygmomanometer (noun) — An instrument for measuring blood pressure."
+    },
+    {
+      "id": "mea-q17",
+      "question": "Which word means: \"An instrument for listening to internal sounds of the body.\"?",
+      "options": [
+        "Calorimeter",
+        "Clinometer",
+        "Stethoscope",
+        "Caliper"
+      ],
+      "answer": 2,
+      "explanation": "Stethoscope (noun) — An instrument for listening to internal sounds of the body."
+    },
+    {
+      "id": "mea-q18",
+      "question": "Which word means: \"An instrument for examining the ear.\"?",
+      "options": [
+        "Chronograph",
+        "Oscilloscope",
+        "Otoscope",
+        "Actinometer"
+      ],
+      "answer": 2,
+      "explanation": "Otoscope (noun) — An instrument for examining the ear."
+    },
+    {
+      "id": "mea-q19",
+      "question": "Which word means: \"An instrument for examining the interior of the eye.\"?",
+      "options": [
+        "Ophthalmoscope",
+        "Salinometer",
+        "pH meter",
+        "Anemometer"
+      ],
+      "answer": 0,
+      "explanation": "Ophthalmoscope (noun) — An instrument for examining the interior of the eye."
+    },
+    {
+      "id": "mea-q20",
+      "question": "Which word means: \"An instrument for viewing very small objects.\"?",
+      "options": [
+        "Polarimeter",
+        "Plethysmograph",
+        "Microscope",
+        "Cyclometer"
+      ],
+      "answer": 2,
+      "explanation": "Microscope (noun) — An instrument for viewing very small objects."
+    },
+    {
+      "id": "mea-q21",
+      "question": "Which word means: \"An instrument for viewing distant objects.\"?",
+      "options": [
+        "Bathometer",
+        "Telescope",
+        "Theodolite",
+        "Stopwatch"
+      ],
+      "answer": 1,
+      "explanation": "Telescope (noun) — An instrument for viewing distant objects."
+    },
+    {
+      "id": "mea-q22",
+      "question": "Which word means: \"An instrument for observing over an obstacle.\"?",
+      "options": [
+        "Periscope",
+        "Piezometer",
+        "Speedometer",
+        "Viscometer"
+      ],
+      "answer": 0,
+      "explanation": "Periscope (noun) — An instrument for observing over an obstacle."
+    },
+    {
+      "id": "mea-q23",
+      "question": "Which word means: \"An instrument for observing spectra.\"?",
+      "options": [
+        "Spectroscope",
+        "Rheostat",
+        "Barometer",
+        "Vernier"
+      ],
+      "answer": 0,
+      "explanation": "Spectroscope (noun) — An instrument for observing spectra."
+    },
+    {
+      "id": "mea-q24",
+      "question": "Which word means: \"A precise timepiece, especially one used at sea.\"?",
+      "options": [
+        "Chronometer",
+        "Endoscope",
+        "Pyrometer",
+        "Hygrometer"
+      ],
+      "answer": 0,
+      "explanation": "Chronometer (noun) — A precise timepiece, especially one used at sea."
+    },
+    {
+      "id": "mea-q25",
+      "question": "Which word means: \"A device that marks time by regular beats.\"?",
+      "options": [
+        "Sonar",
+        "Lux meter",
+        "Metronome",
+        "Hydrometer"
+      ],
+      "answer": 2,
+      "explanation": "Metronome (noun) — A device that marks time by regular beats."
+    },
+    {
+      "id": "mea-q26",
+      "question": "Which word means: \"An instrument for recording earthquakes.\"?",
+      "options": [
+        "Ophthalmoscope",
+        "Seismograph",
+        "Vibrometer",
+        "Polarimeter"
+      ],
+      "answer": 1,
+      "explanation": "Seismograph (noun) — An instrument for recording earthquakes."
+    },
+    {
+      "id": "mea-q27",
+      "question": "Which word means: \"An instrument for measuring sea depth.\"?",
+      "options": [
+        "Bathometer",
+        "Periscope",
+        "Compass",
+        "Tachometer"
+      ],
+      "answer": 0,
+      "explanation": "Bathometer (noun) — An instrument for measuring sea depth."
+    },
+    {
+      "id": "mea-q28",
+      "question": "Which word means: \"A system for detecting objects underwater by sound.\"?",
+      "options": [
+        "Salinometer",
+        "Electrometer",
+        "Sonar",
+        "Speedometer"
+      ],
+      "answer": 2,
+      "explanation": "Sonar (noun) — A system for detecting objects underwater by sound."
+    },
+    {
+      "id": "mea-q29",
+      "question": "Which word means: \"A system for detecting objects by radio waves.\"?",
+      "options": [
+        "Actinometer",
+        "Caliper",
+        "Radar",
+        "Sonometer"
+      ],
+      "answer": 2,
+      "explanation": "Radar (noun) — A system for detecting objects by radio waves."
+    },
+    {
+      "id": "mea-q30",
+      "question": "Which word means: \"A detection system that uses laser light.\"?",
+      "options": [
+        "Accelerometer",
+        "Salinometer",
+        "Theodolite",
+        "Lidar"
+      ],
+      "answer": 3,
+      "explanation": "Lidar (noun) — A detection system that uses laser light."
+    },
+    {
+      "id": "mea-q31",
+      "question": "Which word means: \"A surveying instrument for measuring angles.\"?",
+      "options": [
+        "Eudiometer",
+        "pH meter",
+        "Theodolite",
+        "Spectrometer"
+      ],
+      "answer": 2,
+      "explanation": "Theodolite (noun) — A surveying instrument for measuring angles."
+    },
+    {
+      "id": "mea-q32",
+      "question": "Which word means: \"An instrument for measuring the angle between two visible objects, especially for navigation.\"?",
+      "options": [
+        "Dynamometer",
+        "Mass spectrometer",
+        "Sextant",
+        "Gravimeter"
+      ],
+      "answer": 2,
+      "explanation": "Sextant (noun) — An instrument for measuring the angle between two visible objects, especially for navigation."
+    },
+    {
+      "id": "mea-q33",
+      "question": "Which word means: \"A historical instrument for observing celestial positions.\"?",
+      "options": [
+        "Pyrometer",
+        "Kymograph",
+        "Colorimeter",
+        "Astrolabe"
+      ],
+      "answer": 3,
+      "explanation": "Astrolabe (noun) — A historical instrument for observing celestial positions."
+    },
+    {
+      "id": "mea-q34",
+      "question": "Which word means: \"An instrument for showing direction.\"?",
+      "options": [
+        "Hygrometer",
+        "Compass",
+        "Oscilloscope",
+        "Stopwatch"
+      ],
+      "answer": 1,
+      "explanation": "Compass (noun) — An instrument for showing direction."
+    },
+    {
+      "id": "mea-q35",
+      "question": "Which word means: \"An instrument for measuring angles.\"?",
+      "options": [
+        "Protractor",
+        "Gravimeter",
+        "Micrometer",
+        "Theodolite"
+      ],
+      "answer": 0,
+      "explanation": "Protractor (noun) — An instrument for measuring angles."
+    },
+    {
+      "id": "mea-q36",
+      "question": "Which word means: \"An instrument for measuring the dimensions of an object.\"?",
+      "options": [
+        "Anemometer",
+        "Caliper",
+        "Accelerometer",
+        "Mass spectrometer"
+      ],
+      "answer": 1,
+      "explanation": "Caliper (noun) — An instrument for measuring the dimensions of an object."
+    },
+    {
+      "id": "mea-q37",
+      "question": "Which word means: \"An instrument for measuring very small distances or thicknesses.\"?",
+      "options": [
+        "Sonometer",
+        "Micrometer",
+        "Rheostat",
+        "Alcoholmeter"
+      ],
+      "answer": 1,
+      "explanation": "Micrometer (noun) — An instrument for measuring very small distances or thicknesses."
+    },
+    {
+      "id": "mea-q38",
+      "question": "Which word means: \"A device using a sliding secondary scale for fine measurement.\"?",
+      "options": [
+        "Plethysmograph",
+        "Hydrometer",
+        "Vernier",
+        "Sphygmograph"
+      ],
+      "answer": 2,
+      "explanation": "Vernier (noun) — A device using a sliding secondary scale for fine measurement."
+    },
+    {
+      "id": "mea-q39",
+      "question": "Which word means: \"An instrument for measuring optical density.\"?",
+      "options": [
+        "Optometer",
+        "Microscope",
+        "Densitometer",
+        "Chronograph"
+      ],
+      "answer": 2,
+      "explanation": "Densitometer (noun) — An instrument for measuring optical density."
+    },
+    {
+      "id": "mea-q40",
+      "question": "Which word means: \"An instrument for measuring the refractive index.\"?",
+      "options": [
+        "Refractometer",
+        "Diffractometer",
+        "Stethoscope",
+        "Lux meter"
+      ],
+      "answer": 0,
+      "explanation": "Refractometer (noun) — An instrument for measuring the refractive index."
+    },
+    {
+      "id": "mea-q41",
+      "question": "Which word means: \"An instrument for measuring colour intensity.\"?",
+      "options": [
+        "Stopwatch",
+        "Colorimeter",
+        "Oximeter",
+        "Lux meter"
+      ],
+      "answer": 1,
+      "explanation": "Colorimeter (noun) — An instrument for measuring colour intensity."
+    },
+    {
+      "id": "mea-q42",
+      "question": "Which word means: \"An instrument for measuring the wavelengths of a spectrum.\"?",
+      "options": [
+        "Kymograph",
+        "Sundial",
+        "Spectrometer",
+        "Tensiometer"
+      ],
+      "answer": 2,
+      "explanation": "Spectrometer (noun) — An instrument for measuring the wavelengths of a spectrum."
+    },
+    {
+      "id": "mea-q43",
+      "question": "Which word means: \"An instrument for measuring heat.\"?",
+      "options": [
+        "Nephelometer",
+        "Calorimeter",
+        "Salinometer",
+        "Telescope"
+      ],
+      "answer": 1,
+      "explanation": "Calorimeter (noun) — An instrument for measuring heat."
+    },
+    {
+      "id": "mea-q44",
+      "question": "Which word means: \"An instrument for measuring high temperatures.\"?",
+      "options": [
+        "Pyrometer",
+        "Ophthalmoscope",
+        "Colorimeter",
+        "Chronometer"
+      ],
+      "answer": 0,
+      "explanation": "Pyrometer (noun) — An instrument for measuring high temperatures."
+    },
+    {
+      "id": "mea-q45",
+      "question": "Which word means: \"An instrument for controlling electric resistance.\"?",
+      "options": [
+        "Densitometer",
+        "Rheostat",
+        "Bolometer",
+        "Cyclometer"
+      ],
+      "answer": 1,
+      "explanation": "Rheostat (noun) — An instrument for controlling electric resistance."
+    },
+    {
+      "id": "mea-q46",
+      "question": "Which word means: \"An instrument for displaying electronic signals as waveforms.\"?",
+      "options": [
+        "Oscilloscope",
+        "Stethoscope",
+        "Chronometer",
+        "Manometer"
+      ],
+      "answer": 0,
+      "explanation": "Oscilloscope (noun) — An instrument for displaying electronic signals as waveforms."
+    },
+    {
+      "id": "mea-q47",
+      "question": "Which word means: \"An instrument for measuring lung capacity.\"?",
+      "options": [
+        "Spirometer",
+        "Photometer",
+        "Plethysmograph",
+        "Nephelometer"
+      ],
+      "answer": 0,
+      "explanation": "Spirometer (noun) — An instrument for measuring lung capacity."
+    },
+    {
+      "id": "mea-q48",
+      "question": "Which word means: \"An instrument for measuring the intensity of radiation.\"?",
+      "options": [
+        "Actinometer",
+        "Stopwatch",
+        "Lidar",
+        "Anemometer"
+      ],
+      "answer": 0,
+      "explanation": "Actinometer (noun) — An instrument for measuring the intensity of radiation."
+    },
+    {
+      "id": "mea-q49",
+      "question": "Which word means: \"An instrument for measuring hearing acuity.\"?",
+      "options": [
+        "Otoscope",
+        "Gravimeter",
+        "Photometer",
+        "Audiometer"
+      ],
+      "answer": 3,
+      "explanation": "Audiometer (noun) — An instrument for measuring hearing acuity."
+    },
+    {
+      "id": "mea-q50",
+      "question": "Which word means: \"An instrument for measuring radiation dose.\"?",
+      "options": [
+        "Accelerometer",
+        "Eudiometer",
+        "Chronometer",
+        "Dosimeter"
+      ],
+      "answer": 3,
+      "explanation": "Dosimeter (noun) — An instrument for measuring radiation dose."
+    },
+    {
+      "id": "mea-q51",
+      "question": "Which word means: \"Measures acceleration.\"?",
+      "options": [
+        "Altimeter",
+        "Radar",
+        "Metronome",
+        "Accelerometer"
+      ],
+      "answer": 3,
+      "explanation": "Accelerometer (noun) — Measures acceleration."
+    },
+    {
+      "id": "mea-q52",
+      "question": "Which word means: \"Measures alcohol in liquid.\"?",
+      "options": [
+        "Alcoholmeter",
+        "Voltohmmeter",
+        "Bolometer",
+        "Radar"
+      ],
+      "answer": 0,
+      "explanation": "Alcoholmeter (noun) — Measures alcohol in liquid."
+    },
+    {
+      "id": "mea-q53",
+      "question": "Which word means: \"Measures charge over time.\"?",
+      "options": [
+        "Spectroscope",
+        "Cyclometer",
+        "Plethysmograph",
+        "Ampere-hour meter"
+      ],
+      "answer": 3,
+      "explanation": "Ampere-hour meter (noun) — Measures charge over time."
+    },
+    {
+      "id": "mea-q54",
+      "question": "Which word means: \"Measures radiant energy.\"?",
+      "options": [
+        "Chronograph",
+        "Sextant",
+        "Dynamometer",
+        "Bolometer"
+      ],
+      "answer": 3,
+      "explanation": "Bolometer (noun) — Measures radiant energy."
+    },
+    {
+      "id": "mea-q55",
+      "question": "Which word means: \"Measures small vertical distances.\"?",
+      "options": [
+        "Colorimeter",
+        "Cathetometer",
+        "Accelerometer",
+        "Turbidimeter"
+      ],
+      "answer": 1,
+      "explanation": "Cathetometer (noun) — Measures small vertical distances."
+    },
+    {
+      "id": "mea-q56",
+      "question": "Which word means: \"Watch that measures elapsed time.\"?",
+      "options": [
+        "Diffractometer",
+        "Chronograph",
+        "Odometer",
+        "Dynamometer"
+      ],
+      "answer": 1,
+      "explanation": "Chronograph (noun) — Watch that measures elapsed time."
+    },
+    {
+      "id": "mea-q57",
+      "question": "Which word means: \"Measures angles of slope.\"?",
+      "options": [
+        "Odometer",
+        "Viscometer",
+        "Mass spectrometer",
+        "Clinometer"
+      ],
+      "answer": 3,
+      "explanation": "Clinometer (noun) — Measures angles of slope."
+    },
+    {
+      "id": "mea-q58",
+      "question": "Which word means: \"Measures wheel revolutions.\"?",
+      "options": [
+        "Metronome",
+        "Clinometer",
+        "Vernier",
+        "Cyclometer"
+      ],
+      "answer": 3,
+      "explanation": "Cyclometer (noun) — Measures wheel revolutions."
+    },
+    {
+      "id": "mea-q59",
+      "question": "Which word means: \"Measures X-ray diffraction.\"?",
+      "options": [
+        "Periscope",
+        "Electrometer",
+        "Diffractometer",
+        "Cathetometer"
+      ],
+      "answer": 2,
+      "explanation": "Diffractometer (noun) — Measures X-ray diffraction."
+    },
+    {
+      "id": "mea-q60",
+      "question": "Which word means: \"Measures force or power.\"?",
+      "options": [
+        "Sundial",
+        "Hydrometer",
+        "Ophthalmoscope",
+        "Dynamometer"
+      ],
+      "answer": 3,
+      "explanation": "Dynamometer (noun) — Measures force or power."
+    },
+    {
+      "id": "mea-q61",
+      "question": "Which word means: \"Measures electric charge.\"?",
+      "options": [
+        "Turbidimeter",
+        "Gravimeter",
+        "Electrometer",
+        "Multimeter"
+      ],
+      "answer": 2,
+      "explanation": "Electrometer (noun) — Measures electric charge."
+    },
+    {
+      "id": "mea-q62",
+      "question": "Which word means: \"Views inside the body.\"?",
+      "options": [
+        "Ampere-hour meter",
+        "Spectrometer",
+        "Accelerometer",
+        "Endoscope"
+      ],
+      "answer": 3,
+      "explanation": "Endoscope (noun) — Views inside the body."
+    },
+    {
+      "id": "mea-q63",
+      "question": "Which word means: \"Measures work performed.\"?",
+      "options": [
+        "Tonometer",
+        "Diffractometer",
+        "Ergometer",
+        "Pedometer"
+      ],
+      "answer": 2,
+      "explanation": "Ergometer (noun) — Measures work performed."
+    },
+    {
+      "id": "mea-q64",
+      "question": "Which word means: \"Measures gas volume changes.\"?",
+      "options": [
+        "Eudiometer",
+        "Astrolabe",
+        "Sundial",
+        "Spectrometer"
+      ],
+      "answer": 0,
+      "explanation": "Eudiometer (noun) — Measures gas volume changes."
+    },
+    {
+      "id": "mea-q65",
+      "question": "Which word means: \"Measures fluorescence.\"?",
+      "options": [
+        "Multimeter",
+        "Piezometer",
+        "Tensiometer",
+        "Fluorometer"
+      ],
+      "answer": 3,
+      "explanation": "Fluorometer (noun) — Measures fluorescence."
+    },
+    {
+      "id": "mea-q66",
+      "question": "Which word means: \"Measures gravitational force.\"?",
+      "options": [
+        "Kymograph",
+        "Ohmmeter",
+        "Tensiometer",
+        "Gravimeter"
+      ],
+      "answer": 3,
+      "explanation": "Gravimeter (noun) — Measures gravitational force."
+    },
+    {
+      "id": "mea-q67",
+      "question": "Which word means: \"Distance metering device.\"?",
+      "options": [
+        "Odometer",
+        "Audiometer",
+        "Hectometer (device)",
+        "Magnetometer"
+      ],
+      "answer": 2,
+      "explanation": "Hectometer (device) (noun) — Distance metering device."
+    },
+    {
+      "id": "mea-q68",
+      "question": "Which word means: \"Measures liquid density.\"?",
+      "options": [
+        "Hydrometer",
+        "Spectroscope",
+        "Ophthalmoscope",
+        "Telescope"
+      ],
+      "answer": 0,
+      "explanation": "Hydrometer (noun) — Measures liquid density."
+    },
+    {
+      "id": "mea-q69",
+      "question": "Which word means: \"Records physiological waves.\"?",
+      "options": [
+        "Wind vane",
+        "Refractometer",
+        "Vibrometer",
+        "Kymograph"
+      ],
+      "answer": 3,
+      "explanation": "Kymograph (noun) — Records physiological waves."
+    },
+    {
+      "id": "mea-q70",
+      "question": "Which word means: \"Measures distance by laser.\"?",
+      "options": [
+        "Laser rangefinder",
+        "Stethoscope",
+        "Seismograph",
+        "Sphygmomanometer"
+      ],
+      "answer": 0,
+      "explanation": "Laser rangefinder (noun) — Measures distance by laser."
+    },
+    {
+      "id": "mea-q71",
+      "question": "Which word means: \"Measures illuminance.\"?",
+      "options": [
+        "Diffractometer",
+        "Barometer",
+        "Eudiometer",
+        "Lux meter"
+      ],
+      "answer": 3,
+      "explanation": "Lux meter (noun) — Measures illuminance."
+    },
+    {
+      "id": "mea-q72",
+      "question": "Which word means: \"Measures magnetic fields.\"?",
+      "options": [
+        "Photometer",
+        "Magnetometer",
+        "Theodolite",
+        "Eudiometer"
+      ],
+      "answer": 1,
+      "explanation": "Magnetometer (noun) — Measures magnetic fields."
+    },
+    {
+      "id": "mea-q73",
+      "question": "Which word means: \"Sorts ions by mass.\"?",
+      "options": [
+        "Ampere-hour meter",
+        "Mass spectrometer",
+        "Clinometer",
+        "Diffractometer"
+      ],
+      "answer": 1,
+      "explanation": "Mass spectrometer (noun) — Sorts ions by mass."
+    },
+    {
+      "id": "mea-q74",
+      "question": "Which word means: \"Measures suspended particles.\"?",
+      "options": [
+        "Nephelometer",
+        "Caliper",
+        "Sextant",
+        "Lux meter"
+      ],
+      "answer": 0,
+      "explanation": "Nephelometer (noun) — Measures suspended particles."
+    },
+    {
+      "id": "mea-q75",
+      "question": "Which word means: \"Measures eye refraction.\"?",
+      "options": [
+        "Tachometer",
+        "Optometer",
+        "Ophthalmoscope",
+        "Salinometer"
+      ],
+      "answer": 1,
+      "explanation": "Optometer (noun) — Measures eye refraction."
+    },
+    {
+      "id": "mea-q76",
+      "question": "Which word means: \"Measures blood oxygen.\"?",
+      "options": [
+        "Oximeter",
+        "Altimeter",
+        "Speedometer (marine)",
+        "Nephelometer"
+      ],
+      "answer": 0,
+      "explanation": "Oximeter (noun) — Measures blood oxygen."
+    },
+    {
+      "id": "mea-q77",
+      "question": "Which word means: \"Counts steps.\"?",
+      "options": [
+        "Bolometer",
+        "Pedometer",
+        "Speedometer",
+        "Manometer"
+      ],
+      "answer": 1,
+      "explanation": "Pedometer (noun) — Counts steps."
+    },
+    {
+      "id": "mea-q78",
+      "question": "Which word means: \"Measures acidity.\"?",
+      "options": [
+        "Plethysmograph",
+        "Sundial",
+        "pH meter",
+        "Sonometer"
+      ],
+      "answer": 2,
+      "explanation": "pH meter (noun) — Measures acidity."
+    },
+    {
+      "id": "mea-q79",
+      "question": "Which word means: \"Measures light intensity.\"?",
+      "options": [
+        "Altimeter",
+        "Photometer",
+        "Multimeter",
+        "Wind vane"
+      ],
+      "answer": 1,
+      "explanation": "Photometer (noun) — Measures light intensity."
+    },
+    {
+      "id": "mea-q80",
+      "question": "Which word means: \"Measures volume changes in the body.\"?",
+      "options": [
+        "Ammeter",
+        "Audiometer",
+        "Wattmeter",
+        "Plethysmograph"
+      ],
+      "answer": 3,
+      "explanation": "Plethysmograph (noun) — Measures volume changes in the body."
+    },
+    {
+      "id": "mea-q81",
+      "question": "Which word means: \"Measures light polarisation.\"?",
+      "options": [
+        "Polarimeter",
+        "Electrometer",
+        "Otoscope",
+        "Vernier"
+      ],
+      "answer": 0,
+      "explanation": "Polarimeter (noun) — Measures light polarisation."
+    },
+    {
+      "id": "mea-q82",
+      "question": "Which word means: \"Measures voltage.\"?",
+      "options": [
+        "Potentiometer",
+        "Calorimeter",
+        "Ampere-hour meter",
+        "Hydrometer"
+      ],
+      "answer": 0,
+      "explanation": "Potentiometer (noun) — Measures voltage."
+    },
+    {
+      "id": "mea-q83",
+      "question": "Which word means: \"Measures humidity by two thermometers.\"?",
+      "options": [
+        "Psychrometer",
+        "Manometer",
+        "Tachometer",
+        "Photometer"
+      ],
+      "answer": 0,
+      "explanation": "Psychrometer (noun) — Measures humidity by two thermometers."
+    },
+    {
+      "id": "mea-q84",
+      "question": "Which word means: \"Measures radiant energy.\"?",
+      "options": [
+        "Cathetometer",
+        "pH meter",
+        "Radiometer",
+        "Colorimeter"
+      ],
+      "answer": 2,
+      "explanation": "Radiometer (noun) — Measures radiant energy."
+    },
+    {
+      "id": "mea-q85",
+      "question": "Which word means: \"Measures salt content.\"?",
+      "options": [
+        "Stethoscope",
+        "Photometer",
+        "Mass spectrometer",
+        "Salinometer"
+      ],
+      "answer": 3,
+      "explanation": "Salinometer (noun) — Measures salt content."
+    },
+    {
+      "id": "mea-q86",
+      "question": "Which word means: \"Measures sound frequency.\"?",
+      "options": [
+        "Eudiometer",
+        "Sonometer",
+        "Photometer",
+        "Chronometer"
+      ],
+      "answer": 1,
+      "explanation": "Sonometer (noun) — Measures sound frequency."
+    },
+    {
+      "id": "mea-q87",
+      "question": "Which word means: \"Ship speed indicator.\"?",
+      "options": [
+        "Sphygmomanometer",
+        "Speedometer (marine)",
+        "Thermometer",
+        "Metronome"
+      ],
+      "answer": 1,
+      "explanation": "Speedometer (marine) (noun) — Ship speed indicator."
+    },
+    {
+      "id": "mea-q88",
+      "question": "Which word means: \"Records the pulse.\"?",
+      "options": [
+        "Photometer",
+        "Viscometer",
+        "Bathometer",
+        "Sphygmograph"
+      ],
+      "answer": 3,
+      "explanation": "Sphygmograph (noun) — Records the pulse."
+    },
+    {
+      "id": "mea-q89",
+      "question": "Which word means: \"Times short intervals.\"?",
+      "options": [
+        "Stopwatch",
+        "Magnetometer",
+        "Calorimeter",
+        "Rheostat"
+      ],
+      "answer": 0,
+      "explanation": "Stopwatch (noun) — Times short intervals."
+    },
+    {
+      "id": "mea-q90",
+      "question": "Which word means: \"Time by shadow.\"?",
+      "options": [
+        "Sundial",
+        "Astrolabe",
+        "Micrometer",
+        "Stopwatch"
+      ],
+      "answer": 0,
+      "explanation": "Sundial (noun) — Time by shadow."
+    },
+    {
+      "id": "mea-q91",
+      "question": "Which word means: \"Flexible length-measuring tool.\"?",
+      "options": [
+        "Spectrometer",
+        "Lux meter",
+        "Tape measure",
+        "Fluorometer"
+      ],
+      "answer": 2,
+      "explanation": "Tape measure (noun) — Flexible length-measuring tool."
+    },
+    {
+      "id": "mea-q92",
+      "question": "Which word means: \"Measures surface tension.\"?",
+      "options": [
+        "Accelerometer",
+        "Turbidimeter",
+        "Tensiometer",
+        "Pyrometer"
+      ],
+      "answer": 2,
+      "explanation": "Tensiometer (noun) — Measures surface tension."
+    },
+    {
+      "id": "mea-q93",
+      "question": "Which word means: \"Measures eye pressure.\"?",
+      "options": [
+        "Speedometer (marine)",
+        "Calorimeter",
+        "Pyrometer",
+        "Tonometer"
+      ],
+      "answer": 3,
+      "explanation": "Tonometer (noun) — Measures eye pressure."
+    },
+    {
+      "id": "mea-q94",
+      "question": "Which word means: \"Measures cloudiness of fluids.\"?",
+      "options": [
+        "Psychrometer",
+        "Turbidimeter",
+        "Endoscope",
+        "Otoscope"
+      ],
+      "answer": 1,
+      "explanation": "Turbidimeter (noun) — Measures cloudiness of fluids."
+    },
+    {
+      "id": "mea-q95",
+      "question": "Which word means: \"Measures vibration.\"?",
+      "options": [
+        "Calorimeter",
+        "Kymograph",
+        "Dynamometer",
+        "Vibrometer"
+      ],
+      "answer": 3,
+      "explanation": "Vibrometer (noun) — Measures vibration."
+    },
+    {
+      "id": "mea-q96",
+      "question": "Which word means: \"Measures viscosity.\"?",
+      "options": [
+        "Densitometer",
+        "Hectometer (device)",
+        "Viscometer",
+        "Mass spectrometer"
+      ],
+      "answer": 2,
+      "explanation": "Viscometer (noun) — Measures viscosity."
+    },
+    {
+      "id": "mea-q97",
+      "question": "Which word means: \"Combines voltmeter and ohmmeter.\"?",
+      "options": [
+        "Voltohmmeter",
+        "Bathometer",
+        "Nephelometer",
+        "Sphygmograph"
+      ],
+      "answer": 0,
+      "explanation": "Voltohmmeter (noun) — Combines voltmeter and ohmmeter."
+    },
+    {
+      "id": "mea-q98",
+      "question": "Which word means: \"Measures water flow.\"?",
+      "options": [
+        "Water meter",
+        "Microscope",
+        "Caliper",
+        "Anemometer"
+      ],
+      "answer": 0,
+      "explanation": "Water meter (noun) — Measures water flow."
+    },
+    {
+      "id": "mea-q99",
+      "question": "Which word means: \"Measures electric power.\"?",
+      "options": [
+        "Wattmeter",
+        "Nephelometer",
+        "Dosimeter",
+        "pH meter"
+      ],
+      "answer": 0,
+      "explanation": "Wattmeter (noun) — Measures electric power."
+    },
+    {
+      "id": "mea-q100",
+      "question": "Which word means: \"Shows wind direction.\"?",
+      "options": [
+        "Refractometer",
+        "Voltohmmeter",
+        "Wind vane",
+        "Tape measure"
+      ],
+      "answer": 2,
+      "explanation": "Wind vane (noun) — Shows wind direction."
+    }
+  ]
+}

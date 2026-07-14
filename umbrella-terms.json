@@ -1,0 +1,1908 @@
+{
+  "category": "umbrella-terms",
+  "title": "Umbrella Terms",
+  "words": [
+    {
+      "id": "ut-001",
+      "word": "Precipitation",
+      "pos": "noun",
+      "definition": "Any form of water — rain, snow, sleet or hail — that falls from clouds to the ground.",
+      "example": "Farmers rely on regular precipitation for their crops."
+    },
+    {
+      "id": "ut-002",
+      "word": "Limbs",
+      "pos": "noun",
+      "definition": "A collective term for the arms and legs of a human or animal.",
+      "example": "The gymnast stretched her limbs before the routine."
+    },
+    {
+      "id": "ut-003",
+      "word": "Siblings",
+      "pos": "noun",
+      "definition": "A general term for one's brothers and sisters.",
+      "example": "She has three siblings, two brothers and one sister."
+    },
+    {
+      "id": "ut-004",
+      "word": "Digits",
+      "pos": "noun",
+      "definition": "A shared term for the fingers and toes of a human being.",
+      "example": "Frostbite can damage the digits if the cold is severe."
+    },
+    {
+      "id": "ut-005",
+      "word": "Credentials",
+      "pos": "noun",
+      "definition": "The combined username and password (or similar proofs of identity) used to log in.",
+      "example": "Never share your login credentials with anyone."
+    },
+    {
+      "id": "ut-006",
+      "word": "Coordinates",
+      "pos": "noun",
+      "definition": "A pair of values, usually latitude and longitude, that pinpoint a location.",
+      "example": "He entered the coordinates into the GPS device."
+    },
+    {
+      "id": "ut-007",
+      "word": "Cutlery",
+      "pos": "noun",
+      "definition": "Knives, forks and spoons used for eating and serving food.",
+      "example": "Please set the cutlery on the right side of the plate."
+    },
+    {
+      "id": "ut-008",
+      "word": "Furniture",
+      "pos": "noun",
+      "definition": "Movable household articles such as tables, chairs, beds and cupboards.",
+      "example": "They bought new furniture for the living room."
+    },
+    {
+      "id": "ut-009",
+      "word": "Utensils",
+      "pos": "noun",
+      "definition": "Tools and containers used in the kitchen, such as pots, pans and spatulas.",
+      "example": "Wash the utensils immediately after cooking."
+    },
+    {
+      "id": "ut-010",
+      "word": "Cattle",
+      "pos": "noun",
+      "definition": "Domesticated bovine animals — cows, bulls, oxen and calves — kept as livestock.",
+      "example": "The farmer drove the cattle back to the barn."
+    },
+    {
+      "id": "ut-011",
+      "word": "Poultry",
+      "pos": "noun",
+      "definition": "Domesticated birds — chickens, ducks, turkeys and geese — raised for meat or eggs.",
+      "example": "Poultry prices rose sharply this month."
+    },
+    {
+      "id": "ut-012",
+      "word": "Livestock",
+      "pos": "noun",
+      "definition": "Farm animals such as cattle, sheep, goats and pigs kept for use or profit.",
+      "example": "The drought threatened the region's livestock."
+    },
+    {
+      "id": "ut-013",
+      "word": "Stationery",
+      "pos": "noun",
+      "definition": "Paper, envelopes, pens and other materials used for writing.",
+      "example": "She restocked the office stationery on Monday."
+    },
+    {
+      "id": "ut-014",
+      "word": "Cosmetics",
+      "pos": "noun",
+      "definition": "Preparations applied to the body, especially the face, to improve appearance.",
+      "example": "The shop specialises in organic cosmetics."
+    },
+    {
+      "id": "ut-015",
+      "word": "Toiletries",
+      "pos": "noun",
+      "definition": "Soaps, toothpaste, shampoo and similar articles used in personal grooming.",
+      "example": "Pack your toiletries in a clear plastic bag."
+    },
+    {
+      "id": "ut-016",
+      "word": "Jewellery",
+      "pos": "noun",
+      "definition": "Decorative objects such as rings, necklaces and earrings worn on the body.",
+      "example": "She keeps her jewellery in a locked drawer."
+    },
+    {
+      "id": "ut-017",
+      "word": "Luggage",
+      "pos": "noun",
+      "definition": "Suitcases, bags and other containers used by a traveller.",
+      "example": "Our luggage did not arrive with the flight."
+    },
+    {
+      "id": "ut-018",
+      "word": "Baggage",
+      "pos": "noun",
+      "definition": "Traveller's bags and belongings collectively.",
+      "example": "Report lost baggage to the airline counter."
+    },
+    {
+      "id": "ut-019",
+      "word": "Currency",
+      "pos": "noun",
+      "definition": "A country's system of money — coins and banknotes — in general use.",
+      "example": "The local currency is stable this quarter."
+    },
+    {
+      "id": "ut-020",
+      "word": "Groceries",
+      "pos": "noun",
+      "definition": "Food and other household goods bought at a shop, especially fresh produce and staples.",
+      "example": "He carried the groceries in from the car."
+    },
+    {
+      "id": "ut-021",
+      "word": "Produce",
+      "pos": "noun",
+      "definition": "Fresh fruits and vegetables collectively, especially those sold at a market.",
+      "example": "The stall sold only locally grown produce."
+    },
+    {
+      "id": "ut-022",
+      "word": "Beverages",
+      "pos": "noun",
+      "definition": "Drinks of any kind, including water, tea, coffee, juice and soda.",
+      "example": "The menu lists all beverages on the last page."
+    },
+    {
+      "id": "ut-023",
+      "word": "Condiments",
+      "pos": "noun",
+      "definition": "Sauces, spices and other substances added to food to enhance flavour.",
+      "example": "Ketchup and mustard are the most popular condiments."
+    },
+    {
+      "id": "ut-024",
+      "word": "Dairy",
+      "pos": "noun",
+      "definition": "Milk and products made from milk, such as cheese, butter and yoghurt.",
+      "example": "She avoids dairy because of an intolerance."
+    },
+    {
+      "id": "ut-025",
+      "word": "Seafood",
+      "pos": "noun",
+      "definition": "Edible fish and shellfish taken from the sea for food.",
+      "example": "The restaurant is famous for its seafood platter."
+    },
+    {
+      "id": "ut-026",
+      "word": "Vegetation",
+      "pos": "noun",
+      "definition": "The plants of a particular region or period, considered collectively.",
+      "example": "The dense vegetation slowed the hikers down."
+    },
+    {
+      "id": "ut-027",
+      "word": "Foliage",
+      "pos": "noun",
+      "definition": "The leaves of a plant or trees collectively.",
+      "example": "The autumn foliage attracts many tourists."
+    },
+    {
+      "id": "ut-028",
+      "word": "Wildlife",
+      "pos": "noun",
+      "definition": "Wild animals, birds and plants living in their natural environment.",
+      "example": "The reserve protects the region's wildlife."
+    },
+    {
+      "id": "ut-029",
+      "word": "Fauna",
+      "pos": "noun",
+      "definition": "The animal life of a particular region, habitat or geological period.",
+      "example": "The fauna of Australia is unique."
+    },
+    {
+      "id": "ut-030",
+      "word": "Flora",
+      "pos": "noun",
+      "definition": "The plant life of a particular region, habitat or geological period.",
+      "example": "The island's flora includes many rare species."
+    },
+    {
+      "id": "ut-031",
+      "word": "Grain",
+      "pos": "noun",
+      "definition": "Wheat, rice, maize and similar edible seeds harvested from grasses.",
+      "example": "The silo was full of grain after the harvest."
+    },
+    {
+      "id": "ut-032",
+      "word": "Legumes",
+      "pos": "noun",
+      "definition": "Peas, beans, lentils and other plants of the pea family used as food.",
+      "example": "Legumes are a rich source of protein."
+    },
+    {
+      "id": "ut-033",
+      "word": "Spices",
+      "pos": "noun",
+      "definition": "Aromatic vegetable substances such as cloves, pepper and cinnamon used to flavour food.",
+      "example": "Indian cuisine relies heavily on spices."
+    },
+    {
+      "id": "ut-034",
+      "word": "Herbs",
+      "pos": "noun",
+      "definition": "Plants such as parsley, basil and thyme used to flavour food or for medicine.",
+      "example": "She grows her own herbs in a small pot."
+    },
+    {
+      "id": "ut-035",
+      "word": "Confectionery",
+      "pos": "noun",
+      "definition": "Sweets, chocolate and similar sugary foods considered collectively.",
+      "example": "The shop sells fine chocolates and confectionery."
+    },
+    {
+      "id": "ut-036",
+      "word": "Bakery",
+      "pos": "noun",
+      "definition": "Bread, cakes, pastries and similar baked goods.",
+      "example": "We bought fresh bakery items for breakfast."
+    },
+    {
+      "id": "ut-037",
+      "word": "Textiles",
+      "pos": "noun",
+      "definition": "Cloths or woven fabrics collectively.",
+      "example": "The factory produces cotton textiles for export."
+    },
+    {
+      "id": "ut-038",
+      "word": "Garments",
+      "pos": "noun",
+      "definition": "Items of clothing collectively.",
+      "example": "All garments must be labelled with a size."
+    },
+    {
+      "id": "ut-039",
+      "word": "Apparel",
+      "pos": "noun",
+      "definition": "Clothing, especially formal or of a particular type.",
+      "example": "The store specialises in men's apparel."
+    },
+    {
+      "id": "ut-040",
+      "word": "Attire",
+      "pos": "noun",
+      "definition": "Clothes considered as a group, especially fine or formal ones.",
+      "example": "Business attire is required at the meeting."
+    },
+    {
+      "id": "ut-041",
+      "word": "Footwear",
+      "pos": "noun",
+      "definition": "Shoes, boots, sandals and other coverings for the feet.",
+      "example": "Comfortable footwear is essential for hiking."
+    },
+    {
+      "id": "ut-042",
+      "word": "Headgear",
+      "pos": "noun",
+      "definition": "Hats, caps, helmets and other coverings for the head.",
+      "example": "Safety headgear must be worn on site."
+    },
+    {
+      "id": "ut-043",
+      "word": "Outerwear",
+      "pos": "noun",
+      "definition": "Coats, jackets and other garments worn over other clothes outdoors.",
+      "example": "Winter outerwear is on sale this week."
+    },
+    {
+      "id": "ut-044",
+      "word": "Underwear",
+      "pos": "noun",
+      "definition": "Clothing worn next to the skin under other clothes.",
+      "example": "Pack enough underwear for the trip."
+    },
+    {
+      "id": "ut-045",
+      "word": "Nightwear",
+      "pos": "noun",
+      "definition": "Clothing worn in bed, such as pyjamas and nightgowns.",
+      "example": "She bought new nightwear for the holiday."
+    },
+    {
+      "id": "ut-046",
+      "word": "Swimwear",
+      "pos": "noun",
+      "definition": "Garments worn for swimming, such as trunks and swimsuits.",
+      "example": "The store's swimwear section expands in summer."
+    },
+    {
+      "id": "ut-047",
+      "word": "Sportswear",
+      "pos": "noun",
+      "definition": "Clothing worn for sport or informal exercise.",
+      "example": "Comfortable sportswear helps performance."
+    },
+    {
+      "id": "ut-048",
+      "word": "Accessories",
+      "pos": "noun",
+      "definition": "Small articles such as belts, scarves and jewellery worn to complement an outfit.",
+      "example": "She matched her accessories to her dress."
+    },
+    {
+      "id": "ut-049",
+      "word": "Machinery",
+      "pos": "noun",
+      "definition": "Machines collectively, especially large ones used in industry.",
+      "example": "New machinery was installed at the factory."
+    },
+    {
+      "id": "ut-050",
+      "word": "Equipment",
+      "pos": "noun",
+      "definition": "The tools, devices and clothing needed for a particular activity.",
+      "example": "Bring your own equipment to the training."
+    },
+    {
+      "id": "ut-051",
+      "word": "Hardware",
+      "pos": "noun",
+      "definition": "Tools, machinery and other durable equipment; also the physical parts of a computer.",
+      "example": "The store sells hardware for home repairs."
+    },
+    {
+      "id": "ut-052",
+      "word": "Software",
+      "pos": "noun",
+      "definition": "Programs and other operating information used by a computer.",
+      "example": "New software was installed on every laptop."
+    },
+    {
+      "id": "ut-053",
+      "word": "Peripherals",
+      "pos": "noun",
+      "definition": "External devices such as printers, mice and keyboards connected to a computer.",
+      "example": "Attach all peripherals before starting the setup."
+    },
+    {
+      "id": "ut-054",
+      "word": "Electronics",
+      "pos": "noun",
+      "definition": "Devices and equipment that use electric currents controlled by transistors and circuits.",
+      "example": "He works in a shop that repairs electronics."
+    },
+    {
+      "id": "ut-055",
+      "word": "Appliances",
+      "pos": "noun",
+      "definition": "Household devices such as fridges, washing machines and ovens.",
+      "example": "Modern appliances save a lot of time."
+    },
+    {
+      "id": "ut-056",
+      "word": "Utilities",
+      "pos": "noun",
+      "definition": "Essential services such as water, electricity, gas and internet supplied to homes.",
+      "example": "Rent includes all utilities."
+    },
+    {
+      "id": "ut-057",
+      "word": "Infrastructure",
+      "pos": "noun",
+      "definition": "The basic physical systems of a country — roads, bridges, power and water.",
+      "example": "The government invested heavily in infrastructure."
+    },
+    {
+      "id": "ut-058",
+      "word": "Vehicles",
+      "pos": "noun",
+      "definition": "Cars, trucks, buses and other means of transport collectively.",
+      "example": "All vehicles must stop at the checkpoint."
+    },
+    {
+      "id": "ut-059",
+      "word": "Aircraft",
+      "pos": "noun",
+      "definition": "Machines that fly, including planes, helicopters and gliders.",
+      "example": "The airline retired several old aircraft."
+    },
+    {
+      "id": "ut-060",
+      "word": "Watercraft",
+      "pos": "noun",
+      "definition": "Boats, ships and other vessels used on water.",
+      "example": "Small watercraft crowded the harbour."
+    },
+    {
+      "id": "ut-061",
+      "word": "Cargo",
+      "pos": "noun",
+      "definition": "Goods carried on a ship, plane or other vehicle.",
+      "example": "The cargo was unloaded at the port."
+    },
+    {
+      "id": "ut-062",
+      "word": "Freight",
+      "pos": "noun",
+      "definition": "Goods transported in bulk by truck, train, ship or aircraft.",
+      "example": "The freight arrived a day early."
+    },
+    {
+      "id": "ut-063",
+      "word": "Merchandise",
+      "pos": "noun",
+      "definition": "Goods to be bought and sold, especially in a shop.",
+      "example": "New merchandise arrived this morning."
+    },
+    {
+      "id": "ut-064",
+      "word": "Inventory",
+      "pos": "noun",
+      "definition": "A complete list of items such as goods in stock or contents of a building.",
+      "example": "The shop takes inventory every quarter."
+    },
+    {
+      "id": "ut-065",
+      "word": "Assets",
+      "pos": "noun",
+      "definition": "Property and possessions of value owned by a person or organisation.",
+      "example": "The company's assets exceed its debts."
+    },
+    {
+      "id": "ut-066",
+      "word": "Liabilities",
+      "pos": "noun",
+      "definition": "Debts and financial obligations owed by a person or organisation.",
+      "example": "Reduce liabilities before applying for a loan."
+    },
+    {
+      "id": "ut-067",
+      "word": "Correspondence",
+      "pos": "noun",
+      "definition": "Letters, emails and other written communications sent and received.",
+      "example": "She kept all correspondence in a folder."
+    },
+    {
+      "id": "ut-068",
+      "word": "Documentation",
+      "pos": "noun",
+      "definition": "Written records or supporting documents for something.",
+      "example": "Bring documentation of your identity to the office."
+    },
+    {
+      "id": "ut-069",
+      "word": "Paperwork",
+      "pos": "noun",
+      "definition": "Routine written work such as forms, reports and records.",
+      "example": "There's a lot of paperwork after an accident."
+    },
+    {
+      "id": "ut-070",
+      "word": "Archives",
+      "pos": "noun",
+      "definition": "A collection of historical documents or records preserved for reference.",
+      "example": "The archives contain letters from the 1800s."
+    },
+    {
+      "id": "ut-071",
+      "word": "Records",
+      "pos": "noun",
+      "definition": "Documents or other pieces of evidence kept as information.",
+      "example": "Medical records are strictly confidential."
+    },
+    {
+      "id": "ut-072",
+      "word": "Data",
+      "pos": "noun",
+      "definition": "Facts and statistics collected for reference or analysis.",
+      "example": "The data suggests a clear trend."
+    },
+    {
+      "id": "ut-073",
+      "word": "Media",
+      "pos": "noun",
+      "definition": "The main means of mass communication — press, broadcasting and internet — collectively.",
+      "example": "The story dominated the media for weeks."
+    },
+    {
+      "id": "ut-074",
+      "word": "Publications",
+      "pos": "noun",
+      "definition": "Books, journals, magazines and other printed or online works.",
+      "example": "He has several publications in scientific journals."
+    },
+    {
+      "id": "ut-075",
+      "word": "Periodicals",
+      "pos": "noun",
+      "definition": "Magazines and journals published at regular intervals.",
+      "example": "The library subscribes to many periodicals."
+    },
+    {
+      "id": "ut-076",
+      "word": "Literature",
+      "pos": "noun",
+      "definition": "Written works, especially novels, poetry and drama, of lasting artistic merit.",
+      "example": "She studies eighteenth-century literature."
+    },
+    {
+      "id": "ut-077",
+      "word": "Weather",
+      "pos": "noun",
+      "definition": "The state of the atmosphere — heat, cold, wetness, wind — at a particular time.",
+      "example": "The weather turned nasty by evening."
+    },
+    {
+      "id": "ut-078",
+      "word": "Climate",
+      "pos": "noun",
+      "definition": "The general weather conditions of an area over a long period.",
+      "example": "The Mediterranean has a mild climate."
+    },
+    {
+      "id": "ut-079",
+      "word": "Terrain",
+      "pos": "noun",
+      "definition": "A stretch of land, especially with regard to its physical features.",
+      "example": "The terrain was rocky and difficult to cross."
+    },
+    {
+      "id": "ut-080",
+      "word": "Landscape",
+      "pos": "noun",
+      "definition": "All the visible features of an area of land, considered as a whole.",
+      "example": "The rural landscape was dotted with barns."
+    },
+    {
+      "id": "ut-081",
+      "word": "Scenery",
+      "pos": "noun",
+      "definition": "The natural features of a landscape considered for their appearance.",
+      "example": "The scenery along the coast is breathtaking."
+    },
+    {
+      "id": "ut-082",
+      "word": "Ambience",
+      "pos": "noun",
+      "definition": "The character and atmosphere of a place.",
+      "example": "The café has a cosy ambience."
+    },
+    {
+      "id": "ut-083",
+      "word": "Personnel",
+      "pos": "noun",
+      "definition": "People employed in an organisation collectively; staff.",
+      "example": "All personnel must sign the register."
+    },
+    {
+      "id": "ut-084",
+      "word": "Staff",
+      "pos": "noun",
+      "definition": "All the people employed by an organisation.",
+      "example": "The staff met at nine every morning."
+    },
+    {
+      "id": "ut-085",
+      "word": "Crew",
+      "pos": "noun",
+      "definition": "A group of people who work together, especially on a ship, plane or film.",
+      "example": "The crew boarded the ship at dawn."
+    },
+    {
+      "id": "ut-086",
+      "word": "Congregation",
+      "pos": "noun",
+      "definition": "A group of people assembled for religious worship.",
+      "example": "The congregation sang the closing hymn."
+    },
+    {
+      "id": "ut-087",
+      "word": "Audience",
+      "pos": "noun",
+      "definition": "The people who attend or watch a performance or broadcast.",
+      "example": "The audience applauded loudly."
+    },
+    {
+      "id": "ut-088",
+      "word": "Clientele",
+      "pos": "noun",
+      "definition": "The customers or clients of a business collectively.",
+      "example": "The salon has a loyal clientele."
+    },
+    {
+      "id": "ut-089",
+      "word": "Nobility",
+      "pos": "noun",
+      "definition": "People of noble rank or birth as a class; the aristocracy.",
+      "example": "The palace was once home to the nobility."
+    },
+    {
+      "id": "ut-090",
+      "word": "Clergy",
+      "pos": "noun",
+      "definition": "The body of ordained religious ministers considered as a group.",
+      "example": "Members of the clergy attended the service."
+    },
+    {
+      "id": "ut-091",
+      "word": "Militia",
+      "pos": "noun",
+      "definition": "A military force raised from the civilian population to supplement a regular army.",
+      "example": "The town formed a militia during the war."
+    },
+    {
+      "id": "ut-092",
+      "word": "Artillery",
+      "pos": "noun",
+      "definition": "Large-calibre guns used in warfare on land.",
+      "example": "The artillery opened fire at dawn."
+    },
+    {
+      "id": "ut-093",
+      "word": "Ammunition",
+      "pos": "noun",
+      "definition": "Bullets, shells and other projectiles used with firearms.",
+      "example": "The soldiers ran low on ammunition."
+    },
+    {
+      "id": "ut-094",
+      "word": "Munitions",
+      "pos": "noun",
+      "definition": "Military weapons, ammunition and equipment collectively.",
+      "example": "A convoy transported munitions to the front."
+    },
+    {
+      "id": "ut-095",
+      "word": "Weaponry",
+      "pos": "noun",
+      "definition": "Weapons of all kinds considered as a group.",
+      "example": "Modern weaponry has changed warfare."
+    },
+    {
+      "id": "ut-096",
+      "word": "Cavalry",
+      "pos": "noun",
+      "definition": "Soldiers who fight on horseback (historically) or in armoured vehicles.",
+      "example": "The cavalry charged across the field."
+    },
+    {
+      "id": "ut-097",
+      "word": "Infantry",
+      "pos": "noun",
+      "definition": "Soldiers who fight on foot.",
+      "example": "The infantry advanced under cover of night."
+    },
+    {
+      "id": "ut-098",
+      "word": "Fleet",
+      "pos": "noun",
+      "definition": "A group of ships sailing together or under one command.",
+      "example": "The fishing fleet returned at sunset."
+    },
+    {
+      "id": "ut-099",
+      "word": "Squadron",
+      "pos": "noun",
+      "definition": "A principal division of an air force or a naval unit.",
+      "example": "A squadron of jets flew overhead."
+    },
+    {
+      "id": "ut-100",
+      "word": "Constellation",
+      "pos": "noun",
+      "definition": "A group of stars forming a recognisable pattern in the sky.",
+      "example": "Orion is a familiar constellation in winter."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ut-q1",
+      "question": "Which word means: \"Any form of water — rain, snow, sleet or hail — that falls from clouds to the ground.\"?",
+      "options": [
+        "Nightwear",
+        "Fleet",
+        "Credentials",
+        "Precipitation"
+      ],
+      "answer": 3,
+      "explanation": "Precipitation (noun) — Any form of water — rain, snow, sleet or hail — that falls from clouds to the ground."
+    },
+    {
+      "id": "ut-q2",
+      "question": "Which word means: \"A collective term for the arms and legs of a human or animal.\"?",
+      "options": [
+        "Toiletries",
+        "Data",
+        "Limbs",
+        "Hardware"
+      ],
+      "answer": 2,
+      "explanation": "Limbs (noun) — A collective term for the arms and legs of a human or animal."
+    },
+    {
+      "id": "ut-q3",
+      "question": "Which word means: \"A general term for one's brothers and sisters.\"?",
+      "options": [
+        "Siblings",
+        "Periodicals",
+        "Utilities",
+        "Munitions"
+      ],
+      "answer": 0,
+      "explanation": "Siblings (noun) — A general term for one's brothers and sisters."
+    },
+    {
+      "id": "ut-q4",
+      "question": "Which word means: \"A shared term for the fingers and toes of a human being.\"?",
+      "options": [
+        "Legumes",
+        "Digits",
+        "Cargo",
+        "Infantry"
+      ],
+      "answer": 1,
+      "explanation": "Digits (noun) — A shared term for the fingers and toes of a human being."
+    },
+    {
+      "id": "ut-q5",
+      "question": "Which word means: \"The combined username and password (or similar proofs of identity) used to log in.\"?",
+      "options": [
+        "Nobility",
+        "Credentials",
+        "Livestock",
+        "Textiles"
+      ],
+      "answer": 1,
+      "explanation": "Credentials (noun) — The combined username and password (or similar proofs of identity) used to log in."
+    },
+    {
+      "id": "ut-q6",
+      "question": "Which word means: \"A pair of values, usually latitude and longitude, that pinpoint a location.\"?",
+      "options": [
+        "Coordinates",
+        "Periodicals",
+        "Software",
+        "Nightwear"
+      ],
+      "answer": 0,
+      "explanation": "Coordinates (noun) — A pair of values, usually latitude and longitude, that pinpoint a location."
+    },
+    {
+      "id": "ut-q7",
+      "question": "Which word means: \"Knives, forks and spoons used for eating and serving food.\"?",
+      "options": [
+        "Bakery",
+        "Accessories",
+        "Cutlery",
+        "Congregation"
+      ],
+      "answer": 2,
+      "explanation": "Cutlery (noun) — Knives, forks and spoons used for eating and serving food."
+    },
+    {
+      "id": "ut-q8",
+      "question": "Which word means: \"Movable household articles such as tables, chairs, beds and cupboards.\"?",
+      "options": [
+        "Furniture",
+        "Luggage",
+        "Footwear",
+        "Publications"
+      ],
+      "answer": 0,
+      "explanation": "Furniture (noun) — Movable household articles such as tables, chairs, beds and cupboards."
+    },
+    {
+      "id": "ut-q9",
+      "question": "Which word means: \"Tools and containers used in the kitchen, such as pots, pans and spatulas.\"?",
+      "options": [
+        "Siblings",
+        "Cargo",
+        "Vehicles",
+        "Utensils"
+      ],
+      "answer": 3,
+      "explanation": "Utensils (noun) — Tools and containers used in the kitchen, such as pots, pans and spatulas."
+    },
+    {
+      "id": "ut-q10",
+      "question": "Which word means: \"Domesticated bovine animals — cows, bulls, oxen and calves — kept as livestock.\"?",
+      "options": [
+        "Merchandise",
+        "Credentials",
+        "Cattle",
+        "Sportswear"
+      ],
+      "answer": 2,
+      "explanation": "Cattle (noun) — Domesticated bovine animals — cows, bulls, oxen and calves — kept as livestock."
+    },
+    {
+      "id": "ut-q11",
+      "question": "Which word means: \"Domesticated birds — chickens, ducks, turkeys and geese — raised for meat or eggs.\"?",
+      "options": [
+        "Poultry",
+        "Livestock",
+        "Literature",
+        "Textiles"
+      ],
+      "answer": 0,
+      "explanation": "Poultry (noun) — Domesticated birds — chickens, ducks, turkeys and geese — raised for meat or eggs."
+    },
+    {
+      "id": "ut-q12",
+      "question": "Which word means: \"Farm animals such as cattle, sheep, goats and pigs kept for use or profit.\"?",
+      "options": [
+        "Seafood",
+        "Livestock",
+        "Confectionery",
+        "Constellation"
+      ],
+      "answer": 1,
+      "explanation": "Livestock (noun) — Farm animals such as cattle, sheep, goats and pigs kept for use or profit."
+    },
+    {
+      "id": "ut-q13",
+      "question": "Which word means: \"Paper, envelopes, pens and other materials used for writing.\"?",
+      "options": [
+        "Stationery",
+        "Ambience",
+        "Baggage",
+        "Grain"
+      ],
+      "answer": 0,
+      "explanation": "Stationery (noun) — Paper, envelopes, pens and other materials used for writing."
+    },
+    {
+      "id": "ut-q14",
+      "question": "Which word means: \"Preparations applied to the body, especially the face, to improve appearance.\"?",
+      "options": [
+        "Crew",
+        "Jewellery",
+        "Cosmetics",
+        "Grain"
+      ],
+      "answer": 2,
+      "explanation": "Cosmetics (noun) — Preparations applied to the body, especially the face, to improve appearance."
+    },
+    {
+      "id": "ut-q15",
+      "question": "Which word means: \"Soaps, toothpaste, shampoo and similar articles used in personal grooming.\"?",
+      "options": [
+        "Coordinates",
+        "Toiletries",
+        "Literature",
+        "Headgear"
+      ],
+      "answer": 1,
+      "explanation": "Toiletries (noun) — Soaps, toothpaste, shampoo and similar articles used in personal grooming."
+    },
+    {
+      "id": "ut-q16",
+      "question": "Which word means: \"Decorative objects such as rings, necklaces and earrings worn on the body.\"?",
+      "options": [
+        "Siblings",
+        "Herbs",
+        "Jewellery",
+        "Clientele"
+      ],
+      "answer": 2,
+      "explanation": "Jewellery (noun) — Decorative objects such as rings, necklaces and earrings worn on the body."
+    },
+    {
+      "id": "ut-q17",
+      "question": "Which word means: \"Suitcases, bags and other containers used by a traveller.\"?",
+      "options": [
+        "Swimwear",
+        "Legumes",
+        "Luggage",
+        "Climate"
+      ],
+      "answer": 2,
+      "explanation": "Luggage (noun) — Suitcases, bags and other containers used by a traveller."
+    },
+    {
+      "id": "ut-q18",
+      "question": "Which word means: \"Traveller's bags and belongings collectively.\"?",
+      "options": [
+        "Cattle",
+        "Baggage",
+        "Toiletries",
+        "Correspondence"
+      ],
+      "answer": 1,
+      "explanation": "Baggage (noun) — Traveller's bags and belongings collectively."
+    },
+    {
+      "id": "ut-q19",
+      "question": "Which word means: \"A country's system of money — coins and banknotes — in general use.\"?",
+      "options": [
+        "Nobility",
+        "Machinery",
+        "Periodicals",
+        "Currency"
+      ],
+      "answer": 3,
+      "explanation": "Currency (noun) — A country's system of money — coins and banknotes — in general use."
+    },
+    {
+      "id": "ut-q20",
+      "question": "Which word means: \"Food and other household goods bought at a shop, especially fresh produce and staples.\"?",
+      "options": [
+        "Garments",
+        "Currency",
+        "Groceries",
+        "Digits"
+      ],
+      "answer": 2,
+      "explanation": "Groceries (noun) — Food and other household goods bought at a shop, especially fresh produce and staples."
+    },
+    {
+      "id": "ut-q21",
+      "question": "Which word means: \"Fresh fruits and vegetables collectively, especially those sold at a market.\"?",
+      "options": [
+        "Underwear",
+        "Produce",
+        "Electronics",
+        "Crew"
+      ],
+      "answer": 1,
+      "explanation": "Produce (noun) — Fresh fruits and vegetables collectively, especially those sold at a market."
+    },
+    {
+      "id": "ut-q22",
+      "question": "Which word means: \"Drinks of any kind, including water, tea, coffee, juice and soda.\"?",
+      "options": [
+        "Beverages",
+        "Digits",
+        "Scenery",
+        "Produce"
+      ],
+      "answer": 0,
+      "explanation": "Beverages (noun) — Drinks of any kind, including water, tea, coffee, juice and soda."
+    },
+    {
+      "id": "ut-q23",
+      "question": "Which word means: \"Sauces, spices and other substances added to food to enhance flavour.\"?",
+      "options": [
+        "Weather",
+        "Condiments",
+        "Digits",
+        "Groceries"
+      ],
+      "answer": 1,
+      "explanation": "Condiments (noun) — Sauces, spices and other substances added to food to enhance flavour."
+    },
+    {
+      "id": "ut-q24",
+      "question": "Which word means: \"Milk and products made from milk, such as cheese, butter and yoghurt.\"?",
+      "options": [
+        "Dairy",
+        "Correspondence",
+        "Headgear",
+        "Ammunition"
+      ],
+      "answer": 0,
+      "explanation": "Dairy (noun) — Milk and products made from milk, such as cheese, butter and yoghurt."
+    },
+    {
+      "id": "ut-q25",
+      "question": "Which word means: \"Edible fish and shellfish taken from the sea for food.\"?",
+      "options": [
+        "Congregation",
+        "Literature",
+        "Seafood",
+        "Credentials"
+      ],
+      "answer": 2,
+      "explanation": "Seafood (noun) — Edible fish and shellfish taken from the sea for food."
+    },
+    {
+      "id": "ut-q26",
+      "question": "Which word means: \"The plants of a particular region or period, considered collectively.\"?",
+      "options": [
+        "Flora",
+        "Cattle",
+        "Publications",
+        "Vegetation"
+      ],
+      "answer": 3,
+      "explanation": "Vegetation (noun) — The plants of a particular region or period, considered collectively."
+    },
+    {
+      "id": "ut-q27",
+      "question": "Which word means: \"The leaves of a plant or trees collectively.\"?",
+      "options": [
+        "Paperwork",
+        "Cutlery",
+        "Terrain",
+        "Foliage"
+      ],
+      "answer": 3,
+      "explanation": "Foliage (noun) — The leaves of a plant or trees collectively."
+    },
+    {
+      "id": "ut-q28",
+      "question": "Which word means: \"Wild animals, birds and plants living in their natural environment.\"?",
+      "options": [
+        "Wildlife",
+        "Bakery",
+        "Headgear",
+        "Seafood"
+      ],
+      "answer": 0,
+      "explanation": "Wildlife (noun) — Wild animals, birds and plants living in their natural environment."
+    },
+    {
+      "id": "ut-q29",
+      "question": "Which word means: \"The animal life of a particular region, habitat or geological period.\"?",
+      "options": [
+        "Spices",
+        "Accessories",
+        "Fauna",
+        "Constellation"
+      ],
+      "answer": 2,
+      "explanation": "Fauna (noun) — The animal life of a particular region, habitat or geological period."
+    },
+    {
+      "id": "ut-q30",
+      "question": "Which word means: \"The plant life of a particular region, habitat or geological period.\"?",
+      "options": [
+        "Infantry",
+        "Clergy",
+        "Flora",
+        "Toiletries"
+      ],
+      "answer": 2,
+      "explanation": "Flora (noun) — The plant life of a particular region, habitat or geological period."
+    },
+    {
+      "id": "ut-q31",
+      "question": "Which word means: \"Wheat, rice, maize and similar edible seeds harvested from grasses.\"?",
+      "options": [
+        "Grain",
+        "Sportswear",
+        "Poultry",
+        "Accessories"
+      ],
+      "answer": 0,
+      "explanation": "Grain (noun) — Wheat, rice, maize and similar edible seeds harvested from grasses."
+    },
+    {
+      "id": "ut-q32",
+      "question": "Which word means: \"Peas, beans, lentils and other plants of the pea family used as food.\"?",
+      "options": [
+        "Flora",
+        "Aircraft",
+        "Terrain",
+        "Legumes"
+      ],
+      "answer": 3,
+      "explanation": "Legumes (noun) — Peas, beans, lentils and other plants of the pea family used as food."
+    },
+    {
+      "id": "ut-q33",
+      "question": "Which word means: \"Aromatic vegetable substances such as cloves, pepper and cinnamon used to flavour food.\"?",
+      "options": [
+        "Archives",
+        "Spices",
+        "Electronics",
+        "Legumes"
+      ],
+      "answer": 1,
+      "explanation": "Spices (noun) — Aromatic vegetable substances such as cloves, pepper and cinnamon used to flavour food."
+    },
+    {
+      "id": "ut-q34",
+      "question": "Which word means: \"Plants such as parsley, basil and thyme used to flavour food or for medicine.\"?",
+      "options": [
+        "Headgear",
+        "Nightwear",
+        "Herbs",
+        "Garments"
+      ],
+      "answer": 2,
+      "explanation": "Herbs (noun) — Plants such as parsley, basil and thyme used to flavour food or for medicine."
+    },
+    {
+      "id": "ut-q35",
+      "question": "Which word means: \"Sweets, chocolate and similar sugary foods considered collectively.\"?",
+      "options": [
+        "Liabilities",
+        "Appliances",
+        "Currency",
+        "Confectionery"
+      ],
+      "answer": 3,
+      "explanation": "Confectionery (noun) — Sweets, chocolate and similar sugary foods considered collectively."
+    },
+    {
+      "id": "ut-q36",
+      "question": "Which word means: \"Bread, cakes, pastries and similar baked goods.\"?",
+      "options": [
+        "Limbs",
+        "Bakery",
+        "Dairy",
+        "Watercraft"
+      ],
+      "answer": 1,
+      "explanation": "Bakery (noun) — Bread, cakes, pastries and similar baked goods."
+    },
+    {
+      "id": "ut-q37",
+      "question": "Which word means: \"Cloths or woven fabrics collectively.\"?",
+      "options": [
+        "Squadron",
+        "Herbs",
+        "Data",
+        "Textiles"
+      ],
+      "answer": 3,
+      "explanation": "Textiles (noun) — Cloths or woven fabrics collectively."
+    },
+    {
+      "id": "ut-q38",
+      "question": "Which word means: \"Items of clothing collectively.\"?",
+      "options": [
+        "Credentials",
+        "Garments",
+        "Infrastructure",
+        "Luggage"
+      ],
+      "answer": 1,
+      "explanation": "Garments (noun) — Items of clothing collectively."
+    },
+    {
+      "id": "ut-q39",
+      "question": "Which word means: \"Clothing, especially formal or of a particular type.\"?",
+      "options": [
+        "Cattle",
+        "Correspondence",
+        "Luggage",
+        "Apparel"
+      ],
+      "answer": 3,
+      "explanation": "Apparel (noun) — Clothing, especially formal or of a particular type."
+    },
+    {
+      "id": "ut-q40",
+      "question": "Which word means: \"Clothes considered as a group, especially fine or formal ones.\"?",
+      "options": [
+        "Luggage",
+        "Attire",
+        "Militia",
+        "Peripherals"
+      ],
+      "answer": 1,
+      "explanation": "Attire (noun) — Clothes considered as a group, especially fine or formal ones."
+    },
+    {
+      "id": "ut-q41",
+      "question": "Which word means: \"Shoes, boots, sandals and other coverings for the feet.\"?",
+      "options": [
+        "Nightwear",
+        "Footwear",
+        "Weather",
+        "Jewellery"
+      ],
+      "answer": 1,
+      "explanation": "Footwear (noun) — Shoes, boots, sandals and other coverings for the feet."
+    },
+    {
+      "id": "ut-q42",
+      "question": "Which word means: \"Hats, caps, helmets and other coverings for the head.\"?",
+      "options": [
+        "Cattle",
+        "Sportswear",
+        "Cavalry",
+        "Headgear"
+      ],
+      "answer": 3,
+      "explanation": "Headgear (noun) — Hats, caps, helmets and other coverings for the head."
+    },
+    {
+      "id": "ut-q43",
+      "question": "Which word means: \"Coats, jackets and other garments worn over other clothes outdoors.\"?",
+      "options": [
+        "Infrastructure",
+        "Cavalry",
+        "Garments",
+        "Outerwear"
+      ],
+      "answer": 3,
+      "explanation": "Outerwear (noun) — Coats, jackets and other garments worn over other clothes outdoors."
+    },
+    {
+      "id": "ut-q44",
+      "question": "Which word means: \"Clothing worn next to the skin under other clothes.\"?",
+      "options": [
+        "Dairy",
+        "Munitions",
+        "Underwear",
+        "Weaponry"
+      ],
+      "answer": 2,
+      "explanation": "Underwear (noun) — Clothing worn next to the skin under other clothes."
+    },
+    {
+      "id": "ut-q45",
+      "question": "Which word means: \"Clothing worn in bed, such as pyjamas and nightgowns.\"?",
+      "options": [
+        "Weather",
+        "Clientele",
+        "Machinery",
+        "Nightwear"
+      ],
+      "answer": 3,
+      "explanation": "Nightwear (noun) — Clothing worn in bed, such as pyjamas and nightgowns."
+    },
+    {
+      "id": "ut-q46",
+      "question": "Which word means: \"Garments worn for swimming, such as trunks and swimsuits.\"?",
+      "options": [
+        "Condiments",
+        "Swimwear",
+        "Vehicles",
+        "Correspondence"
+      ],
+      "answer": 1,
+      "explanation": "Swimwear (noun) — Garments worn for swimming, such as trunks and swimsuits."
+    },
+    {
+      "id": "ut-q47",
+      "question": "Which word means: \"Clothing worn for sport or informal exercise.\"?",
+      "options": [
+        "Sportswear",
+        "Assets",
+        "Underwear",
+        "Apparel"
+      ],
+      "answer": 0,
+      "explanation": "Sportswear (noun) — Clothing worn for sport or informal exercise."
+    },
+    {
+      "id": "ut-q48",
+      "question": "Which word means: \"Small articles such as belts, scarves and jewellery worn to complement an outfit.\"?",
+      "options": [
+        "Headgear",
+        "Accessories",
+        "Textiles",
+        "Hardware"
+      ],
+      "answer": 1,
+      "explanation": "Accessories (noun) — Small articles such as belts, scarves and jewellery worn to complement an outfit."
+    },
+    {
+      "id": "ut-q49",
+      "question": "Which word means: \"Machines collectively, especially large ones used in industry.\"?",
+      "options": [
+        "Coordinates",
+        "Weaponry",
+        "Machinery",
+        "Cavalry"
+      ],
+      "answer": 2,
+      "explanation": "Machinery (noun) — Machines collectively, especially large ones used in industry."
+    },
+    {
+      "id": "ut-q50",
+      "question": "Which word means: \"The tools, devices and clothing needed for a particular activity.\"?",
+      "options": [
+        "Equipment",
+        "Footwear",
+        "Landscape",
+        "Periodicals"
+      ],
+      "answer": 0,
+      "explanation": "Equipment (noun) — The tools, devices and clothing needed for a particular activity."
+    },
+    {
+      "id": "ut-q51",
+      "question": "Which word means: \"Tools, machinery and other durable equipment; also the physical parts of a computer.\"?",
+      "options": [
+        "Beverages",
+        "Hardware",
+        "Jewellery",
+        "Textiles"
+      ],
+      "answer": 1,
+      "explanation": "Hardware (noun) — Tools, machinery and other durable equipment; also the physical parts of a computer."
+    },
+    {
+      "id": "ut-q52",
+      "question": "Which word means: \"Programs and other operating information used by a computer.\"?",
+      "options": [
+        "Beverages",
+        "Fauna",
+        "Software",
+        "Textiles"
+      ],
+      "answer": 2,
+      "explanation": "Software (noun) — Programs and other operating information used by a computer."
+    },
+    {
+      "id": "ut-q53",
+      "question": "Which word means: \"External devices such as printers, mice and keyboards connected to a computer.\"?",
+      "options": [
+        "Peripherals",
+        "Bakery",
+        "Flora",
+        "Audience"
+      ],
+      "answer": 0,
+      "explanation": "Peripherals (noun) — External devices such as printers, mice and keyboards connected to a computer."
+    },
+    {
+      "id": "ut-q54",
+      "question": "Which word means: \"Devices and equipment that use electric currents controlled by transistors and circuits.\"?",
+      "options": [
+        "Electronics",
+        "Fleet",
+        "Data",
+        "Correspondence"
+      ],
+      "answer": 0,
+      "explanation": "Electronics (noun) — Devices and equipment that use electric currents controlled by transistors and circuits."
+    },
+    {
+      "id": "ut-q55",
+      "question": "Which word means: \"Household devices such as fridges, washing machines and ovens.\"?",
+      "options": [
+        "Seafood",
+        "Appliances",
+        "Archives",
+        "Records"
+      ],
+      "answer": 1,
+      "explanation": "Appliances (noun) — Household devices such as fridges, washing machines and ovens."
+    },
+    {
+      "id": "ut-q56",
+      "question": "Which word means: \"Essential services such as water, electricity, gas and internet supplied to homes.\"?",
+      "options": [
+        "Accessories",
+        "Foliage",
+        "Textiles",
+        "Utilities"
+      ],
+      "answer": 3,
+      "explanation": "Utilities (noun) — Essential services such as water, electricity, gas and internet supplied to homes."
+    },
+    {
+      "id": "ut-q57",
+      "question": "Which word means: \"The basic physical systems of a country — roads, bridges, power and water.\"?",
+      "options": [
+        "Luggage",
+        "Infrastructure",
+        "Documentation",
+        "Watercraft"
+      ],
+      "answer": 1,
+      "explanation": "Infrastructure (noun) — The basic physical systems of a country — roads, bridges, power and water."
+    },
+    {
+      "id": "ut-q58",
+      "question": "Which word means: \"Cars, trucks, buses and other means of transport collectively.\"?",
+      "options": [
+        "Utilities",
+        "Vehicles",
+        "Infrastructure",
+        "Assets"
+      ],
+      "answer": 1,
+      "explanation": "Vehicles (noun) — Cars, trucks, buses and other means of transport collectively."
+    },
+    {
+      "id": "ut-q59",
+      "question": "Which word means: \"Machines that fly, including planes, helicopters and gliders.\"?",
+      "options": [
+        "Audience",
+        "Aircraft",
+        "Weaponry",
+        "Bakery"
+      ],
+      "answer": 1,
+      "explanation": "Aircraft (noun) — Machines that fly, including planes, helicopters and gliders."
+    },
+    {
+      "id": "ut-q60",
+      "question": "Which word means: \"Boats, ships and other vessels used on water.\"?",
+      "options": [
+        "Weaponry",
+        "Watercraft",
+        "Fauna",
+        "Infantry"
+      ],
+      "answer": 1,
+      "explanation": "Watercraft (noun) — Boats, ships and other vessels used on water."
+    },
+    {
+      "id": "ut-q61",
+      "question": "Which word means: \"Goods carried on a ship, plane or other vehicle.\"?",
+      "options": [
+        "Outerwear",
+        "Liabilities",
+        "Bakery",
+        "Cargo"
+      ],
+      "answer": 3,
+      "explanation": "Cargo (noun) — Goods carried on a ship, plane or other vehicle."
+    },
+    {
+      "id": "ut-q62",
+      "question": "Which word means: \"Goods transported in bulk by truck, train, ship or aircraft.\"?",
+      "options": [
+        "Footwear",
+        "Freight",
+        "Clergy",
+        "Artillery"
+      ],
+      "answer": 1,
+      "explanation": "Freight (noun) — Goods transported in bulk by truck, train, ship or aircraft."
+    },
+    {
+      "id": "ut-q63",
+      "question": "Which word means: \"Goods to be bought and sold, especially in a shop.\"?",
+      "options": [
+        "Merchandise",
+        "Artillery",
+        "Footwear",
+        "Documentation"
+      ],
+      "answer": 0,
+      "explanation": "Merchandise (noun) — Goods to be bought and sold, especially in a shop."
+    },
+    {
+      "id": "ut-q64",
+      "question": "Which word means: \"A complete list of items such as goods in stock or contents of a building.\"?",
+      "options": [
+        "Limbs",
+        "Inventory",
+        "Personnel",
+        "Ambience"
+      ],
+      "answer": 1,
+      "explanation": "Inventory (noun) — A complete list of items such as goods in stock or contents of a building."
+    },
+    {
+      "id": "ut-q65",
+      "question": "Which word means: \"Property and possessions of value owned by a person or organisation.\"?",
+      "options": [
+        "Assets",
+        "Fauna",
+        "Clientele",
+        "Vegetation"
+      ],
+      "answer": 0,
+      "explanation": "Assets (noun) — Property and possessions of value owned by a person or organisation."
+    },
+    {
+      "id": "ut-q66",
+      "question": "Which word means: \"Debts and financial obligations owed by a person or organisation.\"?",
+      "options": [
+        "Weaponry",
+        "Merchandise",
+        "Dairy",
+        "Liabilities"
+      ],
+      "answer": 3,
+      "explanation": "Liabilities (noun) — Debts and financial obligations owed by a person or organisation."
+    },
+    {
+      "id": "ut-q67",
+      "question": "Which word means: \"Letters, emails and other written communications sent and received.\"?",
+      "options": [
+        "Livestock",
+        "Correspondence",
+        "Vegetation",
+        "Personnel"
+      ],
+      "answer": 1,
+      "explanation": "Correspondence (noun) — Letters, emails and other written communications sent and received."
+    },
+    {
+      "id": "ut-q68",
+      "question": "Which word means: \"Written records or supporting documents for something.\"?",
+      "options": [
+        "Documentation",
+        "Utensils",
+        "Media",
+        "Merchandise"
+      ],
+      "answer": 0,
+      "explanation": "Documentation (noun) — Written records or supporting documents for something."
+    },
+    {
+      "id": "ut-q69",
+      "question": "Which word means: \"Routine written work such as forms, reports and records.\"?",
+      "options": [
+        "Credentials",
+        "Electronics",
+        "Paperwork",
+        "Clergy"
+      ],
+      "answer": 2,
+      "explanation": "Paperwork (noun) — Routine written work such as forms, reports and records."
+    },
+    {
+      "id": "ut-q70",
+      "question": "Which word means: \"A collection of historical documents or records preserved for reference.\"?",
+      "options": [
+        "Archives",
+        "Ambience",
+        "Literature",
+        "Grain"
+      ],
+      "answer": 0,
+      "explanation": "Archives (noun) — A collection of historical documents or records preserved for reference."
+    },
+    {
+      "id": "ut-q71",
+      "question": "Which word means: \"Documents or other pieces of evidence kept as information.\"?",
+      "options": [
+        "Apparel",
+        "Garments",
+        "Flora",
+        "Records"
+      ],
+      "answer": 3,
+      "explanation": "Records (noun) — Documents or other pieces of evidence kept as information."
+    },
+    {
+      "id": "ut-q72",
+      "question": "Which word means: \"Facts and statistics collected for reference or analysis.\"?",
+      "options": [
+        "Archives",
+        "Climate",
+        "Swimwear",
+        "Data"
+      ],
+      "answer": 3,
+      "explanation": "Data (noun) — Facts and statistics collected for reference or analysis."
+    },
+    {
+      "id": "ut-q73",
+      "question": "Which word means: \"The main means of mass communication — press, broadcasting and internet — collectively.\"?",
+      "options": [
+        "Fauna",
+        "Media",
+        "Toiletries",
+        "Fleet"
+      ],
+      "answer": 1,
+      "explanation": "Media (noun) — The main means of mass communication — press, broadcasting and internet — collectively."
+    },
+    {
+      "id": "ut-q74",
+      "question": "Which word means: \"Books, journals, magazines and other printed or online works.\"?",
+      "options": [
+        "Legumes",
+        "Congregation",
+        "Headgear",
+        "Publications"
+      ],
+      "answer": 3,
+      "explanation": "Publications (noun) — Books, journals, magazines and other printed or online works."
+    },
+    {
+      "id": "ut-q75",
+      "question": "Which word means: \"Magazines and journals published at regular intervals.\"?",
+      "options": [
+        "Periodicals",
+        "Congregation",
+        "Footwear",
+        "Watercraft"
+      ],
+      "answer": 0,
+      "explanation": "Periodicals (noun) — Magazines and journals published at regular intervals."
+    },
+    {
+      "id": "ut-q76",
+      "question": "Which word means: \"Written works, especially novels, poetry and drama, of lasting artistic merit.\"?",
+      "options": [
+        "Artillery",
+        "Luggage",
+        "Freight",
+        "Literature"
+      ],
+      "answer": 3,
+      "explanation": "Literature (noun) — Written works, especially novels, poetry and drama, of lasting artistic merit."
+    },
+    {
+      "id": "ut-q77",
+      "question": "Which word means: \"The state of the atmosphere — heat, cold, wetness, wind — at a particular time.\"?",
+      "options": [
+        "Weather",
+        "Nobility",
+        "Grain",
+        "Digits"
+      ],
+      "answer": 0,
+      "explanation": "Weather (noun) — The state of the atmosphere — heat, cold, wetness, wind — at a particular time."
+    },
+    {
+      "id": "ut-q78",
+      "question": "Which word means: \"The general weather conditions of an area over a long period.\"?",
+      "options": [
+        "Peripherals",
+        "Climate",
+        "Furniture",
+        "Data"
+      ],
+      "answer": 1,
+      "explanation": "Climate (noun) — The general weather conditions of an area over a long period."
+    },
+    {
+      "id": "ut-q79",
+      "question": "Which word means: \"A stretch of land, especially with regard to its physical features.\"?",
+      "options": [
+        "Peripherals",
+        "Infrastructure",
+        "Hardware",
+        "Terrain"
+      ],
+      "answer": 3,
+      "explanation": "Terrain (noun) — A stretch of land, especially with regard to its physical features."
+    },
+    {
+      "id": "ut-q80",
+      "question": "Which word means: \"All the visible features of an area of land, considered as a whole.\"?",
+      "options": [
+        "Merchandise",
+        "Cutlery",
+        "Landscape",
+        "Confectionery"
+      ],
+      "answer": 2,
+      "explanation": "Landscape (noun) — All the visible features of an area of land, considered as a whole."
+    },
+    {
+      "id": "ut-q81",
+      "question": "Which word means: \"The natural features of a landscape considered for their appearance.\"?",
+      "options": [
+        "Scenery",
+        "Attire",
+        "Peripherals",
+        "Vehicles"
+      ],
+      "answer": 0,
+      "explanation": "Scenery (noun) — The natural features of a landscape considered for their appearance."
+    },
+    {
+      "id": "ut-q82",
+      "question": "Which word means: \"The character and atmosphere of a place.\"?",
+      "options": [
+        "Ambience",
+        "Foliage",
+        "Scenery",
+        "Paperwork"
+      ],
+      "answer": 0,
+      "explanation": "Ambience (noun) — The character and atmosphere of a place."
+    },
+    {
+      "id": "ut-q83",
+      "question": "Which word means: \"People employed in an organisation collectively; staff.\"?",
+      "options": [
+        "Climate",
+        "Personnel",
+        "Archives",
+        "Luggage"
+      ],
+      "answer": 1,
+      "explanation": "Personnel (noun) — People employed in an organisation collectively; staff."
+    },
+    {
+      "id": "ut-q84",
+      "question": "Which word means: \"All the people employed by an organisation.\"?",
+      "options": [
+        "Staff",
+        "Machinery",
+        "Livestock",
+        "Artillery"
+      ],
+      "answer": 0,
+      "explanation": "Staff (noun) — All the people employed by an organisation."
+    },
+    {
+      "id": "ut-q85",
+      "question": "Which word means: \"A group of people who work together, especially on a ship, plane or film.\"?",
+      "options": [
+        "Correspondence",
+        "Staff",
+        "Crew",
+        "Cutlery"
+      ],
+      "answer": 2,
+      "explanation": "Crew (noun) — A group of people who work together, especially on a ship, plane or film."
+    },
+    {
+      "id": "ut-q86",
+      "question": "Which word means: \"A group of people assembled for religious worship.\"?",
+      "options": [
+        "Hardware",
+        "Produce",
+        "Congregation",
+        "Paperwork"
+      ],
+      "answer": 2,
+      "explanation": "Congregation (noun) — A group of people assembled for religious worship."
+    },
+    {
+      "id": "ut-q87",
+      "question": "Which word means: \"The people who attend or watch a performance or broadcast.\"?",
+      "options": [
+        "Audience",
+        "Accessories",
+        "Peripherals",
+        "Outerwear"
+      ],
+      "answer": 0,
+      "explanation": "Audience (noun) — The people who attend or watch a performance or broadcast."
+    },
+    {
+      "id": "ut-q88",
+      "question": "Which word means: \"The customers or clients of a business collectively.\"?",
+      "options": [
+        "Clientele",
+        "Credentials",
+        "Siblings",
+        "Limbs"
+      ],
+      "answer": 0,
+      "explanation": "Clientele (noun) — The customers or clients of a business collectively."
+    },
+    {
+      "id": "ut-q89",
+      "question": "Which word means: \"People of noble rank or birth as a class; the aristocracy.\"?",
+      "options": [
+        "Nobility",
+        "Merchandise",
+        "Coordinates",
+        "Produce"
+      ],
+      "answer": 0,
+      "explanation": "Nobility (noun) — People of noble rank or birth as a class; the aristocracy."
+    },
+    {
+      "id": "ut-q90",
+      "question": "Which word means: \"The body of ordained religious ministers considered as a group.\"?",
+      "options": [
+        "Constellation",
+        "Clergy",
+        "Flora",
+        "Scenery"
+      ],
+      "answer": 1,
+      "explanation": "Clergy (noun) — The body of ordained religious ministers considered as a group."
+    },
+    {
+      "id": "ut-q91",
+      "question": "Which word means: \"A military force raised from the civilian population to supplement a regular army.\"?",
+      "options": [
+        "Machinery",
+        "Jewellery",
+        "Infantry",
+        "Militia"
+      ],
+      "answer": 3,
+      "explanation": "Militia (noun) — A military force raised from the civilian population to supplement a regular army."
+    },
+    {
+      "id": "ut-q92",
+      "question": "Which word means: \"Large-calibre guns used in warfare on land.\"?",
+      "options": [
+        "Cattle",
+        "Assets",
+        "Poultry",
+        "Artillery"
+      ],
+      "answer": 3,
+      "explanation": "Artillery (noun) — Large-calibre guns used in warfare on land."
+    },
+    {
+      "id": "ut-q93",
+      "question": "Which word means: \"Bullets, shells and other projectiles used with firearms.\"?",
+      "options": [
+        "Climate",
+        "Ammunition",
+        "Infantry",
+        "Archives"
+      ],
+      "answer": 1,
+      "explanation": "Ammunition (noun) — Bullets, shells and other projectiles used with firearms."
+    },
+    {
+      "id": "ut-q94",
+      "question": "Which word means: \"Military weapons, ammunition and equipment collectively.\"?",
+      "options": [
+        "Munitions",
+        "Seafood",
+        "Climate",
+        "Attire"
+      ],
+      "answer": 0,
+      "explanation": "Munitions (noun) — Military weapons, ammunition and equipment collectively."
+    },
+    {
+      "id": "ut-q95",
+      "question": "Which word means: \"Weapons of all kinds considered as a group.\"?",
+      "options": [
+        "Aircraft",
+        "Weaponry",
+        "Apparel",
+        "Bakery"
+      ],
+      "answer": 1,
+      "explanation": "Weaponry (noun) — Weapons of all kinds considered as a group."
+    },
+    {
+      "id": "ut-q96",
+      "question": "Which word means: \"Soldiers who fight on horseback (historically) or in armoured vehicles.\"?",
+      "options": [
+        "Staff",
+        "Cargo",
+        "Publications",
+        "Cavalry"
+      ],
+      "answer": 3,
+      "explanation": "Cavalry (noun) — Soldiers who fight on horseback (historically) or in armoured vehicles."
+    },
+    {
+      "id": "ut-q97",
+      "question": "Which word means: \"Soldiers who fight on foot.\"?",
+      "options": [
+        "Livestock",
+        "Infantry",
+        "Fauna",
+        "Peripherals"
+      ],
+      "answer": 1,
+      "explanation": "Infantry (noun) — Soldiers who fight on foot."
+    },
+    {
+      "id": "ut-q98",
+      "question": "Which word means: \"A group of ships sailing together or under one command.\"?",
+      "options": [
+        "Assets",
+        "Clergy",
+        "Fleet",
+        "Paperwork"
+      ],
+      "answer": 2,
+      "explanation": "Fleet (noun) — A group of ships sailing together or under one command."
+    },
+    {
+      "id": "ut-q99",
+      "question": "Which word means: \"A principal division of an air force or a naval unit.\"?",
+      "options": [
+        "Munitions",
+        "Inventory",
+        "Squadron",
+        "Hardware"
+      ],
+      "answer": 2,
+      "explanation": "Squadron (noun) — A principal division of an air force or a naval unit."
+    },
+    {
+      "id": "ut-q100",
+      "question": "Which word means: \"A group of stars forming a recognisable pattern in the sky.\"?",
+      "options": [
+        "Publications",
+        "Constellation",
+        "Fauna",
+        "Vehicles"
+      ],
+      "answer": 1,
+      "explanation": "Constellation (noun) — A group of stars forming a recognisable pattern in the sky."
+    }
+  ]
+}

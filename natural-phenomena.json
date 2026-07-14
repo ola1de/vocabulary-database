@@ -1,0 +1,1908 @@
+{
+  "category": "natural-phenomena",
+  "title": "Natural Phenomena",
+  "words": [
+    {
+      "id": "np-001",
+      "word": "Golden hour",
+      "pos": "noun",
+      "definition": "The period shortly after sunrise or before sunset when daylight is soft, warm and golden.",
+      "example": "Photographers love shooting portraits during the golden hour."
+    },
+    {
+      "id": "np-002",
+      "word": "Meteor",
+      "pos": "noun",
+      "definition": "A streak of light in the sky produced by a small piece of rock burning as it enters the atmosphere.",
+      "example": "A bright meteor flashed across the sky."
+    },
+    {
+      "id": "np-003",
+      "word": "Cumulus clouds",
+      "pos": "noun",
+      "definition": "Puffy, cotton-like clouds with flat bases and rounded tops, common in fair weather.",
+      "example": "Cumulus clouds drifted lazily overhead."
+    },
+    {
+      "id": "np-004",
+      "word": "Aurora",
+      "pos": "noun",
+      "definition": "A natural coloured light display in the sky, seen mainly near the poles.",
+      "example": "We travelled to Norway to see the aurora."
+    },
+    {
+      "id": "np-005",
+      "word": "Rainbow",
+      "pos": "noun",
+      "definition": "An arc of colours in the sky caused by sunlight refracting through water droplets.",
+      "example": "A rainbow appeared after the shower."
+    },
+    {
+      "id": "np-006",
+      "word": "Petrichor",
+      "pos": "noun",
+      "definition": "The pleasant earthy smell produced when rain falls on dry soil.",
+      "example": "The garden filled with the scent of petrichor."
+    },
+    {
+      "id": "np-007",
+      "word": "Halcyon days",
+      "pos": "noun",
+      "definition": "A period of calm, happy weather traditionally around the winter solstice.",
+      "example": "Sailors welcomed the halcyon days."
+    },
+    {
+      "id": "np-008",
+      "word": "Zephyr",
+      "pos": "noun",
+      "definition": "A soft, gentle breeze, especially from the west.",
+      "example": "A cool zephyr rustled the leaves."
+    },
+    {
+      "id": "np-009",
+      "word": "Mirage",
+      "pos": "noun",
+      "definition": "An optical illusion caused by heat, often making distant objects look like water.",
+      "example": "In the desert we saw a shimmering mirage."
+    },
+    {
+      "id": "np-010",
+      "word": "Eclipse",
+      "pos": "noun",
+      "definition": "An event in which one heavenly body is obscured by another, such as the sun by the moon.",
+      "example": "A total eclipse darkened the town at noon."
+    },
+    {
+      "id": "np-011",
+      "word": "Solstice",
+      "pos": "noun",
+      "definition": "The time when the sun reaches its highest or lowest point in the sky at noon.",
+      "example": "The summer solstice is the longest day of the year."
+    },
+    {
+      "id": "np-012",
+      "word": "Equinox",
+      "pos": "noun",
+      "definition": "One of two days each year when day and night are about equal in length.",
+      "example": "Spring begins near the March equinox."
+    },
+    {
+      "id": "np-013",
+      "word": "Tsunami",
+      "pos": "noun",
+      "definition": "A very large sea wave caused by an underwater earthquake or eruption.",
+      "example": "The tsunami swept across the coast."
+    },
+    {
+      "id": "np-014",
+      "word": "Sundog",
+      "pos": "noun",
+      "definition": "A bright spot in the sky beside the sun caused by ice crystals refracting light.",
+      "example": "Two sundogs glowed on either side of the low sun."
+    },
+    {
+      "id": "np-015",
+      "word": "Halo",
+      "pos": "noun",
+      "definition": "A ring of light around the sun or moon caused by ice crystals in high clouds.",
+      "example": "A pale halo circled the winter moon."
+    },
+    {
+      "id": "np-016",
+      "word": "Nimbus",
+      "pos": "noun",
+      "definition": "A dark, dense cloud that produces rain or snow.",
+      "example": "The nimbus overhead promised a downpour."
+    },
+    {
+      "id": "np-017",
+      "word": "Cirrus",
+      "pos": "noun",
+      "definition": "Thin, wispy clouds of ice crystals found high in the sky.",
+      "example": "Delicate cirrus streaks lined the horizon."
+    },
+    {
+      "id": "np-018",
+      "word": "Stratus",
+      "pos": "noun",
+      "definition": "Low, grey, sheet-like clouds that often bring drizzle.",
+      "example": "Stratus covered the whole valley."
+    },
+    {
+      "id": "np-019",
+      "word": "Fogbow",
+      "pos": "noun",
+      "definition": "A pale, colourless arc similar to a rainbow, formed in fog.",
+      "example": "A ghostly fogbow appeared over the moor."
+    },
+    {
+      "id": "np-020",
+      "word": "Moonbow",
+      "pos": "noun",
+      "definition": "A rainbow produced by moonlight rather than sunlight.",
+      "example": "We glimpsed a faint moonbow at the waterfall."
+    },
+    {
+      "id": "np-021",
+      "word": "Alpenglow",
+      "pos": "noun",
+      "definition": "A rosy glow seen on mountain peaks at sunrise or sunset.",
+      "example": "Alpenglow lit the snowy summit."
+    },
+    {
+      "id": "np-022",
+      "word": "Crepuscular rays",
+      "pos": "noun",
+      "definition": "Sunbeams that appear to radiate from a single point in the sky.",
+      "example": "Crepuscular rays streamed through the clouds."
+    },
+    {
+      "id": "np-023",
+      "word": "Bioluminescence",
+      "pos": "noun",
+      "definition": "The natural production of light by living organisms.",
+      "example": "The bay glowed at night from bioluminescence."
+    },
+    {
+      "id": "np-024",
+      "word": "Phosphorescence",
+      "pos": "noun",
+      "definition": "A soft glow emitted by a substance without noticeable heat.",
+      "example": "The dial showed a green phosphorescence."
+    },
+    {
+      "id": "np-025",
+      "word": "Fulgurite",
+      "pos": "noun",
+      "definition": "A glassy tube formed in sand or rock when lightning strikes.",
+      "example": "They dug up a slender fulgurite from the dune."
+    },
+    {
+      "id": "np-026",
+      "word": "Foehn",
+      "pos": "noun",
+      "definition": "A warm, dry wind that descends the lee side of a mountain range.",
+      "example": "A foehn melted the alpine snow rapidly."
+    },
+    {
+      "id": "np-027",
+      "word": "Sirocco",
+      "pos": "noun",
+      "definition": "A hot, dusty wind blowing from North Africa across the Mediterranean.",
+      "example": "The sirocco tinted the sky orange."
+    },
+    {
+      "id": "np-028",
+      "word": "Chinook",
+      "pos": "noun",
+      "definition": "A warm, dry wind that blows down the eastern slopes of the Rocky Mountains.",
+      "example": "A chinook raised the temperature by twenty degrees."
+    },
+    {
+      "id": "np-029",
+      "word": "Monsoon",
+      "pos": "noun",
+      "definition": "A seasonal wind bringing heavy rains to South and Southeast Asia.",
+      "example": "The monsoon flooded the streets."
+    },
+    {
+      "id": "np-030",
+      "word": "Typhoon",
+      "pos": "noun",
+      "definition": "A tropical cyclone occurring in the northwestern Pacific Ocean.",
+      "example": "A powerful typhoon struck the coast."
+    },
+    {
+      "id": "np-031",
+      "word": "Hurricane",
+      "pos": "noun",
+      "definition": "A severe tropical cyclone in the Atlantic or eastern Pacific.",
+      "example": "The hurricane made landfall overnight."
+    },
+    {
+      "id": "np-032",
+      "word": "Cyclone",
+      "pos": "noun",
+      "definition": "A large weather system with rotating winds around a low-pressure centre.",
+      "example": "A cyclone battered the fishing fleet."
+    },
+    {
+      "id": "np-033",
+      "word": "Tornado",
+      "pos": "noun",
+      "definition": "A violently rotating column of air extending from a thunderstorm to the ground.",
+      "example": "A tornado tore through the plains."
+    },
+    {
+      "id": "np-034",
+      "word": "Waterspout",
+      "pos": "noun",
+      "definition": "A rotating column of water and spray forming over a lake or sea.",
+      "example": "A waterspout danced across the bay."
+    },
+    {
+      "id": "np-035",
+      "word": "Dust devil",
+      "pos": "noun",
+      "definition": "A small, brief whirlwind that lifts dust from the ground.",
+      "example": "A dust devil skittered across the field."
+    },
+    {
+      "id": "np-036",
+      "word": "Haboob",
+      "pos": "noun",
+      "definition": "A dense sandstorm carried by a wall of wind.",
+      "example": "A haboob engulfed the desert town."
+    },
+    {
+      "id": "np-037",
+      "word": "Derecho",
+      "pos": "noun",
+      "definition": "A widespread, long-lived, straight-line windstorm from thunderstorms.",
+      "example": "A derecho knocked out power across the state."
+    },
+    {
+      "id": "np-038",
+      "word": "Microburst",
+      "pos": "noun",
+      "definition": "A powerful downdraft from a thunderstorm affecting a small area.",
+      "example": "The microburst flipped several planes on the tarmac."
+    },
+    {
+      "id": "np-039",
+      "word": "Virga",
+      "pos": "noun",
+      "definition": "Streaks of rain or snow that evaporate before reaching the ground.",
+      "example": "Grey virga hung beneath the cloud."
+    },
+    {
+      "id": "np-040",
+      "word": "Mammatus",
+      "pos": "noun",
+      "definition": "Pouch-like formations hanging beneath thunderstorm clouds.",
+      "example": "Mammatus dotted the sky after the storm."
+    },
+    {
+      "id": "np-041",
+      "word": "Lenticular cloud",
+      "pos": "noun",
+      "definition": "A lens-shaped cloud that forms over mountains in strong winds.",
+      "example": "A giant lenticular cloud hovered above the peak."
+    },
+    {
+      "id": "np-042",
+      "word": "Nacreous clouds",
+      "pos": "noun",
+      "definition": "Rare, iridescent polar clouds seen at high altitudes.",
+      "example": "Nacreous clouds gleamed pink and green at dusk."
+    },
+    {
+      "id": "np-043",
+      "word": "Noctilucent clouds",
+      "pos": "noun",
+      "definition": "Thin, glowing clouds seen in twilight at very high altitudes.",
+      "example": "Noctilucent clouds shimmered above the horizon."
+    },
+    {
+      "id": "np-044",
+      "word": "Ball lightning",
+      "pos": "noun",
+      "definition": "A rare luminous sphere seen during thunderstorms.",
+      "example": "Witnesses claim ball lightning entered the room."
+    },
+    {
+      "id": "np-045",
+      "word": "St. Elmo's fire",
+      "pos": "noun",
+      "definition": "A bluish glow around pointed objects during a thunderstorm.",
+      "example": "St. Elmo's fire flickered on the ship's mast."
+    },
+    {
+      "id": "np-046",
+      "word": "Sprite",
+      "pos": "noun",
+      "definition": "A brief red flash of light high above thunderstorms.",
+      "example": "Cameras captured a sprite over the storm cell."
+    },
+    {
+      "id": "np-047",
+      "word": "Twilight",
+      "pos": "noun",
+      "definition": "The soft light in the sky after sunset or before sunrise.",
+      "example": "We walked home in the twilight."
+    },
+    {
+      "id": "np-048",
+      "word": "Dawn",
+      "pos": "noun",
+      "definition": "The first appearance of light in the sky before sunrise.",
+      "example": "Birds began to sing at dawn."
+    },
+    {
+      "id": "np-049",
+      "word": "Dusk",
+      "pos": "noun",
+      "definition": "The darker part of twilight, especially in the evening.",
+      "example": "Bats emerged at dusk."
+    },
+    {
+      "id": "np-050",
+      "word": "Gloaming",
+      "pos": "noun",
+      "definition": "Twilight, especially at evening; poetic dusk.",
+      "example": "She sat on the porch in the gloaming."
+    },
+    {
+      "id": "np-051",
+      "word": "Zenith",
+      "pos": "noun",
+      "definition": "The point in the sky directly above an observer.",
+      "example": "The sun stood near its zenith at midday."
+    },
+    {
+      "id": "np-052",
+      "word": "Nadir",
+      "pos": "noun",
+      "definition": "The point of the sky directly below an observer, opposite the zenith.",
+      "example": "The stars near the nadir were unseen."
+    },
+    {
+      "id": "np-053",
+      "word": "Perihelion",
+      "pos": "noun",
+      "definition": "The point in an orbit closest to the sun.",
+      "example": "Earth reaches perihelion in early January."
+    },
+    {
+      "id": "np-054",
+      "word": "Aphelion",
+      "pos": "noun",
+      "definition": "The point in an orbit farthest from the sun.",
+      "example": "Earth reaches aphelion in early July."
+    },
+    {
+      "id": "np-055",
+      "word": "Syzygy",
+      "pos": "noun",
+      "definition": "A straight-line configuration of three celestial bodies.",
+      "example": "A syzygy causes eclipses and spring tides."
+    },
+    {
+      "id": "np-056",
+      "word": "Occultation",
+      "pos": "noun",
+      "definition": "The hiding of one celestial body by another passing in front of it.",
+      "example": "Astronomers observed the occultation of the star."
+    },
+    {
+      "id": "np-057",
+      "word": "Meteor shower",
+      "pos": "noun",
+      "definition": "An event in which many meteors appear to come from one point in the sky.",
+      "example": "The Perseid meteor shower peaks each August."
+    },
+    {
+      "id": "np-058",
+      "word": "Bolide",
+      "pos": "noun",
+      "definition": "An exceptionally bright meteor that may explode in the atmosphere.",
+      "example": "A bolide lit the night sky like day."
+    },
+    {
+      "id": "np-059",
+      "word": "Comet",
+      "pos": "noun",
+      "definition": "An icy body that develops a glowing tail as it nears the sun.",
+      "example": "Halley's comet returns every 76 years."
+    },
+    {
+      "id": "np-060",
+      "word": "Asteroid",
+      "pos": "noun",
+      "definition": "A small rocky body orbiting the sun, mainly between Mars and Jupiter.",
+      "example": "A large asteroid passed near Earth."
+    },
+    {
+      "id": "np-061",
+      "word": "Nebula",
+      "pos": "noun",
+      "definition": "A cloud of gas and dust in outer space.",
+      "example": "The Orion Nebula is visible with binoculars."
+    },
+    {
+      "id": "np-062",
+      "word": "Supernova",
+      "pos": "noun",
+      "definition": "A powerful stellar explosion at the end of a star's life.",
+      "example": "A supernova outshone the whole galaxy."
+    },
+    {
+      "id": "np-063",
+      "word": "Milky Way",
+      "pos": "noun",
+      "definition": "The galaxy that contains our solar system, seen as a band of light in the sky.",
+      "example": "On clear nights the Milky Way stretches overhead."
+    },
+    {
+      "id": "np-064",
+      "word": "Galaxy",
+      "pos": "noun",
+      "definition": "A vast system of stars, gas and dust held together by gravity.",
+      "example": "The Andromeda galaxy is our nearest neighbour."
+    },
+    {
+      "id": "np-065",
+      "word": "Constellation",
+      "pos": "noun",
+      "definition": "A group of stars forming a recognisable pattern.",
+      "example": "Orion is a winter constellation."
+    },
+    {
+      "id": "np-066",
+      "word": "Ecliptic",
+      "pos": "noun",
+      "definition": "The apparent path of the sun across the sky over the year.",
+      "example": "Planets travel close to the ecliptic."
+    },
+    {
+      "id": "np-067",
+      "word": "Zodiac",
+      "pos": "noun",
+      "definition": "A belt of the sky containing the paths of the sun, moon and main planets.",
+      "example": "The zodiac is divided into twelve signs."
+    },
+    {
+      "id": "np-068",
+      "word": "Penumbra",
+      "pos": "noun",
+      "definition": "The lighter outer part of a shadow, as during an eclipse.",
+      "example": "The moon crossed Earth's penumbra."
+    },
+    {
+      "id": "np-069",
+      "word": "Umbra",
+      "pos": "noun",
+      "definition": "The darkest, innermost part of a shadow.",
+      "example": "At totality the moon lies inside the umbra."
+    },
+    {
+      "id": "np-070",
+      "word": "Diamond ring effect",
+      "pos": "noun",
+      "definition": "A brief flash of sunlight seen at the start or end of a total solar eclipse.",
+      "example": "The crowd gasped at the diamond ring effect."
+    },
+    {
+      "id": "np-071",
+      "word": "Sunspot",
+      "pos": "noun",
+      "definition": "A temporary dark patch on the sun's surface caused by magnetic activity.",
+      "example": "A large sunspot appeared this week."
+    },
+    {
+      "id": "np-072",
+      "word": "Solar flare",
+      "pos": "noun",
+      "definition": "A sudden burst of radiation from the sun's surface.",
+      "example": "A solar flare disrupted radio signals."
+    },
+    {
+      "id": "np-073",
+      "word": "Solar wind",
+      "pos": "noun",
+      "definition": "A stream of charged particles flowing from the sun into space.",
+      "example": "The solar wind shapes comet tails."
+    },
+    {
+      "id": "np-074",
+      "word": "Ozone layer",
+      "pos": "noun",
+      "definition": "A region of the stratosphere containing much of the atmosphere's ozone.",
+      "example": "The ozone layer protects us from UV rays."
+    },
+    {
+      "id": "np-075",
+      "word": "Ionosphere",
+      "pos": "noun",
+      "definition": "The layer of the atmosphere containing charged particles that reflect radio waves.",
+      "example": "Short-wave radio bounces off the ionosphere."
+    },
+    {
+      "id": "np-076",
+      "word": "Stratosphere",
+      "pos": "noun",
+      "definition": "The atmospheric layer above the troposphere, up to about 50 km.",
+      "example": "Ozone concentrates in the stratosphere."
+    },
+    {
+      "id": "np-077",
+      "word": "Troposphere",
+      "pos": "noun",
+      "definition": "The lowest layer of Earth's atmosphere, where weather occurs.",
+      "example": "Nearly all clouds form in the troposphere."
+    },
+    {
+      "id": "np-078",
+      "word": "Jet stream",
+      "pos": "noun",
+      "definition": "A narrow, fast air current high in the atmosphere.",
+      "example": "A strong jet stream shortened the flight."
+    },
+    {
+      "id": "np-079",
+      "word": "Trade winds",
+      "pos": "noun",
+      "definition": "Steady tropical winds blowing toward the equator.",
+      "example": "The ship rode the trade winds westward."
+    },
+    {
+      "id": "np-080",
+      "word": "Doldrums",
+      "pos": "noun",
+      "definition": "A region near the equator with light, variable winds.",
+      "example": "Sailing ships once dreaded the doldrums."
+    },
+    {
+      "id": "np-081",
+      "word": "El Niño",
+      "pos": "noun",
+      "definition": "A periodic warming of the tropical Pacific that alters weather worldwide.",
+      "example": "El Niño brought droughts to Australia."
+    },
+    {
+      "id": "np-082",
+      "word": "La Niña",
+      "pos": "noun",
+      "definition": "A periodic cooling of the tropical Pacific with opposite effects to El Niño.",
+      "example": "La Niña strengthened Atlantic hurricanes."
+    },
+    {
+      "id": "np-083",
+      "word": "Gulf Stream",
+      "pos": "noun",
+      "definition": "A powerful warm ocean current in the north Atlantic.",
+      "example": "The Gulf Stream keeps Britain mild."
+    },
+    {
+      "id": "np-084",
+      "word": "Upwelling",
+      "pos": "noun",
+      "definition": "The rising of deep, cold, nutrient-rich water toward the surface.",
+      "example": "Upwelling supports rich fisheries off Peru."
+    },
+    {
+      "id": "np-085",
+      "word": "Thermocline",
+      "pos": "noun",
+      "definition": "A layer in a body of water where temperature changes rapidly with depth.",
+      "example": "Divers noticed the chill below the thermocline."
+    },
+    {
+      "id": "np-086",
+      "word": "Iridescence",
+      "pos": "noun",
+      "definition": "A play of colours produced by reflection, as on soap bubbles or oil films.",
+      "example": "The cloud showed a delicate iridescence."
+    },
+    {
+      "id": "np-087",
+      "word": "Rime",
+      "pos": "noun",
+      "definition": "A white deposit of ice formed on cold surfaces from freezing fog.",
+      "example": "Rime coated every branch of the trees."
+    },
+    {
+      "id": "np-088",
+      "word": "Hoarfrost",
+      "pos": "noun",
+      "definition": "A greyish-white crystalline deposit of frozen water vapour on cold surfaces.",
+      "example": "Hoarfrost sparkled on the morning grass."
+    },
+    {
+      "id": "np-089",
+      "word": "Blizzard",
+      "pos": "noun",
+      "definition": "A severe snowstorm with strong winds and low visibility.",
+      "example": "A blizzard closed the mountain pass."
+    },
+    {
+      "id": "np-090",
+      "word": "Squall",
+      "pos": "noun",
+      "definition": "A sudden, violent gust of wind, often with rain or snow.",
+      "example": "A squall swept across the lake."
+    },
+    {
+      "id": "np-091",
+      "word": "Sleet",
+      "pos": "noun",
+      "definition": "Precipitation of partly frozen rain or a mixture of rain and snow.",
+      "example": "Icy sleet stung our faces."
+    },
+    {
+      "id": "np-092",
+      "word": "Graupel",
+      "pos": "noun",
+      "definition": "Soft pellets of snow-covered ice that fall from clouds.",
+      "example": "Graupel bounced off the roof."
+    },
+    {
+      "id": "np-093",
+      "word": "Firn",
+      "pos": "noun",
+      "definition": "Compacted, granular snow that is on its way to becoming glacier ice.",
+      "example": "Layers of firn made up the glacier."
+    },
+    {
+      "id": "np-094",
+      "word": "Avalanche",
+      "pos": "noun",
+      "definition": "A large mass of snow, ice or rock that slides swiftly down a mountain.",
+      "example": "An avalanche blocked the road."
+    },
+    {
+      "id": "np-095",
+      "word": "Landslide",
+      "pos": "noun",
+      "definition": "The sliding down of a mass of earth or rock from a mountain or cliff.",
+      "example": "Heavy rain triggered a landslide."
+    },
+    {
+      "id": "np-096",
+      "word": "Geyser",
+      "pos": "noun",
+      "definition": "A hot spring that periodically shoots up jets of water and steam.",
+      "example": "Old Faithful is a famous geyser."
+    },
+    {
+      "id": "np-097",
+      "word": "Fumarole",
+      "pos": "noun",
+      "definition": "An opening in the earth's crust that emits steam and gases.",
+      "example": "Steam rose from a hillside fumarole."
+    },
+    {
+      "id": "np-098",
+      "word": "Caldera",
+      "pos": "noun",
+      "definition": "A large volcanic crater formed by the collapse of the volcano's mouth.",
+      "example": "A lake filled the ancient caldera."
+    },
+    {
+      "id": "np-099",
+      "word": "Seiche",
+      "pos": "noun",
+      "definition": "A standing wave oscillating in an enclosed body of water.",
+      "example": "A seiche rocked boats on the lake."
+    },
+    {
+      "id": "np-100",
+      "word": "Bore",
+      "pos": "noun",
+      "definition": "A large tidal wave that travels up a river against the current.",
+      "example": "Surfers rode the tidal bore upstream."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "np-q1",
+      "question": "Which word means: \"The period shortly after sunrise or before sunset when daylight is soft, warm and golden.\"?",
+      "options": [
+        "Petrichor",
+        "Golden hour",
+        "Foehn",
+        "Fogbow"
+      ],
+      "answer": 1,
+      "explanation": "Golden hour (noun) — The period shortly after sunrise or before sunset when daylight is soft, warm and golden."
+    },
+    {
+      "id": "np-q2",
+      "question": "Which word means: \"A streak of light in the sky produced by a small piece of rock burning as it enters the atmosphere.\"?",
+      "options": [
+        "Galaxy",
+        "Meteor",
+        "Zenith",
+        "Eclipse"
+      ],
+      "answer": 1,
+      "explanation": "Meteor (noun) — A streak of light in the sky produced by a small piece of rock burning as it enters the atmosphere."
+    },
+    {
+      "id": "np-q3",
+      "question": "Which word means: \"Puffy, cotton-like clouds with flat bases and rounded tops, common in fair weather.\"?",
+      "options": [
+        "St. Elmo's fire",
+        "Cumulus clouds",
+        "Petrichor",
+        "Aurora"
+      ],
+      "answer": 1,
+      "explanation": "Cumulus clouds (noun) — Puffy, cotton-like clouds with flat bases and rounded tops, common in fair weather."
+    },
+    {
+      "id": "np-q4",
+      "question": "Which word means: \"A natural coloured light display in the sky, seen mainly near the poles.\"?",
+      "options": [
+        "Cirrus",
+        "Perihelion",
+        "Monsoon",
+        "Aurora"
+      ],
+      "answer": 3,
+      "explanation": "Aurora (noun) — A natural coloured light display in the sky, seen mainly near the poles."
+    },
+    {
+      "id": "np-q5",
+      "question": "Which word means: \"An arc of colours in the sky caused by sunlight refracting through water droplets.\"?",
+      "options": [
+        "Stratosphere",
+        "Hurricane",
+        "Rainbow",
+        "Geyser"
+      ],
+      "answer": 2,
+      "explanation": "Rainbow (noun) — An arc of colours in the sky caused by sunlight refracting through water droplets."
+    },
+    {
+      "id": "np-q6",
+      "question": "Which word means: \"The pleasant earthy smell produced when rain falls on dry soil.\"?",
+      "options": [
+        "Thermocline",
+        "Galaxy",
+        "Cumulus clouds",
+        "Petrichor"
+      ],
+      "answer": 3,
+      "explanation": "Petrichor (noun) — The pleasant earthy smell produced when rain falls on dry soil."
+    },
+    {
+      "id": "np-q7",
+      "question": "Which word means: \"A period of calm, happy weather traditionally around the winter solstice.\"?",
+      "options": [
+        "Halcyon days",
+        "Thermocline",
+        "Tornado",
+        "Sleet"
+      ],
+      "answer": 0,
+      "explanation": "Halcyon days (noun) — A period of calm, happy weather traditionally around the winter solstice."
+    },
+    {
+      "id": "np-q8",
+      "question": "Which word means: \"A soft, gentle breeze, especially from the west.\"?",
+      "options": [
+        "Lenticular cloud",
+        "Zephyr",
+        "Halcyon days",
+        "La Niña"
+      ],
+      "answer": 1,
+      "explanation": "Zephyr (noun) — A soft, gentle breeze, especially from the west."
+    },
+    {
+      "id": "np-q9",
+      "question": "Which word means: \"An optical illusion caused by heat, often making distant objects look like water.\"?",
+      "options": [
+        "Halo",
+        "Mirage",
+        "Eclipse",
+        "Troposphere"
+      ],
+      "answer": 1,
+      "explanation": "Mirage (noun) — An optical illusion caused by heat, often making distant objects look like water."
+    },
+    {
+      "id": "np-q10",
+      "question": "Which word means: \"An event in which one heavenly body is obscured by another, such as the sun by the moon.\"?",
+      "options": [
+        "Mirage",
+        "Sirocco",
+        "Eclipse",
+        "Occultation"
+      ],
+      "answer": 2,
+      "explanation": "Eclipse (noun) — An event in which one heavenly body is obscured by another, such as the sun by the moon."
+    },
+    {
+      "id": "np-q11",
+      "question": "Which word means: \"The time when the sun reaches its highest or lowest point in the sky at noon.\"?",
+      "options": [
+        "Blizzard",
+        "Noctilucent clouds",
+        "Solstice",
+        "Cirrus"
+      ],
+      "answer": 2,
+      "explanation": "Solstice (noun) — The time when the sun reaches its highest or lowest point in the sky at noon."
+    },
+    {
+      "id": "np-q12",
+      "question": "Which word means: \"One of two days each year when day and night are about equal in length.\"?",
+      "options": [
+        "Troposphere",
+        "Seiche",
+        "Equinox",
+        "Petrichor"
+      ],
+      "answer": 2,
+      "explanation": "Equinox (noun) — One of two days each year when day and night are about equal in length."
+    },
+    {
+      "id": "np-q13",
+      "question": "Which word means: \"A very large sea wave caused by an underwater earthquake or eruption.\"?",
+      "options": [
+        "Moonbow",
+        "Derecho",
+        "Cirrus",
+        "Tsunami"
+      ],
+      "answer": 3,
+      "explanation": "Tsunami (noun) — A very large sea wave caused by an underwater earthquake or eruption."
+    },
+    {
+      "id": "np-q14",
+      "question": "Which word means: \"A bright spot in the sky beside the sun caused by ice crystals refracting light.\"?",
+      "options": [
+        "Sundog",
+        "Solar flare",
+        "Bolide",
+        "Bioluminescence"
+      ],
+      "answer": 0,
+      "explanation": "Sundog (noun) — A bright spot in the sky beside the sun caused by ice crystals refracting light."
+    },
+    {
+      "id": "np-q15",
+      "question": "Which word means: \"A ring of light around the sun or moon caused by ice crystals in high clouds.\"?",
+      "options": [
+        "Tsunami",
+        "La Niña",
+        "Fogbow",
+        "Halo"
+      ],
+      "answer": 3,
+      "explanation": "Halo (noun) — A ring of light around the sun or moon caused by ice crystals in high clouds."
+    },
+    {
+      "id": "np-q16",
+      "question": "Which word means: \"A dark, dense cloud that produces rain or snow.\"?",
+      "options": [
+        "Solstice",
+        "Golden hour",
+        "Nimbus",
+        "Galaxy"
+      ],
+      "answer": 2,
+      "explanation": "Nimbus (noun) — A dark, dense cloud that produces rain or snow."
+    },
+    {
+      "id": "np-q17",
+      "question": "Which word means: \"Thin, wispy clouds of ice crystals found high in the sky.\"?",
+      "options": [
+        "Graupel",
+        "Cirrus",
+        "Thermocline",
+        "Troposphere"
+      ],
+      "answer": 1,
+      "explanation": "Cirrus (noun) — Thin, wispy clouds of ice crystals found high in the sky."
+    },
+    {
+      "id": "np-q18",
+      "question": "Which word means: \"Low, grey, sheet-like clouds that often bring drizzle.\"?",
+      "options": [
+        "Squall",
+        "Stratus",
+        "Chinook",
+        "Cirrus"
+      ],
+      "answer": 1,
+      "explanation": "Stratus (noun) — Low, grey, sheet-like clouds that often bring drizzle."
+    },
+    {
+      "id": "np-q19",
+      "question": "Which word means: \"A pale, colourless arc similar to a rainbow, formed in fog.\"?",
+      "options": [
+        "Fogbow",
+        "Aphelion",
+        "Penumbra",
+        "Comet"
+      ],
+      "answer": 0,
+      "explanation": "Fogbow (noun) — A pale, colourless arc similar to a rainbow, formed in fog."
+    },
+    {
+      "id": "np-q20",
+      "question": "Which word means: \"A rainbow produced by moonlight rather than sunlight.\"?",
+      "options": [
+        "Fulgurite",
+        "Jet stream",
+        "Firn",
+        "Moonbow"
+      ],
+      "answer": 3,
+      "explanation": "Moonbow (noun) — A rainbow produced by moonlight rather than sunlight."
+    },
+    {
+      "id": "np-q21",
+      "question": "Which word means: \"A rosy glow seen on mountain peaks at sunrise or sunset.\"?",
+      "options": [
+        "Mammatus",
+        "Sprite",
+        "La Niña",
+        "Alpenglow"
+      ],
+      "answer": 3,
+      "explanation": "Alpenglow (noun) — A rosy glow seen on mountain peaks at sunrise or sunset."
+    },
+    {
+      "id": "np-q22",
+      "question": "Which word means: \"Sunbeams that appear to radiate from a single point in the sky.\"?",
+      "options": [
+        "Crepuscular rays",
+        "Nimbus",
+        "Umbra",
+        "Foehn"
+      ],
+      "answer": 0,
+      "explanation": "Crepuscular rays (noun) — Sunbeams that appear to radiate from a single point in the sky."
+    },
+    {
+      "id": "np-q23",
+      "question": "Which word means: \"The natural production of light by living organisms.\"?",
+      "options": [
+        "Ecliptic",
+        "Seiche",
+        "Bioluminescence",
+        "Sunspot"
+      ],
+      "answer": 2,
+      "explanation": "Bioluminescence (noun) — The natural production of light by living organisms."
+    },
+    {
+      "id": "np-q24",
+      "question": "Which word means: \"A soft glow emitted by a substance without noticeable heat.\"?",
+      "options": [
+        "Foehn",
+        "Halcyon days",
+        "Phosphorescence",
+        "Derecho"
+      ],
+      "answer": 2,
+      "explanation": "Phosphorescence (noun) — A soft glow emitted by a substance without noticeable heat."
+    },
+    {
+      "id": "np-q25",
+      "question": "Which word means: \"A glassy tube formed in sand or rock when lightning strikes.\"?",
+      "options": [
+        "Alpenglow",
+        "Bioluminescence",
+        "Fulgurite",
+        "Constellation"
+      ],
+      "answer": 2,
+      "explanation": "Fulgurite (noun) — A glassy tube formed in sand or rock when lightning strikes."
+    },
+    {
+      "id": "np-q26",
+      "question": "Which word means: \"A warm, dry wind that descends the lee side of a mountain range.\"?",
+      "options": [
+        "Microburst",
+        "Foehn",
+        "Chinook",
+        "Meteor shower"
+      ],
+      "answer": 1,
+      "explanation": "Foehn (noun) — A warm, dry wind that descends the lee side of a mountain range."
+    },
+    {
+      "id": "np-q27",
+      "question": "Which word means: \"A hot, dusty wind blowing from North Africa across the Mediterranean.\"?",
+      "options": [
+        "Sundog",
+        "Sirocco",
+        "Geyser",
+        "Petrichor"
+      ],
+      "answer": 1,
+      "explanation": "Sirocco (noun) — A hot, dusty wind blowing from North Africa across the Mediterranean."
+    },
+    {
+      "id": "np-q28",
+      "question": "Which word means: \"A warm, dry wind that blows down the eastern slopes of the Rocky Mountains.\"?",
+      "options": [
+        "Aurora",
+        "Galaxy",
+        "Chinook",
+        "Alpenglow"
+      ],
+      "answer": 2,
+      "explanation": "Chinook (noun) — A warm, dry wind that blows down the eastern slopes of the Rocky Mountains."
+    },
+    {
+      "id": "np-q29",
+      "question": "Which word means: \"A seasonal wind bringing heavy rains to South and Southeast Asia.\"?",
+      "options": [
+        "Monsoon",
+        "Avalanche",
+        "Bolide",
+        "Troposphere"
+      ],
+      "answer": 0,
+      "explanation": "Monsoon (noun) — A seasonal wind bringing heavy rains to South and Southeast Asia."
+    },
+    {
+      "id": "np-q30",
+      "question": "Which word means: \"A tropical cyclone occurring in the northwestern Pacific Ocean.\"?",
+      "options": [
+        "Noctilucent clouds",
+        "Typhoon",
+        "Fumarole",
+        "Hoarfrost"
+      ],
+      "answer": 1,
+      "explanation": "Typhoon (noun) — A tropical cyclone occurring in the northwestern Pacific Ocean."
+    },
+    {
+      "id": "np-q31",
+      "question": "Which word means: \"A severe tropical cyclone in the Atlantic or eastern Pacific.\"?",
+      "options": [
+        "Cyclone",
+        "Tsunami",
+        "Typhoon",
+        "Hurricane"
+      ],
+      "answer": 3,
+      "explanation": "Hurricane (noun) — A severe tropical cyclone in the Atlantic or eastern Pacific."
+    },
+    {
+      "id": "np-q32",
+      "question": "Which word means: \"A large weather system with rotating winds around a low-pressure centre.\"?",
+      "options": [
+        "Supernova",
+        "Eclipse",
+        "Monsoon",
+        "Cyclone"
+      ],
+      "answer": 3,
+      "explanation": "Cyclone (noun) — A large weather system with rotating winds around a low-pressure centre."
+    },
+    {
+      "id": "np-q33",
+      "question": "Which word means: \"A violently rotating column of air extending from a thunderstorm to the ground.\"?",
+      "options": [
+        "Doldrums",
+        "Chinook",
+        "Fogbow",
+        "Tornado"
+      ],
+      "answer": 3,
+      "explanation": "Tornado (noun) — A violently rotating column of air extending from a thunderstorm to the ground."
+    },
+    {
+      "id": "np-q34",
+      "question": "Which word means: \"A rotating column of water and spray forming over a lake or sea.\"?",
+      "options": [
+        "Dusk",
+        "Waterspout",
+        "Asteroid",
+        "Stratus"
+      ],
+      "answer": 1,
+      "explanation": "Waterspout (noun) — A rotating column of water and spray forming over a lake or sea."
+    },
+    {
+      "id": "np-q35",
+      "question": "Which word means: \"A small, brief whirlwind that lifts dust from the ground.\"?",
+      "options": [
+        "Dust devil",
+        "Ball lightning",
+        "Haboob",
+        "Foehn"
+      ],
+      "answer": 0,
+      "explanation": "Dust devil (noun) — A small, brief whirlwind that lifts dust from the ground."
+    },
+    {
+      "id": "np-q36",
+      "question": "Which word means: \"A dense sandstorm carried by a wall of wind.\"?",
+      "options": [
+        "Derecho",
+        "Halo",
+        "Stratus",
+        "Haboob"
+      ],
+      "answer": 3,
+      "explanation": "Haboob (noun) — A dense sandstorm carried by a wall of wind."
+    },
+    {
+      "id": "np-q37",
+      "question": "Which word means: \"A widespread, long-lived, straight-line windstorm from thunderstorms.\"?",
+      "options": [
+        "St. Elmo's fire",
+        "Crepuscular rays",
+        "Derecho",
+        "Seiche"
+      ],
+      "answer": 2,
+      "explanation": "Derecho (noun) — A widespread, long-lived, straight-line windstorm from thunderstorms."
+    },
+    {
+      "id": "np-q38",
+      "question": "Which word means: \"A powerful downdraft from a thunderstorm affecting a small area.\"?",
+      "options": [
+        "Crepuscular rays",
+        "Microburst",
+        "Gulf Stream",
+        "Doldrums"
+      ],
+      "answer": 1,
+      "explanation": "Microburst (noun) — A powerful downdraft from a thunderstorm affecting a small area."
+    },
+    {
+      "id": "np-q39",
+      "question": "Which word means: \"Streaks of rain or snow that evaporate before reaching the ground.\"?",
+      "options": [
+        "Penumbra",
+        "Chinook",
+        "Galaxy",
+        "Virga"
+      ],
+      "answer": 3,
+      "explanation": "Virga (noun) — Streaks of rain or snow that evaporate before reaching the ground."
+    },
+    {
+      "id": "np-q40",
+      "question": "Which word means: \"Pouch-like formations hanging beneath thunderstorm clouds.\"?",
+      "options": [
+        "Occultation",
+        "Mammatus",
+        "Meteor",
+        "Landslide"
+      ],
+      "answer": 1,
+      "explanation": "Mammatus (noun) — Pouch-like formations hanging beneath thunderstorm clouds."
+    },
+    {
+      "id": "np-q41",
+      "question": "Which word means: \"A lens-shaped cloud that forms over mountains in strong winds.\"?",
+      "options": [
+        "Lenticular cloud",
+        "Meteor shower",
+        "Monsoon",
+        "Stratosphere"
+      ],
+      "answer": 0,
+      "explanation": "Lenticular cloud (noun) — A lens-shaped cloud that forms over mountains in strong winds."
+    },
+    {
+      "id": "np-q42",
+      "question": "Which word means: \"Rare, iridescent polar clouds seen at high altitudes.\"?",
+      "options": [
+        "Nacreous clouds",
+        "Supernova",
+        "Petrichor",
+        "Syzygy"
+      ],
+      "answer": 0,
+      "explanation": "Nacreous clouds (noun) — Rare, iridescent polar clouds seen at high altitudes."
+    },
+    {
+      "id": "np-q43",
+      "question": "Which word means: \"Thin, glowing clouds seen in twilight at very high altitudes.\"?",
+      "options": [
+        "Tsunami",
+        "Milky Way",
+        "Sleet",
+        "Noctilucent clouds"
+      ],
+      "answer": 3,
+      "explanation": "Noctilucent clouds (noun) — Thin, glowing clouds seen in twilight at very high altitudes."
+    },
+    {
+      "id": "np-q44",
+      "question": "Which word means: \"A rare luminous sphere seen during thunderstorms.\"?",
+      "options": [
+        "Ball lightning",
+        "Solar wind",
+        "Caldera",
+        "Solstice"
+      ],
+      "answer": 0,
+      "explanation": "Ball lightning (noun) — A rare luminous sphere seen during thunderstorms."
+    },
+    {
+      "id": "np-q45",
+      "question": "Which word means: \"A bluish glow around pointed objects during a thunderstorm.\"?",
+      "options": [
+        "Cirrus",
+        "St. Elmo's fire",
+        "Chinook",
+        "Twilight"
+      ],
+      "answer": 1,
+      "explanation": "St. Elmo's fire (noun) — A bluish glow around pointed objects during a thunderstorm."
+    },
+    {
+      "id": "np-q46",
+      "question": "Which word means: \"A brief red flash of light high above thunderstorms.\"?",
+      "options": [
+        "Sprite",
+        "Milky Way",
+        "Cumulus clouds",
+        "Rime"
+      ],
+      "answer": 0,
+      "explanation": "Sprite (noun) — A brief red flash of light high above thunderstorms."
+    },
+    {
+      "id": "np-q47",
+      "question": "Which word means: \"The soft light in the sky after sunset or before sunrise.\"?",
+      "options": [
+        "Twilight",
+        "Stratosphere",
+        "Fumarole",
+        "Ionosphere"
+      ],
+      "answer": 0,
+      "explanation": "Twilight (noun) — The soft light in the sky after sunset or before sunrise."
+    },
+    {
+      "id": "np-q48",
+      "question": "Which word means: \"The first appearance of light in the sky before sunrise.\"?",
+      "options": [
+        "Graupel",
+        "Stratus",
+        "Bore",
+        "Dawn"
+      ],
+      "answer": 3,
+      "explanation": "Dawn (noun) — The first appearance of light in the sky before sunrise."
+    },
+    {
+      "id": "np-q49",
+      "question": "Which word means: \"The darker part of twilight, especially in the evening.\"?",
+      "options": [
+        "Nebula",
+        "Dusk",
+        "Graupel",
+        "La Niña"
+      ],
+      "answer": 1,
+      "explanation": "Dusk (noun) — The darker part of twilight, especially in the evening."
+    },
+    {
+      "id": "np-q50",
+      "question": "Which word means: \"Twilight, especially at evening; poetic dusk.\"?",
+      "options": [
+        "Gloaming",
+        "Noctilucent clouds",
+        "Squall",
+        "Zenith"
+      ],
+      "answer": 0,
+      "explanation": "Gloaming (noun) — Twilight, especially at evening; poetic dusk."
+    },
+    {
+      "id": "np-q51",
+      "question": "Which word means: \"The point in the sky directly above an observer.\"?",
+      "options": [
+        "Zenith",
+        "Caldera",
+        "Sleet",
+        "Dust devil"
+      ],
+      "answer": 0,
+      "explanation": "Zenith (noun) — The point in the sky directly above an observer."
+    },
+    {
+      "id": "np-q52",
+      "question": "Which word means: \"The point of the sky directly below an observer, opposite the zenith.\"?",
+      "options": [
+        "Nadir",
+        "Noctilucent clouds",
+        "Geyser",
+        "El Niño"
+      ],
+      "answer": 0,
+      "explanation": "Nadir (noun) — The point of the sky directly below an observer, opposite the zenith."
+    },
+    {
+      "id": "np-q53",
+      "question": "Which word means: \"The point in an orbit closest to the sun.\"?",
+      "options": [
+        "Perihelion",
+        "Halcyon days",
+        "Halo",
+        "Gloaming"
+      ],
+      "answer": 0,
+      "explanation": "Perihelion (noun) — The point in an orbit closest to the sun."
+    },
+    {
+      "id": "np-q54",
+      "question": "Which word means: \"The point in an orbit farthest from the sun.\"?",
+      "options": [
+        "Bioluminescence",
+        "Aphelion",
+        "Upwelling",
+        "Twilight"
+      ],
+      "answer": 1,
+      "explanation": "Aphelion (noun) — The point in an orbit farthest from the sun."
+    },
+    {
+      "id": "np-q55",
+      "question": "Which word means: \"A straight-line configuration of three celestial bodies.\"?",
+      "options": [
+        "Syzygy",
+        "Noctilucent clouds",
+        "Hurricane",
+        "Stratus"
+      ],
+      "answer": 0,
+      "explanation": "Syzygy (noun) — A straight-line configuration of three celestial bodies."
+    },
+    {
+      "id": "np-q56",
+      "question": "Which word means: \"The hiding of one celestial body by another passing in front of it.\"?",
+      "options": [
+        "Occultation",
+        "Geyser",
+        "Stratosphere",
+        "Caldera"
+      ],
+      "answer": 0,
+      "explanation": "Occultation (noun) — The hiding of one celestial body by another passing in front of it."
+    },
+    {
+      "id": "np-q57",
+      "question": "Which word means: \"An event in which many meteors appear to come from one point in the sky.\"?",
+      "options": [
+        "Dust devil",
+        "Nacreous clouds",
+        "Sprite",
+        "Meteor shower"
+      ],
+      "answer": 3,
+      "explanation": "Meteor shower (noun) — An event in which many meteors appear to come from one point in the sky."
+    },
+    {
+      "id": "np-q58",
+      "question": "Which word means: \"An exceptionally bright meteor that may explode in the atmosphere.\"?",
+      "options": [
+        "St. Elmo's fire",
+        "Mirage",
+        "Dawn",
+        "Bolide"
+      ],
+      "answer": 3,
+      "explanation": "Bolide (noun) — An exceptionally bright meteor that may explode in the atmosphere."
+    },
+    {
+      "id": "np-q59",
+      "question": "Which word means: \"An icy body that develops a glowing tail as it nears the sun.\"?",
+      "options": [
+        "Supernova",
+        "Comet",
+        "Graupel",
+        "Diamond ring effect"
+      ],
+      "answer": 1,
+      "explanation": "Comet (noun) — An icy body that develops a glowing tail as it nears the sun."
+    },
+    {
+      "id": "np-q60",
+      "question": "Which word means: \"A small rocky body orbiting the sun, mainly between Mars and Jupiter.\"?",
+      "options": [
+        "Mirage",
+        "Hoarfrost",
+        "Asteroid",
+        "Squall"
+      ],
+      "answer": 2,
+      "explanation": "Asteroid (noun) — A small rocky body orbiting the sun, mainly between Mars and Jupiter."
+    },
+    {
+      "id": "np-q61",
+      "question": "Which word means: \"A cloud of gas and dust in outer space.\"?",
+      "options": [
+        "Zenith",
+        "Nebula",
+        "Solstice",
+        "Bioluminescence"
+      ],
+      "answer": 1,
+      "explanation": "Nebula (noun) — A cloud of gas and dust in outer space."
+    },
+    {
+      "id": "np-q62",
+      "question": "Which word means: \"A powerful stellar explosion at the end of a star's life.\"?",
+      "options": [
+        "Halo",
+        "Crepuscular rays",
+        "Supernova",
+        "Haboob"
+      ],
+      "answer": 2,
+      "explanation": "Supernova (noun) — A powerful stellar explosion at the end of a star's life."
+    },
+    {
+      "id": "np-q63",
+      "question": "Which word means: \"The galaxy that contains our solar system, seen as a band of light in the sky.\"?",
+      "options": [
+        "Milky Way",
+        "La Niña",
+        "Penumbra",
+        "Sirocco"
+      ],
+      "answer": 0,
+      "explanation": "Milky Way (noun) — The galaxy that contains our solar system, seen as a band of light in the sky."
+    },
+    {
+      "id": "np-q64",
+      "question": "Which word means: \"A vast system of stars, gas and dust held together by gravity.\"?",
+      "options": [
+        "Blizzard",
+        "Cirrus",
+        "Sunspot",
+        "Galaxy"
+      ],
+      "answer": 3,
+      "explanation": "Galaxy (noun) — A vast system of stars, gas and dust held together by gravity."
+    },
+    {
+      "id": "np-q65",
+      "question": "Which word means: \"A group of stars forming a recognisable pattern.\"?",
+      "options": [
+        "Upwelling",
+        "Constellation",
+        "Geyser",
+        "Meteor shower"
+      ],
+      "answer": 1,
+      "explanation": "Constellation (noun) — A group of stars forming a recognisable pattern."
+    },
+    {
+      "id": "np-q66",
+      "question": "Which word means: \"The apparent path of the sun across the sky over the year.\"?",
+      "options": [
+        "Mirage",
+        "Ecliptic",
+        "Cumulus clouds",
+        "Typhoon"
+      ],
+      "answer": 1,
+      "explanation": "Ecliptic (noun) — The apparent path of the sun across the sky over the year."
+    },
+    {
+      "id": "np-q67",
+      "question": "Which word means: \"A belt of the sky containing the paths of the sun, moon and main planets.\"?",
+      "options": [
+        "Thermocline",
+        "Upwelling",
+        "Nacreous clouds",
+        "Zodiac"
+      ],
+      "answer": 3,
+      "explanation": "Zodiac (noun) — A belt of the sky containing the paths of the sun, moon and main planets."
+    },
+    {
+      "id": "np-q68",
+      "question": "Which word means: \"The lighter outer part of a shadow, as during an eclipse.\"?",
+      "options": [
+        "Ozone layer",
+        "Comet",
+        "Penumbra",
+        "Virga"
+      ],
+      "answer": 2,
+      "explanation": "Penumbra (noun) — The lighter outer part of a shadow, as during an eclipse."
+    },
+    {
+      "id": "np-q69",
+      "question": "Which word means: \"The darkest, innermost part of a shadow.\"?",
+      "options": [
+        "Umbra",
+        "Waterspout",
+        "Typhoon",
+        "Supernova"
+      ],
+      "answer": 0,
+      "explanation": "Umbra (noun) — The darkest, innermost part of a shadow."
+    },
+    {
+      "id": "np-q70",
+      "question": "Which word means: \"A brief flash of sunlight seen at the start or end of a total solar eclipse.\"?",
+      "options": [
+        "Sprite",
+        "Derecho",
+        "Fogbow",
+        "Diamond ring effect"
+      ],
+      "answer": 3,
+      "explanation": "Diamond ring effect (noun) — A brief flash of sunlight seen at the start or end of a total solar eclipse."
+    },
+    {
+      "id": "np-q71",
+      "question": "Which word means: \"A temporary dark patch on the sun's surface caused by magnetic activity.\"?",
+      "options": [
+        "Sunspot",
+        "Derecho",
+        "Firn",
+        "Umbra"
+      ],
+      "answer": 0,
+      "explanation": "Sunspot (noun) — A temporary dark patch on the sun's surface caused by magnetic activity."
+    },
+    {
+      "id": "np-q72",
+      "question": "Which word means: \"A sudden burst of radiation from the sun's surface.\"?",
+      "options": [
+        "Halo",
+        "Solar flare",
+        "Hurricane",
+        "Alpenglow"
+      ],
+      "answer": 1,
+      "explanation": "Solar flare (noun) — A sudden burst of radiation from the sun's surface."
+    },
+    {
+      "id": "np-q73",
+      "question": "Which word means: \"A stream of charged particles flowing from the sun into space.\"?",
+      "options": [
+        "Solar wind",
+        "Dawn",
+        "Meteor shower",
+        "Waterspout"
+      ],
+      "answer": 0,
+      "explanation": "Solar wind (noun) — A stream of charged particles flowing from the sun into space."
+    },
+    {
+      "id": "np-q74",
+      "question": "Which word means: \"A region of the stratosphere containing much of the atmosphere's ozone.\"?",
+      "options": [
+        "Rime",
+        "St. Elmo's fire",
+        "Ozone layer",
+        "Lenticular cloud"
+      ],
+      "answer": 2,
+      "explanation": "Ozone layer (noun) — A region of the stratosphere containing much of the atmosphere's ozone."
+    },
+    {
+      "id": "np-q75",
+      "question": "Which word means: \"The layer of the atmosphere containing charged particles that reflect radio waves.\"?",
+      "options": [
+        "Alpenglow",
+        "Ionosphere",
+        "Diamond ring effect",
+        "Umbra"
+      ],
+      "answer": 1,
+      "explanation": "Ionosphere (noun) — The layer of the atmosphere containing charged particles that reflect radio waves."
+    },
+    {
+      "id": "np-q76",
+      "question": "Which word means: \"The atmospheric layer above the troposphere, up to about 50 km.\"?",
+      "options": [
+        "Nadir",
+        "Bore",
+        "Stratosphere",
+        "Galaxy"
+      ],
+      "answer": 2,
+      "explanation": "Stratosphere (noun) — The atmospheric layer above the troposphere, up to about 50 km."
+    },
+    {
+      "id": "np-q77",
+      "question": "Which word means: \"The lowest layer of Earth's atmosphere, where weather occurs.\"?",
+      "options": [
+        "Moonbow",
+        "Golden hour",
+        "Troposphere",
+        "Geyser"
+      ],
+      "answer": 2,
+      "explanation": "Troposphere (noun) — The lowest layer of Earth's atmosphere, where weather occurs."
+    },
+    {
+      "id": "np-q78",
+      "question": "Which word means: \"A narrow, fast air current high in the atmosphere.\"?",
+      "options": [
+        "Nebula",
+        "Jet stream",
+        "Caldera",
+        "Microburst"
+      ],
+      "answer": 1,
+      "explanation": "Jet stream (noun) — A narrow, fast air current high in the atmosphere."
+    },
+    {
+      "id": "np-q79",
+      "question": "Which word means: \"Steady tropical winds blowing toward the equator.\"?",
+      "options": [
+        "Squall",
+        "Halo",
+        "Ball lightning",
+        "Trade winds"
+      ],
+      "answer": 3,
+      "explanation": "Trade winds (noun) — Steady tropical winds blowing toward the equator."
+    },
+    {
+      "id": "np-q80",
+      "question": "Which word means: \"A region near the equator with light, variable winds.\"?",
+      "options": [
+        "Doldrums",
+        "Sunspot",
+        "Hoarfrost",
+        "Halo"
+      ],
+      "answer": 0,
+      "explanation": "Doldrums (noun) — A region near the equator with light, variable winds."
+    },
+    {
+      "id": "np-q81",
+      "question": "Which word means: \"A periodic warming of the tropical Pacific that alters weather worldwide.\"?",
+      "options": [
+        "El Niño",
+        "Monsoon",
+        "Doldrums",
+        "Bolide"
+      ],
+      "answer": 0,
+      "explanation": "El Niño (noun) — A periodic warming of the tropical Pacific that alters weather worldwide."
+    },
+    {
+      "id": "np-q82",
+      "question": "Which word means: \"A periodic cooling of the tropical Pacific with opposite effects to El Niño.\"?",
+      "options": [
+        "La Niña",
+        "Zephyr",
+        "Upwelling",
+        "Jet stream"
+      ],
+      "answer": 0,
+      "explanation": "La Niña (noun) — A periodic cooling of the tropical Pacific with opposite effects to El Niño."
+    },
+    {
+      "id": "np-q83",
+      "question": "Which word means: \"A powerful warm ocean current in the north Atlantic.\"?",
+      "options": [
+        "Foehn",
+        "Haboob",
+        "Gulf Stream",
+        "Bore"
+      ],
+      "answer": 2,
+      "explanation": "Gulf Stream (noun) — A powerful warm ocean current in the north Atlantic."
+    },
+    {
+      "id": "np-q84",
+      "question": "Which word means: \"The rising of deep, cold, nutrient-rich water toward the surface.\"?",
+      "options": [
+        "Equinox",
+        "Rime",
+        "Hoarfrost",
+        "Upwelling"
+      ],
+      "answer": 3,
+      "explanation": "Upwelling (noun) — The rising of deep, cold, nutrient-rich water toward the surface."
+    },
+    {
+      "id": "np-q85",
+      "question": "Which word means: \"A layer in a body of water where temperature changes rapidly with depth.\"?",
+      "options": [
+        "Thermocline",
+        "Jet stream",
+        "Ecliptic",
+        "Lenticular cloud"
+      ],
+      "answer": 0,
+      "explanation": "Thermocline (noun) — A layer in a body of water where temperature changes rapidly with depth."
+    },
+    {
+      "id": "np-q86",
+      "question": "Which word means: \"A play of colours produced by reflection, as on soap bubbles or oil films.\"?",
+      "options": [
+        "Zenith",
+        "Firn",
+        "Fogbow",
+        "Iridescence"
+      ],
+      "answer": 3,
+      "explanation": "Iridescence (noun) — A play of colours produced by reflection, as on soap bubbles or oil films."
+    },
+    {
+      "id": "np-q87",
+      "question": "Which word means: \"A white deposit of ice formed on cold surfaces from freezing fog.\"?",
+      "options": [
+        "Dawn",
+        "Rime",
+        "Meteor",
+        "Derecho"
+      ],
+      "answer": 1,
+      "explanation": "Rime (noun) — A white deposit of ice formed on cold surfaces from freezing fog."
+    },
+    {
+      "id": "np-q88",
+      "question": "Which word means: \"A greyish-white crystalline deposit of frozen water vapour on cold surfaces.\"?",
+      "options": [
+        "Bolide",
+        "Hoarfrost",
+        "Equinox",
+        "Solar flare"
+      ],
+      "answer": 1,
+      "explanation": "Hoarfrost (noun) — A greyish-white crystalline deposit of frozen water vapour on cold surfaces."
+    },
+    {
+      "id": "np-q89",
+      "question": "Which word means: \"A severe snowstorm with strong winds and low visibility.\"?",
+      "options": [
+        "Blizzard",
+        "Aphelion",
+        "Geyser",
+        "Meteor shower"
+      ],
+      "answer": 0,
+      "explanation": "Blizzard (noun) — A severe snowstorm with strong winds and low visibility."
+    },
+    {
+      "id": "np-q90",
+      "question": "Which word means: \"A sudden, violent gust of wind, often with rain or snow.\"?",
+      "options": [
+        "Aphelion",
+        "Stratus",
+        "Squall",
+        "Landslide"
+      ],
+      "answer": 2,
+      "explanation": "Squall (noun) — A sudden, violent gust of wind, often with rain or snow."
+    },
+    {
+      "id": "np-q91",
+      "question": "Which word means: \"Precipitation of partly frozen rain or a mixture of rain and snow.\"?",
+      "options": [
+        "Sleet",
+        "Nebula",
+        "Virga",
+        "Penumbra"
+      ],
+      "answer": 0,
+      "explanation": "Sleet (noun) — Precipitation of partly frozen rain or a mixture of rain and snow."
+    },
+    {
+      "id": "np-q92",
+      "question": "Which word means: \"Soft pellets of snow-covered ice that fall from clouds.\"?",
+      "options": [
+        "Graupel",
+        "Equinox",
+        "Golden hour",
+        "Perihelion"
+      ],
+      "answer": 0,
+      "explanation": "Graupel (noun) — Soft pellets of snow-covered ice that fall from clouds."
+    },
+    {
+      "id": "np-q93",
+      "question": "Which word means: \"Compacted, granular snow that is on its way to becoming glacier ice.\"?",
+      "options": [
+        "Firn",
+        "Sleet",
+        "Solar flare",
+        "Asteroid"
+      ],
+      "answer": 0,
+      "explanation": "Firn (noun) — Compacted, granular snow that is on its way to becoming glacier ice."
+    },
+    {
+      "id": "np-q94",
+      "question": "Which word means: \"A large mass of snow, ice or rock that slides swiftly down a mountain.\"?",
+      "options": [
+        "Sunspot",
+        "Microburst",
+        "Dusk",
+        "Avalanche"
+      ],
+      "answer": 3,
+      "explanation": "Avalanche (noun) — A large mass of snow, ice or rock that slides swiftly down a mountain."
+    },
+    {
+      "id": "np-q95",
+      "question": "Which word means: \"The sliding down of a mass of earth or rock from a mountain or cliff.\"?",
+      "options": [
+        "Virga",
+        "Galaxy",
+        "Ionosphere",
+        "Landslide"
+      ],
+      "answer": 3,
+      "explanation": "Landslide (noun) — The sliding down of a mass of earth or rock from a mountain or cliff."
+    },
+    {
+      "id": "np-q96",
+      "question": "Which word means: \"A hot spring that periodically shoots up jets of water and steam.\"?",
+      "options": [
+        "Golden hour",
+        "Moonbow",
+        "Geyser",
+        "Waterspout"
+      ],
+      "answer": 2,
+      "explanation": "Geyser (noun) — A hot spring that periodically shoots up jets of water and steam."
+    },
+    {
+      "id": "np-q97",
+      "question": "Which word means: \"An opening in the earth's crust that emits steam and gases.\"?",
+      "options": [
+        "Fumarole",
+        "Nimbus",
+        "Upwelling",
+        "Iridescence"
+      ],
+      "answer": 0,
+      "explanation": "Fumarole (noun) — An opening in the earth's crust that emits steam and gases."
+    },
+    {
+      "id": "np-q98",
+      "question": "Which word means: \"A large volcanic crater formed by the collapse of the volcano's mouth.\"?",
+      "options": [
+        "Caldera",
+        "Gulf Stream",
+        "Milky Way",
+        "Blizzard"
+      ],
+      "answer": 0,
+      "explanation": "Caldera (noun) — A large volcanic crater formed by the collapse of the volcano's mouth."
+    },
+    {
+      "id": "np-q99",
+      "question": "Which word means: \"A standing wave oscillating in an enclosed body of water.\"?",
+      "options": [
+        "Seiche",
+        "Haboob",
+        "Galaxy",
+        "Caldera"
+      ],
+      "answer": 0,
+      "explanation": "Seiche (noun) — A standing wave oscillating in an enclosed body of water."
+    },
+    {
+      "id": "np-q100",
+      "question": "Which word means: \"A large tidal wave that travels up a river against the current.\"?",
+      "options": [
+        "Ionosphere",
+        "Solar wind",
+        "Supernova",
+        "Bore"
+      ],
+      "answer": 3,
+      "explanation": "Bore (noun) — A large tidal wave that travels up a river against the current."
+    }
+  ]
+}

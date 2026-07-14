@@ -1,0 +1,1908 @@
+{
+  "category": "idioms",
+  "title": "Idioms",
+  "words": [
+    {
+      "id": "id-001",
+      "word": "Break the ice",
+      "pos": "idiom",
+      "definition": "To do or say something to relieve tension or shyness in a group.",
+      "example": "He told a joke to break the ice at the meeting."
+    },
+    {
+      "id": "id-002",
+      "word": "Bite the bullet",
+      "pos": "idiom",
+      "definition": "To force oneself to do or endure something unpleasant.",
+      "example": "She bit the bullet and paid the fine."
+    },
+    {
+      "id": "id-003",
+      "word": "Hit the nail on the head",
+      "pos": "idiom",
+      "definition": "To describe exactly what is causing a situation or problem.",
+      "example": "Your comment hit the nail on the head."
+    },
+    {
+      "id": "id-004",
+      "word": "Piece of cake",
+      "pos": "idiom",
+      "definition": "Something very easy to do.",
+      "example": "The exam was a piece of cake."
+    },
+    {
+      "id": "id-005",
+      "word": "Under the weather",
+      "pos": "idiom",
+      "definition": "Feeling slightly ill.",
+      "example": "I'm staying home; I feel a bit under the weather."
+    },
+    {
+      "id": "id-006",
+      "word": "Cost an arm and a leg",
+      "pos": "idiom",
+      "definition": "To be very expensive.",
+      "example": "Those tickets cost an arm and a leg."
+    },
+    {
+      "id": "id-007",
+      "word": "Once in a blue moon",
+      "pos": "idiom",
+      "definition": "Very rarely.",
+      "example": "He visits us once in a blue moon."
+    },
+    {
+      "id": "id-008",
+      "word": "Let the cat out of the bag",
+      "pos": "idiom",
+      "definition": "To reveal a secret, usually by accident.",
+      "example": "She let the cat out of the bag about the party."
+    },
+    {
+      "id": "id-009",
+      "word": "Spill the beans",
+      "pos": "idiom",
+      "definition": "To disclose secret information.",
+      "example": "Come on, spill the beans!"
+    },
+    {
+      "id": "id-010",
+      "word": "Kill two birds with one stone",
+      "pos": "idiom",
+      "definition": "To achieve two aims with a single action.",
+      "example": "By cycling to work I kill two birds with one stone."
+    },
+    {
+      "id": "id-011",
+      "word": "The ball is in your court",
+      "pos": "idiom",
+      "definition": "It is your turn to take action or make a decision.",
+      "example": "I've done my part; the ball is in your court."
+    },
+    {
+      "id": "id-012",
+      "word": "Barking up the wrong tree",
+      "pos": "idiom",
+      "definition": "Pursuing a mistaken line of thought or action.",
+      "example": "If you think I broke it, you're barking up the wrong tree."
+    },
+    {
+      "id": "id-013",
+      "word": "Beat around the bush",
+      "pos": "idiom",
+      "definition": "To avoid getting to the point.",
+      "example": "Stop beating around the bush and tell me."
+    },
+    {
+      "id": "id-014",
+      "word": "Best of both worlds",
+      "pos": "idiom",
+      "definition": "A situation combining the advantages of two different things.",
+      "example": "Working from home gives me the best of both worlds."
+    },
+    {
+      "id": "id-015",
+      "word": "Blessing in disguise",
+      "pos": "idiom",
+      "definition": "Something that seems bad at first but proves beneficial.",
+      "example": "Losing that job was a blessing in disguise."
+    },
+    {
+      "id": "id-016",
+      "word": "Burn the midnight oil",
+      "pos": "idiom",
+      "definition": "To work late into the night.",
+      "example": "She burned the midnight oil to finish the report."
+    },
+    {
+      "id": "id-017",
+      "word": "Call it a day",
+      "pos": "idiom",
+      "definition": "To stop working on something.",
+      "example": "Let's call it a day and go home."
+    },
+    {
+      "id": "id-018",
+      "word": "Cry over spilled milk",
+      "pos": "idiom",
+      "definition": "To be upset about something that cannot be changed.",
+      "example": "No use crying over spilled milk."
+    },
+    {
+      "id": "id-019",
+      "word": "Cut corners",
+      "pos": "idiom",
+      "definition": "To do something poorly or cheaply to save time or money.",
+      "example": "Don't cut corners on safety."
+    },
+    {
+      "id": "id-020",
+      "word": "Devil's advocate",
+      "pos": "idiom",
+      "definition": "One who argues an opposing view for the sake of debate.",
+      "example": "Let me play devil's advocate here."
+    },
+    {
+      "id": "id-021",
+      "word": "Elephant in the room",
+      "pos": "idiom",
+      "definition": "An obvious problem no one wants to discuss.",
+      "example": "We must address the elephant in the room."
+    },
+    {
+      "id": "id-022",
+      "word": "Face the music",
+      "pos": "idiom",
+      "definition": "To accept the unpleasant consequences of one's actions.",
+      "example": "He had to face the music after lying."
+    },
+    {
+      "id": "id-023",
+      "word": "Feeling blue",
+      "pos": "idiom",
+      "definition": "Feeling sad or depressed.",
+      "example": "She's been feeling blue since he left."
+    },
+    {
+      "id": "id-024",
+      "word": "Get cold feet",
+      "pos": "idiom",
+      "definition": "To become nervous about something planned.",
+      "example": "He got cold feet on his wedding day."
+    },
+    {
+      "id": "id-025",
+      "word": "Give the benefit of the doubt",
+      "pos": "idiom",
+      "definition": "To trust what someone says without proof.",
+      "example": "I'll give her the benefit of the doubt."
+    },
+    {
+      "id": "id-026",
+      "word": "Go the extra mile",
+      "pos": "idiom",
+      "definition": "To make a special effort beyond what is required.",
+      "example": "Our teacher always goes the extra mile."
+    },
+    {
+      "id": "id-027",
+      "word": "Hit the road",
+      "pos": "idiom",
+      "definition": "To leave or begin a journey.",
+      "example": "It's late; time to hit the road."
+    },
+    {
+      "id": "id-028",
+      "word": "Hit the sack",
+      "pos": "idiom",
+      "definition": "To go to bed.",
+      "example": "I'm exhausted; I'm going to hit the sack."
+    },
+    {
+      "id": "id-029",
+      "word": "In hot water",
+      "pos": "idiom",
+      "definition": "In trouble.",
+      "example": "He's in hot water with the boss."
+    },
+    {
+      "id": "id-030",
+      "word": "Jump on the bandwagon",
+      "pos": "idiom",
+      "definition": "To join others in doing something popular.",
+      "example": "Everyone's jumping on the fitness bandwagon."
+    },
+    {
+      "id": "id-031",
+      "word": "Keep your chin up",
+      "pos": "idiom",
+      "definition": "Stay cheerful in a difficult situation.",
+      "example": "Keep your chin up; things will improve."
+    },
+    {
+      "id": "id-032",
+      "word": "Kick the bucket",
+      "pos": "idiom",
+      "definition": "To die (informal, often humorous).",
+      "example": "The old dog finally kicked the bucket."
+    },
+    {
+      "id": "id-033",
+      "word": "Let sleeping dogs lie",
+      "pos": "idiom",
+      "definition": "To avoid restarting an old argument.",
+      "example": "Don't mention it — let sleeping dogs lie."
+    },
+    {
+      "id": "id-034",
+      "word": "Miss the boat",
+      "pos": "idiom",
+      "definition": "To lose an opportunity by being too slow.",
+      "example": "I missed the boat on that job offer."
+    },
+    {
+      "id": "id-035",
+      "word": "No pain, no gain",
+      "pos": "idiom",
+      "definition": "Success requires effort and suffering.",
+      "example": "Keep training — no pain, no gain."
+    },
+    {
+      "id": "id-036",
+      "word": "On the ball",
+      "pos": "idiom",
+      "definition": "Alert and quick to understand.",
+      "example": "The new assistant is really on the ball."
+    },
+    {
+      "id": "id-037",
+      "word": "Once bitten, twice shy",
+      "pos": "idiom",
+      "definition": "After a bad experience, one becomes cautious.",
+      "example": "She won't lend money again — once bitten, twice shy."
+    },
+    {
+      "id": "id-038",
+      "word": "Out of the blue",
+      "pos": "idiom",
+      "definition": "Suddenly and unexpectedly.",
+      "example": "He called me out of the blue."
+    },
+    {
+      "id": "id-039",
+      "word": "Pull someone's leg",
+      "pos": "idiom",
+      "definition": "To tease or joke with someone.",
+      "example": "Relax — I'm just pulling your leg."
+    },
+    {
+      "id": "id-040",
+      "word": "Rain on someone's parade",
+      "pos": "idiom",
+      "definition": "To spoil someone's plans or enjoyment.",
+      "example": "I hate to rain on your parade, but…"
+    },
+    {
+      "id": "id-041",
+      "word": "See eye to eye",
+      "pos": "idiom",
+      "definition": "To agree with someone.",
+      "example": "We don't always see eye to eye."
+    },
+    {
+      "id": "id-042",
+      "word": "Sit on the fence",
+      "pos": "idiom",
+      "definition": "To avoid taking sides in a dispute.",
+      "example": "Stop sitting on the fence and decide."
+    },
+    {
+      "id": "id-043",
+      "word": "Speak of the devil",
+      "pos": "idiom",
+      "definition": "Said when a person appears just as they are being discussed.",
+      "example": "Speak of the devil — here she comes!"
+    },
+    {
+      "id": "id-044",
+      "word": "Take it with a grain of salt",
+      "pos": "idiom",
+      "definition": "To regard something as exaggerated or unreliable.",
+      "example": "Take his advice with a grain of salt."
+    },
+    {
+      "id": "id-045",
+      "word": "The last straw",
+      "pos": "idiom",
+      "definition": "The final problem that makes a situation intolerable.",
+      "example": "Missing dinner was the last straw."
+    },
+    {
+      "id": "id-046",
+      "word": "Throw in the towel",
+      "pos": "idiom",
+      "definition": "To give up or admit defeat.",
+      "example": "After two hours he threw in the towel."
+    },
+    {
+      "id": "id-047",
+      "word": "Tie the knot",
+      "pos": "idiom",
+      "definition": "To get married.",
+      "example": "They plan to tie the knot in June."
+    },
+    {
+      "id": "id-048",
+      "word": "Turn a blind eye",
+      "pos": "idiom",
+      "definition": "To ignore something wrong on purpose.",
+      "example": "The guard turned a blind eye to the noise."
+    },
+    {
+      "id": "id-049",
+      "word": "Under one's nose",
+      "pos": "idiom",
+      "definition": "Right in front of someone, though not noticed.",
+      "example": "The keys were under my nose the whole time."
+    },
+    {
+      "id": "id-050",
+      "word": "Wear one's heart on one's sleeve",
+      "pos": "idiom",
+      "definition": "To show one's feelings openly.",
+      "example": "He wears his heart on his sleeve."
+    },
+    {
+      "id": "id-051",
+      "word": "When pigs fly",
+      "pos": "idiom",
+      "definition": "Something that will never happen.",
+      "example": "He'll apologise when pigs fly."
+    },
+    {
+      "id": "id-052",
+      "word": "A dime a dozen",
+      "pos": "idiom",
+      "definition": "Very common and of little value.",
+      "example": "Cheap souvenirs are a dime a dozen here."
+    },
+    {
+      "id": "id-053",
+      "word": "Actions speak louder than words",
+      "pos": "idiom",
+      "definition": "What one does matters more than what one says.",
+      "example": "Show me — actions speak louder than words."
+    },
+    {
+      "id": "id-054",
+      "word": "Add fuel to the fire",
+      "pos": "idiom",
+      "definition": "To make a bad situation worse.",
+      "example": "Shouting only added fuel to the fire."
+    },
+    {
+      "id": "id-055",
+      "word": "Against the clock",
+      "pos": "idiom",
+      "definition": "Working hurriedly to meet a deadline.",
+      "example": "The team worked against the clock."
+    },
+    {
+      "id": "id-056",
+      "word": "All ears",
+      "pos": "idiom",
+      "definition": "Fully attentive and eager to listen.",
+      "example": "Tell me your idea — I'm all ears."
+    },
+    {
+      "id": "id-057",
+      "word": "Apple of one's eye",
+      "pos": "idiom",
+      "definition": "A person one loves and is very proud of.",
+      "example": "His granddaughter is the apple of his eye."
+    },
+    {
+      "id": "id-058",
+      "word": "Back to square one",
+      "pos": "idiom",
+      "definition": "Back to the beginning after a failure.",
+      "example": "The plan collapsed and we're back to square one."
+    },
+    {
+      "id": "id-059",
+      "word": "Ball park figure",
+      "pos": "idiom",
+      "definition": "A rough numerical estimate.",
+      "example": "Just give me a ball park figure."
+    },
+    {
+      "id": "id-060",
+      "word": "Bend over backwards",
+      "pos": "idiom",
+      "definition": "To try very hard to help someone.",
+      "example": "She bent over backwards to please her guests."
+    },
+    {
+      "id": "id-061",
+      "word": "Bite off more than you can chew",
+      "pos": "idiom",
+      "definition": "To take on more than one can handle.",
+      "example": "He bit off more than he could chew with three jobs."
+    },
+    {
+      "id": "id-062",
+      "word": "Break a leg",
+      "pos": "idiom",
+      "definition": "Good luck (said especially to performers).",
+      "example": "Break a leg out there tonight!"
+    },
+    {
+      "id": "id-063",
+      "word": "Burn bridges",
+      "pos": "idiom",
+      "definition": "To destroy relationships or opportunities permanently.",
+      "example": "Don't burn bridges when you resign."
+    },
+    {
+      "id": "id-064",
+      "word": "Cat got your tongue",
+      "pos": "idiom",
+      "definition": "Said to someone who is silent when expected to speak.",
+      "example": "Well? Cat got your tongue?"
+    },
+    {
+      "id": "id-065",
+      "word": "Caught red-handed",
+      "pos": "idiom",
+      "definition": "Discovered doing something wrong.",
+      "example": "The thief was caught red-handed."
+    },
+    {
+      "id": "id-066",
+      "word": "Clean slate",
+      "pos": "idiom",
+      "definition": "A fresh start with no past mistakes counted.",
+      "example": "The new manager gave everyone a clean slate."
+    },
+    {
+      "id": "id-067",
+      "word": "Cold shoulder",
+      "pos": "idiom",
+      "definition": "Deliberately unfriendly treatment.",
+      "example": "She gave him the cold shoulder all evening."
+    },
+    {
+      "id": "id-068",
+      "word": "Come rain or shine",
+      "pos": "idiom",
+      "definition": "No matter what happens.",
+      "example": "We meet every Sunday, come rain or shine."
+    },
+    {
+      "id": "id-069",
+      "word": "Cross that bridge when we come to it",
+      "pos": "idiom",
+      "definition": "To deal with a problem only when it arises.",
+      "example": "Let's cross that bridge when we come to it."
+    },
+    {
+      "id": "id-070",
+      "word": "Cut to the chase",
+      "pos": "idiom",
+      "definition": "To get to the point.",
+      "example": "Cut to the chase — what do you want?"
+    },
+    {
+      "id": "id-071",
+      "word": "Down to the wire",
+      "pos": "idiom",
+      "definition": "Until the very last moment.",
+      "example": "The match went down to the wire."
+    },
+    {
+      "id": "id-072",
+      "word": "Drop the ball",
+      "pos": "idiom",
+      "definition": "To make a mistake, especially by being careless.",
+      "example": "He dropped the ball on the client's order."
+    },
+    {
+      "id": "id-073",
+      "word": "Every cloud has a silver lining",
+      "pos": "idiom",
+      "definition": "Every difficult situation has a positive aspect.",
+      "example": "Cheer up — every cloud has a silver lining."
+    },
+    {
+      "id": "id-074",
+      "word": "Fair and square",
+      "pos": "idiom",
+      "definition": "Honestly and according to the rules.",
+      "example": "We won fair and square."
+    },
+    {
+      "id": "id-075",
+      "word": "Fish out of water",
+      "pos": "idiom",
+      "definition": "Someone in an unfamiliar, uncomfortable environment.",
+      "example": "At the formal dinner he felt like a fish out of water."
+    },
+    {
+      "id": "id-076",
+      "word": "Fit as a fiddle",
+      "pos": "idiom",
+      "definition": "In very good health.",
+      "example": "At eighty she's still fit as a fiddle."
+    },
+    {
+      "id": "id-077",
+      "word": "Get out of hand",
+      "pos": "idiom",
+      "definition": "To become impossible to control.",
+      "example": "The party got out of hand."
+    },
+    {
+      "id": "id-078",
+      "word": "Go down in flames",
+      "pos": "idiom",
+      "definition": "To fail dramatically.",
+      "example": "The proposal went down in flames."
+    },
+    {
+      "id": "id-079",
+      "word": "Hang in there",
+      "pos": "idiom",
+      "definition": "Persevere despite difficulty.",
+      "example": "Hang in there — you'll pass the exam."
+    },
+    {
+      "id": "id-080",
+      "word": "Hit the books",
+      "pos": "idiom",
+      "definition": "To study hard.",
+      "example": "Exams start Monday; time to hit the books."
+    },
+    {
+      "id": "id-081",
+      "word": "Hold your horses",
+      "pos": "idiom",
+      "definition": "Wait — be patient.",
+      "example": "Hold your horses, I'm coming!"
+    },
+    {
+      "id": "id-082",
+      "word": "In the same boat",
+      "pos": "idiom",
+      "definition": "In the same difficult situation as others.",
+      "example": "We're all in the same boat here."
+    },
+    {
+      "id": "id-083",
+      "word": "It takes two to tango",
+      "pos": "idiom",
+      "definition": "Both parties are responsible for a situation.",
+      "example": "Don't blame him alone — it takes two to tango."
+    },
+    {
+      "id": "id-084",
+      "word": "Jump the gun",
+      "pos": "idiom",
+      "definition": "To act too soon, before the right time.",
+      "example": "Don't jump the gun before the results are out."
+    },
+    {
+      "id": "id-085",
+      "word": "Keep an eye on",
+      "pos": "idiom",
+      "definition": "To watch carefully.",
+      "example": "Please keep an eye on the children."
+    },
+    {
+      "id": "id-086",
+      "word": "Learn the ropes",
+      "pos": "idiom",
+      "definition": "To learn how something is done.",
+      "example": "Give her time to learn the ropes."
+    },
+    {
+      "id": "id-087",
+      "word": "Lose your touch",
+      "pos": "idiom",
+      "definition": "To lose an ability one once had.",
+      "example": "The old chef hasn't lost his touch."
+    },
+    {
+      "id": "id-088",
+      "word": "Make a long story short",
+      "pos": "idiom",
+      "definition": "To tell something briefly.",
+      "example": "To make a long story short, we missed the train."
+    },
+    {
+      "id": "id-089",
+      "word": "Method to the madness",
+      "pos": "idiom",
+      "definition": "A hidden logic in seemingly strange behaviour.",
+      "example": "There's method to his madness."
+    },
+    {
+      "id": "id-090",
+      "word": "Neck and neck",
+      "pos": "idiom",
+      "definition": "Very close in a race or contest.",
+      "example": "The two teams are neck and neck."
+    },
+    {
+      "id": "id-091",
+      "word": "Off the hook",
+      "pos": "idiom",
+      "definition": "Free from an obligation or blame.",
+      "example": "He's off the hook for now."
+    },
+    {
+      "id": "id-092",
+      "word": "On thin ice",
+      "pos": "idiom",
+      "definition": "In a risky situation.",
+      "example": "You're on thin ice with the boss."
+    },
+    {
+      "id": "id-093",
+      "word": "Out on a limb",
+      "pos": "idiom",
+      "definition": "In a risky, exposed position.",
+      "example": "She went out on a limb to defend him."
+    },
+    {
+      "id": "id-094",
+      "word": "Play it by ear",
+      "pos": "idiom",
+      "definition": "To improvise as the situation develops.",
+      "example": "We'll just play it by ear tonight."
+    },
+    {
+      "id": "id-095",
+      "word": "Pull yourself together",
+      "pos": "idiom",
+      "definition": "To regain composure.",
+      "example": "Pull yourself together and try again."
+    },
+    {
+      "id": "id-096",
+      "word": "Put all your eggs in one basket",
+      "pos": "idiom",
+      "definition": "To risk everything on a single venture.",
+      "example": "Don't put all your eggs in one basket."
+    },
+    {
+      "id": "id-097",
+      "word": "Read between the lines",
+      "pos": "idiom",
+      "definition": "To find a hidden meaning in something said.",
+      "example": "Read between the lines of his letter."
+    },
+    {
+      "id": "id-098",
+      "word": "Right off the bat",
+      "pos": "idiom",
+      "definition": "Immediately, without delay.",
+      "example": "She agreed right off the bat."
+    },
+    {
+      "id": "id-099",
+      "word": "Rock the boat",
+      "pos": "idiom",
+      "definition": "To disturb an existing situation.",
+      "example": "Don't rock the boat before the deal closes."
+    },
+    {
+      "id": "id-100",
+      "word": "Run of the mill",
+      "pos": "idiom",
+      "definition": "Ordinary; nothing special.",
+      "example": "It was a run-of-the-mill hotel."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "id-q1",
+      "question": "Which word means: \"To do or say something to relieve tension or shyness in a group.\"?",
+      "options": [
+        "Break the ice",
+        "In hot water",
+        "On the ball",
+        "Fish out of water"
+      ],
+      "answer": 0,
+      "explanation": "Break the ice (idiom) — To do or say something to relieve tension or shyness in a group."
+    },
+    {
+      "id": "id-q2",
+      "question": "Which word means: \"To force oneself to do or endure something unpleasant.\"?",
+      "options": [
+        "Bite the bullet",
+        "Caught red-handed",
+        "Hit the road",
+        "Put all your eggs in one basket"
+      ],
+      "answer": 0,
+      "explanation": "Bite the bullet (idiom) — To force oneself to do or endure something unpleasant."
+    },
+    {
+      "id": "id-q3",
+      "question": "Which word means: \"To describe exactly what is causing a situation or problem.\"?",
+      "options": [
+        "Keep your chin up",
+        "Hit the nail on the head",
+        "No pain, no gain",
+        "Hit the sack"
+      ],
+      "answer": 1,
+      "explanation": "Hit the nail on the head (idiom) — To describe exactly what is causing a situation or problem."
+    },
+    {
+      "id": "id-q4",
+      "question": "Which word means: \"Something very easy to do.\"?",
+      "options": [
+        "Piece of cake",
+        "Blessing in disguise",
+        "Call it a day",
+        "Elephant in the room"
+      ],
+      "answer": 0,
+      "explanation": "Piece of cake (idiom) — Something very easy to do."
+    },
+    {
+      "id": "id-q5",
+      "question": "Which word means: \"Feeling slightly ill.\"?",
+      "options": [
+        "Under the weather",
+        "Rock the boat",
+        "Break the ice",
+        "Hit the books"
+      ],
+      "answer": 0,
+      "explanation": "Under the weather (idiom) — Feeling slightly ill."
+    },
+    {
+      "id": "id-q6",
+      "question": "Which word means: \"To be very expensive.\"?",
+      "options": [
+        "Cost an arm and a leg",
+        "Hold your horses",
+        "Sit on the fence",
+        "Caught red-handed"
+      ],
+      "answer": 0,
+      "explanation": "Cost an arm and a leg (idiom) — To be very expensive."
+    },
+    {
+      "id": "id-q7",
+      "question": "Which word means: \"Very rarely.\"?",
+      "options": [
+        "Cold shoulder",
+        "Once bitten, twice shy",
+        "Rock the boat",
+        "Once in a blue moon"
+      ],
+      "answer": 3,
+      "explanation": "Once in a blue moon (idiom) — Very rarely."
+    },
+    {
+      "id": "id-q8",
+      "question": "Which word means: \"To reveal a secret, usually by accident.\"?",
+      "options": [
+        "Cross that bridge when we come to it",
+        "Once in a blue moon",
+        "All ears",
+        "Let the cat out of the bag"
+      ],
+      "answer": 3,
+      "explanation": "Let the cat out of the bag (idiom) — To reveal a secret, usually by accident."
+    },
+    {
+      "id": "id-q9",
+      "question": "Which word means: \"To disclose secret information.\"?",
+      "options": [
+        "A dime a dozen",
+        "Clean slate",
+        "Spill the beans",
+        "Throw in the towel"
+      ],
+      "answer": 2,
+      "explanation": "Spill the beans (idiom) — To disclose secret information."
+    },
+    {
+      "id": "id-q10",
+      "question": "Which word means: \"To achieve two aims with a single action.\"?",
+      "options": [
+        "Come rain or shine",
+        "Off the hook",
+        "Kill two birds with one stone",
+        "Bend over backwards"
+      ],
+      "answer": 2,
+      "explanation": "Kill two birds with one stone (idiom) — To achieve two aims with a single action."
+    },
+    {
+      "id": "id-q11",
+      "question": "Which word means: \"It is your turn to take action or make a decision.\"?",
+      "options": [
+        "Make a long story short",
+        "Bite the bullet",
+        "Hit the sack",
+        "The ball is in your court"
+      ],
+      "answer": 3,
+      "explanation": "The ball is in your court (idiom) — It is your turn to take action or make a decision."
+    },
+    {
+      "id": "id-q12",
+      "question": "Which word means: \"Pursuing a mistaken line of thought or action.\"?",
+      "options": [
+        "Barking up the wrong tree",
+        "Turn a blind eye",
+        "Speak of the devil",
+        "Hit the books"
+      ],
+      "answer": 0,
+      "explanation": "Barking up the wrong tree (idiom) — Pursuing a mistaken line of thought or action."
+    },
+    {
+      "id": "id-q13",
+      "question": "Which word means: \"To avoid getting to the point.\"?",
+      "options": [
+        "Beat around the bush",
+        "Kick the bucket",
+        "On the ball",
+        "Break a leg"
+      ],
+      "answer": 0,
+      "explanation": "Beat around the bush (idiom) — To avoid getting to the point."
+    },
+    {
+      "id": "id-q14",
+      "question": "Which word means: \"A situation combining the advantages of two different things.\"?",
+      "options": [
+        "Caught red-handed",
+        "All ears",
+        "Hit the sack",
+        "Best of both worlds"
+      ],
+      "answer": 3,
+      "explanation": "Best of both worlds (idiom) — A situation combining the advantages of two different things."
+    },
+    {
+      "id": "id-q15",
+      "question": "Which word means: \"Something that seems bad at first but proves beneficial.\"?",
+      "options": [
+        "Actions speak louder than words",
+        "Once bitten, twice shy",
+        "Turn a blind eye",
+        "Blessing in disguise"
+      ],
+      "answer": 3,
+      "explanation": "Blessing in disguise (idiom) — Something that seems bad at first but proves beneficial."
+    },
+    {
+      "id": "id-q16",
+      "question": "Which word means: \"To work late into the night.\"?",
+      "options": [
+        "Burn the midnight oil",
+        "Method to the madness",
+        "Keep your chin up",
+        "Fish out of water"
+      ],
+      "answer": 0,
+      "explanation": "Burn the midnight oil (idiom) — To work late into the night."
+    },
+    {
+      "id": "id-q17",
+      "question": "Which word means: \"To stop working on something.\"?",
+      "options": [
+        "Every cloud has a silver lining",
+        "Apple of one's eye",
+        "Kick the bucket",
+        "Call it a day"
+      ],
+      "answer": 3,
+      "explanation": "Call it a day (idiom) — To stop working on something."
+    },
+    {
+      "id": "id-q18",
+      "question": "Which word means: \"To be upset about something that cannot be changed.\"?",
+      "options": [
+        "Break a leg",
+        "Elephant in the room",
+        "Cry over spilled milk",
+        "Put all your eggs in one basket"
+      ],
+      "answer": 2,
+      "explanation": "Cry over spilled milk (idiom) — To be upset about something that cannot be changed."
+    },
+    {
+      "id": "id-q19",
+      "question": "Which word means: \"To do something poorly or cheaply to save time or money.\"?",
+      "options": [
+        "Caught red-handed",
+        "Cut corners",
+        "Cry over spilled milk",
+        "In the same boat"
+      ],
+      "answer": 1,
+      "explanation": "Cut corners (idiom) — To do something poorly or cheaply to save time or money."
+    },
+    {
+      "id": "id-q20",
+      "question": "Which word means: \"One who argues an opposing view for the sake of debate.\"?",
+      "options": [
+        "Fair and square",
+        "Devil's advocate",
+        "Every cloud has a silver lining",
+        "Miss the boat"
+      ],
+      "answer": 1,
+      "explanation": "Devil's advocate (idiom) — One who argues an opposing view for the sake of debate."
+    },
+    {
+      "id": "id-q21",
+      "question": "Which word means: \"An obvious problem no one wants to discuss.\"?",
+      "options": [
+        "Neck and neck",
+        "Let the cat out of the bag",
+        "Elephant in the room",
+        "Face the music"
+      ],
+      "answer": 2,
+      "explanation": "Elephant in the room (idiom) — An obvious problem no one wants to discuss."
+    },
+    {
+      "id": "id-q22",
+      "question": "Which word means: \"To accept the unpleasant consequences of one's actions.\"?",
+      "options": [
+        "In the same boat",
+        "Face the music",
+        "Beat around the bush",
+        "Ball park figure"
+      ],
+      "answer": 1,
+      "explanation": "Face the music (idiom) — To accept the unpleasant consequences of one's actions."
+    },
+    {
+      "id": "id-q23",
+      "question": "Which word means: \"Feeling sad or depressed.\"?",
+      "options": [
+        "Feeling blue",
+        "Every cloud has a silver lining",
+        "Turn a blind eye",
+        "Miss the boat"
+      ],
+      "answer": 0,
+      "explanation": "Feeling blue (idiom) — Feeling sad or depressed."
+    },
+    {
+      "id": "id-q24",
+      "question": "Which word means: \"To become nervous about something planned.\"?",
+      "options": [
+        "Get cold feet",
+        "Burn the midnight oil",
+        "Make a long story short",
+        "Throw in the towel"
+      ],
+      "answer": 0,
+      "explanation": "Get cold feet (idiom) — To become nervous about something planned."
+    },
+    {
+      "id": "id-q25",
+      "question": "Which word means: \"To trust what someone says without proof.\"?",
+      "options": [
+        "Out of the blue",
+        "Tie the knot",
+        "Speak of the devil",
+        "Give the benefit of the doubt"
+      ],
+      "answer": 3,
+      "explanation": "Give the benefit of the doubt (idiom) — To trust what someone says without proof."
+    },
+    {
+      "id": "id-q26",
+      "question": "Which word means: \"To make a special effort beyond what is required.\"?",
+      "options": [
+        "Go the extra mile",
+        "The ball is in your court",
+        "Wear one's heart on one's sleeve",
+        "Hit the books"
+      ],
+      "answer": 0,
+      "explanation": "Go the extra mile (idiom) — To make a special effort beyond what is required."
+    },
+    {
+      "id": "id-q27",
+      "question": "Which word means: \"To leave or begin a journey.\"?",
+      "options": [
+        "Face the music",
+        "It takes two to tango",
+        "The last straw",
+        "Hit the road"
+      ],
+      "answer": 3,
+      "explanation": "Hit the road (idiom) — To leave or begin a journey."
+    },
+    {
+      "id": "id-q28",
+      "question": "Which word means: \"To go to bed.\"?",
+      "options": [
+        "Hit the sack",
+        "The ball is in your court",
+        "Kill two birds with one stone",
+        "Elephant in the room"
+      ],
+      "answer": 0,
+      "explanation": "Hit the sack (idiom) — To go to bed."
+    },
+    {
+      "id": "id-q29",
+      "question": "Which word means: \"In trouble.\"?",
+      "options": [
+        "Sit on the fence",
+        "Keep an eye on",
+        "In hot water",
+        "Pull someone's leg"
+      ],
+      "answer": 2,
+      "explanation": "In hot water (idiom) — In trouble."
+    },
+    {
+      "id": "id-q30",
+      "question": "Which word means: \"To join others in doing something popular.\"?",
+      "options": [
+        "Turn a blind eye",
+        "On the ball",
+        "Back to square one",
+        "Jump on the bandwagon"
+      ],
+      "answer": 3,
+      "explanation": "Jump on the bandwagon (idiom) — To join others in doing something popular."
+    },
+    {
+      "id": "id-q31",
+      "question": "Which word means: \"Stay cheerful in a difficult situation.\"?",
+      "options": [
+        "Get cold feet",
+        "Keep your chin up",
+        "Call it a day",
+        "Hit the nail on the head"
+      ],
+      "answer": 1,
+      "explanation": "Keep your chin up (idiom) — Stay cheerful in a difficult situation."
+    },
+    {
+      "id": "id-q32",
+      "question": "Which word means: \"To die (informal, often humorous).\"?",
+      "options": [
+        "The ball is in your court",
+        "Kick the bucket",
+        "Read between the lines",
+        "Off the hook"
+      ],
+      "answer": 1,
+      "explanation": "Kick the bucket (idiom) — To die (informal, often humorous)."
+    },
+    {
+      "id": "id-q33",
+      "question": "Which word means: \"To avoid restarting an old argument.\"?",
+      "options": [
+        "Beat around the bush",
+        "Best of both worlds",
+        "Spill the beans",
+        "Let sleeping dogs lie"
+      ],
+      "answer": 3,
+      "explanation": "Let sleeping dogs lie (idiom) — To avoid restarting an old argument."
+    },
+    {
+      "id": "id-q34",
+      "question": "Which word means: \"To lose an opportunity by being too slow.\"?",
+      "options": [
+        "A dime a dozen",
+        "Run of the mill",
+        "Miss the boat",
+        "Piece of cake"
+      ],
+      "answer": 2,
+      "explanation": "Miss the boat (idiom) — To lose an opportunity by being too slow."
+    },
+    {
+      "id": "id-q35",
+      "question": "Which word means: \"Success requires effort and suffering.\"?",
+      "options": [
+        "The ball is in your court",
+        "Hold your horses",
+        "Devil's advocate",
+        "No pain, no gain"
+      ],
+      "answer": 3,
+      "explanation": "No pain, no gain (idiom) — Success requires effort and suffering."
+    },
+    {
+      "id": "id-q36",
+      "question": "Which word means: \"Alert and quick to understand.\"?",
+      "options": [
+        "Put all your eggs in one basket",
+        "Kick the bucket",
+        "Out of the blue",
+        "On the ball"
+      ],
+      "answer": 3,
+      "explanation": "On the ball (idiom) — Alert and quick to understand."
+    },
+    {
+      "id": "id-q37",
+      "question": "Which word means: \"After a bad experience, one becomes cautious.\"?",
+      "options": [
+        "Face the music",
+        "Cross that bridge when we come to it",
+        "Once bitten, twice shy",
+        "Call it a day"
+      ],
+      "answer": 2,
+      "explanation": "Once bitten, twice shy (idiom) — After a bad experience, one becomes cautious."
+    },
+    {
+      "id": "id-q38",
+      "question": "Which word means: \"Suddenly and unexpectedly.\"?",
+      "options": [
+        "Speak of the devil",
+        "Break a leg",
+        "Out of the blue",
+        "Bite off more than you can chew"
+      ],
+      "answer": 2,
+      "explanation": "Out of the blue (idiom) — Suddenly and unexpectedly."
+    },
+    {
+      "id": "id-q39",
+      "question": "Which word means: \"To tease or joke with someone.\"?",
+      "options": [
+        "Cry over spilled milk",
+        "Pull someone's leg",
+        "Down to the wire",
+        "Off the hook"
+      ],
+      "answer": 1,
+      "explanation": "Pull someone's leg (idiom) — To tease or joke with someone."
+    },
+    {
+      "id": "id-q40",
+      "question": "Which word means: \"To spoil someone's plans or enjoyment.\"?",
+      "options": [
+        "In the same boat",
+        "Read between the lines",
+        "It takes two to tango",
+        "Rain on someone's parade"
+      ],
+      "answer": 3,
+      "explanation": "Rain on someone's parade (idiom) — To spoil someone's plans or enjoyment."
+    },
+    {
+      "id": "id-q41",
+      "question": "Which word means: \"To agree with someone.\"?",
+      "options": [
+        "Down to the wire",
+        "See eye to eye",
+        "Throw in the towel",
+        "Burn bridges"
+      ],
+      "answer": 1,
+      "explanation": "See eye to eye (idiom) — To agree with someone."
+    },
+    {
+      "id": "id-q42",
+      "question": "Which word means: \"To avoid taking sides in a dispute.\"?",
+      "options": [
+        "Sit on the fence",
+        "Turn a blind eye",
+        "Rain on someone's parade",
+        "Add fuel to the fire"
+      ],
+      "answer": 0,
+      "explanation": "Sit on the fence (idiom) — To avoid taking sides in a dispute."
+    },
+    {
+      "id": "id-q43",
+      "question": "Which word means: \"Said when a person appears just as they are being discussed.\"?",
+      "options": [
+        "Bite the bullet",
+        "Come rain or shine",
+        "Speak of the devil",
+        "Break the ice"
+      ],
+      "answer": 2,
+      "explanation": "Speak of the devil (idiom) — Said when a person appears just as they are being discussed."
+    },
+    {
+      "id": "id-q44",
+      "question": "Which word means: \"To regard something as exaggerated or unreliable.\"?",
+      "options": [
+        "Break a leg",
+        "Bite the bullet",
+        "Cut to the chase",
+        "Take it with a grain of salt"
+      ],
+      "answer": 3,
+      "explanation": "Take it with a grain of salt (idiom) — To regard something as exaggerated or unreliable."
+    },
+    {
+      "id": "id-q45",
+      "question": "Which word means: \"The final problem that makes a situation intolerable.\"?",
+      "options": [
+        "Run of the mill",
+        "Bite the bullet",
+        "The last straw",
+        "Apple of one's eye"
+      ],
+      "answer": 2,
+      "explanation": "The last straw (idiom) — The final problem that makes a situation intolerable."
+    },
+    {
+      "id": "id-q46",
+      "question": "Which word means: \"To give up or admit defeat.\"?",
+      "options": [
+        "Break the ice",
+        "Under one's nose",
+        "Throw in the towel",
+        "Drop the ball"
+      ],
+      "answer": 2,
+      "explanation": "Throw in the towel (idiom) — To give up or admit defeat."
+    },
+    {
+      "id": "id-q47",
+      "question": "Which word means: \"To get married.\"?",
+      "options": [
+        "Elephant in the room",
+        "A dime a dozen",
+        "Kick the bucket",
+        "Tie the knot"
+      ],
+      "answer": 3,
+      "explanation": "Tie the knot (idiom) — To get married."
+    },
+    {
+      "id": "id-q48",
+      "question": "Which word means: \"To ignore something wrong on purpose.\"?",
+      "options": [
+        "Miss the boat",
+        "Turn a blind eye",
+        "All ears",
+        "The ball is in your court"
+      ],
+      "answer": 1,
+      "explanation": "Turn a blind eye (idiom) — To ignore something wrong on purpose."
+    },
+    {
+      "id": "id-q49",
+      "question": "Which word means: \"Right in front of someone, though not noticed.\"?",
+      "options": [
+        "Under one's nose",
+        "Once bitten, twice shy",
+        "Keep an eye on",
+        "Read between the lines"
+      ],
+      "answer": 0,
+      "explanation": "Under one's nose (idiom) — Right in front of someone, though not noticed."
+    },
+    {
+      "id": "id-q50",
+      "question": "Which word means: \"To show one's feelings openly.\"?",
+      "options": [
+        "Wear one's heart on one's sleeve",
+        "Get cold feet",
+        "Spill the beans",
+        "Cry over spilled milk"
+      ],
+      "answer": 0,
+      "explanation": "Wear one's heart on one's sleeve (idiom) — To show one's feelings openly."
+    },
+    {
+      "id": "id-q51",
+      "question": "Which word means: \"Something that will never happen.\"?",
+      "options": [
+        "No pain, no gain",
+        "Ball park figure",
+        "Hold your horses",
+        "When pigs fly"
+      ],
+      "answer": 3,
+      "explanation": "When pigs fly (idiom) — Something that will never happen."
+    },
+    {
+      "id": "id-q52",
+      "question": "Which word means: \"Very common and of little value.\"?",
+      "options": [
+        "Devil's advocate",
+        "Once in a blue moon",
+        "A dime a dozen",
+        "Hit the nail on the head"
+      ],
+      "answer": 2,
+      "explanation": "A dime a dozen (idiom) — Very common and of little value."
+    },
+    {
+      "id": "id-q53",
+      "question": "Which word means: \"What one does matters more than what one says.\"?",
+      "options": [
+        "No pain, no gain",
+        "Once bitten, twice shy",
+        "Call it a day",
+        "Actions speak louder than words"
+      ],
+      "answer": 3,
+      "explanation": "Actions speak louder than words (idiom) — What one does matters more than what one says."
+    },
+    {
+      "id": "id-q54",
+      "question": "Which word means: \"To make a bad situation worse.\"?",
+      "options": [
+        "Devil's advocate",
+        "Add fuel to the fire",
+        "Barking up the wrong tree",
+        "Jump on the bandwagon"
+      ],
+      "answer": 1,
+      "explanation": "Add fuel to the fire (idiom) — To make a bad situation worse."
+    },
+    {
+      "id": "id-q55",
+      "question": "Which word means: \"Working hurriedly to meet a deadline.\"?",
+      "options": [
+        "Take it with a grain of salt",
+        "Rain on someone's parade",
+        "Add fuel to the fire",
+        "Against the clock"
+      ],
+      "answer": 3,
+      "explanation": "Against the clock (idiom) — Working hurriedly to meet a deadline."
+    },
+    {
+      "id": "id-q56",
+      "question": "Which word means: \"Fully attentive and eager to listen.\"?",
+      "options": [
+        "Under the weather",
+        "Speak of the devil",
+        "All ears",
+        "Off the hook"
+      ],
+      "answer": 2,
+      "explanation": "All ears (idiom) — Fully attentive and eager to listen."
+    },
+    {
+      "id": "id-q57",
+      "question": "Which word means: \"A person one loves and is very proud of.\"?",
+      "options": [
+        "When pigs fly",
+        "Kill two birds with one stone",
+        "No pain, no gain",
+        "Apple of one's eye"
+      ],
+      "answer": 3,
+      "explanation": "Apple of one's eye (idiom) — A person one loves and is very proud of."
+    },
+    {
+      "id": "id-q58",
+      "question": "Which word means: \"Back to the beginning after a failure.\"?",
+      "options": [
+        "Under one's nose",
+        "Back to square one",
+        "Bite the bullet",
+        "Let sleeping dogs lie"
+      ],
+      "answer": 1,
+      "explanation": "Back to square one (idiom) — Back to the beginning after a failure."
+    },
+    {
+      "id": "id-q59",
+      "question": "Which word means: \"A rough numerical estimate.\"?",
+      "options": [
+        "Ball park figure",
+        "Wear one's heart on one's sleeve",
+        "Apple of one's eye",
+        "Run of the mill"
+      ],
+      "answer": 0,
+      "explanation": "Ball park figure (idiom) — A rough numerical estimate."
+    },
+    {
+      "id": "id-q60",
+      "question": "Which word means: \"To try very hard to help someone.\"?",
+      "options": [
+        "Ball park figure",
+        "Bend over backwards",
+        "Put all your eggs in one basket",
+        "Go the extra mile"
+      ],
+      "answer": 1,
+      "explanation": "Bend over backwards (idiom) — To try very hard to help someone."
+    },
+    {
+      "id": "id-q61",
+      "question": "Which word means: \"To take on more than one can handle.\"?",
+      "options": [
+        "Bite off more than you can chew",
+        "Break a leg",
+        "Wear one's heart on one's sleeve",
+        "Method to the madness"
+      ],
+      "answer": 0,
+      "explanation": "Bite off more than you can chew (idiom) — To take on more than one can handle."
+    },
+    {
+      "id": "id-q62",
+      "question": "Which word means: \"Good luck (said especially to performers).\"?",
+      "options": [
+        "Break a leg",
+        "Cost an arm and a leg",
+        "Pull yourself together",
+        "In the same boat"
+      ],
+      "answer": 0,
+      "explanation": "Break a leg (idiom) — Good luck (said especially to performers)."
+    },
+    {
+      "id": "id-q63",
+      "question": "Which word means: \"To destroy relationships or opportunities permanently.\"?",
+      "options": [
+        "Pull someone's leg",
+        "Burn bridges",
+        "It takes two to tango",
+        "Go the extra mile"
+      ],
+      "answer": 1,
+      "explanation": "Burn bridges (idiom) — To destroy relationships or opportunities permanently."
+    },
+    {
+      "id": "id-q64",
+      "question": "Which word means: \"Said to someone who is silent when expected to speak.\"?",
+      "options": [
+        "It takes two to tango",
+        "Blessing in disguise",
+        "Keep your chin up",
+        "Cat got your tongue"
+      ],
+      "answer": 3,
+      "explanation": "Cat got your tongue (idiom) — Said to someone who is silent when expected to speak."
+    },
+    {
+      "id": "id-q65",
+      "question": "Which word means: \"Discovered doing something wrong.\"?",
+      "options": [
+        "Fit as a fiddle",
+        "Caught red-handed",
+        "On the ball",
+        "Face the music"
+      ],
+      "answer": 1,
+      "explanation": "Caught red-handed (idiom) — Discovered doing something wrong."
+    },
+    {
+      "id": "id-q66",
+      "question": "Which word means: \"A fresh start with no past mistakes counted.\"?",
+      "options": [
+        "Cost an arm and a leg",
+        "Bite the bullet",
+        "Fit as a fiddle",
+        "Clean slate"
+      ],
+      "answer": 3,
+      "explanation": "Clean slate (idiom) — A fresh start with no past mistakes counted."
+    },
+    {
+      "id": "id-q67",
+      "question": "Which word means: \"Deliberately unfriendly treatment.\"?",
+      "options": [
+        "Barking up the wrong tree",
+        "Cold shoulder",
+        "Turn a blind eye",
+        "Run of the mill"
+      ],
+      "answer": 1,
+      "explanation": "Cold shoulder (idiom) — Deliberately unfriendly treatment."
+    },
+    {
+      "id": "id-q68",
+      "question": "Which word means: \"No matter what happens.\"?",
+      "options": [
+        "Method to the madness",
+        "Barking up the wrong tree",
+        "Come rain or shine",
+        "Hold your horses"
+      ],
+      "answer": 2,
+      "explanation": "Come rain or shine (idiom) — No matter what happens."
+    },
+    {
+      "id": "id-q69",
+      "question": "Which word means: \"To deal with a problem only when it arises.\"?",
+      "options": [
+        "Cross that bridge when we come to it",
+        "Let the cat out of the bag",
+        "Jump the gun",
+        "Throw in the towel"
+      ],
+      "answer": 0,
+      "explanation": "Cross that bridge when we come to it (idiom) — To deal with a problem only when it arises."
+    },
+    {
+      "id": "id-q70",
+      "question": "Which word means: \"To get to the point.\"?",
+      "options": [
+        "Call it a day",
+        "Burn bridges",
+        "Cut to the chase",
+        "Jump on the bandwagon"
+      ],
+      "answer": 2,
+      "explanation": "Cut to the chase (idiom) — To get to the point."
+    },
+    {
+      "id": "id-q71",
+      "question": "Which word means: \"Until the very last moment.\"?",
+      "options": [
+        "Down to the wire",
+        "Pull yourself together",
+        "Give the benefit of the doubt",
+        "Apple of one's eye"
+      ],
+      "answer": 0,
+      "explanation": "Down to the wire (idiom) — Until the very last moment."
+    },
+    {
+      "id": "id-q72",
+      "question": "Which word means: \"To make a mistake, especially by being careless.\"?",
+      "options": [
+        "Drop the ball",
+        "Play it by ear",
+        "Throw in the towel",
+        "Cry over spilled milk"
+      ],
+      "answer": 0,
+      "explanation": "Drop the ball (idiom) — To make a mistake, especially by being careless."
+    },
+    {
+      "id": "id-q73",
+      "question": "Which word means: \"Every difficult situation has a positive aspect.\"?",
+      "options": [
+        "On thin ice",
+        "Apple of one's eye",
+        "Every cloud has a silver lining",
+        "Drop the ball"
+      ],
+      "answer": 2,
+      "explanation": "Every cloud has a silver lining (idiom) — Every difficult situation has a positive aspect."
+    },
+    {
+      "id": "id-q74",
+      "question": "Which word means: \"Honestly and according to the rules.\"?",
+      "options": [
+        "Give the benefit of the doubt",
+        "Fair and square",
+        "Every cloud has a silver lining",
+        "Get cold feet"
+      ],
+      "answer": 1,
+      "explanation": "Fair and square (idiom) — Honestly and according to the rules."
+    },
+    {
+      "id": "id-q75",
+      "question": "Which word means: \"Someone in an unfamiliar, uncomfortable environment.\"?",
+      "options": [
+        "Fish out of water",
+        "Down to the wire",
+        "On the ball",
+        "Go down in flames"
+      ],
+      "answer": 0,
+      "explanation": "Fish out of water (idiom) — Someone in an unfamiliar, uncomfortable environment."
+    },
+    {
+      "id": "id-q76",
+      "question": "Which word means: \"In very good health.\"?",
+      "options": [
+        "Fit as a fiddle",
+        "Back to square one",
+        "Out of the blue",
+        "Miss the boat"
+      ],
+      "answer": 0,
+      "explanation": "Fit as a fiddle (idiom) — In very good health."
+    },
+    {
+      "id": "id-q77",
+      "question": "Which word means: \"To become impossible to control.\"?",
+      "options": [
+        "Under one's nose",
+        "Get out of hand",
+        "It takes two to tango",
+        "Caught red-handed"
+      ],
+      "answer": 1,
+      "explanation": "Get out of hand (idiom) — To become impossible to control."
+    },
+    {
+      "id": "id-q78",
+      "question": "Which word means: \"To fail dramatically.\"?",
+      "options": [
+        "Go down in flames",
+        "Keep your chin up",
+        "Sit on the fence",
+        "Hold your horses"
+      ],
+      "answer": 0,
+      "explanation": "Go down in flames (idiom) — To fail dramatically."
+    },
+    {
+      "id": "id-q79",
+      "question": "Which word means: \"Persevere despite difficulty.\"?",
+      "options": [
+        "Come rain or shine",
+        "Give the benefit of the doubt",
+        "Method to the madness",
+        "Hang in there"
+      ],
+      "answer": 3,
+      "explanation": "Hang in there (idiom) — Persevere despite difficulty."
+    },
+    {
+      "id": "id-q80",
+      "question": "Which word means: \"To study hard.\"?",
+      "options": [
+        "Hang in there",
+        "Once bitten, twice shy",
+        "Sit on the fence",
+        "Hit the books"
+      ],
+      "answer": 3,
+      "explanation": "Hit the books (idiom) — To study hard."
+    },
+    {
+      "id": "id-q81",
+      "question": "Which word means: \"Wait — be patient.\"?",
+      "options": [
+        "Beat around the bush",
+        "Cold shoulder",
+        "Hold your horses",
+        "Blessing in disguise"
+      ],
+      "answer": 2,
+      "explanation": "Hold your horses (idiom) — Wait — be patient."
+    },
+    {
+      "id": "id-q82",
+      "question": "Which word means: \"In the same difficult situation as others.\"?",
+      "options": [
+        "Go the extra mile",
+        "In the same boat",
+        "Under the weather",
+        "Feeling blue"
+      ],
+      "answer": 1,
+      "explanation": "In the same boat (idiom) — In the same difficult situation as others."
+    },
+    {
+      "id": "id-q83",
+      "question": "Which word means: \"Both parties are responsible for a situation.\"?",
+      "options": [
+        "Beat around the bush",
+        "Under the weather",
+        "Fair and square",
+        "It takes two to tango"
+      ],
+      "answer": 3,
+      "explanation": "It takes two to tango (idiom) — Both parties are responsible for a situation."
+    },
+    {
+      "id": "id-q84",
+      "question": "Which word means: \"To act too soon, before the right time.\"?",
+      "options": [
+        "Jump the gun",
+        "Hit the books",
+        "Come rain or shine",
+        "Off the hook"
+      ],
+      "answer": 0,
+      "explanation": "Jump the gun (idiom) — To act too soon, before the right time."
+    },
+    {
+      "id": "id-q85",
+      "question": "Which word means: \"To watch carefully.\"?",
+      "options": [
+        "Go down in flames",
+        "Out on a limb",
+        "Keep an eye on",
+        "In hot water"
+      ],
+      "answer": 2,
+      "explanation": "Keep an eye on (idiom) — To watch carefully."
+    },
+    {
+      "id": "id-q86",
+      "question": "Which word means: \"To learn how something is done.\"?",
+      "options": [
+        "Burn bridges",
+        "Jump the gun",
+        "The ball is in your court",
+        "Learn the ropes"
+      ],
+      "answer": 3,
+      "explanation": "Learn the ropes (idiom) — To learn how something is done."
+    },
+    {
+      "id": "id-q87",
+      "question": "Which word means: \"To lose an ability one once had.\"?",
+      "options": [
+        "Read between the lines",
+        "Tie the knot",
+        "Drop the ball",
+        "Lose your touch"
+      ],
+      "answer": 3,
+      "explanation": "Lose your touch (idiom) — To lose an ability one once had."
+    },
+    {
+      "id": "id-q88",
+      "question": "Which word means: \"To tell something briefly.\"?",
+      "options": [
+        "No pain, no gain",
+        "Make a long story short",
+        "Come rain or shine",
+        "Hang in there"
+      ],
+      "answer": 1,
+      "explanation": "Make a long story short (idiom) — To tell something briefly."
+    },
+    {
+      "id": "id-q89",
+      "question": "Which word means: \"A hidden logic in seemingly strange behaviour.\"?",
+      "options": [
+        "Kill two birds with one stone",
+        "Hit the sack",
+        "Method to the madness",
+        "Pull someone's leg"
+      ],
+      "answer": 2,
+      "explanation": "Method to the madness (idiom) — A hidden logic in seemingly strange behaviour."
+    },
+    {
+      "id": "id-q90",
+      "question": "Which word means: \"Very close in a race or contest.\"?",
+      "options": [
+        "Neck and neck",
+        "Cross that bridge when we come to it",
+        "Give the benefit of the doubt",
+        "Wear one's heart on one's sleeve"
+      ],
+      "answer": 0,
+      "explanation": "Neck and neck (idiom) — Very close in a race or contest."
+    },
+    {
+      "id": "id-q91",
+      "question": "Which word means: \"Free from an obligation or blame.\"?",
+      "options": [
+        "Hold your horses",
+        "Every cloud has a silver lining",
+        "Feeling blue",
+        "Off the hook"
+      ],
+      "answer": 3,
+      "explanation": "Off the hook (idiom) — Free from an obligation or blame."
+    },
+    {
+      "id": "id-q92",
+      "question": "Which word means: \"In a risky situation.\"?",
+      "options": [
+        "Run of the mill",
+        "In the same boat",
+        "On thin ice",
+        "Fair and square"
+      ],
+      "answer": 2,
+      "explanation": "On thin ice (idiom) — In a risky situation."
+    },
+    {
+      "id": "id-q93",
+      "question": "Which word means: \"In a risky, exposed position.\"?",
+      "options": [
+        "Learn the ropes",
+        "Against the clock",
+        "Out on a limb",
+        "Neck and neck"
+      ],
+      "answer": 2,
+      "explanation": "Out on a limb (idiom) — In a risky, exposed position."
+    },
+    {
+      "id": "id-q94",
+      "question": "Which word means: \"To improvise as the situation develops.\"?",
+      "options": [
+        "A dime a dozen",
+        "Down to the wire",
+        "Play it by ear",
+        "Caught red-handed"
+      ],
+      "answer": 2,
+      "explanation": "Play it by ear (idiom) — To improvise as the situation develops."
+    },
+    {
+      "id": "id-q95",
+      "question": "Which word means: \"To regain composure.\"?",
+      "options": [
+        "Cross that bridge when we come to it",
+        "Pull yourself together",
+        "Get out of hand",
+        "Apple of one's eye"
+      ],
+      "answer": 1,
+      "explanation": "Pull yourself together (idiom) — To regain composure."
+    },
+    {
+      "id": "id-q96",
+      "question": "Which word means: \"To risk everything on a single venture.\"?",
+      "options": [
+        "Turn a blind eye",
+        "Actions speak louder than words",
+        "Rock the boat",
+        "Put all your eggs in one basket"
+      ],
+      "answer": 3,
+      "explanation": "Put all your eggs in one basket (idiom) — To risk everything on a single venture."
+    },
+    {
+      "id": "id-q97",
+      "question": "Which word means: \"To find a hidden meaning in something said.\"?",
+      "options": [
+        "Go down in flames",
+        "Every cloud has a silver lining",
+        "Read between the lines",
+        "Keep your chin up"
+      ],
+      "answer": 2,
+      "explanation": "Read between the lines (idiom) — To find a hidden meaning in something said."
+    },
+    {
+      "id": "id-q98",
+      "question": "Which word means: \"Immediately, without delay.\"?",
+      "options": [
+        "Back to square one",
+        "Right off the bat",
+        "When pigs fly",
+        "Tie the knot"
+      ],
+      "answer": 1,
+      "explanation": "Right off the bat (idiom) — Immediately, without delay."
+    },
+    {
+      "id": "id-q99",
+      "question": "Which word means: \"To disturb an existing situation.\"?",
+      "options": [
+        "Hit the nail on the head",
+        "Once bitten, twice shy",
+        "Rock the boat",
+        "Get out of hand"
+      ],
+      "answer": 2,
+      "explanation": "Rock the boat (idiom) — To disturb an existing situation."
+    },
+    {
+      "id": "id-q100",
+      "question": "Which word means: \"Ordinary; nothing special.\"?",
+      "options": [
+        "Run of the mill",
+        "In hot water",
+        "Pull someone's leg",
+        "Hit the sack"
+      ],
+      "answer": 0,
+      "explanation": "Run of the mill (idiom) — Ordinary; nothing special."
+    }
+  ]
+}

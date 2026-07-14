@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "slug": "one-word-substitutions",
+      "title": "One-Word Substitutions",
+      "file": "one-word-substitutions.json"
+    },
+    {
+      "slug": "phobias",
+      "title": "Phobias",
+      "file": "phobias.json"
+    },
+    {
+      "slug": "medical-specialists",
+      "title": "Medical Specialists",
+      "file": "medical-specialists.json"
+    },
+    {
+      "slug": "dietary-habits",
+      "title": "Dietary Habits",
+      "file": "dietary-habits.json"
+    },
+    {
+      "slug": "forms-of-government",
+      "title": "Forms of Government",
+      "file": "forms-of-government.json"
+    },
+    {
+      "slug": "branches-of-study",
+      "title": "Branches of Study",
+      "file": "branches-of-study.json"
+    },
+    {
+      "slug": "words-for-killing",
+      "title": "Words for Killing",
+      "file": "words-for-killing.json"
+    },
+    {
+      "slug": "obsessions",
+      "title": "Obsessions & Manias",
+      "file": "obsessions.json"
+    },
+    {
+      "slug": "baby-animals",
+      "title": "Baby Animals",
+      "file": "baby-animals.json"
+    },
+    {
+      "slug": "time-and-frequency",
+      "title": "Time and Frequency",
+      "file": "time-and-frequency.json"
+    },
+    {
+      "slug": "measurement-instruments",
+      "title": "Measurement Instruments",
+      "file": "measurement-instruments.json"
+    },
+    {
+      "slug": "collective-nouns",
+      "title": "Collective Nouns",
+      "file": "collective-nouns.json"
+    },
+    {
+      "slug": "personality-types",
+      "title": "Personality Types",
+      "file": "personality-types.json"
+    },
+    {
+      "slug": "philosophical-stances",
+      "title": "Philosophical Stances",
+      "file": "philosophical-stances.json"
+    }
+  ]
+}

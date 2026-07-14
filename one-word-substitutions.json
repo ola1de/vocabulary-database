@@ -1,0 +1,1908 @@
+{
+  "category": "one-word-substitutions",
+  "title": "One-Word Substitutions",
+  "words": [
+    {
+      "id": "ows-01",
+      "word": "Autobiography",
+      "pos": "noun",
+      "definition": "The life story of a person written by themselves.",
+      "example": "His autobiography chronicles a childhood in postwar Vienna."
+    },
+    {
+      "id": "ows-02",
+      "word": "Bibliophile",
+      "pos": "noun",
+      "definition": "A person who loves or collects books.",
+      "example": "The bibliophile owned first editions of every Dickens novel."
+    },
+    {
+      "id": "ows-03",
+      "word": "Cacophony",
+      "pos": "noun",
+      "definition": "A harsh, discordant mixture of sounds.",
+      "example": "The cacophony of car horns made conversation impossible."
+    },
+    {
+      "id": "ows-04",
+      "word": "Demagogue",
+      "pos": "noun",
+      "definition": "A political leader who exploits popular prejudices.",
+      "example": "Historians warned that the demagogue thrived on manufactured outrage."
+    },
+    {
+      "id": "ows-05",
+      "word": "Ephemeral",
+      "pos": "adj",
+      "definition": "Lasting for a very short time.",
+      "example": "Fame in the digital age is often ephemeral."
+    },
+    {
+      "id": "ows-06",
+      "word": "Fastidious",
+      "pos": "adj",
+      "definition": "Very attentive to accuracy and detail.",
+      "example": "She was fastidious about grammar in every report."
+    },
+    {
+      "id": "ows-07",
+      "word": "Garrulous",
+      "pos": "adj",
+      "definition": "Excessively talkative, especially on trivial matters.",
+      "example": "Their garrulous neighbour cornered them for an hour."
+    },
+    {
+      "id": "ows-08",
+      "word": "Hedonist",
+      "pos": "noun",
+      "definition": "A person devoted to the pursuit of pleasure.",
+      "example": "The hedonist saw no virtue in self-denial."
+    },
+    {
+      "id": "ows-09",
+      "word": "Iconoclast",
+      "pos": "noun",
+      "definition": "A person who attacks cherished beliefs or institutions.",
+      "example": "The iconoclast dismantled the discipline's founding assumptions."
+    },
+    {
+      "id": "ows-10",
+      "word": "Jingoism",
+      "pos": "noun",
+      "definition": "Extreme patriotism, especially in the form of aggressive foreign policy.",
+      "example": "The tabloids traded reason for jingoism during the crisis."
+    },
+    {
+      "id": "ows-11",
+      "word": "Kleptomaniac",
+      "pos": "noun",
+      "definition": "A person with a compulsive urge to steal.",
+      "example": "Therapists distinguish kleptomaniacs from ordinary thieves."
+    },
+    {
+      "id": "ows-12",
+      "word": "Laconic",
+      "pos": "adj",
+      "definition": "Using very few words.",
+      "example": "His laconic reply left the panel wanting more."
+    },
+    {
+      "id": "ows-13",
+      "word": "Misanthrope",
+      "pos": "noun",
+      "definition": "A person who dislikes humankind.",
+      "example": "The misanthrope withdrew to a cottage on the moors."
+    },
+    {
+      "id": "ows-14",
+      "word": "Nostalgia",
+      "pos": "noun",
+      "definition": "A sentimental longing for the past.",
+      "example": "The song stirred a wave of nostalgia for his student years."
+    },
+    {
+      "id": "ows-15",
+      "word": "Omniscient",
+      "pos": "adj",
+      "definition": "Knowing everything.",
+      "example": "The novel adopts an omniscient narrator."
+    },
+    {
+      "id": "ows-16",
+      "word": "Panacea",
+      "pos": "noun",
+      "definition": "A solution or remedy for all difficulties.",
+      "example": "Technology is no panacea for social inequality."
+    },
+    {
+      "id": "ows-17",
+      "word": "Quixotic",
+      "pos": "adj",
+      "definition": "Extremely idealistic and unrealistic.",
+      "example": "His quixotic scheme to end poverty ignored basic economics."
+    },
+    {
+      "id": "ows-18",
+      "word": "Recluse",
+      "pos": "noun",
+      "definition": "A person who lives in seclusion.",
+      "example": "The elderly recluse had not left her house in decades."
+    },
+    {
+      "id": "ows-19",
+      "word": "Sycophant",
+      "pos": "noun",
+      "definition": "A person who flatters others to gain advantage.",
+      "example": "The court was full of sycophants and few advisers."
+    },
+    {
+      "id": "ows-20",
+      "word": "Teetotaller",
+      "pos": "noun",
+      "definition": "A person who abstains completely from alcohol.",
+      "example": "As a teetotaller, he ordered sparkling water."
+    },
+    {
+      "id": "ows-21",
+      "word": "Ubiquitous",
+      "pos": "adj",
+      "definition": "Present, appearing, or found everywhere.",
+      "example": "Smartphones have become ubiquitous in classrooms."
+    },
+    {
+      "id": "ows-22",
+      "word": "Verbose",
+      "pos": "adj",
+      "definition": "Using more words than are needed.",
+      "example": "The verbose introduction obscured a simple point."
+    },
+    {
+      "id": "ows-23",
+      "word": "Xenophobe",
+      "pos": "noun",
+      "definition": "A person who fears or hates foreigners.",
+      "example": "The party's rhetoric emboldened xenophobes."
+    },
+    {
+      "id": "ows-24",
+      "word": "Yokel",
+      "pos": "noun",
+      "definition": "An unsophisticated country person.",
+      "example": "He resented being dismissed as a yokel."
+    },
+    {
+      "id": "ows-25",
+      "word": "Zealot",
+      "pos": "noun",
+      "definition": "A person who is fanatical in pursuit of ideals.",
+      "example": "Reformers must not become zealots blind to nuance."
+    },
+    {
+      "id": "ows-26",
+      "word": "Amateur",
+      "pos": "noun",
+      "definition": "One who engages in a pursuit as a pastime rather than a profession.",
+      "example": "The tournament welcomed amateurs and professionals alike."
+    },
+    {
+      "id": "ows-27",
+      "word": "Bilingual",
+      "pos": "adj",
+      "definition": "Fluent in two languages.",
+      "example": "Bilingual staff were essential at the border clinic."
+    },
+    {
+      "id": "ows-28",
+      "word": "Contemporary",
+      "pos": "noun",
+      "definition": "A person living at the same time as another.",
+      "example": "Newton and Leibniz were contemporaries."
+    },
+    {
+      "id": "ows-29",
+      "word": "Debut",
+      "pos": "noun",
+      "definition": "A person's first public appearance.",
+      "example": "Her debut on stage drew a standing ovation."
+    },
+    {
+      "id": "ows-30",
+      "word": "Elegy",
+      "pos": "noun",
+      "definition": "A poem of serious reflection, typically a lament for the dead.",
+      "example": "He composed an elegy for his mentor."
+    },
+    {
+      "id": "ows-31",
+      "word": "Facsimile",
+      "pos": "noun",
+      "definition": "An exact copy of written or printed material.",
+      "example": "The library holds a facsimile of the original charter."
+    },
+    {
+      "id": "ows-32",
+      "word": "Glutton",
+      "pos": "noun",
+      "definition": "A person who eats to excess.",
+      "example": "Only a glutton would order dessert after that meal."
+    },
+    {
+      "id": "ows-33",
+      "word": "Herbivore",
+      "pos": "noun",
+      "definition": "An animal that feeds on plants.",
+      "example": "Deer are pure herbivores."
+    },
+    {
+      "id": "ows-34",
+      "word": "Insomnia",
+      "pos": "noun",
+      "definition": "Habitual sleeplessness.",
+      "example": "Chronic insomnia impaired his judgment at work."
+    },
+    {
+      "id": "ows-35",
+      "word": "Juvenile",
+      "pos": "adj",
+      "definition": "Relating to young people or characteristic of youth.",
+      "example": "The court reserved juvenile offenders for a separate wing."
+    },
+    {
+      "id": "ows-36",
+      "word": "Kinsman",
+      "pos": "noun",
+      "definition": "A blood relative, especially a male one.",
+      "example": "He returned to bury a distant kinsman."
+    },
+    {
+      "id": "ows-37",
+      "word": "Lexicon",
+      "pos": "noun",
+      "definition": "The vocabulary of a person, language, or branch of knowledge.",
+      "example": "Legal Latin has entered the mainstream lexicon."
+    },
+    {
+      "id": "ows-38",
+      "word": "Manuscript",
+      "pos": "noun",
+      "definition": "A book, document, or piece of music written by hand.",
+      "example": "The medieval manuscript was displayed under glass."
+    },
+    {
+      "id": "ows-39",
+      "word": "Novice",
+      "pos": "noun",
+      "definition": "A person new to or inexperienced in an activity.",
+      "example": "Even as a novice, she outpaced experienced climbers."
+    },
+    {
+      "id": "ows-40",
+      "word": "Obituary",
+      "pos": "noun",
+      "definition": "A notice of a death, especially in a newspaper.",
+      "example": "The obituary listed his many public services."
+    },
+    {
+      "id": "ows-41",
+      "word": "Pedestrian",
+      "pos": "noun",
+      "definition": "A person walking along a road or in a developed area.",
+      "example": "The city added crossings to protect pedestrians."
+    },
+    {
+      "id": "ows-42",
+      "word": "Quorum",
+      "pos": "noun",
+      "definition": "The minimum number of members required to conduct business.",
+      "example": "The committee could not vote without a quorum."
+    },
+    {
+      "id": "ows-43",
+      "word": "Referendum",
+      "pos": "noun",
+      "definition": "A general vote by the electorate on a single political question.",
+      "example": "The referendum settled the constitutional question."
+    },
+    {
+      "id": "ows-44",
+      "word": "Soliloquy",
+      "pos": "noun",
+      "definition": "An act of speaking one's thoughts aloud when alone.",
+      "example": "Hamlet's soliloquy remains a touchstone of the theatre."
+    },
+    {
+      "id": "ows-45",
+      "word": "Truant",
+      "pos": "noun",
+      "definition": "A pupil who stays away from school without leave.",
+      "example": "Truants were escorted back to the classroom."
+    },
+    {
+      "id": "ows-46",
+      "word": "Utopia",
+      "pos": "noun",
+      "definition": "An imagined place in which everything is perfect.",
+      "example": "Every utopia hides an authoritarian streak."
+    },
+    {
+      "id": "ows-47",
+      "word": "Veteran",
+      "pos": "noun",
+      "definition": "A person who has had long experience in a field.",
+      "example": "Union veterans mentored the new apprentices."
+    },
+    {
+      "id": "ows-48",
+      "word": "Wanderlust",
+      "pos": "noun",
+      "definition": "A strong desire to travel.",
+      "example": "Her wanderlust took her from Lisbon to Lhasa."
+    },
+    {
+      "id": "ows-49",
+      "word": "Xerography",
+      "pos": "noun",
+      "definition": "A dry photocopying technique.",
+      "example": "Xerography revolutionised office work."
+    },
+    {
+      "id": "ows-50",
+      "word": "Zoologist",
+      "pos": "noun",
+      "definition": "An expert in the study of animals.",
+      "example": "The zoologist tagged the migrating herd."
+    },
+    {
+      "id": "ows-051",
+      "word": "Altruist",
+      "pos": "noun",
+      "definition": "One who selflessly helps others.",
+      "example": "The altruist donated most of her salary to charity."
+    },
+    {
+      "id": "ows-052",
+      "word": "Belligerent",
+      "pos": "adj",
+      "definition": "Hostile and aggressive.",
+      "example": "His belligerent tone silenced the room."
+    },
+    {
+      "id": "ows-053",
+      "word": "Cavalcade",
+      "pos": "noun",
+      "definition": "A procession of vehicles or riders.",
+      "example": "A cavalcade of jeeps entered the town."
+    },
+    {
+      "id": "ows-054",
+      "word": "Debacle",
+      "pos": "noun",
+      "definition": "A sudden and ignominious failure.",
+      "example": "The launch turned into a total debacle."
+    },
+    {
+      "id": "ows-055",
+      "word": "Effervescent",
+      "pos": "adj",
+      "definition": "Vivacious and enthusiastic.",
+      "example": "Her effervescent laugh lit up the party."
+    },
+    {
+      "id": "ows-056",
+      "word": "Fugitive",
+      "pos": "noun",
+      "definition": "Someone who has escaped and is being pursued.",
+      "example": "The fugitive was caught at the border."
+    },
+    {
+      "id": "ows-057",
+      "word": "Gerrymander",
+      "pos": "verb",
+      "definition": "To manipulate boundaries to favor a party.",
+      "example": "Critics said the map was gerrymandered."
+    },
+    {
+      "id": "ows-058",
+      "word": "Hierarchy",
+      "pos": "noun",
+      "definition": "A ranked system.",
+      "example": "She rose quickly in the corporate hierarchy."
+    },
+    {
+      "id": "ows-059",
+      "word": "Ineffable",
+      "pos": "adj",
+      "definition": "Too great to be expressed in words.",
+      "example": "The view had an ineffable beauty."
+    },
+    {
+      "id": "ows-060",
+      "word": "Jettison",
+      "pos": "verb",
+      "definition": "To throw off as unwanted.",
+      "example": "They jettisoned the plan when costs rose."
+    },
+    {
+      "id": "ows-061",
+      "word": "Kudos",
+      "pos": "noun",
+      "definition": "Praise for an achievement.",
+      "example": "Kudos to the team for finishing early."
+    },
+    {
+      "id": "ows-062",
+      "word": "Litigant",
+      "pos": "noun",
+      "definition": "A person involved in a lawsuit.",
+      "example": "Both litigants appeared in court."
+    },
+    {
+      "id": "ows-063",
+      "word": "Mercenary",
+      "pos": "noun",
+      "definition": "A soldier hired for pay.",
+      "example": "The mercenary fought for the highest bidder."
+    },
+    {
+      "id": "ows-064",
+      "word": "Neophyte",
+      "pos": "noun",
+      "definition": "A beginner or novice.",
+      "example": "As a neophyte, he asked many questions."
+    },
+    {
+      "id": "ows-065",
+      "word": "Oligarch",
+      "pos": "noun",
+      "definition": "A member of a small ruling group.",
+      "example": "The oligarch controlled several industries."
+    },
+    {
+      "id": "ows-066",
+      "word": "Philanderer",
+      "pos": "noun",
+      "definition": "A man who has many casual affairs.",
+      "example": "She left him after learning he was a philanderer."
+    },
+    {
+      "id": "ows-067",
+      "word": "Quisling",
+      "pos": "noun",
+      "definition": "A traitor collaborating with the enemy.",
+      "example": "History remembers him as a quisling."
+    },
+    {
+      "id": "ows-068",
+      "word": "Raconteur",
+      "pos": "noun",
+      "definition": "A skilled storyteller.",
+      "example": "The raconteur held guests spellbound."
+    },
+    {
+      "id": "ows-069",
+      "word": "Somnambulist",
+      "pos": "noun",
+      "definition": "A sleepwalker.",
+      "example": "The somnambulist wandered downstairs at night."
+    },
+    {
+      "id": "ows-070",
+      "word": "Turncoat",
+      "pos": "noun",
+      "definition": "One who betrays their side.",
+      "example": "The turncoat leaked secrets to rivals."
+    },
+    {
+      "id": "ows-071",
+      "word": "Usurper",
+      "pos": "noun",
+      "definition": "One who takes power by force.",
+      "example": "The usurper seized the throne."
+    },
+    {
+      "id": "ows-072",
+      "word": "Voyeur",
+      "pos": "noun",
+      "definition": "One who watches others secretly.",
+      "example": "The voyeur was arrested for spying."
+    },
+    {
+      "id": "ows-073",
+      "word": "Wastrel",
+      "pos": "noun",
+      "definition": "A wasteful or good-for-nothing person.",
+      "example": "Her uncle was branded a wastrel."
+    },
+    {
+      "id": "ows-074",
+      "word": "Xenophile",
+      "pos": "noun",
+      "definition": "A person attracted to foreign cultures.",
+      "example": "The xenophile collected art from every continent."
+    },
+    {
+      "id": "ows-075",
+      "word": "Zephyr",
+      "pos": "noun",
+      "definition": "A soft, gentle breeze.",
+      "example": "A zephyr rustled the curtains."
+    },
+    {
+      "id": "ows-076",
+      "word": "Anarchist",
+      "pos": "noun",
+      "definition": "One who opposes all forms of government.",
+      "example": "The anarchist rejected every authority."
+    },
+    {
+      "id": "ows-077",
+      "word": "Bureaucrat",
+      "pos": "noun",
+      "definition": "An official in an administration.",
+      "example": "The bureaucrat processed hundreds of forms."
+    },
+    {
+      "id": "ows-078",
+      "word": "Connoisseur",
+      "pos": "noun",
+      "definition": "An expert judge in matters of taste.",
+      "example": "She is a connoisseur of French wine."
+    },
+    {
+      "id": "ows-079",
+      "word": "Dilettante",
+      "pos": "noun",
+      "definition": "A person with a superficial interest.",
+      "example": "He was a dilettante rather than a scholar."
+    },
+    {
+      "id": "ows-080",
+      "word": "Émigré",
+      "pos": "noun",
+      "definition": "A person who has emigrated for political reasons.",
+      "example": "The émigré wrote memoirs of the old country."
+    },
+    {
+      "id": "ows-081",
+      "word": "Furore",
+      "pos": "noun",
+      "definition": "An outbreak of public anger.",
+      "example": "The remark caused a furore online."
+    },
+    {
+      "id": "ows-082",
+      "word": "Genocide",
+      "pos": "noun",
+      "definition": "Deliberate killing of a large group.",
+      "example": "The tribunal tried the leaders for genocide."
+    },
+    {
+      "id": "ows-083",
+      "word": "Hallucination",
+      "pos": "noun",
+      "definition": "An apparent perception of something not present.",
+      "example": "Dehydration can cause hallucinations."
+    },
+    {
+      "id": "ows-084",
+      "word": "Impasse",
+      "pos": "noun",
+      "definition": "A situation in which no progress is possible.",
+      "example": "Talks reached an impasse."
+    },
+    {
+      "id": "ows-085",
+      "word": "Jargon",
+      "pos": "noun",
+      "definition": "Special words used by a profession.",
+      "example": "Legal jargon confused the jury."
+    },
+    {
+      "id": "ows-086",
+      "word": "Kaleidoscope",
+      "pos": "noun",
+      "definition": "A constantly changing pattern.",
+      "example": "Autumn painted a kaleidoscope of colours."
+    },
+    {
+      "id": "ows-087",
+      "word": "Levity",
+      "pos": "noun",
+      "definition": "Humour or lack of seriousness.",
+      "example": "A moment of levity relieved the tension."
+    },
+    {
+      "id": "ows-088",
+      "word": "Mausoleum",
+      "pos": "noun",
+      "definition": "A stately tomb.",
+      "example": "The mausoleum houses royal remains."
+    },
+    {
+      "id": "ows-089",
+      "word": "Necropolis",
+      "pos": "noun",
+      "definition": "A large ancient cemetery.",
+      "example": "Archaeologists mapped the necropolis."
+    },
+    {
+      "id": "ows-090",
+      "word": "Orator",
+      "pos": "noun",
+      "definition": "A skilled public speaker.",
+      "example": "The orator moved the crowd to tears."
+    },
+    {
+      "id": "ows-091",
+      "word": "Paradox",
+      "pos": "noun",
+      "definition": "A seemingly contradictory statement.",
+      "example": "'Less is more' is a classic paradox."
+    },
+    {
+      "id": "ows-092",
+      "word": "Quandary",
+      "pos": "noun",
+      "definition": "A state of uncertainty.",
+      "example": "I was in a quandary about the offer."
+    },
+    {
+      "id": "ows-093",
+      "word": "Renegade",
+      "pos": "noun",
+      "definition": "A person who deserts a cause.",
+      "example": "The renegade joined the opposition."
+    },
+    {
+      "id": "ows-094",
+      "word": "Stalemate",
+      "pos": "noun",
+      "definition": "A situation with no progress possible.",
+      "example": "Negotiations ended in stalemate."
+    },
+    {
+      "id": "ows-095",
+      "word": "Tirade",
+      "pos": "noun",
+      "definition": "A long, angry speech.",
+      "example": "His tirade lasted twenty minutes."
+    },
+    {
+      "id": "ows-096",
+      "word": "Umbrage",
+      "pos": "noun",
+      "definition": "Offence or annoyance.",
+      "example": "She took umbrage at the comment."
+    },
+    {
+      "id": "ows-097",
+      "word": "Vestige",
+      "pos": "noun",
+      "definition": "A trace of something no longer present.",
+      "example": "Only vestiges of the old wall remain."
+    },
+    {
+      "id": "ows-098",
+      "word": "Wanderer",
+      "pos": "noun",
+      "definition": "A person who travels aimlessly.",
+      "example": "The wanderer had no fixed address."
+    },
+    {
+      "id": "ows-099",
+      "word": "Xenolith",
+      "pos": "noun",
+      "definition": "A rock fragment enclosed in another rock.",
+      "example": "Geologists studied the xenolith."
+    },
+    {
+      "id": "ows-100",
+      "word": "Yardstick",
+      "pos": "noun",
+      "definition": "A standard used for comparison.",
+      "example": "Profit is not the only yardstick of success."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "one-q1",
+      "question": "Which word means: \"The life story of a person written by themselves.\"?",
+      "options": [
+        "Orator",
+        "Autobiography",
+        "Ephemeral",
+        "Jettison"
+      ],
+      "answer": 1,
+      "explanation": "Autobiography (noun) — The life story of a person written by themselves."
+    },
+    {
+      "id": "one-q2",
+      "question": "Which word means: \"A person who loves or collects books.\"?",
+      "options": [
+        "Impasse",
+        "Bibliophile",
+        "Genocide",
+        "Hierarchy"
+      ],
+      "answer": 1,
+      "explanation": "Bibliophile (noun) — A person who loves or collects books."
+    },
+    {
+      "id": "one-q3",
+      "question": "Which word means: \"A harsh, discordant mixture of sounds.\"?",
+      "options": [
+        "Genocide",
+        "Bilingual",
+        "Cacophony",
+        "Pedestrian"
+      ],
+      "answer": 2,
+      "explanation": "Cacophony (noun) — A harsh, discordant mixture of sounds."
+    },
+    {
+      "id": "one-q4",
+      "question": "Which word means: \"A political leader who exploits popular prejudices.\"?",
+      "options": [
+        "Panacea",
+        "Demagogue",
+        "Herbivore",
+        "Verbose"
+      ],
+      "answer": 1,
+      "explanation": "Demagogue (noun) — A political leader who exploits popular prejudices."
+    },
+    {
+      "id": "one-q5",
+      "question": "Which word means: \"Lasting for a very short time.\"?",
+      "options": [
+        "Mercenary",
+        "Quorum",
+        "Ephemeral",
+        "Ineffable"
+      ],
+      "answer": 2,
+      "explanation": "Ephemeral (adj) — Lasting for a very short time."
+    },
+    {
+      "id": "one-q6",
+      "question": "Which word means: \"Very attentive to accuracy and detail.\"?",
+      "options": [
+        "Bureaucrat",
+        "Fastidious",
+        "Necropolis",
+        "Referendum"
+      ],
+      "answer": 1,
+      "explanation": "Fastidious (adj) — Very attentive to accuracy and detail."
+    },
+    {
+      "id": "one-q7",
+      "question": "Which word means: \"Excessively talkative, especially on trivial matters.\"?",
+      "options": [
+        "Zealot",
+        "Effervescent",
+        "Xerography",
+        "Garrulous"
+      ],
+      "answer": 3,
+      "explanation": "Garrulous (adj) — Excessively talkative, especially on trivial matters."
+    },
+    {
+      "id": "one-q8",
+      "question": "Which word means: \"A person devoted to the pursuit of pleasure.\"?",
+      "options": [
+        "Impasse",
+        "Hedonist",
+        "Cacophony",
+        "Wastrel"
+      ],
+      "answer": 1,
+      "explanation": "Hedonist (noun) — A person devoted to the pursuit of pleasure."
+    },
+    {
+      "id": "one-q9",
+      "question": "Which word means: \"A person who attacks cherished beliefs or institutions.\"?",
+      "options": [
+        "Paradox",
+        "Iconoclast",
+        "Bilingual",
+        "Juvenile"
+      ],
+      "answer": 1,
+      "explanation": "Iconoclast (noun) — A person who attacks cherished beliefs or institutions."
+    },
+    {
+      "id": "one-q10",
+      "question": "Which word means: \"Extreme patriotism, especially in the form of aggressive foreign policy.\"?",
+      "options": [
+        "Fugitive",
+        "Jingoism",
+        "Furore",
+        "Connoisseur"
+      ],
+      "answer": 1,
+      "explanation": "Jingoism (noun) — Extreme patriotism, especially in the form of aggressive foreign policy."
+    },
+    {
+      "id": "one-q11",
+      "question": "Which word means: \"A person with a compulsive urge to steal.\"?",
+      "options": [
+        "Xenophile",
+        "Xenophobe",
+        "Kleptomaniac",
+        "Xerography"
+      ],
+      "answer": 2,
+      "explanation": "Kleptomaniac (noun) — A person with a compulsive urge to steal."
+    },
+    {
+      "id": "one-q12",
+      "question": "Which word means: \"Using very few words.\"?",
+      "options": [
+        "Jettison",
+        "Mausoleum",
+        "Yardstick",
+        "Laconic"
+      ],
+      "answer": 3,
+      "explanation": "Laconic (adj) — Using very few words."
+    },
+    {
+      "id": "one-q13",
+      "question": "Which word means: \"A person who dislikes humankind.\"?",
+      "options": [
+        "Renegade",
+        "Misanthrope",
+        "Contemporary",
+        "Amateur"
+      ],
+      "answer": 1,
+      "explanation": "Misanthrope (noun) — A person who dislikes humankind."
+    },
+    {
+      "id": "one-q14",
+      "question": "Which word means: \"A sentimental longing for the past.\"?",
+      "options": [
+        "Nostalgia",
+        "Zoologist",
+        "Gerrymander",
+        "Recluse"
+      ],
+      "answer": 0,
+      "explanation": "Nostalgia (noun) — A sentimental longing for the past."
+    },
+    {
+      "id": "one-q15",
+      "question": "Which word means: \"Knowing everything.\"?",
+      "options": [
+        "Mausoleum",
+        "Manuscript",
+        "Omniscient",
+        "Tirade"
+      ],
+      "answer": 2,
+      "explanation": "Omniscient (adj) — Knowing everything."
+    },
+    {
+      "id": "one-q16",
+      "question": "Which word means: \"A solution or remedy for all difficulties.\"?",
+      "options": [
+        "Panacea",
+        "Debacle",
+        "Teetotaller",
+        "Demagogue"
+      ],
+      "answer": 0,
+      "explanation": "Panacea (noun) — A solution or remedy for all difficulties."
+    },
+    {
+      "id": "one-q17",
+      "question": "Which word means: \"Extremely idealistic and unrealistic.\"?",
+      "options": [
+        "Furore",
+        "Ineffable",
+        "Quixotic",
+        "Herbivore"
+      ],
+      "answer": 2,
+      "explanation": "Quixotic (adj) — Extremely idealistic and unrealistic."
+    },
+    {
+      "id": "one-q18",
+      "question": "Which word means: \"A person who lives in seclusion.\"?",
+      "options": [
+        "Kleptomaniac",
+        "Litigant",
+        "Recluse",
+        "Bibliophile"
+      ],
+      "answer": 2,
+      "explanation": "Recluse (noun) — A person who lives in seclusion."
+    },
+    {
+      "id": "one-q19",
+      "question": "Which word means: \"A person who flatters others to gain advantage.\"?",
+      "options": [
+        "Necropolis",
+        "Debut",
+        "Renegade",
+        "Sycophant"
+      ],
+      "answer": 3,
+      "explanation": "Sycophant (noun) — A person who flatters others to gain advantage."
+    },
+    {
+      "id": "one-q20",
+      "question": "Which word means: \"A person who abstains completely from alcohol.\"?",
+      "options": [
+        "Connoisseur",
+        "Insomnia",
+        "Teetotaller",
+        "Umbrage"
+      ],
+      "answer": 2,
+      "explanation": "Teetotaller (noun) — A person who abstains completely from alcohol."
+    },
+    {
+      "id": "one-q21",
+      "question": "Which word means: \"Present, appearing, or found everywhere.\"?",
+      "options": [
+        "Glutton",
+        "Garrulous",
+        "Soliloquy",
+        "Ubiquitous"
+      ],
+      "answer": 3,
+      "explanation": "Ubiquitous (adj) — Present, appearing, or found everywhere."
+    },
+    {
+      "id": "one-q22",
+      "question": "Which word means: \"Using more words than are needed.\"?",
+      "options": [
+        "Autobiography",
+        "Philanderer",
+        "Insomnia",
+        "Verbose"
+      ],
+      "answer": 3,
+      "explanation": "Verbose (adj) — Using more words than are needed."
+    },
+    {
+      "id": "one-q23",
+      "question": "Which word means: \"A person who fears or hates foreigners.\"?",
+      "options": [
+        "Xerography",
+        "Xenophobe",
+        "Quixotic",
+        "Levity"
+      ],
+      "answer": 1,
+      "explanation": "Xenophobe (noun) — A person who fears or hates foreigners."
+    },
+    {
+      "id": "one-q24",
+      "question": "Which word means: \"An unsophisticated country person.\"?",
+      "options": [
+        "Juvenile",
+        "Philanderer",
+        "Verbose",
+        "Yokel"
+      ],
+      "answer": 3,
+      "explanation": "Yokel (noun) — An unsophisticated country person."
+    },
+    {
+      "id": "one-q25",
+      "question": "Which word means: \"A person who is fanatical in pursuit of ideals.\"?",
+      "options": [
+        "Quorum",
+        "Laconic",
+        "Quixotic",
+        "Zealot"
+      ],
+      "answer": 3,
+      "explanation": "Zealot (noun) — A person who is fanatical in pursuit of ideals."
+    },
+    {
+      "id": "one-q26",
+      "question": "Which word means: \"One who engages in a pursuit as a pastime rather than a profession.\"?",
+      "options": [
+        "Omniscient",
+        "Fastidious",
+        "Amateur",
+        "Quorum"
+      ],
+      "answer": 2,
+      "explanation": "Amateur (noun) — One who engages in a pursuit as a pastime rather than a profession."
+    },
+    {
+      "id": "one-q27",
+      "question": "Which word means: \"Fluent in two languages.\"?",
+      "options": [
+        "Vestige",
+        "Bilingual",
+        "Wanderlust",
+        "Gerrymander"
+      ],
+      "answer": 1,
+      "explanation": "Bilingual (adj) — Fluent in two languages."
+    },
+    {
+      "id": "one-q28",
+      "question": "Which word means: \"A person living at the same time as another.\"?",
+      "options": [
+        "Raconteur",
+        "Gerrymander",
+        "Contemporary",
+        "Quorum"
+      ],
+      "answer": 2,
+      "explanation": "Contemporary (noun) — A person living at the same time as another."
+    },
+    {
+      "id": "one-q29",
+      "question": "Which word means: \"A person's first public appearance.\"?",
+      "options": [
+        "Teetotaller",
+        "Wastrel",
+        "Xenolith",
+        "Debut"
+      ],
+      "answer": 3,
+      "explanation": "Debut (noun) — A person's first public appearance."
+    },
+    {
+      "id": "one-q30",
+      "question": "Which word means: \"A poem of serious reflection, typically a lament for the dead.\"?",
+      "options": [
+        "Facsimile",
+        "Elegy",
+        "Teetotaller",
+        "Garrulous"
+      ],
+      "answer": 1,
+      "explanation": "Elegy (noun) — A poem of serious reflection, typically a lament for the dead."
+    },
+    {
+      "id": "one-q31",
+      "question": "Which word means: \"An exact copy of written or printed material.\"?",
+      "options": [
+        "Quandary",
+        "Juvenile",
+        "Ubiquitous",
+        "Facsimile"
+      ],
+      "answer": 3,
+      "explanation": "Facsimile (noun) — An exact copy of written or printed material."
+    },
+    {
+      "id": "one-q32",
+      "question": "Which word means: \"A person who eats to excess.\"?",
+      "options": [
+        "Oligarch",
+        "Fastidious",
+        "Glutton",
+        "Hierarchy"
+      ],
+      "answer": 2,
+      "explanation": "Glutton (noun) — A person who eats to excess."
+    },
+    {
+      "id": "one-q33",
+      "question": "Which word means: \"An animal that feeds on plants.\"?",
+      "options": [
+        "Omniscient",
+        "Herbivore",
+        "Jettison",
+        "Oligarch"
+      ],
+      "answer": 1,
+      "explanation": "Herbivore (noun) — An animal that feeds on plants."
+    },
+    {
+      "id": "one-q34",
+      "question": "Which word means: \"Habitual sleeplessness.\"?",
+      "options": [
+        "Manuscript",
+        "Insomnia",
+        "Laconic",
+        "Bilingual"
+      ],
+      "answer": 1,
+      "explanation": "Insomnia (noun) — Habitual sleeplessness."
+    },
+    {
+      "id": "one-q35",
+      "question": "Which word means: \"Relating to young people or characteristic of youth.\"?",
+      "options": [
+        "Juvenile",
+        "Xenophile",
+        "Anarchist",
+        "Kaleidoscope"
+      ],
+      "answer": 0,
+      "explanation": "Juvenile (adj) — Relating to young people or characteristic of youth."
+    },
+    {
+      "id": "one-q36",
+      "question": "Which word means: \"A blood relative, especially a male one.\"?",
+      "options": [
+        "Zephyr",
+        "Somnambulist",
+        "Kinsman",
+        "Yardstick"
+      ],
+      "answer": 2,
+      "explanation": "Kinsman (noun) — A blood relative, especially a male one."
+    },
+    {
+      "id": "one-q37",
+      "question": "Which word means: \"The vocabulary of a person, language, or branch of knowledge.\"?",
+      "options": [
+        "Oligarch",
+        "Lexicon",
+        "Yardstick",
+        "Glutton"
+      ],
+      "answer": 1,
+      "explanation": "Lexicon (noun) — The vocabulary of a person, language, or branch of knowledge."
+    },
+    {
+      "id": "one-q38",
+      "question": "Which word means: \"A book, document, or piece of music written by hand.\"?",
+      "options": [
+        "Panacea",
+        "Lexicon",
+        "Necropolis",
+        "Manuscript"
+      ],
+      "answer": 3,
+      "explanation": "Manuscript (noun) — A book, document, or piece of music written by hand."
+    },
+    {
+      "id": "one-q39",
+      "question": "Which word means: \"A person new to or inexperienced in an activity.\"?",
+      "options": [
+        "Novice",
+        "Demagogue",
+        "Teetotaller",
+        "Referendum"
+      ],
+      "answer": 0,
+      "explanation": "Novice (noun) — A person new to or inexperienced in an activity."
+    },
+    {
+      "id": "one-q40",
+      "question": "Which word means: \"A notice of a death, especially in a newspaper.\"?",
+      "options": [
+        "Juvenile",
+        "Obituary",
+        "Genocide",
+        "Jettison"
+      ],
+      "answer": 1,
+      "explanation": "Obituary (noun) — A notice of a death, especially in a newspaper."
+    },
+    {
+      "id": "one-q41",
+      "question": "Which word means: \"A person walking along a road or in a developed area.\"?",
+      "options": [
+        "Furore",
+        "Jargon",
+        "Pedestrian",
+        "Ineffable"
+      ],
+      "answer": 2,
+      "explanation": "Pedestrian (noun) — A person walking along a road or in a developed area."
+    },
+    {
+      "id": "one-q42",
+      "question": "Which word means: \"The minimum number of members required to conduct business.\"?",
+      "options": [
+        "Quorum",
+        "Contemporary",
+        "Garrulous",
+        "Impasse"
+      ],
+      "answer": 0,
+      "explanation": "Quorum (noun) — The minimum number of members required to conduct business."
+    },
+    {
+      "id": "one-q43",
+      "question": "Which word means: \"A general vote by the electorate on a single political question.\"?",
+      "options": [
+        "Voyeur",
+        "Jingoism",
+        "Vestige",
+        "Referendum"
+      ],
+      "answer": 3,
+      "explanation": "Referendum (noun) — A general vote by the electorate on a single political question."
+    },
+    {
+      "id": "one-q44",
+      "question": "Which word means: \"An act of speaking one's thoughts aloud when alone.\"?",
+      "options": [
+        "Xenophobe",
+        "Facsimile",
+        "Herbivore",
+        "Soliloquy"
+      ],
+      "answer": 3,
+      "explanation": "Soliloquy (noun) — An act of speaking one's thoughts aloud when alone."
+    },
+    {
+      "id": "one-q45",
+      "question": "Which word means: \"A pupil who stays away from school without leave.\"?",
+      "options": [
+        "Altruist",
+        "Bilingual",
+        "Ubiquitous",
+        "Truant"
+      ],
+      "answer": 3,
+      "explanation": "Truant (noun) — A pupil who stays away from school without leave."
+    },
+    {
+      "id": "one-q46",
+      "question": "Which word means: \"An imagined place in which everything is perfect.\"?",
+      "options": [
+        "Panacea",
+        "Novice",
+        "Neophyte",
+        "Utopia"
+      ],
+      "answer": 3,
+      "explanation": "Utopia (noun) — An imagined place in which everything is perfect."
+    },
+    {
+      "id": "one-q47",
+      "question": "Which word means: \"A person who has had long experience in a field.\"?",
+      "options": [
+        "Dilettante",
+        "Necropolis",
+        "Veteran",
+        "Quixotic"
+      ],
+      "answer": 2,
+      "explanation": "Veteran (noun) — A person who has had long experience in a field."
+    },
+    {
+      "id": "one-q48",
+      "question": "Which word means: \"A strong desire to travel.\"?",
+      "options": [
+        "Xerography",
+        "Amateur",
+        "Quisling",
+        "Wanderlust"
+      ],
+      "answer": 3,
+      "explanation": "Wanderlust (noun) — A strong desire to travel."
+    },
+    {
+      "id": "one-q49",
+      "question": "Which word means: \"A dry photocopying technique.\"?",
+      "options": [
+        "Xenophile",
+        "Juvenile",
+        "Litigant",
+        "Xerography"
+      ],
+      "answer": 3,
+      "explanation": "Xerography (noun) — A dry photocopying technique."
+    },
+    {
+      "id": "one-q50",
+      "question": "Which word means: \"An expert in the study of animals.\"?",
+      "options": [
+        "Wanderlust",
+        "Émigré",
+        "Yokel",
+        "Zoologist"
+      ],
+      "answer": 3,
+      "explanation": "Zoologist (noun) — An expert in the study of animals."
+    },
+    {
+      "id": "one-q51",
+      "question": "Which word means: \"One who selflessly helps others.\"?",
+      "options": [
+        "Altruist",
+        "Laconic",
+        "Fastidious",
+        "Quisling"
+      ],
+      "answer": 0,
+      "explanation": "Altruist (noun) — One who selflessly helps others."
+    },
+    {
+      "id": "one-q52",
+      "question": "Which word means: \"Hostile and aggressive.\"?",
+      "options": [
+        "Renegade",
+        "Impasse",
+        "Belligerent",
+        "Necropolis"
+      ],
+      "answer": 2,
+      "explanation": "Belligerent (adj) — Hostile and aggressive."
+    },
+    {
+      "id": "one-q53",
+      "question": "Which word means: \"A procession of vehicles or riders.\"?",
+      "options": [
+        "Cavalcade",
+        "Gerrymander",
+        "Kudos",
+        "Manuscript"
+      ],
+      "answer": 0,
+      "explanation": "Cavalcade (noun) — A procession of vehicles or riders."
+    },
+    {
+      "id": "one-q54",
+      "question": "Which word means: \"A sudden and ignominious failure.\"?",
+      "options": [
+        "Debacle",
+        "Quixotic",
+        "Teetotaller",
+        "Necropolis"
+      ],
+      "answer": 0,
+      "explanation": "Debacle (noun) — A sudden and ignominious failure."
+    },
+    {
+      "id": "one-q55",
+      "question": "Which word means: \"Vivacious and enthusiastic.\"?",
+      "options": [
+        "Xenophile",
+        "Garrulous",
+        "Effervescent",
+        "Manuscript"
+      ],
+      "answer": 2,
+      "explanation": "Effervescent (adj) — Vivacious and enthusiastic."
+    },
+    {
+      "id": "one-q56",
+      "question": "Which word means: \"Someone who has escaped and is being pursued.\"?",
+      "options": [
+        "Fugitive",
+        "Cavalcade",
+        "Effervescent",
+        "Quisling"
+      ],
+      "answer": 0,
+      "explanation": "Fugitive (noun) — Someone who has escaped and is being pursued."
+    },
+    {
+      "id": "one-q57",
+      "question": "Which word means: \"To manipulate boundaries to favor a party.\"?",
+      "options": [
+        "Herbivore",
+        "Gerrymander",
+        "Anarchist",
+        "Utopia"
+      ],
+      "answer": 1,
+      "explanation": "Gerrymander (verb) — To manipulate boundaries to favor a party."
+    },
+    {
+      "id": "one-q58",
+      "question": "Which word means: \"A ranked system.\"?",
+      "options": [
+        "Umbrage",
+        "Kaleidoscope",
+        "Omniscient",
+        "Hierarchy"
+      ],
+      "answer": 3,
+      "explanation": "Hierarchy (noun) — A ranked system."
+    },
+    {
+      "id": "one-q59",
+      "question": "Which word means: \"Too great to be expressed in words.\"?",
+      "options": [
+        "Altruist",
+        "Fastidious",
+        "Kleptomaniac",
+        "Ineffable"
+      ],
+      "answer": 3,
+      "explanation": "Ineffable (adj) — Too great to be expressed in words."
+    },
+    {
+      "id": "one-q60",
+      "question": "Which word means: \"To throw off as unwanted.\"?",
+      "options": [
+        "Pedestrian",
+        "Bureaucrat",
+        "Stalemate",
+        "Jettison"
+      ],
+      "answer": 3,
+      "explanation": "Jettison (verb) — To throw off as unwanted."
+    },
+    {
+      "id": "one-q61",
+      "question": "Which word means: \"Praise for an achievement.\"?",
+      "options": [
+        "Kudos",
+        "Soliloquy",
+        "Furore",
+        "Insomnia"
+      ],
+      "answer": 0,
+      "explanation": "Kudos (noun) — Praise for an achievement."
+    },
+    {
+      "id": "one-q62",
+      "question": "Which word means: \"A person involved in a lawsuit.\"?",
+      "options": [
+        "Vestige",
+        "Kleptomaniac",
+        "Litigant",
+        "Dilettante"
+      ],
+      "answer": 2,
+      "explanation": "Litigant (noun) — A person involved in a lawsuit."
+    },
+    {
+      "id": "one-q63",
+      "question": "Which word means: \"A soldier hired for pay.\"?",
+      "options": [
+        "Cacophony",
+        "Mercenary",
+        "Turncoat",
+        "Fugitive"
+      ],
+      "answer": 1,
+      "explanation": "Mercenary (noun) — A soldier hired for pay."
+    },
+    {
+      "id": "one-q64",
+      "question": "Which word means: \"A beginner or novice.\"?",
+      "options": [
+        "Bibliophile",
+        "Jargon",
+        "Verbose",
+        "Neophyte"
+      ],
+      "answer": 3,
+      "explanation": "Neophyte (noun) — A beginner or novice."
+    },
+    {
+      "id": "one-q65",
+      "question": "Which word means: \"A member of a small ruling group.\"?",
+      "options": [
+        "Kaleidoscope",
+        "Dilettante",
+        "Vestige",
+        "Oligarch"
+      ],
+      "answer": 3,
+      "explanation": "Oligarch (noun) — A member of a small ruling group."
+    },
+    {
+      "id": "one-q66",
+      "question": "Which word means: \"A man who has many casual affairs.\"?",
+      "options": [
+        "Mausoleum",
+        "Philanderer",
+        "Orator",
+        "Altruist"
+      ],
+      "answer": 1,
+      "explanation": "Philanderer (noun) — A man who has many casual affairs."
+    },
+    {
+      "id": "one-q67",
+      "question": "Which word means: \"A traitor collaborating with the enemy.\"?",
+      "options": [
+        "Bibliophile",
+        "Zealot",
+        "Quisling",
+        "Recluse"
+      ],
+      "answer": 2,
+      "explanation": "Quisling (noun) — A traitor collaborating with the enemy."
+    },
+    {
+      "id": "one-q68",
+      "question": "Which word means: \"A skilled storyteller.\"?",
+      "options": [
+        "Raconteur",
+        "Demagogue",
+        "Litigant",
+        "Bilingual"
+      ],
+      "answer": 0,
+      "explanation": "Raconteur (noun) — A skilled storyteller."
+    },
+    {
+      "id": "one-q69",
+      "question": "Which word means: \"A sleepwalker.\"?",
+      "options": [
+        "Turncoat",
+        "Somnambulist",
+        "Fugitive",
+        "Genocide"
+      ],
+      "answer": 1,
+      "explanation": "Somnambulist (noun) — A sleepwalker."
+    },
+    {
+      "id": "one-q70",
+      "question": "Which word means: \"One who betrays their side.\"?",
+      "options": [
+        "Sycophant",
+        "Yardstick",
+        "Jettison",
+        "Turncoat"
+      ],
+      "answer": 3,
+      "explanation": "Turncoat (noun) — One who betrays their side."
+    },
+    {
+      "id": "one-q71",
+      "question": "Which word means: \"One who takes power by force.\"?",
+      "options": [
+        "Omniscient",
+        "Teetotaller",
+        "Verbose",
+        "Usurper"
+      ],
+      "answer": 3,
+      "explanation": "Usurper (noun) — One who takes power by force."
+    },
+    {
+      "id": "one-q72",
+      "question": "Which word means: \"One who watches others secretly.\"?",
+      "options": [
+        "Anarchist",
+        "Voyeur",
+        "Cacophony",
+        "Hierarchy"
+      ],
+      "answer": 1,
+      "explanation": "Voyeur (noun) — One who watches others secretly."
+    },
+    {
+      "id": "one-q73",
+      "question": "Which word means: \"A wasteful or good-for-nothing person.\"?",
+      "options": [
+        "Altruist",
+        "Wastrel",
+        "Xenophile",
+        "Garrulous"
+      ],
+      "answer": 1,
+      "explanation": "Wastrel (noun) — A wasteful or good-for-nothing person."
+    },
+    {
+      "id": "one-q74",
+      "question": "Which word means: \"A person attracted to foreign cultures.\"?",
+      "options": [
+        "Genocide",
+        "Fugitive",
+        "Renegade",
+        "Xenophile"
+      ],
+      "answer": 3,
+      "explanation": "Xenophile (noun) — A person attracted to foreign cultures."
+    },
+    {
+      "id": "one-q75",
+      "question": "Which word means: \"A soft, gentle breeze.\"?",
+      "options": [
+        "Ephemeral",
+        "Mercenary",
+        "Belligerent",
+        "Zephyr"
+      ],
+      "answer": 3,
+      "explanation": "Zephyr (noun) — A soft, gentle breeze."
+    },
+    {
+      "id": "one-q76",
+      "question": "Which word means: \"One who opposes all forms of government.\"?",
+      "options": [
+        "Anarchist",
+        "Hedonist",
+        "Renegade",
+        "Elegy"
+      ],
+      "answer": 0,
+      "explanation": "Anarchist (noun) — One who opposes all forms of government."
+    },
+    {
+      "id": "one-q77",
+      "question": "Which word means: \"An official in an administration.\"?",
+      "options": [
+        "Juvenile",
+        "Usurper",
+        "Iconoclast",
+        "Bureaucrat"
+      ],
+      "answer": 3,
+      "explanation": "Bureaucrat (noun) — An official in an administration."
+    },
+    {
+      "id": "one-q78",
+      "question": "Which word means: \"An expert judge in matters of taste.\"?",
+      "options": [
+        "Neophyte",
+        "Connoisseur",
+        "Furore",
+        "Impasse"
+      ],
+      "answer": 1,
+      "explanation": "Connoisseur (noun) — An expert judge in matters of taste."
+    },
+    {
+      "id": "one-q79",
+      "question": "Which word means: \"A person with a superficial interest.\"?",
+      "options": [
+        "Cacophony",
+        "Lexicon",
+        "Dilettante",
+        "Ubiquitous"
+      ],
+      "answer": 2,
+      "explanation": "Dilettante (noun) — A person with a superficial interest."
+    },
+    {
+      "id": "one-q80",
+      "question": "Which word means: \"A person who has emigrated for political reasons.\"?",
+      "options": [
+        "Gerrymander",
+        "Émigré",
+        "Oligarch",
+        "Elegy"
+      ],
+      "answer": 1,
+      "explanation": "Émigré (noun) — A person who has emigrated for political reasons."
+    },
+    {
+      "id": "one-q81",
+      "question": "Which word means: \"An outbreak of public anger.\"?",
+      "options": [
+        "Kaleidoscope",
+        "Renegade",
+        "Connoisseur",
+        "Furore"
+      ],
+      "answer": 3,
+      "explanation": "Furore (noun) — An outbreak of public anger."
+    },
+    {
+      "id": "one-q82",
+      "question": "Which word means: \"Deliberate killing of a large group.\"?",
+      "options": [
+        "Stalemate",
+        "Renegade",
+        "Zoologist",
+        "Genocide"
+      ],
+      "answer": 3,
+      "explanation": "Genocide (noun) — Deliberate killing of a large group."
+    },
+    {
+      "id": "one-q83",
+      "question": "Which word means: \"An apparent perception of something not present.\"?",
+      "options": [
+        "Émigré",
+        "Kudos",
+        "Hallucination",
+        "Ubiquitous"
+      ],
+      "answer": 2,
+      "explanation": "Hallucination (noun) — An apparent perception of something not present."
+    },
+    {
+      "id": "one-q84",
+      "question": "Which word means: \"A situation in which no progress is possible.\"?",
+      "options": [
+        "Impasse",
+        "Quixotic",
+        "Levity",
+        "Litigant"
+      ],
+      "answer": 0,
+      "explanation": "Impasse (noun) — A situation in which no progress is possible."
+    },
+    {
+      "id": "one-q85",
+      "question": "Which word means: \"Special words used by a profession.\"?",
+      "options": [
+        "Connoisseur",
+        "Misanthrope",
+        "Mercenary",
+        "Jargon"
+      ],
+      "answer": 3,
+      "explanation": "Jargon (noun) — Special words used by a profession."
+    },
+    {
+      "id": "one-q86",
+      "question": "Which word means: \"A constantly changing pattern.\"?",
+      "options": [
+        "Voyeur",
+        "Bilingual",
+        "Kaleidoscope",
+        "Facsimile"
+      ],
+      "answer": 2,
+      "explanation": "Kaleidoscope (noun) — A constantly changing pattern."
+    },
+    {
+      "id": "one-q87",
+      "question": "Which word means: \"Humour or lack of seriousness.\"?",
+      "options": [
+        "Levity",
+        "Mausoleum",
+        "Insomnia",
+        "Utopia"
+      ],
+      "answer": 0,
+      "explanation": "Levity (noun) — Humour or lack of seriousness."
+    },
+    {
+      "id": "one-q88",
+      "question": "Which word means: \"A stately tomb.\"?",
+      "options": [
+        "Soliloquy",
+        "Mausoleum",
+        "Fugitive",
+        "Iconoclast"
+      ],
+      "answer": 1,
+      "explanation": "Mausoleum (noun) — A stately tomb."
+    },
+    {
+      "id": "one-q89",
+      "question": "Which word means: \"A large ancient cemetery.\"?",
+      "options": [
+        "Panacea",
+        "Debut",
+        "Voyeur",
+        "Necropolis"
+      ],
+      "answer": 3,
+      "explanation": "Necropolis (noun) — A large ancient cemetery."
+    },
+    {
+      "id": "one-q90",
+      "question": "Which word means: \"A skilled public speaker.\"?",
+      "options": [
+        "Yardstick",
+        "Orator",
+        "Utopia",
+        "Fastidious"
+      ],
+      "answer": 1,
+      "explanation": "Orator (noun) — A skilled public speaker."
+    },
+    {
+      "id": "one-q91",
+      "question": "Which word means: \"A seemingly contradictory statement.\"?",
+      "options": [
+        "Garrulous",
+        "Gerrymander",
+        "Quandary",
+        "Paradox"
+      ],
+      "answer": 3,
+      "explanation": "Paradox (noun) — A seemingly contradictory statement."
+    },
+    {
+      "id": "one-q92",
+      "question": "Which word means: \"A state of uncertainty.\"?",
+      "options": [
+        "Nostalgia",
+        "Quandary",
+        "Voyeur",
+        "Dilettante"
+      ],
+      "answer": 1,
+      "explanation": "Quandary (noun) — A state of uncertainty."
+    },
+    {
+      "id": "one-q93",
+      "question": "Which word means: \"A person who deserts a cause.\"?",
+      "options": [
+        "Panacea",
+        "Verbose",
+        "Renegade",
+        "Furore"
+      ],
+      "answer": 2,
+      "explanation": "Renegade (noun) — A person who deserts a cause."
+    },
+    {
+      "id": "one-q94",
+      "question": "Which word means: \"A situation with no progress possible.\"?",
+      "options": [
+        "Tirade",
+        "Manuscript",
+        "Paradox",
+        "Stalemate"
+      ],
+      "answer": 3,
+      "explanation": "Stalemate (noun) — A situation with no progress possible."
+    },
+    {
+      "id": "one-q95",
+      "question": "Which word means: \"A long, angry speech.\"?",
+      "options": [
+        "Tirade",
+        "Stalemate",
+        "Misanthrope",
+        "Teetotaller"
+      ],
+      "answer": 0,
+      "explanation": "Tirade (noun) — A long, angry speech."
+    },
+    {
+      "id": "one-q96",
+      "question": "Which word means: \"Offence or annoyance.\"?",
+      "options": [
+        "Amateur",
+        "Gerrymander",
+        "Panacea",
+        "Umbrage"
+      ],
+      "answer": 3,
+      "explanation": "Umbrage (noun) — Offence or annoyance."
+    },
+    {
+      "id": "one-q97",
+      "question": "Which word means: \"A trace of something no longer present.\"?",
+      "options": [
+        "Lexicon",
+        "Vestige",
+        "Kudos",
+        "Soliloquy"
+      ],
+      "answer": 1,
+      "explanation": "Vestige (noun) — A trace of something no longer present."
+    },
+    {
+      "id": "one-q98",
+      "question": "Which word means: \"A person who travels aimlessly.\"?",
+      "options": [
+        "Vestige",
+        "Wanderlust",
+        "Quandary",
+        "Wanderer"
+      ],
+      "answer": 3,
+      "explanation": "Wanderer (noun) — A person who travels aimlessly."
+    },
+    {
+      "id": "one-q99",
+      "question": "Which word means: \"A rock fragment enclosed in another rock.\"?",
+      "options": [
+        "Vestige",
+        "Raconteur",
+        "Teetotaller",
+        "Xenolith"
+      ],
+      "answer": 3,
+      "explanation": "Xenolith (noun) — A rock fragment enclosed in another rock."
+    },
+    {
+      "id": "one-q100",
+      "question": "Which word means: \"A standard used for comparison.\"?",
+      "options": [
+        "Yardstick",
+        "Cavalcade",
+        "Effervescent",
+        "Ineffable"
+      ],
+      "answer": 0,
+      "explanation": "Yardstick (noun) — A standard used for comparison."
+    }
+  ]
+}

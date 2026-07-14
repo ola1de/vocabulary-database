@@ -1,0 +1,1908 @@
+{
+  "category": "obsessions",
+  "title": "Obsessions & Manias",
+  "words": [
+    {
+      "id": "ob-01",
+      "word": "Bibliomania",
+      "pos": "noun",
+      "definition": "An obsession with collecting books.",
+      "example": "His bibliomania filled every wall of the house."
+    },
+    {
+      "id": "ob-02",
+      "word": "Pyromania",
+      "pos": "noun",
+      "definition": "An obsessive desire to set fire to things.",
+      "example": "Pyromania is a rare but serious impulse-control disorder."
+    },
+    {
+      "id": "ob-03",
+      "word": "Kleptomania",
+      "pos": "noun",
+      "definition": "A recurrent, compulsive urge to steal.",
+      "example": "Kleptomania is distinct from theft for profit."
+    },
+    {
+      "id": "ob-04",
+      "word": "Egomania",
+      "pos": "noun",
+      "definition": "Obsessive preoccupation with oneself.",
+      "example": "His egomania alienated colleagues."
+    },
+    {
+      "id": "ob-05",
+      "word": "Megalomania",
+      "pos": "noun",
+      "definition": "An obsession with power and grandiosity.",
+      "example": "The dictator's megalomania distorted policy."
+    },
+    {
+      "id": "ob-06",
+      "word": "Dipsomania",
+      "pos": "noun",
+      "definition": "An uncontrollable craving for alcohol.",
+      "example": "Dipsomania is now largely subsumed under alcoholism."
+    },
+    {
+      "id": "ob-07",
+      "word": "Nymphomania",
+      "pos": "noun",
+      "definition": "An excessive sexual desire in women.",
+      "example": "The term nymphomania is now clinically outdated."
+    },
+    {
+      "id": "ob-08",
+      "word": "Satyriasis",
+      "pos": "noun",
+      "definition": "An excessive sexual desire in men.",
+      "example": "Satyriasis pairs with the older term nymphomania."
+    },
+    {
+      "id": "ob-09",
+      "word": "Monomania",
+      "pos": "noun",
+      "definition": "Exaggerated enthusiasm for or preoccupation with one thing.",
+      "example": "His monomania about chess consumed every free hour."
+    },
+    {
+      "id": "ob-10",
+      "word": "Xenomania",
+      "pos": "noun",
+      "definition": "An obsession with foreign customs or people.",
+      "example": "His xenomania led him to move abroad annually."
+    },
+    {
+      "id": "ob-11",
+      "word": "Anglomania",
+      "pos": "noun",
+      "definition": "An excessive admiration of the English.",
+      "example": "Nineteenth-century anglomania swept Continental salons."
+    },
+    {
+      "id": "ob-12",
+      "word": "Francomania",
+      "pos": "noun",
+      "definition": "An excessive fondness for French things.",
+      "example": "Francomania set the tone in the Russian court."
+    },
+    {
+      "id": "ob-13",
+      "word": "Melomania",
+      "pos": "noun",
+      "definition": "An excessive love of music.",
+      "example": "Her melomania kept her at every recital."
+    },
+    {
+      "id": "ob-14",
+      "word": "Gynomania",
+      "pos": "noun",
+      "definition": "An abnormal sexual desire for women.",
+      "example": "Gynomania is a term now largely superseded."
+    },
+    {
+      "id": "ob-15",
+      "word": "Andromania",
+      "pos": "noun",
+      "definition": "An abnormal sexual desire for men.",
+      "example": "Andromania mirrors gynomania as a paired term."
+    },
+    {
+      "id": "ob-16",
+      "word": "Ablutomania",
+      "pos": "noun",
+      "definition": "An obsession with washing or bathing.",
+      "example": "Ablutomania overlaps with OCD contamination fears."
+    },
+    {
+      "id": "ob-17",
+      "word": "Ergomania",
+      "pos": "noun",
+      "definition": "An excessive desire to work.",
+      "example": "Ergomania is popularly known as workaholism."
+    },
+    {
+      "id": "ob-18",
+      "word": "Theomania",
+      "pos": "noun",
+      "definition": "A belief that one is God or divinely chosen.",
+      "example": "Theomania sometimes accompanies psychotic disorders."
+    },
+    {
+      "id": "ob-19",
+      "word": "Necromania",
+      "pos": "noun",
+      "definition": "An abnormal fondness for dead bodies.",
+      "example": "Necromania is a rare paraphilia."
+    },
+    {
+      "id": "ob-20",
+      "word": "Zoomania",
+      "pos": "noun",
+      "definition": "An excessive love of animals.",
+      "example": "Zoomania led her to adopt a dozen strays."
+    },
+    {
+      "id": "ob-21",
+      "word": "Choreomania",
+      "pos": "noun",
+      "definition": "A mania to dance uncontrollably.",
+      "example": "Medieval choreomania outbreaks puzzled chroniclers."
+    },
+    {
+      "id": "ob-22",
+      "word": "Trichotillomania",
+      "pos": "noun",
+      "definition": "A compulsive urge to pull out one's hair.",
+      "example": "Trichotillomania is classified among body-focused repetitive behaviours."
+    },
+    {
+      "id": "ob-23",
+      "word": "Onomatomania",
+      "pos": "noun",
+      "definition": "An obsession with certain words or names.",
+      "example": "Poets sometimes cultivate a kind of onomatomania."
+    },
+    {
+      "id": "ob-24",
+      "word": "Bibliokleptomania",
+      "pos": "noun",
+      "definition": "A compulsion to steal books.",
+      "example": "Bibliokleptomania is a bibliophile's dark twin."
+    },
+    {
+      "id": "ob-25",
+      "word": "Graphomania",
+      "pos": "noun",
+      "definition": "A compulsive urge to write.",
+      "example": "Graphomania fills notebooks by the shelf-full."
+    },
+    {
+      "id": "ob-26",
+      "word": "Chrematomania",
+      "pos": "noun",
+      "definition": "An obsession with money.",
+      "example": "Chrematomania distorted every decision he made."
+    },
+    {
+      "id": "ob-27",
+      "word": "Mythomania",
+      "pos": "noun",
+      "definition": "A compulsive tendency to lie or exaggerate.",
+      "example": "Mythomania complicated therapy."
+    },
+    {
+      "id": "ob-28",
+      "word": "Nostomania",
+      "pos": "noun",
+      "definition": "An abnormally intense homesickness.",
+      "example": "Nostomania overtook her in the third year abroad."
+    },
+    {
+      "id": "ob-29",
+      "word": "Dromomania",
+      "pos": "noun",
+      "definition": "An uncontrollable urge to travel.",
+      "example": "Dromomania keeps him permanently on the move."
+    },
+    {
+      "id": "ob-30",
+      "word": "Toxicomania",
+      "pos": "noun",
+      "definition": "An abnormal craving for poisons or drugs.",
+      "example": "Toxicomania is another older name for addiction."
+    },
+    {
+      "id": "ob-31",
+      "word": "Cheimomania",
+      "pos": "noun",
+      "definition": "A depressed craving for cold or winter.",
+      "example": "Cheimomania is little used but occasionally cited."
+    },
+    {
+      "id": "ob-32",
+      "word": "Cynomania",
+      "pos": "noun",
+      "definition": "An excessive love of dogs.",
+      "example": "His cynomania was clear from three rescue mastiffs."
+    },
+    {
+      "id": "ob-33",
+      "word": "Ailuromania",
+      "pos": "noun",
+      "definition": "An excessive love of cats.",
+      "example": "Ailuromania was rife on the internet in the 2010s."
+    },
+    {
+      "id": "ob-34",
+      "word": "Onomatolagnia",
+      "pos": "noun",
+      "definition": "Delight in words; an obsession with language.",
+      "example": "Onomatolagnia is a bookish sort of joy."
+    },
+    {
+      "id": "ob-35",
+      "word": "Sitomania",
+      "pos": "noun",
+      "definition": "An abnormal craving for food.",
+      "example": "Sitomania borders on binge-eating disorder."
+    },
+    {
+      "id": "ob-36",
+      "word": "Cacospectamania",
+      "pos": "noun",
+      "definition": "A morbid fascination with ugly or repulsive sights.",
+      "example": "Cacospectamania fuels certain horror communities."
+    },
+    {
+      "id": "ob-37",
+      "word": "Bruxomania",
+      "pos": "noun",
+      "definition": "A compulsion to grind one's teeth.",
+      "example": "Bruxomania often surfaces under stress."
+    },
+    {
+      "id": "ob-38",
+      "word": "Doramania",
+      "pos": "noun",
+      "definition": "An obsession with owning furs.",
+      "example": "Doramania was fashionable in nineteenth-century Vienna."
+    },
+    {
+      "id": "ob-39",
+      "word": "Hydromania",
+      "pos": "noun",
+      "definition": "An abnormal fascination with water.",
+      "example": "Hydromania is not a formal diagnosis but appears in older texts."
+    },
+    {
+      "id": "ob-40",
+      "word": "Phaneromania",
+      "pos": "noun",
+      "definition": "A habit of picking at growths on the body.",
+      "example": "Phaneromania overlaps with skin-picking disorders."
+    },
+    {
+      "id": "ob-41",
+      "word": "Plutomania",
+      "pos": "noun",
+      "definition": "An intense desire for wealth.",
+      "example": "Plutomania mirrors chrematomania."
+    },
+    {
+      "id": "ob-42",
+      "word": "Dysmorphomania",
+      "pos": "noun",
+      "definition": "An obsession with imagined bodily defects.",
+      "example": "Dysmorphomania is now known as body dysmorphic disorder."
+    },
+    {
+      "id": "ob-43",
+      "word": "Empleomania",
+      "pos": "noun",
+      "definition": "An obsessive desire to hold public office.",
+      "example": "Empleomania afflicts perennial candidates."
+    },
+    {
+      "id": "ob-44",
+      "word": "Etheromania",
+      "pos": "noun",
+      "definition": "A craving for ether.",
+      "example": "Etheromania featured in nineteenth-century medical cases."
+    },
+    {
+      "id": "ob-45",
+      "word": "Gamomania",
+      "pos": "noun",
+      "definition": "An obsession with marriage.",
+      "example": "Gamomania led him to propose to strangers."
+    },
+    {
+      "id": "ob-46",
+      "word": "Hypermania",
+      "pos": "noun",
+      "definition": "An extreme form of mania with severe agitation.",
+      "example": "Hypermania can require hospitalisation."
+    },
+    {
+      "id": "ob-47",
+      "word": "Hypomania",
+      "pos": "noun",
+      "definition": "A mild form of mania with elevated mood and energy.",
+      "example": "Hypomania can be productive but risks escalation."
+    },
+    {
+      "id": "ob-48",
+      "word": "Logomania",
+      "pos": "noun",
+      "definition": "An abnormal talkativeness.",
+      "example": "Logomania made every meeting run long."
+    },
+    {
+      "id": "ob-49",
+      "word": "Sophomania",
+      "pos": "noun",
+      "definition": "A delusion of one's own great wisdom.",
+      "example": "Sophomania blinded him to sound advice."
+    },
+    {
+      "id": "ob-50",
+      "word": "Tomomania",
+      "pos": "noun",
+      "definition": "An obsessive desire to undergo surgery.",
+      "example": "Tomomania describes patients seeking operations without need."
+    },
+    {
+      "id": "o-051",
+      "word": "Ablutomania (bath)",
+      "pos": "noun",
+      "definition": "Obsession with bathing.",
+      "example": "Her ablutomania emptied the tank daily."
+    },
+    {
+      "id": "o-052",
+      "word": "Acromania",
+      "pos": "noun",
+      "definition": "Incurable insanity.",
+      "example": "Acromania is an old psychiatric term."
+    },
+    {
+      "id": "o-053",
+      "word": "Agromania",
+      "pos": "noun",
+      "definition": "Obsession with open spaces.",
+      "example": "Agromania drove him to hike alone."
+    },
+    {
+      "id": "o-054",
+      "word": "Aichmomania",
+      "pos": "noun",
+      "definition": "Obsession with pointed objects.",
+      "example": "Aichmomania made him fear kitchens."
+    },
+    {
+      "id": "o-055",
+      "word": "Amaxomania",
+      "pos": "noun",
+      "definition": "Obsession with vehicles.",
+      "example": "Amaxomania kept him in showrooms."
+    },
+    {
+      "id": "o-056",
+      "word": "Amenomania",
+      "pos": "noun",
+      "definition": "Delusional cheerfulness.",
+      "example": "Amenomania masks deep distress."
+    },
+    {
+      "id": "o-057",
+      "word": "Apimania",
+      "pos": "noun",
+      "definition": "Obsession with bees.",
+      "example": "Apimania inspired his research."
+    },
+    {
+      "id": "o-058",
+      "word": "Arithmomania",
+      "pos": "noun",
+      "definition": "Obsession with counting.",
+      "example": "His arithmomania delayed every meal."
+    },
+    {
+      "id": "o-059",
+      "word": "Automania",
+      "pos": "noun",
+      "definition": "Obsession with solitude.",
+      "example": "Automania followed her retirement."
+    },
+    {
+      "id": "o-060",
+      "word": "Balletomania",
+      "pos": "noun",
+      "definition": "Passion for ballet.",
+      "example": "Her balletomania filled the calendar."
+    },
+    {
+      "id": "o-061",
+      "word": "Bruxomania",
+      "pos": "noun",
+      "definition": "Compulsive teeth grinding.",
+      "example": "Bruxomania wore down his molars."
+    },
+    {
+      "id": "o-062",
+      "word": "Cacodemomania",
+      "pos": "noun",
+      "definition": "Belief of being possessed.",
+      "example": "Cacodemomania is a rare delusion."
+    },
+    {
+      "id": "o-063",
+      "word": "Callomania",
+      "pos": "noun",
+      "definition": "Delusion of one's own beauty.",
+      "example": "Callomania made her ignore critics."
+    },
+    {
+      "id": "o-064",
+      "word": "Catapedamania",
+      "pos": "noun",
+      "definition": "Obsession with jumping from heights.",
+      "example": "Catapedamania is a dangerous impulse."
+    },
+    {
+      "id": "o-065",
+      "word": "Chionomania",
+      "pos": "noun",
+      "definition": "Obsession with snow.",
+      "example": "Chionomania drew him north each winter."
+    },
+    {
+      "id": "o-066",
+      "word": "Choreomania",
+      "pos": "noun",
+      "definition": "Compulsion to dance.",
+      "example": "Medieval chronicles describe choreomania."
+    },
+    {
+      "id": "o-067",
+      "word": "Chrematomania",
+      "pos": "noun",
+      "definition": "Obsession with wealth.",
+      "example": "Chrematomania drove his risky trades."
+    },
+    {
+      "id": "o-068",
+      "word": "Coprolalomania",
+      "pos": "noun",
+      "definition": "Compulsive foul speech.",
+      "example": "Coprolalomania distressed his family."
+    },
+    {
+      "id": "o-069",
+      "word": "Cresomania",
+      "pos": "noun",
+      "definition": "Delusion of great wealth.",
+      "example": "Cresomania led to reckless spending."
+    },
+    {
+      "id": "o-070",
+      "word": "Dinomania",
+      "pos": "noun",
+      "definition": "Compulsion to dance.",
+      "example": "Dinomania is a synonym for choreomania."
+    },
+    {
+      "id": "o-071",
+      "word": "Doramania",
+      "pos": "noun",
+      "definition": "Obsession with fur.",
+      "example": "Doramania filled her wardrobe."
+    },
+    {
+      "id": "o-072",
+      "word": "Dromomania",
+      "pos": "noun",
+      "definition": "Compulsion to travel.",
+      "example": "Dromomania emptied his bank account."
+    },
+    {
+      "id": "o-073",
+      "word": "Egomania",
+      "pos": "noun",
+      "definition": "Obsessive self-preoccupation.",
+      "example": "Egomania alienated his friends."
+    },
+    {
+      "id": "o-074",
+      "word": "Empleomania",
+      "pos": "noun",
+      "definition": "Obsession with holding public office.",
+      "example": "Empleomania drove multiple runs."
+    },
+    {
+      "id": "o-075",
+      "word": "Ergasiomania",
+      "pos": "noun",
+      "definition": "Excessive desire to work.",
+      "example": "Ergasiomania led to burnout."
+    },
+    {
+      "id": "o-076",
+      "word": "Erotomania",
+      "pos": "noun",
+      "definition": "Delusion of being loved by another.",
+      "example": "Erotomania fixated her on the actor."
+    },
+    {
+      "id": "o-077",
+      "word": "Etheromania",
+      "pos": "noun",
+      "definition": "Craving for ether.",
+      "example": "Etheromania was a 19th-century concern."
+    },
+    {
+      "id": "o-078",
+      "word": "Florimania",
+      "pos": "noun",
+      "definition": "Passion for flowers.",
+      "example": "Florimania funded her garden."
+    },
+    {
+      "id": "o-079",
+      "word": "Gamomania",
+      "pos": "noun",
+      "definition": "Obsession with marriage.",
+      "example": "Gamomania led to hasty vows."
+    },
+    {
+      "id": "o-080",
+      "word": "Graphomania",
+      "pos": "noun",
+      "definition": "Compulsion to write.",
+      "example": "His graphomania produced ten notebooks."
+    },
+    {
+      "id": "o-081",
+      "word": "Hedonomania",
+      "pos": "noun",
+      "definition": "Obsession with pleasure.",
+      "example": "Hedonomania blurred priorities."
+    },
+    {
+      "id": "o-082",
+      "word": "Hodomania",
+      "pos": "noun",
+      "definition": "Obsession with travel.",
+      "example": "Hodomania sent him around the world."
+    },
+    {
+      "id": "o-083",
+      "word": "Hylomania",
+      "pos": "noun",
+      "definition": "Excessive attachment to material things.",
+      "example": "Hylomania cluttered her home."
+    },
+    {
+      "id": "o-084",
+      "word": "Hypermania",
+      "pos": "noun",
+      "definition": "Extreme mania.",
+      "example": "Hypermania required hospitalisation."
+    },
+    {
+      "id": "o-085",
+      "word": "Hypomania",
+      "pos": "noun",
+      "definition": "Milder form of mania.",
+      "example": "Hypomania boosted productivity briefly."
+    },
+    {
+      "id": "o-086",
+      "word": "Idolomania",
+      "pos": "noun",
+      "definition": "Excessive devotion to idols.",
+      "example": "Idolomania consumed his savings."
+    },
+    {
+      "id": "o-087",
+      "word": "Islomania",
+      "pos": "noun",
+      "definition": "Passion for islands.",
+      "example": "Islomania drew him to remote shores."
+    },
+    {
+      "id": "o-088",
+      "word": "Kinesomania",
+      "pos": "noun",
+      "definition": "Compulsion to move.",
+      "example": "Kinesomania kept him pacing."
+    },
+    {
+      "id": "o-089",
+      "word": "Klazomania",
+      "pos": "noun",
+      "definition": "Compulsive shouting.",
+      "example": "Klazomania is documented after encephalitis."
+    },
+    {
+      "id": "o-090",
+      "word": "Lalomania",
+      "pos": "noun",
+      "definition": "Compulsion to speak.",
+      "example": "Lalomania filled every silence."
+    },
+    {
+      "id": "o-091",
+      "word": "Letheomania",
+      "pos": "noun",
+      "definition": "Craving for narcotics.",
+      "example": "Letheomania shaped his recovery."
+    },
+    {
+      "id": "o-092",
+      "word": "Logomania",
+      "pos": "noun",
+      "definition": "Excessive talkativeness.",
+      "example": "Logomania dominated the meeting."
+    },
+    {
+      "id": "o-093",
+      "word": "Macromania",
+      "pos": "noun",
+      "definition": "Delusion of large body size.",
+      "example": "Macromania distorted his self-image."
+    },
+    {
+      "id": "o-094",
+      "word": "Melomania",
+      "pos": "noun",
+      "definition": "Passion for music.",
+      "example": "Melomania filled the house with records."
+    },
+    {
+      "id": "o-095",
+      "word": "Metromania",
+      "pos": "noun",
+      "definition": "Compulsion to write verse.",
+      "example": "Metromania produced weekly poems."
+    },
+    {
+      "id": "o-096",
+      "word": "Micromania",
+      "pos": "noun",
+      "definition": "Delusion of small body size.",
+      "example": "Micromania is a rare delusion."
+    },
+    {
+      "id": "o-097",
+      "word": "Musomania",
+      "pos": "noun",
+      "definition": "Obsession with mice.",
+      "example": "Musomania featured in old texts."
+    },
+    {
+      "id": "o-098",
+      "word": "Onomatomania",
+      "pos": "noun",
+      "definition": "Obsession with words or names.",
+      "example": "Onomatomania delighted the crossword solver."
+    },
+    {
+      "id": "o-099",
+      "word": "Ornithomania",
+      "pos": "noun",
+      "definition": "Passion for birds.",
+      "example": "Ornithomania funded her binoculars."
+    },
+    {
+      "id": "o-100",
+      "word": "Timbromania",
+      "pos": "noun",
+      "definition": "Passion for stamp collecting.",
+      "example": "Timbromania filled his albums."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "obs-q1",
+      "question": "Which word means: \"An obsession with collecting books.\"?",
+      "options": [
+        "Sophomania",
+        "Bibliomania",
+        "Ergomania",
+        "Lalomania"
+      ],
+      "answer": 1,
+      "explanation": "Bibliomania (noun) — An obsession with collecting books."
+    },
+    {
+      "id": "obs-q2",
+      "question": "Which word means: \"An obsessive desire to set fire to things.\"?",
+      "options": [
+        "Pyromania",
+        "Erotomania",
+        "Monomania",
+        "Zoomania"
+      ],
+      "answer": 0,
+      "explanation": "Pyromania (noun) — An obsessive desire to set fire to things."
+    },
+    {
+      "id": "obs-q3",
+      "question": "Which word means: \"A recurrent, compulsive urge to steal.\"?",
+      "options": [
+        "Hypomania",
+        "Kleptomania",
+        "Trichotillomania",
+        "Satyriasis"
+      ],
+      "answer": 1,
+      "explanation": "Kleptomania (noun) — A recurrent, compulsive urge to steal."
+    },
+    {
+      "id": "obs-q4",
+      "question": "Which word means: \"Obsessive preoccupation with oneself.\"?",
+      "options": [
+        "Egomania",
+        "Hypermania",
+        "Hypomania",
+        "Satyriasis"
+      ],
+      "answer": 0,
+      "explanation": "Egomania (noun) — Obsessive preoccupation with oneself."
+    },
+    {
+      "id": "obs-q5",
+      "question": "Which word means: \"An obsession with power and grandiosity.\"?",
+      "options": [
+        "Megalomania",
+        "Timbromania",
+        "Chrematomania",
+        "Chrematomania"
+      ],
+      "answer": 0,
+      "explanation": "Megalomania (noun) — An obsession with power and grandiosity."
+    },
+    {
+      "id": "obs-q6",
+      "question": "Which word means: \"An uncontrollable craving for alcohol.\"?",
+      "options": [
+        "Doramania",
+        "Dipsomania",
+        "Empleomania",
+        "Dysmorphomania"
+      ],
+      "answer": 1,
+      "explanation": "Dipsomania (noun) — An uncontrollable craving for alcohol."
+    },
+    {
+      "id": "obs-q7",
+      "question": "Which word means: \"An excessive sexual desire in women.\"?",
+      "options": [
+        "Dinomania",
+        "Nymphomania",
+        "Gynomania",
+        "Erotomania"
+      ],
+      "answer": 1,
+      "explanation": "Nymphomania (noun) — An excessive sexual desire in women."
+    },
+    {
+      "id": "obs-q8",
+      "question": "Which word means: \"An excessive sexual desire in men.\"?",
+      "options": [
+        "Necromania",
+        "Satyriasis",
+        "Coprolalomania",
+        "Doramania"
+      ],
+      "answer": 1,
+      "explanation": "Satyriasis (noun) — An excessive sexual desire in men."
+    },
+    {
+      "id": "obs-q9",
+      "question": "Which word means: \"Exaggerated enthusiasm for or preoccupation with one thing.\"?",
+      "options": [
+        "Monomania",
+        "Andromania",
+        "Gamomania",
+        "Trichotillomania"
+      ],
+      "answer": 0,
+      "explanation": "Monomania (noun) — Exaggerated enthusiasm for or preoccupation with one thing."
+    },
+    {
+      "id": "obs-q10",
+      "question": "Which word means: \"An obsession with foreign customs or people.\"?",
+      "options": [
+        "Xenomania",
+        "Graphomania",
+        "Egomania",
+        "Chrematomania"
+      ],
+      "answer": 0,
+      "explanation": "Xenomania (noun) — An obsession with foreign customs or people."
+    },
+    {
+      "id": "obs-q11",
+      "question": "Which word means: \"An excessive admiration of the English.\"?",
+      "options": [
+        "Anglomania",
+        "Theomania",
+        "Ablutomania",
+        "Xenomania"
+      ],
+      "answer": 0,
+      "explanation": "Anglomania (noun) — An excessive admiration of the English."
+    },
+    {
+      "id": "obs-q12",
+      "question": "Which word means: \"An excessive fondness for French things.\"?",
+      "options": [
+        "Plutomania",
+        "Logomania",
+        "Francomania",
+        "Lalomania"
+      ],
+      "answer": 2,
+      "explanation": "Francomania (noun) — An excessive fondness for French things."
+    },
+    {
+      "id": "obs-q13",
+      "question": "Which word means: \"An excessive love of music.\"?",
+      "options": [
+        "Logomania",
+        "Melomania",
+        "Phaneromania",
+        "Bibliokleptomania"
+      ],
+      "answer": 1,
+      "explanation": "Melomania (noun) — An excessive love of music."
+    },
+    {
+      "id": "obs-q14",
+      "question": "Which word means: \"An abnormal sexual desire for women.\"?",
+      "options": [
+        "Gynomania",
+        "Toxicomania",
+        "Lalomania",
+        "Theomania"
+      ],
+      "answer": 0,
+      "explanation": "Gynomania (noun) — An abnormal sexual desire for women."
+    },
+    {
+      "id": "obs-q15",
+      "question": "Which word means: \"An abnormal sexual desire for men.\"?",
+      "options": [
+        "Nostomania",
+        "Andromania",
+        "Plutomania",
+        "Theomania"
+      ],
+      "answer": 1,
+      "explanation": "Andromania (noun) — An abnormal sexual desire for men."
+    },
+    {
+      "id": "obs-q16",
+      "question": "Which word means: \"An obsession with washing or bathing.\"?",
+      "options": [
+        "Andromania",
+        "Ornithomania",
+        "Ablutomania",
+        "Lalomania"
+      ],
+      "answer": 2,
+      "explanation": "Ablutomania (noun) — An obsession with washing or bathing."
+    },
+    {
+      "id": "obs-q17",
+      "question": "Which word means: \"An excessive desire to work.\"?",
+      "options": [
+        "Ergomania",
+        "Dipsomania",
+        "Onomatomania",
+        "Apimania"
+      ],
+      "answer": 0,
+      "explanation": "Ergomania (noun) — An excessive desire to work."
+    },
+    {
+      "id": "obs-q18",
+      "question": "Which word means: \"A belief that one is God or divinely chosen.\"?",
+      "options": [
+        "Etheromania",
+        "Theomania",
+        "Chrematomania",
+        "Idolomania"
+      ],
+      "answer": 1,
+      "explanation": "Theomania (noun) — A belief that one is God or divinely chosen."
+    },
+    {
+      "id": "obs-q19",
+      "question": "Which word means: \"An abnormal fondness for dead bodies.\"?",
+      "options": [
+        "Dipsomania",
+        "Onomatolagnia",
+        "Necromania",
+        "Monomania"
+      ],
+      "answer": 2,
+      "explanation": "Necromania (noun) — An abnormal fondness for dead bodies."
+    },
+    {
+      "id": "obs-q20",
+      "question": "Which word means: \"An excessive love of animals.\"?",
+      "options": [
+        "Zoomania",
+        "Onomatomania",
+        "Ablutomania",
+        "Melomania"
+      ],
+      "answer": 0,
+      "explanation": "Zoomania (noun) — An excessive love of animals."
+    },
+    {
+      "id": "obs-q21",
+      "question": "Which word means: \"A mania to dance uncontrollably.\"?",
+      "options": [
+        "Kinesomania",
+        "Hypermania",
+        "Choreomania",
+        "Graphomania"
+      ],
+      "answer": 2,
+      "explanation": "Choreomania (noun) — A mania to dance uncontrollably."
+    },
+    {
+      "id": "obs-q22",
+      "question": "Which word means: \"A compulsive urge to pull out one's hair.\"?",
+      "options": [
+        "Trichotillomania",
+        "Musomania",
+        "Bruxomania",
+        "Erotomania"
+      ],
+      "answer": 0,
+      "explanation": "Trichotillomania (noun) — A compulsive urge to pull out one's hair."
+    },
+    {
+      "id": "obs-q23",
+      "question": "Which word means: \"An obsession with certain words or names.\"?",
+      "options": [
+        "Onomatomania",
+        "Choreomania",
+        "Graphomania",
+        "Metromania"
+      ],
+      "answer": 0,
+      "explanation": "Onomatomania (noun) — An obsession with certain words or names."
+    },
+    {
+      "id": "obs-q24",
+      "question": "Which word means: \"A compulsion to steal books.\"?",
+      "options": [
+        "Erotomania",
+        "Bibliokleptomania",
+        "Ornithomania",
+        "Melomania"
+      ],
+      "answer": 1,
+      "explanation": "Bibliokleptomania (noun) — A compulsion to steal books."
+    },
+    {
+      "id": "obs-q25",
+      "question": "Which word means: \"A compulsive urge to write.\"?",
+      "options": [
+        "Graphomania",
+        "Melomania",
+        "Doramania",
+        "Chrematomania"
+      ],
+      "answer": 0,
+      "explanation": "Graphomania (noun) — A compulsive urge to write."
+    },
+    {
+      "id": "obs-q26",
+      "question": "Which word means: \"An obsession with money.\"?",
+      "options": [
+        "Dromomania",
+        "Metromania",
+        "Melomania",
+        "Chrematomania"
+      ],
+      "answer": 3,
+      "explanation": "Chrematomania (noun) — An obsession with money."
+    },
+    {
+      "id": "obs-q27",
+      "question": "Which word means: \"A compulsive tendency to lie or exaggerate.\"?",
+      "options": [
+        "Arithmomania",
+        "Gynomania",
+        "Mythomania",
+        "Kinesomania"
+      ],
+      "answer": 2,
+      "explanation": "Mythomania (noun) — A compulsive tendency to lie or exaggerate."
+    },
+    {
+      "id": "obs-q28",
+      "question": "Which word means: \"An abnormally intense homesickness.\"?",
+      "options": [
+        "Chrematomania",
+        "Amenomania",
+        "Nostomania",
+        "Dromomania"
+      ],
+      "answer": 2,
+      "explanation": "Nostomania (noun) — An abnormally intense homesickness."
+    },
+    {
+      "id": "obs-q29",
+      "question": "Which word means: \"An uncontrollable urge to travel.\"?",
+      "options": [
+        "Dysmorphomania",
+        "Ablutomania",
+        "Timbromania",
+        "Dromomania"
+      ],
+      "answer": 3,
+      "explanation": "Dromomania (noun) — An uncontrollable urge to travel."
+    },
+    {
+      "id": "obs-q30",
+      "question": "Which word means: \"An abnormal craving for poisons or drugs.\"?",
+      "options": [
+        "Ornithomania",
+        "Chionomania",
+        "Toxicomania",
+        "Logomania"
+      ],
+      "answer": 2,
+      "explanation": "Toxicomania (noun) — An abnormal craving for poisons or drugs."
+    },
+    {
+      "id": "obs-q31",
+      "question": "Which word means: \"A depressed craving for cold or winter.\"?",
+      "options": [
+        "Cheimomania",
+        "Chionomania",
+        "Empleomania",
+        "Anglomania"
+      ],
+      "answer": 0,
+      "explanation": "Cheimomania (noun) — A depressed craving for cold or winter."
+    },
+    {
+      "id": "obs-q32",
+      "question": "Which word means: \"An excessive love of dogs.\"?",
+      "options": [
+        "Balletomania",
+        "Florimania",
+        "Cynomania",
+        "Micromania"
+      ],
+      "answer": 2,
+      "explanation": "Cynomania (noun) — An excessive love of dogs."
+    },
+    {
+      "id": "obs-q33",
+      "question": "Which word means: \"An excessive love of cats.\"?",
+      "options": [
+        "Ailuromania",
+        "Dromomania",
+        "Dromomania",
+        "Aichmomania"
+      ],
+      "answer": 0,
+      "explanation": "Ailuromania (noun) — An excessive love of cats."
+    },
+    {
+      "id": "obs-q34",
+      "question": "Which word means: \"Delight in words; an obsession with language.\"?",
+      "options": [
+        "Cacodemomania",
+        "Onomatolagnia",
+        "Monomania",
+        "Kinesomania"
+      ],
+      "answer": 1,
+      "explanation": "Onomatolagnia (noun) — Delight in words; an obsession with language."
+    },
+    {
+      "id": "obs-q35",
+      "question": "Which word means: \"An abnormal craving for food.\"?",
+      "options": [
+        "Gynomania",
+        "Kinesomania",
+        "Catapedamania",
+        "Sitomania"
+      ],
+      "answer": 3,
+      "explanation": "Sitomania (noun) — An abnormal craving for food."
+    },
+    {
+      "id": "obs-q36",
+      "question": "Which word means: \"A morbid fascination with ugly or repulsive sights.\"?",
+      "options": [
+        "Necromania",
+        "Ablutomania",
+        "Acromania",
+        "Cacospectamania"
+      ],
+      "answer": 3,
+      "explanation": "Cacospectamania (noun) — A morbid fascination with ugly or repulsive sights."
+    },
+    {
+      "id": "obs-q37",
+      "question": "Which word means: \"A compulsion to grind one's teeth.\"?",
+      "options": [
+        "Bruxomania",
+        "Trichotillomania",
+        "Musomania",
+        "Monomania"
+      ],
+      "answer": 0,
+      "explanation": "Bruxomania (noun) — A compulsion to grind one's teeth."
+    },
+    {
+      "id": "obs-q38",
+      "question": "Which word means: \"An obsession with owning furs.\"?",
+      "options": [
+        "Agromania",
+        "Gamomania",
+        "Doramania",
+        "Chrematomania"
+      ],
+      "answer": 2,
+      "explanation": "Doramania (noun) — An obsession with owning furs."
+    },
+    {
+      "id": "obs-q39",
+      "question": "Which word means: \"An abnormal fascination with water.\"?",
+      "options": [
+        "Melomania",
+        "Chionomania",
+        "Hydromania",
+        "Cacospectamania"
+      ],
+      "answer": 2,
+      "explanation": "Hydromania (noun) — An abnormal fascination with water."
+    },
+    {
+      "id": "obs-q40",
+      "question": "Which word means: \"A habit of picking at growths on the body.\"?",
+      "options": [
+        "Hypomania",
+        "Islomania",
+        "Cacodemomania",
+        "Phaneromania"
+      ],
+      "answer": 3,
+      "explanation": "Phaneromania (noun) — A habit of picking at growths on the body."
+    },
+    {
+      "id": "obs-q41",
+      "question": "Which word means: \"An intense desire for wealth.\"?",
+      "options": [
+        "Balletomania",
+        "Timbromania",
+        "Plutomania",
+        "Necromania"
+      ],
+      "answer": 2,
+      "explanation": "Plutomania (noun) — An intense desire for wealth."
+    },
+    {
+      "id": "obs-q42",
+      "question": "Which word means: \"An obsession with imagined bodily defects.\"?",
+      "options": [
+        "Dysmorphomania",
+        "Toxicomania",
+        "Catapedamania",
+        "Chionomania"
+      ],
+      "answer": 0,
+      "explanation": "Dysmorphomania (noun) — An obsession with imagined bodily defects."
+    },
+    {
+      "id": "obs-q43",
+      "question": "Which word means: \"An obsessive desire to hold public office.\"?",
+      "options": [
+        "Nymphomania",
+        "Musomania",
+        "Monomania",
+        "Empleomania"
+      ],
+      "answer": 3,
+      "explanation": "Empleomania (noun) — An obsessive desire to hold public office."
+    },
+    {
+      "id": "obs-q44",
+      "question": "Which word means: \"A craving for ether.\"?",
+      "options": [
+        "Etheromania",
+        "Tomomania",
+        "Onomatomania",
+        "Graphomania"
+      ],
+      "answer": 0,
+      "explanation": "Etheromania (noun) — A craving for ether."
+    },
+    {
+      "id": "obs-q45",
+      "question": "Which word means: \"An obsession with marriage.\"?",
+      "options": [
+        "Gamomania",
+        "Melomania",
+        "Timbromania",
+        "Hodomania"
+      ],
+      "answer": 0,
+      "explanation": "Gamomania (noun) — An obsession with marriage."
+    },
+    {
+      "id": "obs-q46",
+      "question": "Which word means: \"An extreme form of mania with severe agitation.\"?",
+      "options": [
+        "Bruxomania",
+        "Doramania",
+        "Chrematomania",
+        "Hypermania"
+      ],
+      "answer": 3,
+      "explanation": "Hypermania (noun) — An extreme form of mania with severe agitation."
+    },
+    {
+      "id": "obs-q47",
+      "question": "Which word means: \"A mild form of mania with elevated mood and energy.\"?",
+      "options": [
+        "Kleptomania",
+        "Hypomania",
+        "Etheromania",
+        "Doramania"
+      ],
+      "answer": 1,
+      "explanation": "Hypomania (noun) — A mild form of mania with elevated mood and energy."
+    },
+    {
+      "id": "obs-q48",
+      "question": "Which word means: \"An abnormal talkativeness.\"?",
+      "options": [
+        "Ablutomania (bath)",
+        "Plutomania",
+        "Automania",
+        "Logomania"
+      ],
+      "answer": 3,
+      "explanation": "Logomania (noun) — An abnormal talkativeness."
+    },
+    {
+      "id": "obs-q49",
+      "question": "Which word means: \"A delusion of one's own great wisdom.\"?",
+      "options": [
+        "Onomatomania",
+        "Megalomania",
+        "Sophomania",
+        "Egomania"
+      ],
+      "answer": 2,
+      "explanation": "Sophomania (noun) — A delusion of one's own great wisdom."
+    },
+    {
+      "id": "obs-q50",
+      "question": "Which word means: \"An obsessive desire to undergo surgery.\"?",
+      "options": [
+        "Catapedamania",
+        "Apimania",
+        "Tomomania",
+        "Theomania"
+      ],
+      "answer": 2,
+      "explanation": "Tomomania (noun) — An obsessive desire to undergo surgery."
+    },
+    {
+      "id": "obs-q51",
+      "question": "Which word means: \"Obsession with bathing.\"?",
+      "options": [
+        "Catapedamania",
+        "Ornithomania",
+        "Andromania",
+        "Ablutomania (bath)"
+      ],
+      "answer": 3,
+      "explanation": "Ablutomania (bath) (noun) — Obsession with bathing."
+    },
+    {
+      "id": "obs-q52",
+      "question": "Which word means: \"Incurable insanity.\"?",
+      "options": [
+        "Acromania",
+        "Choreomania",
+        "Egomania",
+        "Cacodemomania"
+      ],
+      "answer": 0,
+      "explanation": "Acromania (noun) — Incurable insanity."
+    },
+    {
+      "id": "obs-q53",
+      "question": "Which word means: \"Obsession with open spaces.\"?",
+      "options": [
+        "Chionomania",
+        "Agromania",
+        "Etheromania",
+        "Sophomania"
+      ],
+      "answer": 1,
+      "explanation": "Agromania (noun) — Obsession with open spaces."
+    },
+    {
+      "id": "obs-q54",
+      "question": "Which word means: \"Obsession with pointed objects.\"?",
+      "options": [
+        "Etheromania",
+        "Egomania",
+        "Aichmomania",
+        "Satyriasis"
+      ],
+      "answer": 2,
+      "explanation": "Aichmomania (noun) — Obsession with pointed objects."
+    },
+    {
+      "id": "obs-q55",
+      "question": "Which word means: \"Obsession with vehicles.\"?",
+      "options": [
+        "Amaxomania",
+        "Micromania",
+        "Erotomania",
+        "Gamomania"
+      ],
+      "answer": 0,
+      "explanation": "Amaxomania (noun) — Obsession with vehicles."
+    },
+    {
+      "id": "obs-q56",
+      "question": "Which word means: \"Delusional cheerfulness.\"?",
+      "options": [
+        "Sophomania",
+        "Amenomania",
+        "Melomania",
+        "Amaxomania"
+      ],
+      "answer": 1,
+      "explanation": "Amenomania (noun) — Delusional cheerfulness."
+    },
+    {
+      "id": "obs-q57",
+      "question": "Which word means: \"Obsession with bees.\"?",
+      "options": [
+        "Apimania",
+        "Idolomania",
+        "Gamomania",
+        "Satyriasis"
+      ],
+      "answer": 0,
+      "explanation": "Apimania (noun) — Obsession with bees."
+    },
+    {
+      "id": "obs-q58",
+      "question": "Which word means: \"Obsession with counting.\"?",
+      "options": [
+        "Phaneromania",
+        "Arithmomania",
+        "Etheromania",
+        "Hypermania"
+      ],
+      "answer": 1,
+      "explanation": "Arithmomania (noun) — Obsession with counting."
+    },
+    {
+      "id": "obs-q59",
+      "question": "Which word means: \"Obsession with solitude.\"?",
+      "options": [
+        "Etheromania",
+        "Automania",
+        "Phaneromania",
+        "Andromania"
+      ],
+      "answer": 1,
+      "explanation": "Automania (noun) — Obsession with solitude."
+    },
+    {
+      "id": "obs-q60",
+      "question": "Which word means: \"Passion for ballet.\"?",
+      "options": [
+        "Megalomania",
+        "Automania",
+        "Idolomania",
+        "Balletomania"
+      ],
+      "answer": 3,
+      "explanation": "Balletomania (noun) — Passion for ballet."
+    },
+    {
+      "id": "obs-q61",
+      "question": "Which word means: \"Compulsive teeth grinding.\"?",
+      "options": [
+        "Kleptomania",
+        "Sitomania",
+        "Logomania",
+        "Bruxomania"
+      ],
+      "answer": 3,
+      "explanation": "Bruxomania (noun) — Compulsive teeth grinding."
+    },
+    {
+      "id": "obs-q62",
+      "question": "Which word means: \"Belief of being possessed.\"?",
+      "options": [
+        "Ergasiomania",
+        "Plutomania",
+        "Sophomania",
+        "Cacodemomania"
+      ],
+      "answer": 3,
+      "explanation": "Cacodemomania (noun) — Belief of being possessed."
+    },
+    {
+      "id": "obs-q63",
+      "question": "Which word means: \"Delusion of one's own beauty.\"?",
+      "options": [
+        "Catapedamania",
+        "Lalomania",
+        "Callomania",
+        "Melomania"
+      ],
+      "answer": 2,
+      "explanation": "Callomania (noun) — Delusion of one's own beauty."
+    },
+    {
+      "id": "obs-q64",
+      "question": "Which word means: \"Obsession with jumping from heights.\"?",
+      "options": [
+        "Catapedamania",
+        "Ornithomania",
+        "Choreomania",
+        "Islomania"
+      ],
+      "answer": 0,
+      "explanation": "Catapedamania (noun) — Obsession with jumping from heights."
+    },
+    {
+      "id": "obs-q65",
+      "question": "Which word means: \"Obsession with snow.\"?",
+      "options": [
+        "Amenomania",
+        "Hypomania",
+        "Chrematomania",
+        "Chionomania"
+      ],
+      "answer": 3,
+      "explanation": "Chionomania (noun) — Obsession with snow."
+    },
+    {
+      "id": "obs-q66",
+      "question": "Which word means: \"Compulsion to dance.\"?",
+      "options": [
+        "Choreomania",
+        "Dromomania",
+        "Doramania",
+        "Doramania"
+      ],
+      "answer": 0,
+      "explanation": "Choreomania (noun) — Compulsion to dance."
+    },
+    {
+      "id": "obs-q67",
+      "question": "Which word means: \"Obsession with wealth.\"?",
+      "options": [
+        "Agromania",
+        "Chrematomania",
+        "Toxicomania",
+        "Erotomania"
+      ],
+      "answer": 1,
+      "explanation": "Chrematomania (noun) — Obsession with wealth."
+    },
+    {
+      "id": "obs-q68",
+      "question": "Which word means: \"Compulsive foul speech.\"?",
+      "options": [
+        "Coprolalomania",
+        "Etheromania",
+        "Sitomania",
+        "Etheromania"
+      ],
+      "answer": 0,
+      "explanation": "Coprolalomania (noun) — Compulsive foul speech."
+    },
+    {
+      "id": "obs-q69",
+      "question": "Which word means: \"Delusion of great wealth.\"?",
+      "options": [
+        "Cresomania",
+        "Mythomania",
+        "Gamomania",
+        "Amaxomania"
+      ],
+      "answer": 0,
+      "explanation": "Cresomania (noun) — Delusion of great wealth."
+    },
+    {
+      "id": "obs-q70",
+      "question": "Which word means: \"Compulsion to dance.\"?",
+      "options": [
+        "Dinomania",
+        "Hydromania",
+        "Chionomania",
+        "Amenomania"
+      ],
+      "answer": 0,
+      "explanation": "Dinomania (noun) — Compulsion to dance."
+    },
+    {
+      "id": "obs-q71",
+      "question": "Which word means: \"Obsession with fur.\"?",
+      "options": [
+        "Ailuromania",
+        "Agromania",
+        "Hodomania",
+        "Doramania"
+      ],
+      "answer": 3,
+      "explanation": "Doramania (noun) — Obsession with fur."
+    },
+    {
+      "id": "obs-q72",
+      "question": "Which word means: \"Compulsion to travel.\"?",
+      "options": [
+        "Kleptomania",
+        "Dromomania",
+        "Macromania",
+        "Hylomania"
+      ],
+      "answer": 1,
+      "explanation": "Dromomania (noun) — Compulsion to travel."
+    },
+    {
+      "id": "obs-q73",
+      "question": "Which word means: \"Obsessive self-preoccupation.\"?",
+      "options": [
+        "Dromomania",
+        "Onomatomania",
+        "Islomania",
+        "Egomania"
+      ],
+      "answer": 3,
+      "explanation": "Egomania (noun) — Obsessive self-preoccupation."
+    },
+    {
+      "id": "obs-q74",
+      "question": "Which word means: \"Obsession with holding public office.\"?",
+      "options": [
+        "Micromania",
+        "Empleomania",
+        "Hylomania",
+        "Ergasiomania"
+      ],
+      "answer": 1,
+      "explanation": "Empleomania (noun) — Obsession with holding public office."
+    },
+    {
+      "id": "obs-q75",
+      "question": "Which word means: \"Excessive desire to work.\"?",
+      "options": [
+        "Necromania",
+        "Ergasiomania",
+        "Hypomania",
+        "Balletomania"
+      ],
+      "answer": 1,
+      "explanation": "Ergasiomania (noun) — Excessive desire to work."
+    },
+    {
+      "id": "obs-q76",
+      "question": "Which word means: \"Delusion of being loved by another.\"?",
+      "options": [
+        "Agromania",
+        "Erotomania",
+        "Plutomania",
+        "Amenomania"
+      ],
+      "answer": 1,
+      "explanation": "Erotomania (noun) — Delusion of being loved by another."
+    },
+    {
+      "id": "obs-q77",
+      "question": "Which word means: \"Craving for ether.\"?",
+      "options": [
+        "Bruxomania",
+        "Aichmomania",
+        "Etheromania",
+        "Sitomania"
+      ],
+      "answer": 2,
+      "explanation": "Etheromania (noun) — Craving for ether."
+    },
+    {
+      "id": "obs-q78",
+      "question": "Which word means: \"Passion for flowers.\"?",
+      "options": [
+        "Florimania",
+        "Andromania",
+        "Acromania",
+        "Cheimomania"
+      ],
+      "answer": 0,
+      "explanation": "Florimania (noun) — Passion for flowers."
+    },
+    {
+      "id": "obs-q79",
+      "question": "Which word means: \"Obsession with marriage.\"?",
+      "options": [
+        "Cynomania",
+        "Phaneromania",
+        "Bruxomania",
+        "Gamomania"
+      ],
+      "answer": 3,
+      "explanation": "Gamomania (noun) — Obsession with marriage."
+    },
+    {
+      "id": "obs-q80",
+      "question": "Which word means: \"Compulsion to write.\"?",
+      "options": [
+        "Megalomania",
+        "Graphomania",
+        "Amenomania",
+        "Hypomania"
+      ],
+      "answer": 1,
+      "explanation": "Graphomania (noun) — Compulsion to write."
+    },
+    {
+      "id": "obs-q81",
+      "question": "Which word means: \"Obsession with pleasure.\"?",
+      "options": [
+        "Egomania",
+        "Theomania",
+        "Hedonomania",
+        "Onomatolagnia"
+      ],
+      "answer": 2,
+      "explanation": "Hedonomania (noun) — Obsession with pleasure."
+    },
+    {
+      "id": "obs-q82",
+      "question": "Which word means: \"Obsession with travel.\"?",
+      "options": [
+        "Dipsomania",
+        "Melomania",
+        "Hypermania",
+        "Hodomania"
+      ],
+      "answer": 3,
+      "explanation": "Hodomania (noun) — Obsession with travel."
+    },
+    {
+      "id": "obs-q83",
+      "question": "Which word means: \"Excessive attachment to material things.\"?",
+      "options": [
+        "Hylomania",
+        "Plutomania",
+        "Anglomania",
+        "Florimania"
+      ],
+      "answer": 0,
+      "explanation": "Hylomania (noun) — Excessive attachment to material things."
+    },
+    {
+      "id": "obs-q84",
+      "question": "Which word means: \"Extreme mania.\"?",
+      "options": [
+        "Islomania",
+        "Hypermania",
+        "Kinesomania",
+        "Logomania"
+      ],
+      "answer": 1,
+      "explanation": "Hypermania (noun) — Extreme mania."
+    },
+    {
+      "id": "obs-q85",
+      "question": "Which word means: \"Milder form of mania.\"?",
+      "options": [
+        "Hypomania",
+        "Andromania",
+        "Ergasiomania",
+        "Cheimomania"
+      ],
+      "answer": 0,
+      "explanation": "Hypomania (noun) — Milder form of mania."
+    },
+    {
+      "id": "obs-q86",
+      "question": "Which word means: \"Excessive devotion to idols.\"?",
+      "options": [
+        "Idolomania",
+        "Cheimomania",
+        "Francomania",
+        "Catapedamania"
+      ],
+      "answer": 0,
+      "explanation": "Idolomania (noun) — Excessive devotion to idols."
+    },
+    {
+      "id": "obs-q87",
+      "question": "Which word means: \"Passion for islands.\"?",
+      "options": [
+        "Tomomania",
+        "Ergasiomania",
+        "Islomania",
+        "Micromania"
+      ],
+      "answer": 2,
+      "explanation": "Islomania (noun) — Passion for islands."
+    },
+    {
+      "id": "obs-q88",
+      "question": "Which word means: \"Compulsion to move.\"?",
+      "options": [
+        "Necromania",
+        "Onomatomania",
+        "Kinesomania",
+        "Gynomania"
+      ],
+      "answer": 2,
+      "explanation": "Kinesomania (noun) — Compulsion to move."
+    },
+    {
+      "id": "obs-q89",
+      "question": "Which word means: \"Compulsive shouting.\"?",
+      "options": [
+        "Klazomania",
+        "Erotomania",
+        "Ailuromania",
+        "Agromania"
+      ],
+      "answer": 0,
+      "explanation": "Klazomania (noun) — Compulsive shouting."
+    },
+    {
+      "id": "obs-q90",
+      "question": "Which word means: \"Compulsion to speak.\"?",
+      "options": [
+        "Plutomania",
+        "Letheomania",
+        "Andromania",
+        "Lalomania"
+      ],
+      "answer": 3,
+      "explanation": "Lalomania (noun) — Compulsion to speak."
+    },
+    {
+      "id": "obs-q91",
+      "question": "Which word means: \"Craving for narcotics.\"?",
+      "options": [
+        "Cacospectamania",
+        "Necromania",
+        "Hypomania",
+        "Letheomania"
+      ],
+      "answer": 3,
+      "explanation": "Letheomania (noun) — Craving for narcotics."
+    },
+    {
+      "id": "obs-q92",
+      "question": "Which word means: \"Excessive talkativeness.\"?",
+      "options": [
+        "Kleptomania",
+        "Logomania",
+        "Hypermania",
+        "Phaneromania"
+      ],
+      "answer": 1,
+      "explanation": "Logomania (noun) — Excessive talkativeness."
+    },
+    {
+      "id": "obs-q93",
+      "question": "Which word means: \"Delusion of large body size.\"?",
+      "options": [
+        "Klazomania",
+        "Idolomania",
+        "Macromania",
+        "Cheimomania"
+      ],
+      "answer": 2,
+      "explanation": "Macromania (noun) — Delusion of large body size."
+    },
+    {
+      "id": "obs-q94",
+      "question": "Which word means: \"Passion for music.\"?",
+      "options": [
+        "Hylomania",
+        "Plutomania",
+        "Melomania",
+        "Letheomania"
+      ],
+      "answer": 2,
+      "explanation": "Melomania (noun) — Passion for music."
+    },
+    {
+      "id": "obs-q95",
+      "question": "Which word means: \"Compulsion to write verse.\"?",
+      "options": [
+        "Apimania",
+        "Cheimomania",
+        "Cresomania",
+        "Metromania"
+      ],
+      "answer": 3,
+      "explanation": "Metromania (noun) — Compulsion to write verse."
+    },
+    {
+      "id": "obs-q96",
+      "question": "Which word means: \"Delusion of small body size.\"?",
+      "options": [
+        "Francomania",
+        "Ailuromania",
+        "Micromania",
+        "Hydromania"
+      ],
+      "answer": 2,
+      "explanation": "Micromania (noun) — Delusion of small body size."
+    },
+    {
+      "id": "obs-q97",
+      "question": "Which word means: \"Obsession with mice.\"?",
+      "options": [
+        "Choreomania",
+        "Apimania",
+        "Musomania",
+        "Hedonomania"
+      ],
+      "answer": 2,
+      "explanation": "Musomania (noun) — Obsession with mice."
+    },
+    {
+      "id": "obs-q98",
+      "question": "Which word means: \"Obsession with words or names.\"?",
+      "options": [
+        "Megalomania",
+        "Anglomania",
+        "Bruxomania",
+        "Onomatomania"
+      ],
+      "answer": 3,
+      "explanation": "Onomatomania (noun) — Obsession with words or names."
+    },
+    {
+      "id": "obs-q99",
+      "question": "Which word means: \"Passion for birds.\"?",
+      "options": [
+        "Amaxomania",
+        "Logomania",
+        "Ornithomania",
+        "Empleomania"
+      ],
+      "answer": 2,
+      "explanation": "Ornithomania (noun) — Passion for birds."
+    },
+    {
+      "id": "obs-q100",
+      "question": "Which word means: \"Passion for stamp collecting.\"?",
+      "options": [
+        "Chionomania",
+        "Monomania",
+        "Hypermania",
+        "Timbromania"
+      ],
+      "answer": 3,
+      "explanation": "Timbromania (noun) — Passion for stamp collecting."
+    }
+  ]
+}

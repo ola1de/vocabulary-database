@@ -1,0 +1,1908 @@
+{
+  "category": "capability-adjectives",
+  "title": "Capability Adjectives",
+  "words": [
+    {
+      "id": "ca-001",
+      "word": "Edible",
+      "pos": "adjective",
+      "definition": "Can be eaten; fit for consumption as food.",
+      "example": "The mushroom was safe and edible."
+    },
+    {
+      "id": "ca-002",
+      "word": "Inedible",
+      "pos": "adjective",
+      "definition": "Not fit to be eaten.",
+      "example": "The bread had gone hard and inedible."
+    },
+    {
+      "id": "ca-003",
+      "word": "Potable",
+      "pos": "adjective",
+      "definition": "Safe to drink.",
+      "example": "The camp had a tap of potable water."
+    },
+    {
+      "id": "ca-004",
+      "word": "Drinkable",
+      "pos": "adjective",
+      "definition": "Suitable or safe to drink.",
+      "example": "The stream water was surprisingly drinkable."
+    },
+    {
+      "id": "ca-005",
+      "word": "Undrinkable",
+      "pos": "adjective",
+      "definition": "Not fit to be drunk.",
+      "example": "The coffee was cold and undrinkable."
+    },
+    {
+      "id": "ca-006",
+      "word": "Digestible",
+      "pos": "adjective",
+      "definition": "Able to be digested easily.",
+      "example": "Soup is more digestible than steak."
+    },
+    {
+      "id": "ca-007",
+      "word": "Indigestible",
+      "pos": "adjective",
+      "definition": "Difficult or impossible to digest.",
+      "example": "Raw beans can be indigestible."
+    },
+    {
+      "id": "ca-008",
+      "word": "Audible",
+      "pos": "adjective",
+      "definition": "Loud enough to be heard.",
+      "example": "Her whisper was barely audible."
+    },
+    {
+      "id": "ca-009",
+      "word": "Inaudible",
+      "pos": "adjective",
+      "definition": "Unable to be heard.",
+      "example": "The dog whistle is inaudible to humans."
+    },
+    {
+      "id": "ca-010",
+      "word": "Visible",
+      "pos": "adjective",
+      "definition": "Able to be seen.",
+      "example": "The scar was still faintly visible."
+    },
+    {
+      "id": "ca-011",
+      "word": "Invisible",
+      "pos": "adjective",
+      "definition": "Unable to be seen.",
+      "example": "Ultraviolet light is invisible to the eye."
+    },
+    {
+      "id": "ca-012",
+      "word": "Legible",
+      "pos": "adjective",
+      "definition": "Clear enough to be read.",
+      "example": "Please write in legible handwriting."
+    },
+    {
+      "id": "ca-013",
+      "word": "Illegible",
+      "pos": "adjective",
+      "definition": "Not clear enough to be read.",
+      "example": "The doctor's signature was illegible."
+    },
+    {
+      "id": "ca-014",
+      "word": "Readable",
+      "pos": "adjective",
+      "definition": "Easy or enjoyable to read.",
+      "example": "The novel is short and highly readable."
+    },
+    {
+      "id": "ca-015",
+      "word": "Tangible",
+      "pos": "adjective",
+      "definition": "Able to be touched or clearly perceived.",
+      "example": "We need tangible proof, not rumours."
+    },
+    {
+      "id": "ca-016",
+      "word": "Intangible",
+      "pos": "adjective",
+      "definition": "Unable to be touched; abstract.",
+      "example": "Goodwill is an intangible asset."
+    },
+    {
+      "id": "ca-017",
+      "word": "Palpable",
+      "pos": "adjective",
+      "definition": "So intense as to be almost felt physically.",
+      "example": "The tension in the room was palpable."
+    },
+    {
+      "id": "ca-018",
+      "word": "Impalpable",
+      "pos": "adjective",
+      "definition": "Unable to be felt by touch.",
+      "example": "A fine, impalpable dust covered the shelves."
+    },
+    {
+      "id": "ca-019",
+      "word": "Portable",
+      "pos": "adjective",
+      "definition": "Able to be easily carried or moved.",
+      "example": "She bought a portable charger for the trip."
+    },
+    {
+      "id": "ca-020",
+      "word": "Movable",
+      "pos": "adjective",
+      "definition": "Capable of being moved.",
+      "example": "Easter is a movable feast."
+    },
+    {
+      "id": "ca-021",
+      "word": "Immovable",
+      "pos": "adjective",
+      "definition": "Not able to be moved.",
+      "example": "The safe was an immovable steel block."
+    },
+    {
+      "id": "ca-022",
+      "word": "Removable",
+      "pos": "adjective",
+      "definition": "Able to be taken off or away.",
+      "example": "The cover has a removable lining."
+    },
+    {
+      "id": "ca-023",
+      "word": "Washable",
+      "pos": "adjective",
+      "definition": "Able to be washed without damage.",
+      "example": "Choose washable paints for children."
+    },
+    {
+      "id": "ca-024",
+      "word": "Breakable",
+      "pos": "adjective",
+      "definition": "Liable to be broken; fragile.",
+      "example": "Wrap the breakable items in bubble wrap."
+    },
+    {
+      "id": "ca-025",
+      "word": "Unbreakable",
+      "pos": "adjective",
+      "definition": "Not able to be broken.",
+      "example": "The phone case is nearly unbreakable."
+    },
+    {
+      "id": "ca-026",
+      "word": "Flexible",
+      "pos": "adjective",
+      "definition": "Capable of bending without breaking.",
+      "example": "Yoga makes the spine more flexible."
+    },
+    {
+      "id": "ca-027",
+      "word": "Malleable",
+      "pos": "adjective",
+      "definition": "Able to be hammered or pressed into shape.",
+      "example": "Gold is the most malleable metal."
+    },
+    {
+      "id": "ca-028",
+      "word": "Ductile",
+      "pos": "adjective",
+      "definition": "Able to be drawn out into a thin wire.",
+      "example": "Copper is ductile and conducts well."
+    },
+    {
+      "id": "ca-029",
+      "word": "Fusible",
+      "pos": "adjective",
+      "definition": "Able to be melted by heat.",
+      "example": "Solder is a fusible alloy."
+    },
+    {
+      "id": "ca-030",
+      "word": "Soluble",
+      "pos": "adjective",
+      "definition": "Able to be dissolved.",
+      "example": "Sugar is soluble in water."
+    },
+    {
+      "id": "ca-031",
+      "word": "Insoluble",
+      "pos": "adjective",
+      "definition": "Unable to be dissolved.",
+      "example": "Sand is insoluble in water."
+    },
+    {
+      "id": "ca-032",
+      "word": "Miscible",
+      "pos": "adjective",
+      "definition": "Able to be mixed to form a homogeneous liquid.",
+      "example": "Ethanol and water are miscible."
+    },
+    {
+      "id": "ca-033",
+      "word": "Immiscible",
+      "pos": "adjective",
+      "definition": "Unable to be mixed (of liquids).",
+      "example": "Oil and water are immiscible."
+    },
+    {
+      "id": "ca-034",
+      "word": "Flammable",
+      "pos": "adjective",
+      "definition": "Easily set on fire.",
+      "example": "Petrol is highly flammable."
+    },
+    {
+      "id": "ca-035",
+      "word": "Inflammable",
+      "pos": "adjective",
+      "definition": "Easily set on fire.",
+      "example": "The label warned the solvent was inflammable."
+    },
+    {
+      "id": "ca-036",
+      "word": "Combustible",
+      "pos": "adjective",
+      "definition": "Able to catch fire and burn.",
+      "example": "Store combustible waste away from heat."
+    },
+    {
+      "id": "ca-037",
+      "word": "Non-combustible",
+      "pos": "adjective",
+      "definition": "Unable to catch fire and burn.",
+      "example": "The wall is lined with non-combustible board."
+    },
+    {
+      "id": "ca-038",
+      "word": "Divisible",
+      "pos": "adjective",
+      "definition": "Able to be divided.",
+      "example": "Twelve is divisible by three."
+    },
+    {
+      "id": "ca-039",
+      "word": "Indivisible",
+      "pos": "adjective",
+      "definition": "Unable to be divided or separated.",
+      "example": "The nation stands as an indivisible whole."
+    },
+    {
+      "id": "ca-040",
+      "word": "Countable",
+      "pos": "adjective",
+      "definition": "Able to be counted.",
+      "example": "'Chair' is a countable noun."
+    },
+    {
+      "id": "ca-041",
+      "word": "Uncountable",
+      "pos": "adjective",
+      "definition": "Not able to be counted.",
+      "example": "'Water' is an uncountable noun."
+    },
+    {
+      "id": "ca-042",
+      "word": "Innumerable",
+      "pos": "adjective",
+      "definition": "Too many to be counted.",
+      "example": "She has innumerable reasons to refuse."
+    },
+    {
+      "id": "ca-043",
+      "word": "Measurable",
+      "pos": "adjective",
+      "definition": "Able to be measured.",
+      "example": "There has been measurable progress."
+    },
+    {
+      "id": "ca-044",
+      "word": "Immeasurable",
+      "pos": "adjective",
+      "definition": "Too great to be measured.",
+      "example": "His kindness brought immeasurable comfort."
+    },
+    {
+      "id": "ca-045",
+      "word": "Erasable",
+      "pos": "adjective",
+      "definition": "Able to be erased.",
+      "example": "Use an erasable pen on the whiteboard."
+    },
+    {
+      "id": "ca-046",
+      "word": "Indelible",
+      "pos": "adjective",
+      "definition": "Unable to be removed or erased.",
+      "example": "The event left an indelible memory."
+    },
+    {
+      "id": "ca-047",
+      "word": "Reusable",
+      "pos": "adjective",
+      "definition": "Able to be used again.",
+      "example": "Bring your own reusable bag."
+    },
+    {
+      "id": "ca-048",
+      "word": "Recyclable",
+      "pos": "adjective",
+      "definition": "Able to be recycled.",
+      "example": "The bottle is fully recyclable."
+    },
+    {
+      "id": "ca-049",
+      "word": "Refillable",
+      "pos": "adjective",
+      "definition": "Able to be filled again.",
+      "example": "She carries a refillable water bottle."
+    },
+    {
+      "id": "ca-050",
+      "word": "Biodegradable",
+      "pos": "adjective",
+      "definition": "Able to be decomposed by living organisms.",
+      "example": "The cutlery is made of biodegradable plastic."
+    },
+    {
+      "id": "ca-051",
+      "word": "Perishable",
+      "pos": "adjective",
+      "definition": "Likely to decay or spoil quickly.",
+      "example": "Keep perishable food in the fridge."
+    },
+    {
+      "id": "ca-052",
+      "word": "Imperishable",
+      "pos": "adjective",
+      "definition": "Enduring forever; not liable to decay.",
+      "example": "Diamonds are considered nearly imperishable."
+    },
+    {
+      "id": "ca-053",
+      "word": "Curable",
+      "pos": "adjective",
+      "definition": "Able to be cured.",
+      "example": "Most childhood infections are curable."
+    },
+    {
+      "id": "ca-054",
+      "word": "Incurable",
+      "pos": "adjective",
+      "definition": "Not able to be cured.",
+      "example": "He suffers from an incurable condition."
+    },
+    {
+      "id": "ca-055",
+      "word": "Treatable",
+      "pos": "adjective",
+      "definition": "Able to be treated medically.",
+      "example": "The disease is treatable if caught early."
+    },
+    {
+      "id": "ca-056",
+      "word": "Preventable",
+      "pos": "adjective",
+      "definition": "Able to be prevented.",
+      "example": "Many accidents at work are preventable."
+    },
+    {
+      "id": "ca-057",
+      "word": "Avoidable",
+      "pos": "adjective",
+      "definition": "Able to be avoided.",
+      "example": "The delay was entirely avoidable."
+    },
+    {
+      "id": "ca-058",
+      "word": "Unavoidable",
+      "pos": "adjective",
+      "definition": "Not able to be avoided.",
+      "example": "A short delay is unavoidable."
+    },
+    {
+      "id": "ca-059",
+      "word": "Inevitable",
+      "pos": "adjective",
+      "definition": "Certain to happen; unavoidable.",
+      "example": "Conflict seemed inevitable."
+    },
+    {
+      "id": "ca-060",
+      "word": "Inescapable",
+      "pos": "adjective",
+      "definition": "Unable to be avoided or escaped.",
+      "example": "The conclusion is inescapable."
+    },
+    {
+      "id": "ca-061",
+      "word": "Explicable",
+      "pos": "adjective",
+      "definition": "Able to be explained.",
+      "example": "His anger is easily explicable."
+    },
+    {
+      "id": "ca-062",
+      "word": "Inexplicable",
+      "pos": "adjective",
+      "definition": "Unable to be explained.",
+      "example": "The strange lights remain inexplicable."
+    },
+    {
+      "id": "ca-063",
+      "word": "Ineffable",
+      "pos": "adjective",
+      "definition": "Too great to be expressed in words.",
+      "example": "She felt an ineffable joy at the summit."
+    },
+    {
+      "id": "ca-064",
+      "word": "Unutterable",
+      "pos": "adjective",
+      "definition": "Too intense to be described in words.",
+      "example": "He gazed at her with unutterable love."
+    },
+    {
+      "id": "ca-065",
+      "word": "Indescribable",
+      "pos": "adjective",
+      "definition": "Too extreme to be described.",
+      "example": "The view was indescribable."
+    },
+    {
+      "id": "ca-066",
+      "word": "Unmentionable",
+      "pos": "adjective",
+      "definition": "Too taboo to be spoken of.",
+      "example": "Certain topics were unmentionable at dinner."
+    },
+    {
+      "id": "ca-067",
+      "word": "Unspeakable",
+      "pos": "adjective",
+      "definition": "Too bad or shocking to be expressed.",
+      "example": "They suffered unspeakable cruelty."
+    },
+    {
+      "id": "ca-068",
+      "word": "Impassable",
+      "pos": "adjective",
+      "definition": "Impossible to travel along or over.",
+      "example": "Snow made the road impassable."
+    },
+    {
+      "id": "ca-069",
+      "word": "Impenetrable",
+      "pos": "adjective",
+      "definition": "Impossible to pass or see through.",
+      "example": "The jungle was impenetrable."
+    },
+    {
+      "id": "ca-070",
+      "word": "Impregnable",
+      "pos": "adjective",
+      "definition": "Unable to be captured or broken into.",
+      "example": "The fortress was thought impregnable."
+    },
+    {
+      "id": "ca-071",
+      "word": "Inaccessible",
+      "pos": "adjective",
+      "definition": "Unable to be reached.",
+      "example": "The village is inaccessible by car."
+    },
+    {
+      "id": "ca-072",
+      "word": "Unattainable",
+      "pos": "adjective",
+      "definition": "Not able to be attained or reached.",
+      "example": "Perfection is unattainable."
+    },
+    {
+      "id": "ca-073",
+      "word": "Insurmountable",
+      "pos": "adjective",
+      "definition": "Too great to be overcome.",
+      "example": "The obstacles proved insurmountable."
+    },
+    {
+      "id": "ca-074",
+      "word": "Invincible",
+      "pos": "adjective",
+      "definition": "Too powerful to be defeated.",
+      "example": "The champion seemed invincible."
+    },
+    {
+      "id": "ca-075",
+      "word": "Impossible",
+      "pos": "adjective",
+      "definition": "Unable to occur or be done.",
+      "example": "It's impossible to be in two places at once."
+    },
+    {
+      "id": "ca-076",
+      "word": "Feasible",
+      "pos": "adjective",
+      "definition": "Possible to do easily or conveniently.",
+      "example": "The plan is technically feasible."
+    },
+    {
+      "id": "ca-077",
+      "word": "Achievable",
+      "pos": "adjective",
+      "definition": "Able to be brought about; attainable.",
+      "example": "Set small, achievable goals."
+    },
+    {
+      "id": "ca-078",
+      "word": "Attainable",
+      "pos": "adjective",
+      "definition": "Able to be reached or accomplished.",
+      "example": "A distinction is attainable with effort."
+    },
+    {
+      "id": "ca-079",
+      "word": "Doable",
+      "pos": "adjective",
+      "definition": "Within one's powers; feasible.",
+      "example": "The deadline is tight but doable."
+    },
+    {
+      "id": "ca-080",
+      "word": "Manageable",
+      "pos": "adjective",
+      "definition": "Able to be dealt with.",
+      "example": "Break the task into manageable steps."
+    },
+    {
+      "id": "ca-081",
+      "word": "Solvable",
+      "pos": "adjective",
+      "definition": "Able to be solved.",
+      "example": "Every problem here is solvable."
+    },
+    {
+      "id": "ca-082",
+      "word": "Debatable",
+      "pos": "adjective",
+      "definition": "Open to discussion or argument.",
+      "example": "Whether he acted wisely is debatable."
+    },
+    {
+      "id": "ca-083",
+      "word": "Arguable",
+      "pos": "adjective",
+      "definition": "Able to be argued or maintained.",
+      "example": "It is arguable that she deserves the award."
+    },
+    {
+      "id": "ca-084",
+      "word": "Deniable",
+      "pos": "adjective",
+      "definition": "Able to be denied.",
+      "example": "His involvement is barely deniable."
+    },
+    {
+      "id": "ca-085",
+      "word": "Undeniable",
+      "pos": "adjective",
+      "definition": "Unable to be denied or disputed.",
+      "example": "There is undeniable evidence of fraud."
+    },
+    {
+      "id": "ca-086",
+      "word": "Refutable",
+      "pos": "adjective",
+      "definition": "Able to be proved wrong.",
+      "example": "The claim is easily refutable."
+    },
+    {
+      "id": "ca-087",
+      "word": "Irrefutable",
+      "pos": "adjective",
+      "definition": "Impossible to deny or disprove.",
+      "example": "The DNA match is irrefutable."
+    },
+    {
+      "id": "ca-088",
+      "word": "Verifiable",
+      "pos": "adjective",
+      "definition": "Able to be checked or proved true.",
+      "example": "Give only verifiable facts in your essay."
+    },
+    {
+      "id": "ca-089",
+      "word": "Credible",
+      "pos": "adjective",
+      "definition": "Able to be believed; convincing.",
+      "example": "She gave a credible account of events."
+    },
+    {
+      "id": "ca-090",
+      "word": "Incredible",
+      "pos": "adjective",
+      "definition": "Too extraordinary to be believed.",
+      "example": "He told an incredible tale of survival."
+    },
+    {
+      "id": "ca-091",
+      "word": "Reliable",
+      "pos": "adjective",
+      "definition": "Able to be relied on.",
+      "example": "She's a reliable friend."
+    },
+    {
+      "id": "ca-092",
+      "word": "Dependable",
+      "pos": "adjective",
+      "definition": "Trustworthy and reliable.",
+      "example": "Buy a dependable used car."
+    },
+    {
+      "id": "ca-093",
+      "word": "Predictable",
+      "pos": "adjective",
+      "definition": "Able to be predicted.",
+      "example": "The ending of the film was predictable."
+    },
+    {
+      "id": "ca-094",
+      "word": "Unforeseeable",
+      "pos": "adjective",
+      "definition": "Not able to be foreseen.",
+      "example": "The crash was due to unforeseeable weather."
+    },
+    {
+      "id": "ca-095",
+      "word": "Comparable",
+      "pos": "adjective",
+      "definition": "Able to be likened to another.",
+      "example": "The two houses are comparable in size."
+    },
+    {
+      "id": "ca-096",
+      "word": "Incomparable",
+      "pos": "adjective",
+      "definition": "So good it has no equal.",
+      "example": "She sang with incomparable grace."
+    },
+    {
+      "id": "ca-097",
+      "word": "Negotiable",
+      "pos": "adjective",
+      "definition": "Open to discussion or modification.",
+      "example": "The salary is negotiable."
+    },
+    {
+      "id": "ca-098",
+      "word": "Non-negotiable",
+      "pos": "adjective",
+      "definition": "Not open to discussion or modification.",
+      "example": "Safety rules are non-negotiable."
+    },
+    {
+      "id": "ca-099",
+      "word": "Reversible",
+      "pos": "adjective",
+      "definition": "Able to be reversed.",
+      "example": "The jacket is reversible."
+    },
+    {
+      "id": "ca-100",
+      "word": "Irreversible",
+      "pos": "adjective",
+      "definition": "Unable to be reversed.",
+      "example": "The damage to the reef is irreversible."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "cap-q01",
+      "question": "Which word means: \"Can be eaten; fit for consumption as food.\"?",
+      "options": [
+        "Edible",
+        "Flexible",
+        "Combustible",
+        "Intangible"
+      ],
+      "answer": 0,
+      "explanation": "Edible (adjective) — Can be eaten; fit for consumption as food."
+    },
+    {
+      "id": "cap-q02",
+      "question": "Which word means: \"Not fit to be eaten.\"?",
+      "options": [
+        "Predictable",
+        "Inedible",
+        "Deniable",
+        "Flammable"
+      ],
+      "answer": 1,
+      "explanation": "Inedible (adjective) — Not fit to be eaten."
+    },
+    {
+      "id": "cap-q03",
+      "question": "Which word means: \"Safe to drink.\"?",
+      "options": [
+        "Verifiable",
+        "Potable",
+        "Indivisible",
+        "Invincible"
+      ],
+      "answer": 1,
+      "explanation": "Potable (adjective) — Safe to drink."
+    },
+    {
+      "id": "cap-q04",
+      "question": "Which word means: \"Suitable or safe to drink.\"?",
+      "options": [
+        "Measurable",
+        "Drinkable",
+        "Unspeakable",
+        "Preventable"
+      ],
+      "answer": 1,
+      "explanation": "Drinkable (adjective) — Suitable or safe to drink."
+    },
+    {
+      "id": "cap-q05",
+      "question": "Which word means: \"Not fit to be drunk.\"?",
+      "options": [
+        "Portable",
+        "Undrinkable",
+        "Unbreakable",
+        "Ineffable"
+      ],
+      "answer": 1,
+      "explanation": "Undrinkable (adjective) — Not fit to be drunk."
+    },
+    {
+      "id": "cap-q06",
+      "question": "Which word means: \"Able to be digested easily.\"?",
+      "options": [
+        "Inflammable",
+        "Miscible",
+        "Perishable",
+        "Digestible"
+      ],
+      "answer": 3,
+      "explanation": "Digestible (adjective) — Able to be digested easily."
+    },
+    {
+      "id": "cap-q07",
+      "question": "Which word means: \"Difficult or impossible to digest.\"?",
+      "options": [
+        "Indigestible",
+        "Unforeseeable",
+        "Feasible",
+        "Countable"
+      ],
+      "answer": 0,
+      "explanation": "Indigestible (adjective) — Difficult or impossible to digest."
+    },
+    {
+      "id": "cap-q08",
+      "question": "Which word means: \"Loud enough to be heard.\"?",
+      "options": [
+        "Audible",
+        "Inaudible",
+        "Miscible",
+        "Incredible"
+      ],
+      "answer": 0,
+      "explanation": "Audible (adjective) — Loud enough to be heard."
+    },
+    {
+      "id": "cap-q09",
+      "question": "Which word means: \"Unable to be heard.\"?",
+      "options": [
+        "Curable",
+        "Removable",
+        "Inaudible",
+        "Credible"
+      ],
+      "answer": 2,
+      "explanation": "Inaudible (adjective) — Unable to be heard."
+    },
+    {
+      "id": "cap-q10",
+      "question": "Which word means: \"Able to be seen.\"?",
+      "options": [
+        "Visible",
+        "Refillable",
+        "Arguable",
+        "Indivisible"
+      ],
+      "answer": 0,
+      "explanation": "Visible (adjective) — Able to be seen."
+    },
+    {
+      "id": "cap-q11",
+      "question": "Which word means: \"Unable to be seen.\"?",
+      "options": [
+        "Ineffable",
+        "Invisible",
+        "Immovable",
+        "Inescapable"
+      ],
+      "answer": 1,
+      "explanation": "Invisible (adjective) — Unable to be seen."
+    },
+    {
+      "id": "cap-q12",
+      "question": "Which word means: \"Clear enough to be read.\"?",
+      "options": [
+        "Legible",
+        "Irrefutable",
+        "Non-negotiable",
+        "Impregnable"
+      ],
+      "answer": 0,
+      "explanation": "Legible (adjective) — Clear enough to be read."
+    },
+    {
+      "id": "cap-q13",
+      "question": "Which word means: \"Not clear enough to be read.\"?",
+      "options": [
+        "Inevitable",
+        "Illegible",
+        "Impenetrable",
+        "Dependable"
+      ],
+      "answer": 1,
+      "explanation": "Illegible (adjective) — Not clear enough to be read."
+    },
+    {
+      "id": "cap-q14",
+      "question": "Which word means: \"Easy or enjoyable to read.\"?",
+      "options": [
+        "Readable",
+        "Audible",
+        "Unmentionable",
+        "Unattainable"
+      ],
+      "answer": 0,
+      "explanation": "Readable (adjective) — Easy or enjoyable to read."
+    },
+    {
+      "id": "cap-q15",
+      "question": "Which word means: \"Able to be touched or clearly perceived.\"?",
+      "options": [
+        "Measurable",
+        "Impassable",
+        "Washable",
+        "Tangible"
+      ],
+      "answer": 3,
+      "explanation": "Tangible (adjective) — Able to be touched or clearly perceived."
+    },
+    {
+      "id": "cap-q16",
+      "question": "Which word means: \"Unable to be touched; abstract.\"?",
+      "options": [
+        "Intangible",
+        "Feasible",
+        "Unutterable",
+        "Predictable"
+      ],
+      "answer": 0,
+      "explanation": "Intangible (adjective) — Unable to be touched; abstract."
+    },
+    {
+      "id": "cap-q17",
+      "question": "Which word means: \"So intense as to be almost felt physically.\"?",
+      "options": [
+        "Impalpable",
+        "Audible",
+        "Inescapable",
+        "Palpable"
+      ],
+      "answer": 3,
+      "explanation": "Palpable (adjective) — So intense as to be almost felt physically."
+    },
+    {
+      "id": "cap-q18",
+      "question": "Which word means: \"Unable to be felt by touch.\"?",
+      "options": [
+        "Explicable",
+        "Insurmountable",
+        "Impalpable",
+        "Verifiable"
+      ],
+      "answer": 2,
+      "explanation": "Impalpable (adjective) — Unable to be felt by touch."
+    },
+    {
+      "id": "cap-q19",
+      "question": "Which word means: \"Able to be easily carried or moved.\"?",
+      "options": [
+        "Portable",
+        "Imperishable",
+        "Edible",
+        "Flammable"
+      ],
+      "answer": 0,
+      "explanation": "Portable (adjective) — Able to be easily carried or moved."
+    },
+    {
+      "id": "cap-q20",
+      "question": "Which word means: \"Capable of being moved.\"?",
+      "options": [
+        "Preventable",
+        "Movable",
+        "Indelible",
+        "Digestible"
+      ],
+      "answer": 1,
+      "explanation": "Movable (adjective) — Capable of being moved."
+    },
+    {
+      "id": "cap-q21",
+      "question": "Which word means: \"Not able to be moved.\"?",
+      "options": [
+        "Immovable",
+        "Inaudible",
+        "Inexplicable",
+        "Undrinkable"
+      ],
+      "answer": 0,
+      "explanation": "Immovable (adjective) — Not able to be moved."
+    },
+    {
+      "id": "cap-q22",
+      "question": "Which word means: \"Able to be taken off or away.\"?",
+      "options": [
+        "Irreversible",
+        "Deniable",
+        "Impalpable",
+        "Removable"
+      ],
+      "answer": 3,
+      "explanation": "Removable (adjective) — Able to be taken off or away."
+    },
+    {
+      "id": "cap-q23",
+      "question": "Which word means: \"Able to be washed without damage.\"?",
+      "options": [
+        "Inevitable",
+        "Washable",
+        "Invisible",
+        "Biodegradable"
+      ],
+      "answer": 1,
+      "explanation": "Washable (adjective) — Able to be washed without damage."
+    },
+    {
+      "id": "cap-q24",
+      "question": "Which word means: \"Liable to be broken; fragile.\"?",
+      "options": [
+        "Washable",
+        "Intangible",
+        "Impregnable",
+        "Breakable"
+      ],
+      "answer": 3,
+      "explanation": "Breakable (adjective) — Liable to be broken; fragile."
+    },
+    {
+      "id": "cap-q25",
+      "question": "Which word means: \"Not able to be broken.\"?",
+      "options": [
+        "Unbreakable",
+        "Edible",
+        "Soluble",
+        "Comparable"
+      ],
+      "answer": 0,
+      "explanation": "Unbreakable (adjective) — Not able to be broken."
+    },
+    {
+      "id": "cap-q26",
+      "question": "Which word means: \"Capable of bending without breaking.\"?",
+      "options": [
+        "Verifiable",
+        "Unforeseeable",
+        "Inaccessible",
+        "Flexible"
+      ],
+      "answer": 3,
+      "explanation": "Flexible (adjective) — Capable of bending without breaking."
+    },
+    {
+      "id": "cap-q27",
+      "question": "Which word means: \"Able to be hammered or pressed into shape.\"?",
+      "options": [
+        "Malleable",
+        "Immiscible",
+        "Insoluble",
+        "Inescapable"
+      ],
+      "answer": 0,
+      "explanation": "Malleable (adjective) — Able to be hammered or pressed into shape."
+    },
+    {
+      "id": "cap-q28",
+      "question": "Which word means: \"Able to be drawn out into a thin wire.\"?",
+      "options": [
+        "Reversible",
+        "Unforeseeable",
+        "Ductile",
+        "Unbreakable"
+      ],
+      "answer": 2,
+      "explanation": "Ductile (adjective) — Able to be drawn out into a thin wire."
+    },
+    {
+      "id": "cap-q29",
+      "question": "Which word means: \"Able to be melted by heat.\"?",
+      "options": [
+        "Fusible",
+        "Potable",
+        "Manageable",
+        "Irreversible"
+      ],
+      "answer": 0,
+      "explanation": "Fusible (adjective) — Able to be melted by heat."
+    },
+    {
+      "id": "cap-q30",
+      "question": "Which word means: \"Able to be dissolved.\"?",
+      "options": [
+        "Attainable",
+        "Illegible",
+        "Undrinkable",
+        "Soluble"
+      ],
+      "answer": 3,
+      "explanation": "Soluble (adjective) — Able to be dissolved."
+    },
+    {
+      "id": "cap-q31",
+      "question": "Which word means: \"Unable to be dissolved.\"?",
+      "options": [
+        "Digestible",
+        "Immiscible",
+        "Incomparable",
+        "Insoluble"
+      ],
+      "answer": 3,
+      "explanation": "Insoluble (adjective) — Unable to be dissolved."
+    },
+    {
+      "id": "cap-q32",
+      "question": "Which word means: \"Able to be mixed to form a homogeneous liquid.\"?",
+      "options": [
+        "Non-negotiable",
+        "Ductile",
+        "Miscible",
+        "Inaccessible"
+      ],
+      "answer": 2,
+      "explanation": "Miscible (adjective) — Able to be mixed to form a homogeneous liquid."
+    },
+    {
+      "id": "cap-q33",
+      "question": "Which word means: \"Unable to be mixed (of liquids).\"?",
+      "options": [
+        "Soluble",
+        "Comparable",
+        "Immiscible",
+        "Impossible"
+      ],
+      "answer": 2,
+      "explanation": "Immiscible (adjective) — Unable to be mixed (of liquids)."
+    },
+    {
+      "id": "cap-q34",
+      "question": "Which word means: \"Easily set on fire.\"?",
+      "options": [
+        "Insoluble",
+        "Portable",
+        "Flammable",
+        "Countable"
+      ],
+      "answer": 2,
+      "explanation": "Flammable (adjective) — Easily set on fire."
+    },
+    {
+      "id": "cap-q35",
+      "question": "Which word means: \"Easily set on fire.\"?",
+      "options": [
+        "Non-combustible",
+        "Inflammable",
+        "Insurmountable",
+        "Audible"
+      ],
+      "answer": 1,
+      "explanation": "Inflammable (adjective) — Easily set on fire."
+    },
+    {
+      "id": "cap-q36",
+      "question": "Which word means: \"Able to catch fire and burn.\"?",
+      "options": [
+        "Insurmountable",
+        "Indescribable",
+        "Combustible",
+        "Indigestible"
+      ],
+      "answer": 2,
+      "explanation": "Combustible (adjective) — Able to catch fire and burn."
+    },
+    {
+      "id": "cap-q37",
+      "question": "Which word means: \"Unable to catch fire and burn.\"?",
+      "options": [
+        "Reliable",
+        "Impenetrable",
+        "Innumerable",
+        "Non-combustible"
+      ],
+      "answer": 3,
+      "explanation": "Non-combustible (adjective) — Unable to catch fire and burn."
+    },
+    {
+      "id": "cap-q38",
+      "question": "Which word means: \"Able to be divided.\"?",
+      "options": [
+        "Biodegradable",
+        "Breakable",
+        "Countable",
+        "Divisible"
+      ],
+      "answer": 3,
+      "explanation": "Divisible (adjective) — Able to be divided."
+    },
+    {
+      "id": "cap-q39",
+      "question": "Which word means: \"Unable to be divided or separated.\"?",
+      "options": [
+        "Portable",
+        "Dependable",
+        "Countable",
+        "Indivisible"
+      ],
+      "answer": 3,
+      "explanation": "Indivisible (adjective) — Unable to be divided or separated."
+    },
+    {
+      "id": "cap-q40",
+      "question": "Which word means: \"Able to be counted.\"?",
+      "options": [
+        "Impenetrable",
+        "Treatable",
+        "Countable",
+        "Insurmountable"
+      ],
+      "answer": 2,
+      "explanation": "Countable (adjective) — Able to be counted."
+    },
+    {
+      "id": "cap-q41",
+      "question": "Which word means: \"Not able to be counted.\"?",
+      "options": [
+        "Uncountable",
+        "Immeasurable",
+        "Malleable",
+        "Immiscible"
+      ],
+      "answer": 0,
+      "explanation": "Uncountable (adjective) — Not able to be counted."
+    },
+    {
+      "id": "cap-q42",
+      "question": "Which word means: \"Too many to be counted.\"?",
+      "options": [
+        "Unforeseeable",
+        "Innumerable",
+        "Legible",
+        "Impregnable"
+      ],
+      "answer": 1,
+      "explanation": "Innumerable (adjective) — Too many to be counted."
+    },
+    {
+      "id": "cap-q43",
+      "question": "Which word means: \"Able to be measured.\"?",
+      "options": [
+        "Verifiable",
+        "Doable",
+        "Measurable",
+        "Biodegradable"
+      ],
+      "answer": 2,
+      "explanation": "Measurable (adjective) — Able to be measured."
+    },
+    {
+      "id": "cap-q44",
+      "question": "Which word means: \"Too great to be measured.\"?",
+      "options": [
+        "Unforeseeable",
+        "Reversible",
+        "Immeasurable",
+        "Achievable"
+      ],
+      "answer": 2,
+      "explanation": "Immeasurable (adjective) — Too great to be measured."
+    },
+    {
+      "id": "cap-q45",
+      "question": "Which word means: \"Able to be erased.\"?",
+      "options": [
+        "Erasable",
+        "Inedible",
+        "Measurable",
+        "Indivisible"
+      ],
+      "answer": 0,
+      "explanation": "Erasable (adjective) — Able to be erased."
+    },
+    {
+      "id": "cap-q46",
+      "question": "Which word means: \"Unable to be removed or erased.\"?",
+      "options": [
+        "Indelible",
+        "Negotiable",
+        "Ineffable",
+        "Non-negotiable"
+      ],
+      "answer": 0,
+      "explanation": "Indelible (adjective) — Unable to be removed or erased."
+    },
+    {
+      "id": "cap-q47",
+      "question": "Which word means: \"Able to be used again.\"?",
+      "options": [
+        "Imperishable",
+        "Reusable",
+        "Insoluble",
+        "Unattainable"
+      ],
+      "answer": 1,
+      "explanation": "Reusable (adjective) — Able to be used again."
+    },
+    {
+      "id": "cap-q48",
+      "question": "Which word means: \"Able to be recycled.\"?",
+      "options": [
+        "Explicable",
+        "Recyclable",
+        "Impregnable",
+        "Undeniable"
+      ],
+      "answer": 1,
+      "explanation": "Recyclable (adjective) — Able to be recycled."
+    },
+    {
+      "id": "cap-q49",
+      "question": "Which word means: \"Able to be filled again.\"?",
+      "options": [
+        "Indescribable",
+        "Unspeakable",
+        "Reusable",
+        "Refillable"
+      ],
+      "answer": 3,
+      "explanation": "Refillable (adjective) — Able to be filled again."
+    },
+    {
+      "id": "cap-q50",
+      "question": "Which word means: \"Able to be decomposed by living organisms.\"?",
+      "options": [
+        "Reversible",
+        "Biodegradable",
+        "Uncountable",
+        "Malleable"
+      ],
+      "answer": 1,
+      "explanation": "Biodegradable (adjective) — Able to be decomposed by living organisms."
+    },
+    {
+      "id": "cap-q51",
+      "question": "Which word means: \"Likely to decay or spoil quickly.\"?",
+      "options": [
+        "Fusible",
+        "Perishable",
+        "Digestible",
+        "Invincible"
+      ],
+      "answer": 1,
+      "explanation": "Perishable (adjective) — Likely to decay or spoil quickly."
+    },
+    {
+      "id": "cap-q52",
+      "question": "Which word means: \"Enduring forever; not liable to decay.\"?",
+      "options": [
+        "Unforeseeable",
+        "Unattainable",
+        "Feasible",
+        "Imperishable"
+      ],
+      "answer": 3,
+      "explanation": "Imperishable (adjective) — Enduring forever; not liable to decay."
+    },
+    {
+      "id": "cap-q53",
+      "question": "Which word means: \"Able to be cured.\"?",
+      "options": [
+        "Measurable",
+        "Flexible",
+        "Soluble",
+        "Curable"
+      ],
+      "answer": 3,
+      "explanation": "Curable (adjective) — Able to be cured."
+    },
+    {
+      "id": "cap-q54",
+      "question": "Which word means: \"Not able to be cured.\"?",
+      "options": [
+        "Indescribable",
+        "Incurable",
+        "Unattainable",
+        "Undeniable"
+      ],
+      "answer": 1,
+      "explanation": "Incurable (adjective) — Not able to be cured."
+    },
+    {
+      "id": "cap-q55",
+      "question": "Which word means: \"Able to be treated medically.\"?",
+      "options": [
+        "Incomparable",
+        "Unforeseeable",
+        "Deniable",
+        "Treatable"
+      ],
+      "answer": 3,
+      "explanation": "Treatable (adjective) — Able to be treated medically."
+    },
+    {
+      "id": "cap-q56",
+      "question": "Which word means: \"Able to be prevented.\"?",
+      "options": [
+        "Comparable",
+        "Preventable",
+        "Removable",
+        "Indelible"
+      ],
+      "answer": 1,
+      "explanation": "Preventable (adjective) — Able to be prevented."
+    },
+    {
+      "id": "cap-q57",
+      "question": "Which word means: \"Able to be avoided.\"?",
+      "options": [
+        "Inaccessible",
+        "Avoidable",
+        "Deniable",
+        "Breakable"
+      ],
+      "answer": 1,
+      "explanation": "Avoidable (adjective) — Able to be avoided."
+    },
+    {
+      "id": "cap-q58",
+      "question": "Which word means: \"Not able to be avoided.\"?",
+      "options": [
+        "Indigestible",
+        "Unavoidable",
+        "Irrefutable",
+        "Visible"
+      ],
+      "answer": 1,
+      "explanation": "Unavoidable (adjective) — Not able to be avoided."
+    },
+    {
+      "id": "cap-q59",
+      "question": "Which word means: \"Certain to happen; unavoidable.\"?",
+      "options": [
+        "Inevitable",
+        "Inaudible",
+        "Debatable",
+        "Soluble"
+      ],
+      "answer": 0,
+      "explanation": "Inevitable (adjective) — Certain to happen; unavoidable."
+    },
+    {
+      "id": "cap-q60",
+      "question": "Which word means: \"Unable to be avoided or escaped.\"?",
+      "options": [
+        "Inescapable",
+        "Inevitable",
+        "Recyclable",
+        "Unmentionable"
+      ],
+      "answer": 0,
+      "explanation": "Inescapable (adjective) — Unable to be avoided or escaped."
+    },
+    {
+      "id": "cap-q61",
+      "question": "Which word means: \"Able to be explained.\"?",
+      "options": [
+        "Explicable",
+        "Unutterable",
+        "Potable",
+        "Refutable"
+      ],
+      "answer": 0,
+      "explanation": "Explicable (adjective) — Able to be explained."
+    },
+    {
+      "id": "cap-q62",
+      "question": "Which word means: \"Unable to be explained.\"?",
+      "options": [
+        "Inedible",
+        "Potable",
+        "Inexplicable",
+        "Impenetrable"
+      ],
+      "answer": 2,
+      "explanation": "Inexplicable (adjective) — Unable to be explained."
+    },
+    {
+      "id": "cap-q63",
+      "question": "Which word means: \"Too great to be expressed in words.\"?",
+      "options": [
+        "Unmentionable",
+        "Reliable",
+        "Potable",
+        "Ineffable"
+      ],
+      "answer": 3,
+      "explanation": "Ineffable (adjective) — Too great to be expressed in words."
+    },
+    {
+      "id": "cap-q64",
+      "question": "Which word means: \"Too intense to be described in words.\"?",
+      "options": [
+        "Movable",
+        "Unutterable",
+        "Illegible",
+        "Impenetrable"
+      ],
+      "answer": 1,
+      "explanation": "Unutterable (adjective) — Too intense to be described in words."
+    },
+    {
+      "id": "cap-q65",
+      "question": "Which word means: \"Too extreme to be described.\"?",
+      "options": [
+        "Indescribable",
+        "Perishable",
+        "Inflammable",
+        "Indelible"
+      ],
+      "answer": 0,
+      "explanation": "Indescribable (adjective) — Too extreme to be described."
+    },
+    {
+      "id": "cap-q66",
+      "question": "Which word means: \"Too taboo to be spoken of.\"?",
+      "options": [
+        "Miscible",
+        "Inevitable",
+        "Unmentionable",
+        "Invincible"
+      ],
+      "answer": 2,
+      "explanation": "Unmentionable (adjective) — Too taboo to be spoken of."
+    },
+    {
+      "id": "cap-q67",
+      "question": "Which word means: \"Too bad or shocking to be expressed.\"?",
+      "options": [
+        "Unspeakable",
+        "Undrinkable",
+        "Reversible",
+        "Undeniable"
+      ],
+      "answer": 0,
+      "explanation": "Unspeakable (adjective) — Too bad or shocking to be expressed."
+    },
+    {
+      "id": "cap-q68",
+      "question": "Which word means: \"Impossible to travel along or over.\"?",
+      "options": [
+        "Unattainable",
+        "Impassable",
+        "Explicable",
+        "Refillable"
+      ],
+      "answer": 1,
+      "explanation": "Impassable (adjective) — Impossible to travel along or over."
+    },
+    {
+      "id": "cap-q69",
+      "question": "Which word means: \"Impossible to pass or see through.\"?",
+      "options": [
+        "Reliable",
+        "Invisible",
+        "Removable",
+        "Impenetrable"
+      ],
+      "answer": 3,
+      "explanation": "Impenetrable (adjective) — Impossible to pass or see through."
+    },
+    {
+      "id": "cap-q70",
+      "question": "Which word means: \"Unable to be captured or broken into.\"?",
+      "options": [
+        "Illegible",
+        "Impassable",
+        "Impregnable",
+        "Invincible"
+      ],
+      "answer": 2,
+      "explanation": "Impregnable (adjective) — Unable to be captured or broken into."
+    },
+    {
+      "id": "cap-q71",
+      "question": "Which word means: \"Unable to be reached.\"?",
+      "options": [
+        "Invincible",
+        "Inaccessible",
+        "Incredible",
+        "Explicable"
+      ],
+      "answer": 1,
+      "explanation": "Inaccessible (adjective) — Unable to be reached."
+    },
+    {
+      "id": "cap-q72",
+      "question": "Which word means: \"Not able to be attained or reached.\"?",
+      "options": [
+        "Impregnable",
+        "Combustible",
+        "Unattainable",
+        "Credible"
+      ],
+      "answer": 2,
+      "explanation": "Unattainable (adjective) — Not able to be attained or reached."
+    },
+    {
+      "id": "cap-q73",
+      "question": "Which word means: \"Too great to be overcome.\"?",
+      "options": [
+        "Potable",
+        "Insurmountable",
+        "Achievable",
+        "Malleable"
+      ],
+      "answer": 1,
+      "explanation": "Insurmountable (adjective) — Too great to be overcome."
+    },
+    {
+      "id": "cap-q74",
+      "question": "Which word means: \"Too powerful to be defeated.\"?",
+      "options": [
+        "Visible",
+        "Invincible",
+        "Immovable",
+        "Indivisible"
+      ],
+      "answer": 1,
+      "explanation": "Invincible (adjective) — Too powerful to be defeated."
+    },
+    {
+      "id": "cap-q75",
+      "question": "Which word means: \"Unable to occur or be done.\"?",
+      "options": [
+        "Impregnable",
+        "Verifiable",
+        "Measurable",
+        "Impossible"
+      ],
+      "answer": 3,
+      "explanation": "Impossible (adjective) — Unable to occur or be done."
+    },
+    {
+      "id": "cap-q76",
+      "question": "Which word means: \"Possible to do easily or conveniently.\"?",
+      "options": [
+        "Unforeseeable",
+        "Feasible",
+        "Incredible",
+        "Invisible"
+      ],
+      "answer": 1,
+      "explanation": "Feasible (adjective) — Possible to do easily or conveniently."
+    },
+    {
+      "id": "cap-q77",
+      "question": "Which word means: \"Able to be brought about; attainable.\"?",
+      "options": [
+        "Preventable",
+        "Soluble",
+        "Achievable",
+        "Visible"
+      ],
+      "answer": 2,
+      "explanation": "Achievable (adjective) — Able to be brought about; attainable."
+    },
+    {
+      "id": "cap-q78",
+      "question": "Which word means: \"Able to be reached or accomplished.\"?",
+      "options": [
+        "Innumerable",
+        "Attainable",
+        "Drinkable",
+        "Arguable"
+      ],
+      "answer": 1,
+      "explanation": "Attainable (adjective) — Able to be reached or accomplished."
+    },
+    {
+      "id": "cap-q79",
+      "question": "Which word means: \"Within one's powers; feasible.\"?",
+      "options": [
+        "Inaccessible",
+        "Soluble",
+        "Indelible",
+        "Doable"
+      ],
+      "answer": 3,
+      "explanation": "Doable (adjective) — Within one's powers; feasible."
+    },
+    {
+      "id": "cap-q80",
+      "question": "Which word means: \"Able to be dealt with.\"?",
+      "options": [
+        "Refutable",
+        "Impossible",
+        "Credible",
+        "Manageable"
+      ],
+      "answer": 3,
+      "explanation": "Manageable (adjective) — Able to be dealt with."
+    },
+    {
+      "id": "cap-q81",
+      "question": "Which word means: \"Able to be solved.\"?",
+      "options": [
+        "Visible",
+        "Solvable",
+        "Predictable",
+        "Miscible"
+      ],
+      "answer": 1,
+      "explanation": "Solvable (adjective) — Able to be solved."
+    },
+    {
+      "id": "cap-q82",
+      "question": "Which word means: \"Open to discussion or argument.\"?",
+      "options": [
+        "Refillable",
+        "Debatable",
+        "Arguable",
+        "Predictable"
+      ],
+      "answer": 1,
+      "explanation": "Debatable (adjective) — Open to discussion or argument."
+    },
+    {
+      "id": "cap-q83",
+      "question": "Which word means: \"Able to be argued or maintained.\"?",
+      "options": [
+        "Readable",
+        "Reusable",
+        "Arguable",
+        "Uncountable"
+      ],
+      "answer": 2,
+      "explanation": "Arguable (adjective) — Able to be argued or maintained."
+    },
+    {
+      "id": "cap-q84",
+      "question": "Which word means: \"Able to be denied.\"?",
+      "options": [
+        "Reusable",
+        "Deniable",
+        "Avoidable",
+        "Reversible"
+      ],
+      "answer": 1,
+      "explanation": "Deniable (adjective) — Able to be denied."
+    },
+    {
+      "id": "cap-q85",
+      "question": "Which word means: \"Unable to be denied or disputed.\"?",
+      "options": [
+        "Legible",
+        "Breakable",
+        "Preventable",
+        "Undeniable"
+      ],
+      "answer": 3,
+      "explanation": "Undeniable (adjective) — Unable to be denied or disputed."
+    },
+    {
+      "id": "cap-q86",
+      "question": "Which word means: \"Able to be proved wrong.\"?",
+      "options": [
+        "Drinkable",
+        "Readable",
+        "Refutable",
+        "Legible"
+      ],
+      "answer": 2,
+      "explanation": "Refutable (adjective) — Able to be proved wrong."
+    },
+    {
+      "id": "cap-q87",
+      "question": "Which word means: \"Impossible to deny or disprove.\"?",
+      "options": [
+        "Irrefutable",
+        "Biodegradable",
+        "Innumerable",
+        "Achievable"
+      ],
+      "answer": 0,
+      "explanation": "Irrefutable (adjective) — Impossible to deny or disprove."
+    },
+    {
+      "id": "cap-q88",
+      "question": "Which word means: \"Able to be checked or proved true.\"?",
+      "options": [
+        "Verifiable",
+        "Biodegradable",
+        "Unforeseeable",
+        "Invisible"
+      ],
+      "answer": 0,
+      "explanation": "Verifiable (adjective) — Able to be checked or proved true."
+    },
+    {
+      "id": "cap-q89",
+      "question": "Which word means: \"Able to be believed; convincing.\"?",
+      "options": [
+        "Verifiable",
+        "Removable",
+        "Credible",
+        "Refillable"
+      ],
+      "answer": 2,
+      "explanation": "Credible (adjective) — Able to be believed; convincing."
+    },
+    {
+      "id": "cap-q90",
+      "question": "Which word means: \"Too extraordinary to be believed.\"?",
+      "options": [
+        "Portable",
+        "Unutterable",
+        "Incredible",
+        "Inflammable"
+      ],
+      "answer": 2,
+      "explanation": "Incredible (adjective) — Too extraordinary to be believed."
+    },
+    {
+      "id": "cap-q91",
+      "question": "Which word means: \"Able to be relied on.\"?",
+      "options": [
+        "Indivisible",
+        "Incurable",
+        "Combustible",
+        "Reliable"
+      ],
+      "answer": 3,
+      "explanation": "Reliable (adjective) — Able to be relied on."
+    },
+    {
+      "id": "cap-q92",
+      "question": "Which word means: \"Trustworthy and reliable.\"?",
+      "options": [
+        "Miscible",
+        "Immiscible",
+        "Unforeseeable",
+        "Dependable"
+      ],
+      "answer": 3,
+      "explanation": "Dependable (adjective) — Trustworthy and reliable."
+    },
+    {
+      "id": "cap-q93",
+      "question": "Which word means: \"Able to be predicted.\"?",
+      "options": [
+        "Predictable",
+        "Readable",
+        "Inevitable",
+        "Impalpable"
+      ],
+      "answer": 0,
+      "explanation": "Predictable (adjective) — Able to be predicted."
+    },
+    {
+      "id": "cap-q94",
+      "question": "Which word means: \"Not able to be foreseen.\"?",
+      "options": [
+        "Measurable",
+        "Unforeseeable",
+        "Manageable",
+        "Refillable"
+      ],
+      "answer": 1,
+      "explanation": "Unforeseeable (adjective) — Not able to be foreseen."
+    },
+    {
+      "id": "cap-q95",
+      "question": "Which word means: \"Able to be likened to another.\"?",
+      "options": [
+        "Preventable",
+        "Achievable",
+        "Comparable",
+        "Deniable"
+      ],
+      "answer": 2,
+      "explanation": "Comparable (adjective) — Able to be likened to another."
+    },
+    {
+      "id": "cap-q96",
+      "question": "Which word means: \"So good it has no equal.\"?",
+      "options": [
+        "Flexible",
+        "Attainable",
+        "Credible",
+        "Incomparable"
+      ],
+      "answer": 3,
+      "explanation": "Incomparable (adjective) — So good it has no equal."
+    },
+    {
+      "id": "cap-q97",
+      "question": "Which word means: \"Open to discussion or modification.\"?",
+      "options": [
+        "Uncountable",
+        "Perishable",
+        "Divisible",
+        "Negotiable"
+      ],
+      "answer": 3,
+      "explanation": "Negotiable (adjective) — Open to discussion or modification."
+    },
+    {
+      "id": "cap-q98",
+      "question": "Which word means: \"Not open to discussion or modification.\"?",
+      "options": [
+        "Combustible",
+        "Innumerable",
+        "Refillable",
+        "Non-negotiable"
+      ],
+      "answer": 3,
+      "explanation": "Non-negotiable (adjective) — Not open to discussion or modification."
+    },
+    {
+      "id": "cap-q99",
+      "question": "Which word means: \"Able to be reversed.\"?",
+      "options": [
+        "Reversible",
+        "Insurmountable",
+        "Feasible",
+        "Flexible"
+      ],
+      "answer": 0,
+      "explanation": "Reversible (adjective) — Able to be reversed."
+    },
+    {
+      "id": "cap-q100",
+      "question": "Which word means: \"Unable to be reversed.\"?",
+      "options": [
+        "Unforeseeable",
+        "Reliable",
+        "Irreversible",
+        "Inescapable"
+      ],
+      "answer": 2,
+      "explanation": "Irreversible (adjective) — Unable to be reversed."
+    }
+  ]
+}

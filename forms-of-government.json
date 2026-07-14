@@ -1,0 +1,1908 @@
+{
+  "category": "forms-of-government",
+  "title": "Forms of Government",
+  "words": [
+    {
+      "id": "gov-01",
+      "word": "Democracy",
+      "pos": "noun",
+      "definition": "Government by the whole population, usually through elected representatives.",
+      "example": "Modern democracy relies on free and fair elections."
+    },
+    {
+      "id": "gov-02",
+      "word": "Republic",
+      "pos": "noun",
+      "definition": "A state in which supreme power is held by the people and their elected representatives.",
+      "example": "The republic was proclaimed after the monarchy fell."
+    },
+    {
+      "id": "gov-03",
+      "word": "Monarchy",
+      "pos": "noun",
+      "definition": "Government by a single hereditary ruler.",
+      "example": "Britain retains a constitutional monarchy."
+    },
+    {
+      "id": "gov-04",
+      "word": "Constitutional monarchy",
+      "pos": "noun",
+      "definition": "A monarchy in which the sovereign's powers are limited by a constitution.",
+      "example": "Sweden is a constitutional monarchy."
+    },
+    {
+      "id": "gov-05",
+      "word": "Absolute monarchy",
+      "pos": "noun",
+      "definition": "A monarchy where the ruler has unlimited authority.",
+      "example": "Louis XIV epitomised absolute monarchy."
+    },
+    {
+      "id": "gov-06",
+      "word": "Aristocracy",
+      "pos": "noun",
+      "definition": "Government by a small privileged class, often hereditary.",
+      "example": "The Venetian aristocracy governed for centuries."
+    },
+    {
+      "id": "gov-07",
+      "word": "Oligarchy",
+      "pos": "noun",
+      "definition": "Government by a small group of people.",
+      "example": "Post-Soviet Russia was described as an oligarchy."
+    },
+    {
+      "id": "gov-08",
+      "word": "Plutocracy",
+      "pos": "noun",
+      "definition": "Government by the wealthy.",
+      "example": "Critics accused the era of plutocracy."
+    },
+    {
+      "id": "gov-09",
+      "word": "Autocracy",
+      "pos": "noun",
+      "definition": "Government by a single person with absolute power.",
+      "example": "Autocracy tolerates no dissent."
+    },
+    {
+      "id": "gov-10",
+      "word": "Dictatorship",
+      "pos": "noun",
+      "definition": "Government by a dictator, typically without free elections.",
+      "example": "The dictatorship suppressed the press."
+    },
+    {
+      "id": "gov-11",
+      "word": "Totalitarianism",
+      "pos": "noun",
+      "definition": "A system of centralised, dictatorial government requiring complete subservience to the state.",
+      "example": "Totalitarianism seeks to control both public and private life."
+    },
+    {
+      "id": "gov-12",
+      "word": "Authoritarianism",
+      "pos": "noun",
+      "definition": "A form of government characterised by strong central power and limited political freedoms.",
+      "example": "Authoritarianism curtails political competition."
+    },
+    {
+      "id": "gov-13",
+      "word": "Theocracy",
+      "pos": "noun",
+      "definition": "Government by religious leaders in the name of a deity.",
+      "example": "Iran is often described as a theocracy."
+    },
+    {
+      "id": "gov-14",
+      "word": "Ecclesiocracy",
+      "pos": "noun",
+      "definition": "Rule by church officials.",
+      "example": "Medieval Papal States were an ecclesiocracy."
+    },
+    {
+      "id": "gov-15",
+      "word": "Anarchy",
+      "pos": "noun",
+      "definition": "A state of society without government or law.",
+      "example": "The revolt collapsed into anarchy."
+    },
+    {
+      "id": "gov-16",
+      "word": "Anarchism",
+      "pos": "noun",
+      "definition": "A political theory advocating self-governed societies with no ruling authority.",
+      "example": "Anarchism opposes coercive hierarchy."
+    },
+    {
+      "id": "gov-17",
+      "word": "Communism",
+      "pos": "noun",
+      "definition": "A political theory advocating class war leading to a society in which all property is publicly owned.",
+      "example": "Marx envisioned communism as the final stage of history."
+    },
+    {
+      "id": "gov-18",
+      "word": "Socialism",
+      "pos": "noun",
+      "definition": "A political and economic theory advocating collective ownership of the means of production.",
+      "example": "Nordic socialism blends welfare with markets."
+    },
+    {
+      "id": "gov-19",
+      "word": "Fascism",
+      "pos": "noun",
+      "definition": "An authoritarian, ultranationalist political ideology.",
+      "example": "Fascism glorifies the nation over the individual."
+    },
+    {
+      "id": "gov-20",
+      "word": "Federalism",
+      "pos": "noun",
+      "definition": "A system in which power is divided between a central authority and constituent political units.",
+      "example": "US federalism reserves specific powers to the states."
+    },
+    {
+      "id": "gov-21",
+      "word": "Confederation",
+      "pos": "noun",
+      "definition": "A union of sovereign states with a weak central government.",
+      "example": "The Articles of Confederation preceded the US Constitution."
+    },
+    {
+      "id": "gov-22",
+      "word": "Unitary state",
+      "pos": "noun",
+      "definition": "A state governed as a single unit with a supreme central government.",
+      "example": "France is a unitary state."
+    },
+    {
+      "id": "gov-23",
+      "word": "Parliamentary system",
+      "pos": "noun",
+      "definition": "A system in which the executive derives its legitimacy from the legislature.",
+      "example": "In a parliamentary system, the prime minister must retain the confidence of parliament."
+    },
+    {
+      "id": "gov-24",
+      "word": "Presidential system",
+      "pos": "noun",
+      "definition": "A system in which the president is head of government and independent of the legislature.",
+      "example": "The United States uses a presidential system."
+    },
+    {
+      "id": "gov-25",
+      "word": "Junta",
+      "pos": "noun",
+      "definition": "A military or political group ruling a country after seizing power.",
+      "example": "The junta suspended the constitution."
+    },
+    {
+      "id": "gov-26",
+      "word": "Kleptocracy",
+      "pos": "noun",
+      "definition": "A government in which those in power exploit resources for personal gain.",
+      "example": "Kleptocracy hollows out state institutions."
+    },
+    {
+      "id": "gov-27",
+      "word": "Meritocracy",
+      "pos": "noun",
+      "definition": "Government by those selected on the basis of ability or achievement.",
+      "example": "Reforms aimed to build a genuine meritocracy."
+    },
+    {
+      "id": "gov-28",
+      "word": "Technocracy",
+      "pos": "noun",
+      "definition": "Government by technical experts.",
+      "example": "Some argue climate policy demands more technocracy."
+    },
+    {
+      "id": "gov-29",
+      "word": "Gerontocracy",
+      "pos": "noun",
+      "definition": "Government by old people.",
+      "example": "Critics called the ruling council a gerontocracy."
+    },
+    {
+      "id": "gov-30",
+      "word": "Kakistocracy",
+      "pos": "noun",
+      "definition": "Government by the worst or least qualified.",
+      "example": "Satirists reached for the word kakistocracy."
+    },
+    {
+      "id": "gov-31",
+      "word": "Ochlocracy",
+      "pos": "noun",
+      "definition": "Government by the mob.",
+      "example": "Plato feared democracy could decay into ochlocracy."
+    },
+    {
+      "id": "gov-32",
+      "word": "Timocracy",
+      "pos": "noun",
+      "definition": "Government by property owners or those honoured for their virtue.",
+      "example": "Solon's Athens approached timocracy."
+    },
+    {
+      "id": "gov-33",
+      "word": "Stratocracy",
+      "pos": "noun",
+      "definition": "Government by the military.",
+      "example": "Ancient Sparta bordered on stratocracy."
+    },
+    {
+      "id": "gov-34",
+      "word": "Matriarchy",
+      "pos": "noun",
+      "definition": "A social system in which women hold primary power.",
+      "example": "Some scholars debate whether historical matriarchies existed."
+    },
+    {
+      "id": "gov-35",
+      "word": "Patriarchy",
+      "pos": "noun",
+      "definition": "A system in which men hold primary power.",
+      "example": "Feminist theory analyses patriarchy across cultures."
+    },
+    {
+      "id": "gov-36",
+      "word": "Puppet government",
+      "pos": "noun",
+      "definition": "A regime whose actions are controlled by an outside power.",
+      "example": "Occupying forces installed a puppet government."
+    },
+    {
+      "id": "gov-37",
+      "word": "Coalition government",
+      "pos": "noun",
+      "definition": "A government formed by two or more parties.",
+      "example": "No party won a majority, so a coalition government was formed."
+    },
+    {
+      "id": "gov-38",
+      "word": "Caretaker government",
+      "pos": "noun",
+      "definition": "A temporary government that manages routine affairs.",
+      "example": "A caretaker government held office until the election."
+    },
+    {
+      "id": "gov-39",
+      "word": "Provisional government",
+      "pos": "noun",
+      "definition": "An interim government formed to prepare for a permanent regime.",
+      "example": "The provisional government drafted the new constitution."
+    },
+    {
+      "id": "gov-40",
+      "word": "Regency",
+      "pos": "noun",
+      "definition": "Rule by a regent during the minority or absence of a monarch.",
+      "example": "The regency ended when the prince came of age."
+    },
+    {
+      "id": "gov-41",
+      "word": "Empire",
+      "pos": "noun",
+      "definition": "An extensive group of states ruled by a single sovereign or state.",
+      "example": "The Roman Empire endured for centuries."
+    },
+    {
+      "id": "gov-42",
+      "word": "Colonialism",
+      "pos": "noun",
+      "definition": "The policy of acquiring political control over another country.",
+      "example": "Colonialism reshaped the global map."
+    },
+    {
+      "id": "gov-43",
+      "word": "Imperialism",
+      "pos": "noun",
+      "definition": "A policy of extending a country's power through diplomacy or force.",
+      "example": "Late-nineteenth-century imperialism partitioned Africa."
+    },
+    {
+      "id": "gov-44",
+      "word": "Suffrage",
+      "pos": "noun",
+      "definition": "The right to vote in political elections.",
+      "example": "Universal suffrage was hard-won."
+    },
+    {
+      "id": "gov-45",
+      "word": "Plebiscite",
+      "pos": "noun",
+      "definition": "A direct vote of qualified electors on a matter of public importance.",
+      "example": "A plebiscite decided the border dispute."
+    },
+    {
+      "id": "gov-46",
+      "word": "Referendum",
+      "pos": "noun",
+      "definition": "A general vote by the electorate on a single political question.",
+      "example": "The referendum settled the constitutional issue."
+    },
+    {
+      "id": "gov-47",
+      "word": "Constitution",
+      "pos": "noun",
+      "definition": "A body of fundamental principles by which a state is governed.",
+      "example": "The constitution guarantees free speech."
+    },
+    {
+      "id": "gov-48",
+      "word": "Sovereignty",
+      "pos": "noun",
+      "definition": "Supreme authority within a territory.",
+      "example": "Sovereignty rests with the people."
+    },
+    {
+      "id": "gov-49",
+      "word": "Bureaucracy",
+      "pos": "noun",
+      "definition": "A system of government with many appointed officials.",
+      "example": "The bureaucracy processed thousands of applications daily."
+    },
+    {
+      "id": "gov-50",
+      "word": "Diarchy",
+      "pos": "noun",
+      "definition": "Government by two independent authorities.",
+      "example": "Sparta famously had a diarchy of two kings."
+    },
+    {
+      "id": "fog-051",
+      "word": "Republic (parliamentary)",
+      "pos": "noun",
+      "definition": "Republic with parliamentary executive.",
+      "example": "Germany is a parliamentary republic."
+    },
+    {
+      "id": "fog-052",
+      "word": "Republic (presidential)",
+      "pos": "noun",
+      "definition": "Republic with a directly elected president.",
+      "example": "The US is a presidential republic."
+    },
+    {
+      "id": "fog-053",
+      "word": "Semi-presidential",
+      "pos": "noun",
+      "definition": "System with both president and PM.",
+      "example": "France is semi-presidential."
+    },
+    {
+      "id": "fog-054",
+      "word": "Direct democracy",
+      "pos": "noun",
+      "definition": "Citizens vote on laws directly.",
+      "example": "Switzerland uses direct democracy often."
+    },
+    {
+      "id": "fog-055",
+      "word": "Representative democracy",
+      "pos": "noun",
+      "definition": "Citizens elect representatives.",
+      "example": "Most modern democracies are representative."
+    },
+    {
+      "id": "fog-056",
+      "word": "Liberal democracy",
+      "pos": "noun",
+      "definition": "Democracy with civil liberties.",
+      "example": "Liberal democracies protect free speech."
+    },
+    {
+      "id": "fog-057",
+      "word": "Illiberal democracy",
+      "pos": "noun",
+      "definition": "Elections without full civil rights.",
+      "example": "The state slid into illiberal democracy."
+    },
+    {
+      "id": "fog-058",
+      "word": "Constitutional republic",
+      "pos": "noun",
+      "definition": "Republic ruled by a constitution.",
+      "example": "A constitutional republic limits state power."
+    },
+    {
+      "id": "fog-059",
+      "word": "Elective monarchy",
+      "pos": "noun",
+      "definition": "Monarch chosen by election.",
+      "example": "Poland once had an elective monarchy."
+    },
+    {
+      "id": "fog-060",
+      "word": "Hereditary monarchy",
+      "pos": "noun",
+      "definition": "Throne passes by descent.",
+      "example": "Most monarchies today are hereditary."
+    },
+    {
+      "id": "fog-061",
+      "word": "Diarchy",
+      "pos": "noun",
+      "definition": "Rule by two people.",
+      "example": "Sparta operated as a diarchy."
+    },
+    {
+      "id": "fog-062",
+      "word": "Triumvirate",
+      "pos": "noun",
+      "definition": "Rule by three.",
+      "example": "Rome had famous triumvirates."
+    },
+    {
+      "id": "fog-063",
+      "word": "Corporatocracy",
+      "pos": "noun",
+      "definition": "Rule by corporations.",
+      "example": "Critics warn of corporatocracy."
+    },
+    {
+      "id": "fog-064",
+      "word": "Netocracy",
+      "pos": "noun",
+      "definition": "Rule by digital elites.",
+      "example": "Netocracy describes a networked power class."
+    },
+    {
+      "id": "fog-065",
+      "word": "Nomocracy",
+      "pos": "noun",
+      "definition": "Rule by law.",
+      "example": "Nomocracy stresses legal supremacy."
+    },
+    {
+      "id": "fog-066",
+      "word": "Isocracy",
+      "pos": "noun",
+      "definition": "Government where all have equal power.",
+      "example": "Isocracy is a democratic ideal."
+    },
+    {
+      "id": "fog-067",
+      "word": "Pantisocracy",
+      "pos": "noun",
+      "definition": "Utopian equal-rule community.",
+      "example": "Coleridge dreamed of pantisocracy."
+    },
+    {
+      "id": "fog-068",
+      "word": "Adhocracy",
+      "pos": "noun",
+      "definition": "Flexible, non-bureaucratic organization.",
+      "example": "Startups often act as adhocracies."
+    },
+    {
+      "id": "fog-069",
+      "word": "Ergatocracy",
+      "pos": "noun",
+      "definition": "Rule by the workers.",
+      "example": "Ergatocracy inspired labour movements."
+    },
+    {
+      "id": "fog-070",
+      "word": "Plantocracy",
+      "pos": "noun",
+      "definition": "Rule by plantation owners.",
+      "example": "Colonial plantocracies exploited labour."
+    },
+    {
+      "id": "fog-071",
+      "word": "Thalassocracy",
+      "pos": "noun",
+      "definition": "Rule by sea power.",
+      "example": "The Athenian thalassocracy dominated the Aegean."
+    },
+    {
+      "id": "fog-072",
+      "word": "Kritarchy",
+      "pos": "noun",
+      "definition": "Rule by judges.",
+      "example": "Somali kritarchies used clan judges."
+    },
+    {
+      "id": "fog-073",
+      "word": "Kyriarchy",
+      "pos": "noun",
+      "definition": "Interlocking hierarchical power.",
+      "example": "Kyriarchy critiques intersecting oppressions."
+    },
+    {
+      "id": "fog-074",
+      "word": "Cyberocracy",
+      "pos": "noun",
+      "definition": "Rule through information systems.",
+      "example": "Cyberocracy relies on data flows."
+    },
+    {
+      "id": "fog-075",
+      "word": "Ethnocracy",
+      "pos": "noun",
+      "definition": "Rule by a single ethnic group.",
+      "example": "Critics called the state an ethnocracy."
+    },
+    {
+      "id": "fog-076",
+      "word": "Kleptocracy (petrostate)",
+      "pos": "noun",
+      "definition": "Corrupt oil-based rule.",
+      "example": "Petrostate kleptocracies distort economies."
+    },
+    {
+      "id": "fog-077",
+      "word": "Fascist state",
+      "pos": "noun",
+      "definition": "State ruled by fascist party.",
+      "example": "The fascist state suppressed opposition."
+    },
+    {
+      "id": "fog-078",
+      "word": "Communist state",
+      "pos": "noun",
+      "definition": "State ruled by a communist party.",
+      "example": "Communist states nationalised industry."
+    },
+    {
+      "id": "fog-079",
+      "word": "Socialist state",
+      "pos": "noun",
+      "definition": "State led by socialist principles.",
+      "example": "Socialist states expand welfare."
+    },
+    {
+      "id": "fog-080",
+      "word": "Nationalist state",
+      "pos": "noun",
+      "definition": "State prioritising national identity.",
+      "example": "Nationalist states emphasise borders."
+    },
+    {
+      "id": "fog-081",
+      "word": "Confederacy",
+      "pos": "noun",
+      "definition": "League of sovereign states.",
+      "example": "The confederacy shared defence duties."
+    },
+    {
+      "id": "fog-082",
+      "word": "Federation",
+      "pos": "noun",
+      "definition": "Union of partially self-governing states.",
+      "example": "Nigeria is a federation."
+    },
+    {
+      "id": "fog-083",
+      "word": "Devolution",
+      "pos": "noun",
+      "definition": "Transfer of powers to regions.",
+      "example": "Devolution created regional parliaments."
+    },
+    {
+      "id": "fog-084",
+      "word": "Sultanate",
+      "pos": "noun",
+      "definition": "State ruled by a sultan.",
+      "example": "Oman is a sultanate."
+    },
+    {
+      "id": "fog-085",
+      "word": "Emirate",
+      "pos": "noun",
+      "definition": "State ruled by an emir.",
+      "example": "Kuwait is an emirate."
+    },
+    {
+      "id": "fog-086",
+      "word": "Caliphate",
+      "pos": "noun",
+      "definition": "Islamic religious-political state.",
+      "example": "The medieval caliphate spanned continents."
+    },
+    {
+      "id": "fog-087",
+      "word": "Papacy",
+      "pos": "noun",
+      "definition": "Office and rule of the Pope.",
+      "example": "The papacy shaped medieval Europe."
+    },
+    {
+      "id": "fog-088",
+      "word": "Shogunate",
+      "pos": "noun",
+      "definition": "Feudal Japanese military rule.",
+      "example": "The Tokugawa shogunate lasted centuries."
+    },
+    {
+      "id": "fog-089",
+      "word": "City-state",
+      "pos": "noun",
+      "definition": "Sovereign city with its territory.",
+      "example": "Singapore is a city-state."
+    },
+    {
+      "id": "fog-090",
+      "word": "Vassal state",
+      "pos": "noun",
+      "definition": "State subordinate to another.",
+      "example": "Medieval vassal states owed loyalty."
+    },
+    {
+      "id": "fog-091",
+      "word": "Protectorate",
+      "pos": "noun",
+      "definition": "State protected by a stronger one.",
+      "example": "The islands were a British protectorate."
+    },
+    {
+      "id": "fog-092",
+      "word": "Dominion",
+      "pos": "noun",
+      "definition": "Self-governing former colony.",
+      "example": "Canada was once a dominion."
+    },
+    {
+      "id": "fog-093",
+      "word": "Suzerainty",
+      "pos": "noun",
+      "definition": "Control over another state's foreign affairs.",
+      "example": "China claimed suzerainty over the region."
+    },
+    {
+      "id": "fog-094",
+      "word": "Puppet regime",
+      "pos": "noun",
+      "definition": "Nominally independent but externally controlled.",
+      "example": "The puppet regime followed foreign orders."
+    },
+    {
+      "id": "fog-095",
+      "word": "Interregnum",
+      "pos": "noun",
+      "definition": "Period between two reigns.",
+      "example": "The interregnum ended with a coronation."
+    },
+    {
+      "id": "fog-096",
+      "word": "Provisional government",
+      "pos": "noun",
+      "definition": "Temporary government after change.",
+      "example": "The provisional government scheduled elections."
+    },
+    {
+      "id": "fog-097",
+      "word": "Government-in-exile",
+      "pos": "noun",
+      "definition": "Rulers displaced from home country.",
+      "example": "The government-in-exile met in London."
+    },
+    {
+      "id": "fog-098",
+      "word": "One-party state",
+      "pos": "noun",
+      "definition": "Only one legal party.",
+      "example": "Many revolutions produced one-party states."
+    },
+    {
+      "id": "fog-099",
+      "word": "Multi-party system",
+      "pos": "noun",
+      "definition": "Several competing parties.",
+      "example": "Democracies typically use multi-party systems."
+    },
+    {
+      "id": "fog-100",
+      "word": "Direct rule",
+      "pos": "noun",
+      "definition": "Central government rules a region directly.",
+      "example": "Direct rule replaced local self-government."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "for-q1",
+      "question": "Which word means: \"Government by the whole population, usually through elected representatives.\"?",
+      "options": [
+        "Kakistocracy",
+        "Democracy",
+        "Gerontocracy",
+        "Caliphate"
+      ],
+      "answer": 1,
+      "explanation": "Democracy (noun) — Government by the whole population, usually through elected representatives."
+    },
+    {
+      "id": "for-q2",
+      "question": "Which word means: \"A state in which supreme power is held by the people and their elected representatives.\"?",
+      "options": [
+        "Gerontocracy",
+        "Provisional government",
+        "One-party state",
+        "Republic"
+      ],
+      "answer": 3,
+      "explanation": "Republic (noun) — A state in which supreme power is held by the people and their elected representatives."
+    },
+    {
+      "id": "for-q3",
+      "question": "Which word means: \"Government by a single hereditary ruler.\"?",
+      "options": [
+        "Papacy",
+        "Referendum",
+        "Anarchism",
+        "Monarchy"
+      ],
+      "answer": 3,
+      "explanation": "Monarchy (noun) — Government by a single hereditary ruler."
+    },
+    {
+      "id": "for-q4",
+      "question": "Which word means: \"A monarchy in which the sovereign's powers are limited by a constitution.\"?",
+      "options": [
+        "Imperialism",
+        "City-state",
+        "Oligarchy",
+        "Constitutional monarchy"
+      ],
+      "answer": 3,
+      "explanation": "Constitutional monarchy (noun) — A monarchy in which the sovereign's powers are limited by a constitution."
+    },
+    {
+      "id": "for-q5",
+      "question": "Which word means: \"A monarchy where the ruler has unlimited authority.\"?",
+      "options": [
+        "Absolute monarchy",
+        "Thalassocracy",
+        "Matriarchy",
+        "Puppet regime"
+      ],
+      "answer": 0,
+      "explanation": "Absolute monarchy (noun) — A monarchy where the ruler has unlimited authority."
+    },
+    {
+      "id": "for-q6",
+      "question": "Which word means: \"Government by a small privileged class, often hereditary.\"?",
+      "options": [
+        "Netocracy",
+        "Aristocracy",
+        "Elective monarchy",
+        "Pantisocracy"
+      ],
+      "answer": 1,
+      "explanation": "Aristocracy (noun) — Government by a small privileged class, often hereditary."
+    },
+    {
+      "id": "for-q7",
+      "question": "Which word means: \"Government by a small group of people.\"?",
+      "options": [
+        "Pantisocracy",
+        "Authoritarianism",
+        "Oligarchy",
+        "Imperialism"
+      ],
+      "answer": 2,
+      "explanation": "Oligarchy (noun) — Government by a small group of people."
+    },
+    {
+      "id": "for-q8",
+      "question": "Which word means: \"Government by the wealthy.\"?",
+      "options": [
+        "Federation",
+        "Plutocracy",
+        "Technocracy",
+        "Dictatorship"
+      ],
+      "answer": 1,
+      "explanation": "Plutocracy (noun) — Government by the wealthy."
+    },
+    {
+      "id": "for-q9",
+      "question": "Which word means: \"Government by a single person with absolute power.\"?",
+      "options": [
+        "Technocracy",
+        "Anarchy",
+        "Plantocracy",
+        "Autocracy"
+      ],
+      "answer": 3,
+      "explanation": "Autocracy (noun) — Government by a single person with absolute power."
+    },
+    {
+      "id": "for-q10",
+      "question": "Which word means: \"Government by a dictator, typically without free elections.\"?",
+      "options": [
+        "Dictatorship",
+        "Confederation",
+        "City-state",
+        "Government-in-exile"
+      ],
+      "answer": 0,
+      "explanation": "Dictatorship (noun) — Government by a dictator, typically without free elections."
+    },
+    {
+      "id": "for-q11",
+      "question": "Which word means: \"A system of centralised, dictatorial government requiring complete subservience to the state.\"?",
+      "options": [
+        "Dictatorship",
+        "Theocracy",
+        "Totalitarianism",
+        "Absolute monarchy"
+      ],
+      "answer": 2,
+      "explanation": "Totalitarianism (noun) — A system of centralised, dictatorial government requiring complete subservience to the state."
+    },
+    {
+      "id": "for-q12",
+      "question": "Which word means: \"A form of government characterised by strong central power and limited political freedoms.\"?",
+      "options": [
+        "Kyriarchy",
+        "Ethnocracy",
+        "Authoritarianism",
+        "Dictatorship"
+      ],
+      "answer": 2,
+      "explanation": "Authoritarianism (noun) — A form of government characterised by strong central power and limited political freedoms."
+    },
+    {
+      "id": "for-q13",
+      "question": "Which word means: \"Government by religious leaders in the name of a deity.\"?",
+      "options": [
+        "Republic (parliamentary)",
+        "Federation",
+        "Elective monarchy",
+        "Theocracy"
+      ],
+      "answer": 3,
+      "explanation": "Theocracy (noun) — Government by religious leaders in the name of a deity."
+    },
+    {
+      "id": "for-q14",
+      "question": "Which word means: \"Rule by church officials.\"?",
+      "options": [
+        "Republic (parliamentary)",
+        "Ecclesiocracy",
+        "Shogunate",
+        "Monarchy"
+      ],
+      "answer": 1,
+      "explanation": "Ecclesiocracy (noun) — Rule by church officials."
+    },
+    {
+      "id": "for-q15",
+      "question": "Which word means: \"A state of society without government or law.\"?",
+      "options": [
+        "Puppet regime",
+        "Anarchy",
+        "Confederacy",
+        "Sultanate"
+      ],
+      "answer": 1,
+      "explanation": "Anarchy (noun) — A state of society without government or law."
+    },
+    {
+      "id": "for-q16",
+      "question": "Which word means: \"A political theory advocating self-governed societies with no ruling authority.\"?",
+      "options": [
+        "Anarchism",
+        "Constitution",
+        "Dictatorship",
+        "Protectorate"
+      ],
+      "answer": 0,
+      "explanation": "Anarchism (noun) — A political theory advocating self-governed societies with no ruling authority."
+    },
+    {
+      "id": "for-q17",
+      "question": "Which word means: \"A political theory advocating class war leading to a society in which all property is publicly owned.\"?",
+      "options": [
+        "Socialist state",
+        "Caretaker government",
+        "Authoritarianism",
+        "Communism"
+      ],
+      "answer": 3,
+      "explanation": "Communism (noun) — A political theory advocating class war leading to a society in which all property is publicly owned."
+    },
+    {
+      "id": "for-q18",
+      "question": "Which word means: \"A political and economic theory advocating collective ownership of the means of production.\"?",
+      "options": [
+        "Socialism",
+        "Caliphate",
+        "Triumvirate",
+        "Constitutional monarchy"
+      ],
+      "answer": 0,
+      "explanation": "Socialism (noun) — A political and economic theory advocating collective ownership of the means of production."
+    },
+    {
+      "id": "for-q19",
+      "question": "Which word means: \"An authoritarian, ultranationalist political ideology.\"?",
+      "options": [
+        "Government-in-exile",
+        "Socialism",
+        "Fascism",
+        "Republic (presidential)"
+      ],
+      "answer": 2,
+      "explanation": "Fascism (noun) — An authoritarian, ultranationalist political ideology."
+    },
+    {
+      "id": "for-q20",
+      "question": "Which word means: \"A system in which power is divided between a central authority and constituent political units.\"?",
+      "options": [
+        "Shogunate",
+        "Federalism",
+        "Regency",
+        "Interregnum"
+      ],
+      "answer": 1,
+      "explanation": "Federalism (noun) — A system in which power is divided between a central authority and constituent political units."
+    },
+    {
+      "id": "for-q21",
+      "question": "Which word means: \"A union of sovereign states with a weak central government.\"?",
+      "options": [
+        "Aristocracy",
+        "Anarchism",
+        "Democracy",
+        "Confederation"
+      ],
+      "answer": 3,
+      "explanation": "Confederation (noun) — A union of sovereign states with a weak central government."
+    },
+    {
+      "id": "for-q22",
+      "question": "Which word means: \"A state governed as a single unit with a supreme central government.\"?",
+      "options": [
+        "Unitary state",
+        "Technocracy",
+        "Empire",
+        "Government-in-exile"
+      ],
+      "answer": 0,
+      "explanation": "Unitary state (noun) — A state governed as a single unit with a supreme central government."
+    },
+    {
+      "id": "for-q23",
+      "question": "Which word means: \"A system in which the executive derives its legitimacy from the legislature.\"?",
+      "options": [
+        "Parliamentary system",
+        "Fascism",
+        "Sultanate",
+        "Pantisocracy"
+      ],
+      "answer": 0,
+      "explanation": "Parliamentary system (noun) — A system in which the executive derives its legitimacy from the legislature."
+    },
+    {
+      "id": "for-q24",
+      "question": "Which word means: \"A system in which the president is head of government and independent of the legislature.\"?",
+      "options": [
+        "Matriarchy",
+        "Kleptocracy",
+        "Presidential system",
+        "Nationalist state"
+      ],
+      "answer": 2,
+      "explanation": "Presidential system (noun) — A system in which the president is head of government and independent of the legislature."
+    },
+    {
+      "id": "for-q25",
+      "question": "Which word means: \"A military or political group ruling a country after seizing power.\"?",
+      "options": [
+        "Diarchy",
+        "Junta",
+        "Kritarchy",
+        "One-party state"
+      ],
+      "answer": 1,
+      "explanation": "Junta (noun) — A military or political group ruling a country after seizing power."
+    },
+    {
+      "id": "for-q26",
+      "question": "Which word means: \"A government in which those in power exploit resources for personal gain.\"?",
+      "options": [
+        "Matriarchy",
+        "Meritocracy",
+        "Theocracy",
+        "Kleptocracy"
+      ],
+      "answer": 3,
+      "explanation": "Kleptocracy (noun) — A government in which those in power exploit resources for personal gain."
+    },
+    {
+      "id": "for-q27",
+      "question": "Which word means: \"Government by those selected on the basis of ability or achievement.\"?",
+      "options": [
+        "Emirate",
+        "Meritocracy",
+        "Communism",
+        "Papacy"
+      ],
+      "answer": 1,
+      "explanation": "Meritocracy (noun) — Government by those selected on the basis of ability or achievement."
+    },
+    {
+      "id": "for-q28",
+      "question": "Which word means: \"Government by technical experts.\"?",
+      "options": [
+        "Confederacy",
+        "Technocracy",
+        "Autocracy",
+        "Junta"
+      ],
+      "answer": 1,
+      "explanation": "Technocracy (noun) — Government by technical experts."
+    },
+    {
+      "id": "for-q29",
+      "question": "Which word means: \"Government by old people.\"?",
+      "options": [
+        "Nationalist state",
+        "Suffrage",
+        "Gerontocracy",
+        "Caliphate"
+      ],
+      "answer": 2,
+      "explanation": "Gerontocracy (noun) — Government by old people."
+    },
+    {
+      "id": "for-q30",
+      "question": "Which word means: \"Government by the worst or least qualified.\"?",
+      "options": [
+        "Sovereignty",
+        "Colonialism",
+        "Cyberocracy",
+        "Kakistocracy"
+      ],
+      "answer": 3,
+      "explanation": "Kakistocracy (noun) — Government by the worst or least qualified."
+    },
+    {
+      "id": "for-q31",
+      "question": "Which word means: \"Government by the mob.\"?",
+      "options": [
+        "Colonialism",
+        "Gerontocracy",
+        "Stratocracy",
+        "Ochlocracy"
+      ],
+      "answer": 3,
+      "explanation": "Ochlocracy (noun) — Government by the mob."
+    },
+    {
+      "id": "for-q32",
+      "question": "Which word means: \"Government by property owners or those honoured for their virtue.\"?",
+      "options": [
+        "Socialism",
+        "Timocracy",
+        "Shogunate",
+        "Interregnum"
+      ],
+      "answer": 1,
+      "explanation": "Timocracy (noun) — Government by property owners or those honoured for their virtue."
+    },
+    {
+      "id": "for-q33",
+      "question": "Which word means: \"Government by the military.\"?",
+      "options": [
+        "Constitution",
+        "Elective monarchy",
+        "Empire",
+        "Stratocracy"
+      ],
+      "answer": 3,
+      "explanation": "Stratocracy (noun) — Government by the military."
+    },
+    {
+      "id": "for-q34",
+      "question": "Which word means: \"A social system in which women hold primary power.\"?",
+      "options": [
+        "Socialist state",
+        "Matriarchy",
+        "Sultanate",
+        "Parliamentary system"
+      ],
+      "answer": 1,
+      "explanation": "Matriarchy (noun) — A social system in which women hold primary power."
+    },
+    {
+      "id": "for-q35",
+      "question": "Which word means: \"A system in which men hold primary power.\"?",
+      "options": [
+        "Kleptocracy",
+        "Patriarchy",
+        "Matriarchy",
+        "Plantocracy"
+      ],
+      "answer": 1,
+      "explanation": "Patriarchy (noun) — A system in which men hold primary power."
+    },
+    {
+      "id": "for-q36",
+      "question": "Which word means: \"A regime whose actions are controlled by an outside power.\"?",
+      "options": [
+        "Puppet government",
+        "Isocracy",
+        "Federation",
+        "Monarchy"
+      ],
+      "answer": 0,
+      "explanation": "Puppet government (noun) — A regime whose actions are controlled by an outside power."
+    },
+    {
+      "id": "for-q37",
+      "question": "Which word means: \"A government formed by two or more parties.\"?",
+      "options": [
+        "Coalition government",
+        "Fascist state",
+        "Technocracy",
+        "Direct rule"
+      ],
+      "answer": 0,
+      "explanation": "Coalition government (noun) — A government formed by two or more parties."
+    },
+    {
+      "id": "for-q38",
+      "question": "Which word means: \"A temporary government that manages routine affairs.\"?",
+      "options": [
+        "Thalassocracy",
+        "Emirate",
+        "Caretaker government",
+        "Triumvirate"
+      ],
+      "answer": 2,
+      "explanation": "Caretaker government (noun) — A temporary government that manages routine affairs."
+    },
+    {
+      "id": "for-q39",
+      "question": "Which word means: \"An interim government formed to prepare for a permanent regime.\"?",
+      "options": [
+        "Provisional government",
+        "Fascist state",
+        "Gerontocracy",
+        "Interregnum"
+      ],
+      "answer": 0,
+      "explanation": "Provisional government (noun) — An interim government formed to prepare for a permanent regime."
+    },
+    {
+      "id": "for-q40",
+      "question": "Which word means: \"Rule by a regent during the minority or absence of a monarch.\"?",
+      "options": [
+        "Authoritarianism",
+        "Isocracy",
+        "Pantisocracy",
+        "Regency"
+      ],
+      "answer": 3,
+      "explanation": "Regency (noun) — Rule by a regent during the minority or absence of a monarch."
+    },
+    {
+      "id": "for-q41",
+      "question": "Which word means: \"An extensive group of states ruled by a single sovereign or state.\"?",
+      "options": [
+        "Empire",
+        "Caliphate",
+        "Nationalist state",
+        "Ochlocracy"
+      ],
+      "answer": 0,
+      "explanation": "Empire (noun) — An extensive group of states ruled by a single sovereign or state."
+    },
+    {
+      "id": "for-q42",
+      "question": "Which word means: \"The policy of acquiring political control over another country.\"?",
+      "options": [
+        "Elective monarchy",
+        "Colonialism",
+        "Parliamentary system",
+        "Confederation"
+      ],
+      "answer": 1,
+      "explanation": "Colonialism (noun) — The policy of acquiring political control over another country."
+    },
+    {
+      "id": "for-q43",
+      "question": "Which word means: \"A policy of extending a country's power through diplomacy or force.\"?",
+      "options": [
+        "Aristocracy",
+        "Gerontocracy",
+        "Constitution",
+        "Imperialism"
+      ],
+      "answer": 3,
+      "explanation": "Imperialism (noun) — A policy of extending a country's power through diplomacy or force."
+    },
+    {
+      "id": "for-q44",
+      "question": "Which word means: \"The right to vote in political elections.\"?",
+      "options": [
+        "Bureaucracy",
+        "Suffrage",
+        "Kakistocracy",
+        "Matriarchy"
+      ],
+      "answer": 1,
+      "explanation": "Suffrage (noun) — The right to vote in political elections."
+    },
+    {
+      "id": "for-q45",
+      "question": "Which word means: \"A direct vote of qualified electors on a matter of public importance.\"?",
+      "options": [
+        "Republic (parliamentary)",
+        "Adhocracy",
+        "Sovereignty",
+        "Plebiscite"
+      ],
+      "answer": 3,
+      "explanation": "Plebiscite (noun) — A direct vote of qualified electors on a matter of public importance."
+    },
+    {
+      "id": "for-q46",
+      "question": "Which word means: \"A general vote by the electorate on a single political question.\"?",
+      "options": [
+        "Referendum",
+        "Emirate",
+        "Colonialism",
+        "Aristocracy"
+      ],
+      "answer": 0,
+      "explanation": "Referendum (noun) — A general vote by the electorate on a single political question."
+    },
+    {
+      "id": "for-q47",
+      "question": "Which word means: \"A body of fundamental principles by which a state is governed.\"?",
+      "options": [
+        "Provisional government",
+        "Kleptocracy (petrostate)",
+        "Constitution",
+        "Matriarchy"
+      ],
+      "answer": 2,
+      "explanation": "Constitution (noun) — A body of fundamental principles by which a state is governed."
+    },
+    {
+      "id": "for-q48",
+      "question": "Which word means: \"Supreme authority within a territory.\"?",
+      "options": [
+        "Sovereignty",
+        "Fascist state",
+        "Emirate",
+        "Constitution"
+      ],
+      "answer": 0,
+      "explanation": "Sovereignty (noun) — Supreme authority within a territory."
+    },
+    {
+      "id": "for-q49",
+      "question": "Which word means: \"A system of government with many appointed officials.\"?",
+      "options": [
+        "Diarchy",
+        "Adhocracy",
+        "Gerontocracy",
+        "Bureaucracy"
+      ],
+      "answer": 3,
+      "explanation": "Bureaucracy (noun) — A system of government with many appointed officials."
+    },
+    {
+      "id": "for-q50",
+      "question": "Which word means: \"Government by two independent authorities.\"?",
+      "options": [
+        "Netocracy",
+        "Diarchy",
+        "Nationalist state",
+        "Nomocracy"
+      ],
+      "answer": 1,
+      "explanation": "Diarchy (noun) — Government by two independent authorities."
+    },
+    {
+      "id": "for-q51",
+      "question": "Which word means: \"Republic with parliamentary executive.\"?",
+      "options": [
+        "Republic (parliamentary)",
+        "Unitary state",
+        "Kakistocracy",
+        "Constitutional republic"
+      ],
+      "answer": 0,
+      "explanation": "Republic (parliamentary) (noun) — Republic with parliamentary executive."
+    },
+    {
+      "id": "for-q52",
+      "question": "Which word means: \"Republic with a directly elected president.\"?",
+      "options": [
+        "Presidential system",
+        "Technocracy",
+        "Republic (presidential)",
+        "Federalism"
+      ],
+      "answer": 2,
+      "explanation": "Republic (presidential) (noun) — Republic with a directly elected president."
+    },
+    {
+      "id": "for-q53",
+      "question": "Which word means: \"System with both president and PM.\"?",
+      "options": [
+        "Kakistocracy",
+        "Caliphate",
+        "Semi-presidential",
+        "Representative democracy"
+      ],
+      "answer": 2,
+      "explanation": "Semi-presidential (noun) — System with both president and PM."
+    },
+    {
+      "id": "for-q54",
+      "question": "Which word means: \"Citizens vote on laws directly.\"?",
+      "options": [
+        "Corporatocracy",
+        "Direct democracy",
+        "Meritocracy",
+        "Shogunate"
+      ],
+      "answer": 1,
+      "explanation": "Direct democracy (noun) — Citizens vote on laws directly."
+    },
+    {
+      "id": "for-q55",
+      "question": "Which word means: \"Citizens elect representatives.\"?",
+      "options": [
+        "Representative democracy",
+        "Monarchy",
+        "Aristocracy",
+        "Timocracy"
+      ],
+      "answer": 0,
+      "explanation": "Representative democracy (noun) — Citizens elect representatives."
+    },
+    {
+      "id": "for-q56",
+      "question": "Which word means: \"Democracy with civil liberties.\"?",
+      "options": [
+        "Federation",
+        "Liberal democracy",
+        "Pantisocracy",
+        "Socialism"
+      ],
+      "answer": 1,
+      "explanation": "Liberal democracy (noun) — Democracy with civil liberties."
+    },
+    {
+      "id": "for-q57",
+      "question": "Which word means: \"Elections without full civil rights.\"?",
+      "options": [
+        "Plutocracy",
+        "Illiberal democracy",
+        "Matriarchy",
+        "Unitary state"
+      ],
+      "answer": 1,
+      "explanation": "Illiberal democracy (noun) — Elections without full civil rights."
+    },
+    {
+      "id": "for-q58",
+      "question": "Which word means: \"Republic ruled by a constitution.\"?",
+      "options": [
+        "Constitutional republic",
+        "Cyberocracy",
+        "Devolution",
+        "Communist state"
+      ],
+      "answer": 0,
+      "explanation": "Constitutional republic (noun) — Republic ruled by a constitution."
+    },
+    {
+      "id": "for-q59",
+      "question": "Which word means: \"Monarch chosen by election.\"?",
+      "options": [
+        "Constitutional republic",
+        "Totalitarianism",
+        "Technocracy",
+        "Elective monarchy"
+      ],
+      "answer": 3,
+      "explanation": "Elective monarchy (noun) — Monarch chosen by election."
+    },
+    {
+      "id": "for-q60",
+      "question": "Which word means: \"Throne passes by descent.\"?",
+      "options": [
+        "Hereditary monarchy",
+        "Gerontocracy",
+        "Communist state",
+        "Semi-presidential"
+      ],
+      "answer": 0,
+      "explanation": "Hereditary monarchy (noun) — Throne passes by descent."
+    },
+    {
+      "id": "for-q61",
+      "question": "Which word means: \"Rule by two people.\"?",
+      "options": [
+        "Diarchy",
+        "Papacy",
+        "Federation",
+        "Adhocracy"
+      ],
+      "answer": 0,
+      "explanation": "Diarchy (noun) — Rule by two people."
+    },
+    {
+      "id": "for-q62",
+      "question": "Which word means: \"Rule by three.\"?",
+      "options": [
+        "Fascist state",
+        "Communist state",
+        "Triumvirate",
+        "Elective monarchy"
+      ],
+      "answer": 2,
+      "explanation": "Triumvirate (noun) — Rule by three."
+    },
+    {
+      "id": "for-q63",
+      "question": "Which word means: \"Rule by corporations.\"?",
+      "options": [
+        "Ecclesiocracy",
+        "Communism",
+        "Corporatocracy",
+        "Diarchy"
+      ],
+      "answer": 2,
+      "explanation": "Corporatocracy (noun) — Rule by corporations."
+    },
+    {
+      "id": "for-q64",
+      "question": "Which word means: \"Rule by digital elites.\"?",
+      "options": [
+        "Theocracy",
+        "Federalism",
+        "Netocracy",
+        "Socialist state"
+      ],
+      "answer": 2,
+      "explanation": "Netocracy (noun) — Rule by digital elites."
+    },
+    {
+      "id": "for-q65",
+      "question": "Which word means: \"Rule by law.\"?",
+      "options": [
+        "One-party state",
+        "Isocracy",
+        "Nomocracy",
+        "Plantocracy"
+      ],
+      "answer": 2,
+      "explanation": "Nomocracy (noun) — Rule by law."
+    },
+    {
+      "id": "for-q66",
+      "question": "Which word means: \"Government where all have equal power.\"?",
+      "options": [
+        "Isocracy",
+        "Communism",
+        "Socialist state",
+        "Caliphate"
+      ],
+      "answer": 0,
+      "explanation": "Isocracy (noun) — Government where all have equal power."
+    },
+    {
+      "id": "for-q67",
+      "question": "Which word means: \"Utopian equal-rule community.\"?",
+      "options": [
+        "Pantisocracy",
+        "Direct democracy",
+        "Sovereignty",
+        "Adhocracy"
+      ],
+      "answer": 0,
+      "explanation": "Pantisocracy (noun) — Utopian equal-rule community."
+    },
+    {
+      "id": "for-q68",
+      "question": "Which word means: \"Flexible, non-bureaucratic organization.\"?",
+      "options": [
+        "Direct rule",
+        "Kakistocracy",
+        "Triumvirate",
+        "Adhocracy"
+      ],
+      "answer": 3,
+      "explanation": "Adhocracy (noun) — Flexible, non-bureaucratic organization."
+    },
+    {
+      "id": "for-q69",
+      "question": "Which word means: \"Rule by the workers.\"?",
+      "options": [
+        "Socialism",
+        "Stratocracy",
+        "Representative democracy",
+        "Ergatocracy"
+      ],
+      "answer": 3,
+      "explanation": "Ergatocracy (noun) — Rule by the workers."
+    },
+    {
+      "id": "for-q70",
+      "question": "Which word means: \"Rule by plantation owners.\"?",
+      "options": [
+        "Thalassocracy",
+        "Coalition government",
+        "Communist state",
+        "Plantocracy"
+      ],
+      "answer": 3,
+      "explanation": "Plantocracy (noun) — Rule by plantation owners."
+    },
+    {
+      "id": "for-q71",
+      "question": "Which word means: \"Rule by sea power.\"?",
+      "options": [
+        "Dominion",
+        "Thalassocracy",
+        "Government-in-exile",
+        "Democracy"
+      ],
+      "answer": 1,
+      "explanation": "Thalassocracy (noun) — Rule by sea power."
+    },
+    {
+      "id": "for-q72",
+      "question": "Which word means: \"Rule by judges.\"?",
+      "options": [
+        "Pantisocracy",
+        "Kritarchy",
+        "Bureaucracy",
+        "Democracy"
+      ],
+      "answer": 1,
+      "explanation": "Kritarchy (noun) — Rule by judges."
+    },
+    {
+      "id": "for-q73",
+      "question": "Which word means: \"Interlocking hierarchical power.\"?",
+      "options": [
+        "Semi-presidential",
+        "Ecclesiocracy",
+        "Kyriarchy",
+        "Constitution"
+      ],
+      "answer": 2,
+      "explanation": "Kyriarchy (noun) — Interlocking hierarchical power."
+    },
+    {
+      "id": "for-q74",
+      "question": "Which word means: \"Rule through information systems.\"?",
+      "options": [
+        "Matriarchy",
+        "Ergatocracy",
+        "Cyberocracy",
+        "Representative democracy"
+      ],
+      "answer": 2,
+      "explanation": "Cyberocracy (noun) — Rule through information systems."
+    },
+    {
+      "id": "for-q75",
+      "question": "Which word means: \"Rule by a single ethnic group.\"?",
+      "options": [
+        "City-state",
+        "One-party state",
+        "Ethnocracy",
+        "Republic (parliamentary)"
+      ],
+      "answer": 2,
+      "explanation": "Ethnocracy (noun) — Rule by a single ethnic group."
+    },
+    {
+      "id": "for-q76",
+      "question": "Which word means: \"Corrupt oil-based rule.\"?",
+      "options": [
+        "Parliamentary system",
+        "Kritarchy",
+        "Sovereignty",
+        "Kleptocracy (petrostate)"
+      ],
+      "answer": 3,
+      "explanation": "Kleptocracy (petrostate) (noun) — Corrupt oil-based rule."
+    },
+    {
+      "id": "for-q77",
+      "question": "Which word means: \"State ruled by fascist party.\"?",
+      "options": [
+        "Plebiscite",
+        "Cyberocracy",
+        "Dominion",
+        "Fascist state"
+      ],
+      "answer": 3,
+      "explanation": "Fascist state (noun) — State ruled by fascist party."
+    },
+    {
+      "id": "for-q78",
+      "question": "Which word means: \"State ruled by a communist party.\"?",
+      "options": [
+        "Government-in-exile",
+        "Caliphate",
+        "Communist state",
+        "Anarchism"
+      ],
+      "answer": 2,
+      "explanation": "Communist state (noun) — State ruled by a communist party."
+    },
+    {
+      "id": "for-q79",
+      "question": "Which word means: \"State led by socialist principles.\"?",
+      "options": [
+        "Isocracy",
+        "Theocracy",
+        "Technocracy",
+        "Socialist state"
+      ],
+      "answer": 3,
+      "explanation": "Socialist state (noun) — State led by socialist principles."
+    },
+    {
+      "id": "for-q80",
+      "question": "Which word means: \"State prioritising national identity.\"?",
+      "options": [
+        "Diarchy",
+        "Devolution",
+        "Nationalist state",
+        "Confederation"
+      ],
+      "answer": 2,
+      "explanation": "Nationalist state (noun) — State prioritising national identity."
+    },
+    {
+      "id": "for-q81",
+      "question": "Which word means: \"League of sovereign states.\"?",
+      "options": [
+        "Liberal democracy",
+        "Fascist state",
+        "Confederacy",
+        "Diarchy"
+      ],
+      "answer": 2,
+      "explanation": "Confederacy (noun) — League of sovereign states."
+    },
+    {
+      "id": "for-q82",
+      "question": "Which word means: \"Union of partially self-governing states.\"?",
+      "options": [
+        "Federation",
+        "Sovereignty",
+        "Totalitarianism",
+        "Gerontocracy"
+      ],
+      "answer": 0,
+      "explanation": "Federation (noun) — Union of partially self-governing states."
+    },
+    {
+      "id": "for-q83",
+      "question": "Which word means: \"Transfer of powers to regions.\"?",
+      "options": [
+        "Socialist state",
+        "Republic (presidential)",
+        "Devolution",
+        "Emirate"
+      ],
+      "answer": 2,
+      "explanation": "Devolution (noun) — Transfer of powers to regions."
+    },
+    {
+      "id": "for-q84",
+      "question": "Which word means: \"State ruled by a sultan.\"?",
+      "options": [
+        "Federation",
+        "Netocracy",
+        "Parliamentary system",
+        "Sultanate"
+      ],
+      "answer": 3,
+      "explanation": "Sultanate (noun) — State ruled by a sultan."
+    },
+    {
+      "id": "for-q85",
+      "question": "Which word means: \"State ruled by an emir.\"?",
+      "options": [
+        "Emirate",
+        "Coalition government",
+        "Caliphate",
+        "Pantisocracy"
+      ],
+      "answer": 0,
+      "explanation": "Emirate (noun) — State ruled by an emir."
+    },
+    {
+      "id": "for-q86",
+      "question": "Which word means: \"Islamic religious-political state.\"?",
+      "options": [
+        "Shogunate",
+        "Caliphate",
+        "Unitary state",
+        "Socialist state"
+      ],
+      "answer": 1,
+      "explanation": "Caliphate (noun) — Islamic religious-political state."
+    },
+    {
+      "id": "for-q87",
+      "question": "Which word means: \"Office and rule of the Pope.\"?",
+      "options": [
+        "Papacy",
+        "Confederation",
+        "Democracy",
+        "Sultanate"
+      ],
+      "answer": 0,
+      "explanation": "Papacy (noun) — Office and rule of the Pope."
+    },
+    {
+      "id": "for-q88",
+      "question": "Which word means: \"Feudal Japanese military rule.\"?",
+      "options": [
+        "Caliphate",
+        "Referendum",
+        "Republic (parliamentary)",
+        "Shogunate"
+      ],
+      "answer": 3,
+      "explanation": "Shogunate (noun) — Feudal Japanese military rule."
+    },
+    {
+      "id": "for-q89",
+      "question": "Which word means: \"Sovereign city with its territory.\"?",
+      "options": [
+        "Provisional government",
+        "Republic",
+        "City-state",
+        "Pantisocracy"
+      ],
+      "answer": 2,
+      "explanation": "City-state (noun) — Sovereign city with its territory."
+    },
+    {
+      "id": "for-q90",
+      "question": "Which word means: \"State subordinate to another.\"?",
+      "options": [
+        "Puppet regime",
+        "Vassal state",
+        "Kritarchy",
+        "Ethnocracy"
+      ],
+      "answer": 1,
+      "explanation": "Vassal state (noun) — State subordinate to another."
+    },
+    {
+      "id": "for-q91",
+      "question": "Which word means: \"State protected by a stronger one.\"?",
+      "options": [
+        "Junta",
+        "Gerontocracy",
+        "Communist state",
+        "Protectorate"
+      ],
+      "answer": 3,
+      "explanation": "Protectorate (noun) — State protected by a stronger one."
+    },
+    {
+      "id": "for-q92",
+      "question": "Which word means: \"Self-governing former colony.\"?",
+      "options": [
+        "Parliamentary system",
+        "Dominion",
+        "Semi-presidential",
+        "Matriarchy"
+      ],
+      "answer": 1,
+      "explanation": "Dominion (noun) — Self-governing former colony."
+    },
+    {
+      "id": "for-q93",
+      "question": "Which word means: \"Control over another state's foreign affairs.\"?",
+      "options": [
+        "Suzerainty",
+        "Caretaker government",
+        "Suffrage",
+        "Nomocracy"
+      ],
+      "answer": 0,
+      "explanation": "Suzerainty (noun) — Control over another state's foreign affairs."
+    },
+    {
+      "id": "for-q94",
+      "question": "Which word means: \"Nominally independent but externally controlled.\"?",
+      "options": [
+        "Ergatocracy",
+        "Stratocracy",
+        "Cyberocracy",
+        "Puppet regime"
+      ],
+      "answer": 3,
+      "explanation": "Puppet regime (noun) — Nominally independent but externally controlled."
+    },
+    {
+      "id": "for-q95",
+      "question": "Which word means: \"Period between two reigns.\"?",
+      "options": [
+        "Direct rule",
+        "Interregnum",
+        "Timocracy",
+        "One-party state"
+      ],
+      "answer": 1,
+      "explanation": "Interregnum (noun) — Period between two reigns."
+    },
+    {
+      "id": "for-q96",
+      "question": "Which word means: \"Temporary government after change.\"?",
+      "options": [
+        "Corporatocracy",
+        "Provisional government",
+        "Constitutional monarchy",
+        "Fascist state"
+      ],
+      "answer": 1,
+      "explanation": "Provisional government (noun) — Temporary government after change."
+    },
+    {
+      "id": "for-q97",
+      "question": "Which word means: \"Rulers displaced from home country.\"?",
+      "options": [
+        "Bureaucracy",
+        "Gerontocracy",
+        "Government-in-exile",
+        "Federation"
+      ],
+      "answer": 2,
+      "explanation": "Government-in-exile (noun) — Rulers displaced from home country."
+    },
+    {
+      "id": "for-q98",
+      "question": "Which word means: \"Only one legal party.\"?",
+      "options": [
+        "One-party state",
+        "Pantisocracy",
+        "Ergatocracy",
+        "Referendum"
+      ],
+      "answer": 0,
+      "explanation": "One-party state (noun) — Only one legal party."
+    },
+    {
+      "id": "for-q99",
+      "question": "Which word means: \"Several competing parties.\"?",
+      "options": [
+        "Timocracy",
+        "Coalition government",
+        "Authoritarianism",
+        "Multi-party system"
+      ],
+      "answer": 3,
+      "explanation": "Multi-party system (noun) — Several competing parties."
+    },
+    {
+      "id": "for-q100",
+      "question": "Which word means: \"Central government rules a region directly.\"?",
+      "options": [
+        "Dictatorship",
+        "Parliamentary system",
+        "Thalassocracy",
+        "Direct rule"
+      ],
+      "answer": 3,
+      "explanation": "Direct rule (noun) — Central government rules a region directly."
+    }
+  ]
+}

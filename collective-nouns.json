@@ -1,0 +1,1908 @@
+{
+  "category": "collective-nouns",
+  "title": "Collective Nouns",
+  "words": [
+    {
+      "id": "cn-01",
+      "word": "Pride",
+      "pos": "noun",
+      "definition": "A group of lions.",
+      "example": "A pride of lions rested in the shade."
+    },
+    {
+      "id": "cn-02",
+      "word": "Pack",
+      "pos": "noun",
+      "definition": "A group of wolves, dogs, or hyenas.",
+      "example": "The pack tracked the elk for miles."
+    },
+    {
+      "id": "cn-03",
+      "word": "Herd",
+      "pos": "noun",
+      "definition": "A large group of cattle, elephants, or other mammals.",
+      "example": "A herd of elephants crossed the plain."
+    },
+    {
+      "id": "cn-04",
+      "word": "Flock",
+      "pos": "noun",
+      "definition": "A group of birds or sheep.",
+      "example": "A flock of geese passed overhead."
+    },
+    {
+      "id": "cn-05",
+      "word": "Swarm",
+      "pos": "noun",
+      "definition": "A large group of insects.",
+      "example": "A swarm of bees pursued the beekeeper."
+    },
+    {
+      "id": "cn-06",
+      "word": "School",
+      "pos": "noun",
+      "definition": "A large group of fish.",
+      "example": "A school of tuna moved as one."
+    },
+    {
+      "id": "cn-07",
+      "word": "Shoal",
+      "pos": "noun",
+      "definition": "A large number of fish swimming together.",
+      "example": "A shoal of herring shimmered near the boat."
+    },
+    {
+      "id": "cn-08",
+      "word": "Pod",
+      "pos": "noun",
+      "definition": "A group of whales, dolphins, or seals.",
+      "example": "A pod of dolphins escorted the yacht."
+    },
+    {
+      "id": "cn-09",
+      "word": "Colony",
+      "pos": "noun",
+      "definition": "A group of ants, bees, or bats.",
+      "example": "A colony of ants swarmed the picnic."
+    },
+    {
+      "id": "cn-10",
+      "word": "Hive",
+      "pos": "noun",
+      "definition": "A community of honeybees.",
+      "example": "The hive produced twenty pounds of honey."
+    },
+    {
+      "id": "cn-11",
+      "word": "Litter",
+      "pos": "noun",
+      "definition": "A number of young born to an animal at one time.",
+      "example": "The litter had six healthy puppies."
+    },
+    {
+      "id": "cn-12",
+      "word": "Brood",
+      "pos": "noun",
+      "definition": "A family of young birds hatched together.",
+      "example": "The hen fussed over her brood."
+    },
+    {
+      "id": "cn-13",
+      "word": "Clutch",
+      "pos": "noun",
+      "definition": "A group of eggs, or the chicks hatched from them.",
+      "example": "The clutch of eggs was carefully warmed."
+    },
+    {
+      "id": "cn-14",
+      "word": "Gaggle",
+      "pos": "noun",
+      "definition": "A group of geese on the ground.",
+      "example": "A gaggle of geese blocked the path."
+    },
+    {
+      "id": "cn-15",
+      "word": "Skein",
+      "pos": "noun",
+      "definition": "A flock of geese in flight.",
+      "example": "A skein of geese arrowed south."
+    },
+    {
+      "id": "cn-16",
+      "word": "Murder",
+      "pos": "noun",
+      "definition": "A group of crows.",
+      "example": "A murder of crows circled the field."
+    },
+    {
+      "id": "cn-17",
+      "word": "Unkindness",
+      "pos": "noun",
+      "definition": "A group of ravens.",
+      "example": "An unkindness of ravens perched on the ruins."
+    },
+    {
+      "id": "cn-18",
+      "word": "Parliament",
+      "pos": "noun",
+      "definition": "A group of owls.",
+      "example": "A parliament of owls hooted through the night."
+    },
+    {
+      "id": "cn-19",
+      "word": "Murmuration",
+      "pos": "noun",
+      "definition": "A large flock of starlings.",
+      "example": "A murmuration of starlings shifted like smoke."
+    },
+    {
+      "id": "cn-20",
+      "word": "Charm",
+      "pos": "noun",
+      "definition": "A group of hummingbirds or finches.",
+      "example": "A charm of goldfinches settled on the thistles."
+    },
+    {
+      "id": "cn-21",
+      "word": "Exaltation",
+      "pos": "noun",
+      "definition": "A group of larks.",
+      "example": "An exaltation of larks rose from the meadow."
+    },
+    {
+      "id": "cn-22",
+      "word": "Convocation",
+      "pos": "noun",
+      "definition": "A group of eagles.",
+      "example": "A convocation of eagles gathered near the carcass."
+    },
+    {
+      "id": "cn-23",
+      "word": "Kettle",
+      "pos": "noun",
+      "definition": "A group of hawks circling in flight.",
+      "example": "A kettle of hawks rode a thermal."
+    },
+    {
+      "id": "cn-24",
+      "word": "Cast",
+      "pos": "noun",
+      "definition": "A group of hawks released at once.",
+      "example": "The falconer's cast of hawks flew as a pair."
+    },
+    {
+      "id": "cn-25",
+      "word": "Cete",
+      "pos": "noun",
+      "definition": "A group of badgers.",
+      "example": "A cete of badgers occupied the old sett."
+    },
+    {
+      "id": "cn-26",
+      "word": "Sloth",
+      "pos": "noun",
+      "definition": "A group of bears.",
+      "example": "A sloth of bears fished the salmon run."
+    },
+    {
+      "id": "cn-27",
+      "word": "Sleuth",
+      "pos": "noun",
+      "definition": "A group of bears.",
+      "example": "A sleuth of bears surprised the campers."
+    },
+    {
+      "id": "cn-28",
+      "word": "Skulk",
+      "pos": "noun",
+      "definition": "A group of foxes.",
+      "example": "A skulk of foxes wove through the hedgerow."
+    },
+    {
+      "id": "cn-29",
+      "word": "Business",
+      "pos": "noun",
+      "definition": "A group of ferrets.",
+      "example": "A business of ferrets tumbled about the yard."
+    },
+    {
+      "id": "cn-30",
+      "word": "Prickle",
+      "pos": "noun",
+      "definition": "A group of hedgehogs.",
+      "example": "A prickle of hedgehogs is rarely seen together."
+    },
+    {
+      "id": "cn-31",
+      "word": "Cauldron",
+      "pos": "noun",
+      "definition": "A group of bats in flight.",
+      "example": "A cauldron of bats swirled at dusk."
+    },
+    {
+      "id": "cn-32",
+      "word": "Troop",
+      "pos": "noun",
+      "definition": "A group of monkeys or baboons.",
+      "example": "A troop of baboons descended for water."
+    },
+    {
+      "id": "cn-33",
+      "word": "Barrel",
+      "pos": "noun",
+      "definition": "A group of monkeys.",
+      "example": "A barrel of monkeys is a proverbially raucous sight."
+    },
+    {
+      "id": "cn-34",
+      "word": "Crash",
+      "pos": "noun",
+      "definition": "A group of rhinoceroses.",
+      "example": "A crash of rhinos thundered across the plain."
+    },
+    {
+      "id": "cn-35",
+      "word": "Tower",
+      "pos": "noun",
+      "definition": "A group of giraffes.",
+      "example": "A tower of giraffes browsed the acacias."
+    },
+    {
+      "id": "cn-36",
+      "word": "Journey",
+      "pos": "noun",
+      "definition": "A group of giraffes when moving.",
+      "example": "A journey of giraffes crossed the road."
+    },
+    {
+      "id": "cn-37",
+      "word": "Zeal",
+      "pos": "noun",
+      "definition": "A group of zebras.",
+      "example": "A zeal of zebras drifted toward the waterhole."
+    },
+    {
+      "id": "cn-38",
+      "word": "Dazzle",
+      "pos": "noun",
+      "definition": "A group of zebras.",
+      "example": "A dazzle of zebras confuses predators."
+    },
+    {
+      "id": "cn-39",
+      "word": "Ambush",
+      "pos": "noun",
+      "definition": "A group of tigers.",
+      "example": "An ambush of tigers is a rare sight."
+    },
+    {
+      "id": "cn-40",
+      "word": "Streak",
+      "pos": "noun",
+      "definition": "A group of tigers.",
+      "example": "A streak of tigers moved through the reeds."
+    },
+    {
+      "id": "cn-41",
+      "word": "Coalition",
+      "pos": "noun",
+      "definition": "A group of cheetahs.",
+      "example": "A coalition of cheetahs, usually brothers, hunts together."
+    },
+    {
+      "id": "cn-42",
+      "word": "Congress",
+      "pos": "noun",
+      "definition": "A group of baboons or salamanders.",
+      "example": "A congress of baboons occupied the ridge."
+    },
+    {
+      "id": "cn-43",
+      "word": "Rout",
+      "pos": "noun",
+      "definition": "A group of wolves on the move.",
+      "example": "A rout of wolves streamed over the ridge."
+    },
+    {
+      "id": "cn-44",
+      "word": "Bloat",
+      "pos": "noun",
+      "definition": "A group of hippopotamuses.",
+      "example": "A bloat of hippos wallowed at the shore."
+    },
+    {
+      "id": "cn-45",
+      "word": "Army",
+      "pos": "noun",
+      "definition": "A group of ants or frogs.",
+      "example": "An army of ants dismantled the fallen fig."
+    },
+    {
+      "id": "cn-46",
+      "word": "Nest",
+      "pos": "noun",
+      "definition": "A group of mice, snakes, or wasps.",
+      "example": "A nest of snakes lay coiled among the rocks."
+    },
+    {
+      "id": "cn-47",
+      "word": "Bed",
+      "pos": "noun",
+      "definition": "A group of clams, oysters, or snakes.",
+      "example": "A bed of oysters clung to the pilings."
+    },
+    {
+      "id": "cn-48",
+      "word": "Fever",
+      "pos": "noun",
+      "definition": "A group of stingrays.",
+      "example": "A fever of stingrays glided along the seabed."
+    },
+    {
+      "id": "cn-49",
+      "word": "Bloom",
+      "pos": "noun",
+      "definition": "A group of jellyfish.",
+      "example": "A bloom of jellyfish closed the beach."
+    },
+    {
+      "id": "cn-50",
+      "word": "Consortium",
+      "pos": "noun",
+      "definition": "A group of octopuses.",
+      "example": "A consortium of octopuses is fabled rather than typical."
+    },
+    {
+      "id": "cn-051",
+      "word": "Aerie",
+      "pos": "noun",
+      "definition": "A group of eagles or hawks.",
+      "example": "An aerie soared over the cliff."
+    },
+    {
+      "id": "cn-052",
+      "word": "Ambush of tigers",
+      "pos": "noun",
+      "definition": "A group of tigers.",
+      "example": "An ambush of tigers stalked the deer."
+    },
+    {
+      "id": "cn-053",
+      "word": "Army of ants",
+      "pos": "noun",
+      "definition": "A group of ants.",
+      "example": "An army of ants crossed the path."
+    },
+    {
+      "id": "cn-054",
+      "word": "Band of gorillas",
+      "pos": "noun",
+      "definition": "A group of gorillas.",
+      "example": "A band of gorillas rested in the shade."
+    },
+    {
+      "id": "cn-055",
+      "word": "Bevy of quails",
+      "pos": "noun",
+      "definition": "A group of quails.",
+      "example": "A bevy of quails burst from the grass."
+    },
+    {
+      "id": "cn-056",
+      "word": "Bloat of hippos",
+      "pos": "noun",
+      "definition": "A group of hippos.",
+      "example": "A bloat of hippos wallowed in the mud."
+    },
+    {
+      "id": "cn-057",
+      "word": "Cackle of hyenas",
+      "pos": "noun",
+      "definition": "A group of hyenas.",
+      "example": "A cackle of hyenas echoed at night."
+    },
+    {
+      "id": "cn-058",
+      "word": "Chain of bobolinks",
+      "pos": "noun",
+      "definition": "A group of bobolinks.",
+      "example": "A chain of bobolinks passed overhead."
+    },
+    {
+      "id": "cn-059",
+      "word": "Clowder of cats",
+      "pos": "noun",
+      "definition": "A group of cats.",
+      "example": "A clowder of cats gathered in the yard."
+    },
+    {
+      "id": "cn-060",
+      "word": "Cluster of grasshoppers",
+      "pos": "noun",
+      "definition": "A group of grasshoppers.",
+      "example": "A cluster of grasshoppers hopped ahead."
+    },
+    {
+      "id": "cn-061",
+      "word": "Colony of ants",
+      "pos": "noun",
+      "definition": "A group of ants.",
+      "example": "The colony of ants built quickly."
+    },
+    {
+      "id": "cn-062",
+      "word": "Congregation of alligators",
+      "pos": "noun",
+      "definition": "A group of alligators.",
+      "example": "A congregation of alligators basked."
+    },
+    {
+      "id": "cn-063",
+      "word": "Convocation of eagles",
+      "pos": "noun",
+      "definition": "A group of eagles.",
+      "example": "A convocation of eagles circled the peak."
+    },
+    {
+      "id": "cn-064",
+      "word": "Coven of witches",
+      "pos": "noun",
+      "definition": "A group of witches.",
+      "example": "A coven of witches met at midnight."
+    },
+    {
+      "id": "cn-065",
+      "word": "Descent of woodpeckers",
+      "pos": "noun",
+      "definition": "A group of woodpeckers.",
+      "example": "A descent of woodpeckers tapped the trunks."
+    },
+    {
+      "id": "cn-066",
+      "word": "Down of hares",
+      "pos": "noun",
+      "definition": "A group of hares.",
+      "example": "A down of hares scattered."
+    },
+    {
+      "id": "cn-067",
+      "word": "Drove of cattle",
+      "pos": "noun",
+      "definition": "A group of cattle.",
+      "example": "A drove of cattle crossed the road."
+    },
+    {
+      "id": "cn-068",
+      "word": "Family of otters",
+      "pos": "noun",
+      "definition": "A group of otters.",
+      "example": "A family of otters played by the river."
+    },
+    {
+      "id": "cn-069",
+      "word": "Flamboyance of flamingos",
+      "pos": "noun",
+      "definition": "A group of flamingos.",
+      "example": "A flamboyance of flamingos lit the lake."
+    },
+    {
+      "id": "cn-070",
+      "word": "Flotilla of ships",
+      "pos": "noun",
+      "definition": "A group of ships.",
+      "example": "A flotilla of ships entered the port."
+    },
+    {
+      "id": "cn-071",
+      "word": "Gam of whales",
+      "pos": "noun",
+      "definition": "A group of whales.",
+      "example": "A gam of whales sang below."
+    },
+    {
+      "id": "cn-072",
+      "word": "Gang of buffalo",
+      "pos": "noun",
+      "definition": "A group of buffalo.",
+      "example": "A gang of buffalo grazed nearby."
+    },
+    {
+      "id": "cn-073",
+      "word": "Glaring of cats",
+      "pos": "noun",
+      "definition": "A group of cats.",
+      "example": "A glaring of cats stared back."
+    },
+    {
+      "id": "cn-074",
+      "word": "Grist of bees",
+      "pos": "noun",
+      "definition": "A group of bees.",
+      "example": "A grist of bees hovered above."
+    },
+    {
+      "id": "cn-075",
+      "word": "Herd of elephants",
+      "pos": "noun",
+      "definition": "A group of elephants.",
+      "example": "A herd of elephants crossed the plain."
+    },
+    {
+      "id": "cn-076",
+      "word": "Hive of bees",
+      "pos": "noun",
+      "definition": "A group of bees.",
+      "example": "A hive of bees hummed in the tree."
+    },
+    {
+      "id": "cn-077",
+      "word": "Horde of hamsters",
+      "pos": "noun",
+      "definition": "A group of hamsters.",
+      "example": "A horde of hamsters filled the cage."
+    },
+    {
+      "id": "cn-078",
+      "word": "Kindle of kittens",
+      "pos": "noun",
+      "definition": "A group of kittens.",
+      "example": "A kindle of kittens mewed."
+    },
+    {
+      "id": "cn-079",
+      "word": "Knot of toads",
+      "pos": "noun",
+      "definition": "A group of toads.",
+      "example": "A knot of toads huddled by the pond."
+    },
+    {
+      "id": "cn-080",
+      "word": "Labor of moles",
+      "pos": "noun",
+      "definition": "A group of moles.",
+      "example": "A labor of moles worked the field."
+    },
+    {
+      "id": "cn-081",
+      "word": "Leap of leopards",
+      "pos": "noun",
+      "definition": "A group of leopards.",
+      "example": "A leap of leopards is a rare sight."
+    },
+    {
+      "id": "cn-082",
+      "word": "Mob of kangaroos",
+      "pos": "noun",
+      "definition": "A group of kangaroos.",
+      "example": "A mob of kangaroos bounced away."
+    },
+    {
+      "id": "cn-083",
+      "word": "Muster of storks",
+      "pos": "noun",
+      "definition": "A group of storks.",
+      "example": "A muster of storks lined the roof."
+    },
+    {
+      "id": "cn-084",
+      "word": "Nest of mice",
+      "pos": "noun",
+      "definition": "A group of mice.",
+      "example": "A nest of mice hid in the barn."
+    },
+    {
+      "id": "cn-085",
+      "word": "Pandemonium of parrots",
+      "pos": "noun",
+      "definition": "A group of parrots.",
+      "example": "A pandemonium of parrots screeched."
+    },
+    {
+      "id": "cn-086",
+      "word": "Parade of elephants",
+      "pos": "noun",
+      "definition": "A group of elephants.",
+      "example": "A parade of elephants delighted the crowd."
+    },
+    {
+      "id": "cn-087",
+      "word": "Plague of locusts",
+      "pos": "noun",
+      "definition": "A group of locusts.",
+      "example": "A plague of locusts ravaged the crops."
+    },
+    {
+      "id": "cn-088",
+      "word": "Prickle of hedgehogs",
+      "pos": "noun",
+      "definition": "A group of hedgehogs.",
+      "example": "A prickle of hedgehogs foraged."
+    },
+    {
+      "id": "cn-089",
+      "word": "Quiver of cobras",
+      "pos": "noun",
+      "definition": "A group of cobras.",
+      "example": "A quiver of cobras coiled together."
+    },
+    {
+      "id": "cn-090",
+      "word": "Rafter of turkeys",
+      "pos": "noun",
+      "definition": "A group of turkeys.",
+      "example": "A rafter of turkeys crossed the road."
+    },
+    {
+      "id": "cn-091",
+      "word": "Rhumba of rattlesnakes",
+      "pos": "noun",
+      "definition": "A group of rattlesnakes.",
+      "example": "A rhumba of rattlesnakes shook their tails."
+    },
+    {
+      "id": "cn-092",
+      "word": "Romp of otters",
+      "pos": "noun",
+      "definition": "A group of otters.",
+      "example": "A romp of otters splashed noisily."
+    },
+    {
+      "id": "cn-093",
+      "word": "School of fish",
+      "pos": "noun",
+      "definition": "A group of fish.",
+      "example": "A school of fish darted below."
+    },
+    {
+      "id": "cn-094",
+      "word": "Shrewdness of apes",
+      "pos": "noun",
+      "definition": "A group of apes.",
+      "example": "A shrewdness of apes solved the puzzle."
+    },
+    {
+      "id": "cn-095",
+      "word": "Skulk of foxes",
+      "pos": "noun",
+      "definition": "A group of foxes.",
+      "example": "A skulk of foxes hunted at dusk."
+    },
+    {
+      "id": "cn-096",
+      "word": "Sounder of pigs",
+      "pos": "noun",
+      "definition": "A group of pigs.",
+      "example": "A sounder of pigs rooted in the mud."
+    },
+    {
+      "id": "cn-097",
+      "word": "String of ponies",
+      "pos": "noun",
+      "definition": "A group of ponies.",
+      "example": "A string of ponies trotted along."
+    },
+    {
+      "id": "cn-098",
+      "word": "Team of horses",
+      "pos": "noun",
+      "definition": "A group of horses.",
+      "example": "A team of horses pulled the wagon."
+    },
+    {
+      "id": "cn-099",
+      "word": "Troubling of goldfish",
+      "pos": "noun",
+      "definition": "A group of goldfish.",
+      "example": "A troubling of goldfish circled the tank."
+    },
+    {
+      "id": "cn-100",
+      "word": "Wisdom of wombats",
+      "pos": "noun",
+      "definition": "A group of wombats.",
+      "example": "A wisdom of wombats grazed at dusk."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "col-q1",
+      "question": "Which word means: \"A group of lions.\"?",
+      "options": [
+        "Band of gorillas",
+        "Hive",
+        "Rafter of turkeys",
+        "Pride"
+      ],
+      "answer": 3,
+      "explanation": "Pride (noun) — A group of lions."
+    },
+    {
+      "id": "col-q2",
+      "question": "Which word means: \"A group of wolves, dogs, or hyenas.\"?",
+      "options": [
+        "Troop",
+        "Pack",
+        "Parade of elephants",
+        "Crash"
+      ],
+      "answer": 1,
+      "explanation": "Pack (noun) — A group of wolves, dogs, or hyenas."
+    },
+    {
+      "id": "col-q3",
+      "question": "Which word means: \"A large group of cattle, elephants, or other mammals.\"?",
+      "options": [
+        "Consortium",
+        "Litter",
+        "Clowder of cats",
+        "Herd"
+      ],
+      "answer": 3,
+      "explanation": "Herd (noun) — A large group of cattle, elephants, or other mammals."
+    },
+    {
+      "id": "col-q4",
+      "question": "Which word means: \"A group of birds or sheep.\"?",
+      "options": [
+        "Down of hares",
+        "Flotilla of ships",
+        "Rafter of turkeys",
+        "Flock"
+      ],
+      "answer": 3,
+      "explanation": "Flock (noun) — A group of birds or sheep."
+    },
+    {
+      "id": "col-q5",
+      "question": "Which word means: \"A large group of insects.\"?",
+      "options": [
+        "Rhumba of rattlesnakes",
+        "Flotilla of ships",
+        "Swarm",
+        "Fever"
+      ],
+      "answer": 2,
+      "explanation": "Swarm (noun) — A large group of insects."
+    },
+    {
+      "id": "col-q6",
+      "question": "Which word means: \"A large group of fish.\"?",
+      "options": [
+        "School",
+        "Parade of elephants",
+        "Bed",
+        "Plague of locusts"
+      ],
+      "answer": 0,
+      "explanation": "School (noun) — A large group of fish."
+    },
+    {
+      "id": "col-q7",
+      "question": "Which word means: \"A large number of fish swimming together.\"?",
+      "options": [
+        "Grist of bees",
+        "Prickle of hedgehogs",
+        "Nest of mice",
+        "Shoal"
+      ],
+      "answer": 3,
+      "explanation": "Shoal (noun) — A large number of fish swimming together."
+    },
+    {
+      "id": "col-q8",
+      "question": "Which word means: \"A group of whales, dolphins, or seals.\"?",
+      "options": [
+        "Pack",
+        "Pod",
+        "Skein",
+        "Gaggle"
+      ],
+      "answer": 1,
+      "explanation": "Pod (noun) — A group of whales, dolphins, or seals."
+    },
+    {
+      "id": "col-q9",
+      "question": "Which word means: \"A group of ants, bees, or bats.\"?",
+      "options": [
+        "Bloom",
+        "Clowder of cats",
+        "Ambush of tigers",
+        "Colony"
+      ],
+      "answer": 3,
+      "explanation": "Colony (noun) — A group of ants, bees, or bats."
+    },
+    {
+      "id": "col-q10",
+      "question": "Which word means: \"A community of honeybees.\"?",
+      "options": [
+        "Hive",
+        "Convocation of eagles",
+        "Flock",
+        "Nest"
+      ],
+      "answer": 0,
+      "explanation": "Hive (noun) — A community of honeybees."
+    },
+    {
+      "id": "col-q11",
+      "question": "Which word means: \"A number of young born to an animal at one time.\"?",
+      "options": [
+        "Brood",
+        "Skulk of foxes",
+        "Litter",
+        "Murder"
+      ],
+      "answer": 2,
+      "explanation": "Litter (noun) — A number of young born to an animal at one time."
+    },
+    {
+      "id": "col-q12",
+      "question": "Which word means: \"A family of young birds hatched together.\"?",
+      "options": [
+        "Army",
+        "Skulk",
+        "Cluster of grasshoppers",
+        "Brood"
+      ],
+      "answer": 3,
+      "explanation": "Brood (noun) — A family of young birds hatched together."
+    },
+    {
+      "id": "col-q13",
+      "question": "Which word means: \"A group of eggs, or the chicks hatched from them.\"?",
+      "options": [
+        "Shrewdness of apes",
+        "Gaggle",
+        "Chain of bobolinks",
+        "Clutch"
+      ],
+      "answer": 3,
+      "explanation": "Clutch (noun) — A group of eggs, or the chicks hatched from them."
+    },
+    {
+      "id": "col-q14",
+      "question": "Which word means: \"A group of geese on the ground.\"?",
+      "options": [
+        "Romp of otters",
+        "School",
+        "Gaggle",
+        "Streak"
+      ],
+      "answer": 2,
+      "explanation": "Gaggle (noun) — A group of geese on the ground."
+    },
+    {
+      "id": "col-q15",
+      "question": "Which word means: \"A flock of geese in flight.\"?",
+      "options": [
+        "Skein",
+        "Nest of mice",
+        "Prickle of hedgehogs",
+        "Gaggle"
+      ],
+      "answer": 0,
+      "explanation": "Skein (noun) — A flock of geese in flight."
+    },
+    {
+      "id": "col-q16",
+      "question": "Which word means: \"A group of crows.\"?",
+      "options": [
+        "Family of otters",
+        "Gang of buffalo",
+        "Murder",
+        "Cast"
+      ],
+      "answer": 2,
+      "explanation": "Murder (noun) — A group of crows."
+    },
+    {
+      "id": "col-q17",
+      "question": "Which word means: \"A group of ravens.\"?",
+      "options": [
+        "Army of ants",
+        "Unkindness",
+        "Colony of ants",
+        "Cauldron"
+      ],
+      "answer": 1,
+      "explanation": "Unkindness (noun) — A group of ravens."
+    },
+    {
+      "id": "col-q18",
+      "question": "Which word means: \"A group of owls.\"?",
+      "options": [
+        "Ambush of tigers",
+        "Sounder of pigs",
+        "Parliament",
+        "Flock"
+      ],
+      "answer": 2,
+      "explanation": "Parliament (noun) — A group of owls."
+    },
+    {
+      "id": "col-q19",
+      "question": "Which word means: \"A large flock of starlings.\"?",
+      "options": [
+        "Romp of otters",
+        "Murmuration",
+        "Aerie",
+        "Pride"
+      ],
+      "answer": 1,
+      "explanation": "Murmuration (noun) — A large flock of starlings."
+    },
+    {
+      "id": "col-q20",
+      "question": "Which word means: \"A group of hummingbirds or finches.\"?",
+      "options": [
+        "Romp of otters",
+        "Charm",
+        "Colony",
+        "Team of horses"
+      ],
+      "answer": 1,
+      "explanation": "Charm (noun) — A group of hummingbirds or finches."
+    },
+    {
+      "id": "col-q21",
+      "question": "Which word means: \"A group of larks.\"?",
+      "options": [
+        "Sleuth",
+        "Rout",
+        "Fever",
+        "Exaltation"
+      ],
+      "answer": 3,
+      "explanation": "Exaltation (noun) — A group of larks."
+    },
+    {
+      "id": "col-q22",
+      "question": "Which word means: \"A group of eagles.\"?",
+      "options": [
+        "Plague of locusts",
+        "Coven of witches",
+        "Convocation",
+        "Flamboyance of flamingos"
+      ],
+      "answer": 2,
+      "explanation": "Convocation (noun) — A group of eagles."
+    },
+    {
+      "id": "col-q23",
+      "question": "Which word means: \"A group of hawks circling in flight.\"?",
+      "options": [
+        "Kettle",
+        "Horde of hamsters",
+        "Ambush of tigers",
+        "Labor of moles"
+      ],
+      "answer": 0,
+      "explanation": "Kettle (noun) — A group of hawks circling in flight."
+    },
+    {
+      "id": "col-q24",
+      "question": "Which word means: \"A group of hawks released at once.\"?",
+      "options": [
+        "Leap of leopards",
+        "Cluster of grasshoppers",
+        "Cast",
+        "Kettle"
+      ],
+      "answer": 2,
+      "explanation": "Cast (noun) — A group of hawks released at once."
+    },
+    {
+      "id": "col-q25",
+      "question": "Which word means: \"A group of badgers.\"?",
+      "options": [
+        "Congress",
+        "Parliament",
+        "Cete",
+        "Prickle of hedgehogs"
+      ],
+      "answer": 2,
+      "explanation": "Cete (noun) — A group of badgers."
+    },
+    {
+      "id": "col-q26",
+      "question": "Which word means: \"A group of bears.\"?",
+      "options": [
+        "Skein",
+        "Sloth",
+        "Bloom",
+        "Cast"
+      ],
+      "answer": 1,
+      "explanation": "Sloth (noun) — A group of bears."
+    },
+    {
+      "id": "col-q27",
+      "question": "Which word means: \"A group of bears.\"?",
+      "options": [
+        "Parliament",
+        "Bevy of quails",
+        "Kindle of kittens",
+        "Sleuth"
+      ],
+      "answer": 3,
+      "explanation": "Sleuth (noun) — A group of bears."
+    },
+    {
+      "id": "col-q28",
+      "question": "Which word means: \"A group of foxes.\"?",
+      "options": [
+        "Skulk",
+        "Coven of witches",
+        "Flotilla of ships",
+        "Muster of storks"
+      ],
+      "answer": 0,
+      "explanation": "Skulk (noun) — A group of foxes."
+    },
+    {
+      "id": "col-q29",
+      "question": "Which word means: \"A group of ferrets.\"?",
+      "options": [
+        "Coven of witches",
+        "Parliament",
+        "Business",
+        "Dazzle"
+      ],
+      "answer": 2,
+      "explanation": "Business (noun) — A group of ferrets."
+    },
+    {
+      "id": "col-q30",
+      "question": "Which word means: \"A group of hedgehogs.\"?",
+      "options": [
+        "Bed",
+        "Prickle",
+        "Shoal",
+        "Leap of leopards"
+      ],
+      "answer": 1,
+      "explanation": "Prickle (noun) — A group of hedgehogs."
+    },
+    {
+      "id": "col-q31",
+      "question": "Which word means: \"A group of bats in flight.\"?",
+      "options": [
+        "Cete",
+        "Glaring of cats",
+        "Aerie",
+        "Cauldron"
+      ],
+      "answer": 3,
+      "explanation": "Cauldron (noun) — A group of bats in flight."
+    },
+    {
+      "id": "col-q32",
+      "question": "Which word means: \"A group of monkeys or baboons.\"?",
+      "options": [
+        "Romp of otters",
+        "Chain of bobolinks",
+        "Bevy of quails",
+        "Troop"
+      ],
+      "answer": 3,
+      "explanation": "Troop (noun) — A group of monkeys or baboons."
+    },
+    {
+      "id": "col-q33",
+      "question": "Which word means: \"A group of monkeys.\"?",
+      "options": [
+        "Troubling of goldfish",
+        "Grist of bees",
+        "Barrel",
+        "Flock"
+      ],
+      "answer": 2,
+      "explanation": "Barrel (noun) — A group of monkeys."
+    },
+    {
+      "id": "col-q34",
+      "question": "Which word means: \"A group of rhinoceroses.\"?",
+      "options": [
+        "Crash",
+        "Business",
+        "Zeal",
+        "Flotilla of ships"
+      ],
+      "answer": 0,
+      "explanation": "Crash (noun) — A group of rhinoceroses."
+    },
+    {
+      "id": "col-q35",
+      "question": "Which word means: \"A group of giraffes.\"?",
+      "options": [
+        "String of ponies",
+        "Grist of bees",
+        "Wisdom of wombats",
+        "Tower"
+      ],
+      "answer": 3,
+      "explanation": "Tower (noun) — A group of giraffes."
+    },
+    {
+      "id": "col-q36",
+      "question": "Which word means: \"A group of giraffes when moving.\"?",
+      "options": [
+        "Skein",
+        "Herd of elephants",
+        "Journey",
+        "Tower"
+      ],
+      "answer": 2,
+      "explanation": "Journey (noun) — A group of giraffes when moving."
+    },
+    {
+      "id": "col-q37",
+      "question": "Which word means: \"A group of zebras.\"?",
+      "options": [
+        "Chain of bobolinks",
+        "Troubling of goldfish",
+        "Zeal",
+        "Shrewdness of apes"
+      ],
+      "answer": 2,
+      "explanation": "Zeal (noun) — A group of zebras."
+    },
+    {
+      "id": "col-q38",
+      "question": "Which word means: \"A group of zebras.\"?",
+      "options": [
+        "Team of horses",
+        "Sounder of pigs",
+        "Dazzle",
+        "Pandemonium of parrots"
+      ],
+      "answer": 2,
+      "explanation": "Dazzle (noun) — A group of zebras."
+    },
+    {
+      "id": "col-q39",
+      "question": "Which word means: \"A group of tigers.\"?",
+      "options": [
+        "Nest",
+        "Ambush",
+        "Crash",
+        "Clowder of cats"
+      ],
+      "answer": 1,
+      "explanation": "Ambush (noun) — A group of tigers."
+    },
+    {
+      "id": "col-q40",
+      "question": "Which word means: \"A group of tigers.\"?",
+      "options": [
+        "Cauldron",
+        "Sleuth",
+        "Streak",
+        "Sounder of pigs"
+      ],
+      "answer": 2,
+      "explanation": "Streak (noun) — A group of tigers."
+    },
+    {
+      "id": "col-q41",
+      "question": "Which word means: \"A group of cheetahs.\"?",
+      "options": [
+        "Coalition",
+        "Parliament",
+        "Convocation",
+        "Labor of moles"
+      ],
+      "answer": 0,
+      "explanation": "Coalition (noun) — A group of cheetahs."
+    },
+    {
+      "id": "col-q42",
+      "question": "Which word means: \"A group of baboons or salamanders.\"?",
+      "options": [
+        "Nest",
+        "Grist of bees",
+        "Congress",
+        "Flotilla of ships"
+      ],
+      "answer": 2,
+      "explanation": "Congress (noun) — A group of baboons or salamanders."
+    },
+    {
+      "id": "col-q43",
+      "question": "Which word means: \"A group of wolves on the move.\"?",
+      "options": [
+        "Congress",
+        "Romp of otters",
+        "Rout",
+        "Dazzle"
+      ],
+      "answer": 2,
+      "explanation": "Rout (noun) — A group of wolves on the move."
+    },
+    {
+      "id": "col-q44",
+      "question": "Which word means: \"A group of hippopotamuses.\"?",
+      "options": [
+        "Clutch",
+        "Drove of cattle",
+        "Bloat",
+        "Prickle of hedgehogs"
+      ],
+      "answer": 2,
+      "explanation": "Bloat (noun) — A group of hippopotamuses."
+    },
+    {
+      "id": "col-q45",
+      "question": "Which word means: \"A group of ants or frogs.\"?",
+      "options": [
+        "Army",
+        "Unkindness",
+        "Journey",
+        "Pandemonium of parrots"
+      ],
+      "answer": 0,
+      "explanation": "Army (noun) — A group of ants or frogs."
+    },
+    {
+      "id": "col-q46",
+      "question": "Which word means: \"A group of mice, snakes, or wasps.\"?",
+      "options": [
+        "Troop",
+        "School of fish",
+        "Congress",
+        "Nest"
+      ],
+      "answer": 3,
+      "explanation": "Nest (noun) — A group of mice, snakes, or wasps."
+    },
+    {
+      "id": "col-q47",
+      "question": "Which word means: \"A group of clams, oysters, or snakes.\"?",
+      "options": [
+        "Herd of elephants",
+        "Tower",
+        "Mob of kangaroos",
+        "Bed"
+      ],
+      "answer": 3,
+      "explanation": "Bed (noun) — A group of clams, oysters, or snakes."
+    },
+    {
+      "id": "col-q48",
+      "question": "Which word means: \"A group of stingrays.\"?",
+      "options": [
+        "Fever",
+        "Wisdom of wombats",
+        "Muster of storks",
+        "Hive"
+      ],
+      "answer": 0,
+      "explanation": "Fever (noun) — A group of stingrays."
+    },
+    {
+      "id": "col-q49",
+      "question": "Which word means: \"A group of jellyfish.\"?",
+      "options": [
+        "Cluster of grasshoppers",
+        "Rafter of turkeys",
+        "Fever",
+        "Bloom"
+      ],
+      "answer": 3,
+      "explanation": "Bloom (noun) — A group of jellyfish."
+    },
+    {
+      "id": "col-q50",
+      "question": "Which word means: \"A group of octopuses.\"?",
+      "options": [
+        "Consortium",
+        "Brood",
+        "Skulk of foxes",
+        "Cluster of grasshoppers"
+      ],
+      "answer": 0,
+      "explanation": "Consortium (noun) — A group of octopuses."
+    },
+    {
+      "id": "col-q51",
+      "question": "Which word means: \"A group of eagles or hawks.\"?",
+      "options": [
+        "Skulk",
+        "Aerie",
+        "Bloat of hippos",
+        "Descent of woodpeckers"
+      ],
+      "answer": 1,
+      "explanation": "Aerie (noun) — A group of eagles or hawks."
+    },
+    {
+      "id": "col-q52",
+      "question": "Which word means: \"A group of tigers.\"?",
+      "options": [
+        "Bloat",
+        "Ambush of tigers",
+        "Herd of elephants",
+        "Gang of buffalo"
+      ],
+      "answer": 1,
+      "explanation": "Ambush of tigers (noun) — A group of tigers."
+    },
+    {
+      "id": "col-q53",
+      "question": "Which word means: \"A group of ants.\"?",
+      "options": [
+        "Quiver of cobras",
+        "Troubling of goldfish",
+        "Army of ants",
+        "Bloat"
+      ],
+      "answer": 2,
+      "explanation": "Army of ants (noun) — A group of ants."
+    },
+    {
+      "id": "col-q54",
+      "question": "Which word means: \"A group of gorillas.\"?",
+      "options": [
+        "Herd",
+        "Cluster of grasshoppers",
+        "Band of gorillas",
+        "Mob of kangaroos"
+      ],
+      "answer": 2,
+      "explanation": "Band of gorillas (noun) — A group of gorillas."
+    },
+    {
+      "id": "col-q55",
+      "question": "Which word means: \"A group of quails.\"?",
+      "options": [
+        "Bevy of quails",
+        "Cluster of grasshoppers",
+        "Bloat of hippos",
+        "Pride"
+      ],
+      "answer": 0,
+      "explanation": "Bevy of quails (noun) — A group of quails."
+    },
+    {
+      "id": "col-q56",
+      "question": "Which word means: \"A group of hippos.\"?",
+      "options": [
+        "Bloat of hippos",
+        "Ambush",
+        "Pandemonium of parrots",
+        "Exaltation"
+      ],
+      "answer": 0,
+      "explanation": "Bloat of hippos (noun) — A group of hippos."
+    },
+    {
+      "id": "col-q57",
+      "question": "Which word means: \"A group of hyenas.\"?",
+      "options": [
+        "Fever",
+        "Cackle of hyenas",
+        "Barrel",
+        "Litter"
+      ],
+      "answer": 1,
+      "explanation": "Cackle of hyenas (noun) — A group of hyenas."
+    },
+    {
+      "id": "col-q58",
+      "question": "Which word means: \"A group of bobolinks.\"?",
+      "options": [
+        "Shrewdness of apes",
+        "Mob of kangaroos",
+        "Chain of bobolinks",
+        "Streak"
+      ],
+      "answer": 2,
+      "explanation": "Chain of bobolinks (noun) — A group of bobolinks."
+    },
+    {
+      "id": "col-q59",
+      "question": "Which word means: \"A group of cats.\"?",
+      "options": [
+        "Pride",
+        "Romp of otters",
+        "Clowder of cats",
+        "Clutch"
+      ],
+      "answer": 2,
+      "explanation": "Clowder of cats (noun) — A group of cats."
+    },
+    {
+      "id": "col-q60",
+      "question": "Which word means: \"A group of grasshoppers.\"?",
+      "options": [
+        "Horde of hamsters",
+        "Business",
+        "Unkindness",
+        "Cluster of grasshoppers"
+      ],
+      "answer": 3,
+      "explanation": "Cluster of grasshoppers (noun) — A group of grasshoppers."
+    },
+    {
+      "id": "col-q61",
+      "question": "Which word means: \"A group of ants.\"?",
+      "options": [
+        "Bloat",
+        "Rhumba of rattlesnakes",
+        "Murder",
+        "Colony of ants"
+      ],
+      "answer": 3,
+      "explanation": "Colony of ants (noun) — A group of ants."
+    },
+    {
+      "id": "col-q62",
+      "question": "Which word means: \"A group of alligators.\"?",
+      "options": [
+        "Hive",
+        "Prickle",
+        "Convocation of eagles",
+        "Congregation of alligators"
+      ],
+      "answer": 3,
+      "explanation": "Congregation of alligators (noun) — A group of alligators."
+    },
+    {
+      "id": "col-q63",
+      "question": "Which word means: \"A group of eagles.\"?",
+      "options": [
+        "Convocation of eagles",
+        "Coalition",
+        "Gaggle",
+        "Fever"
+      ],
+      "answer": 0,
+      "explanation": "Convocation of eagles (noun) — A group of eagles."
+    },
+    {
+      "id": "col-q64",
+      "question": "Which word means: \"A group of witches.\"?",
+      "options": [
+        "Coven of witches",
+        "Nest of mice",
+        "Team of horses",
+        "Parliament"
+      ],
+      "answer": 0,
+      "explanation": "Coven of witches (noun) — A group of witches."
+    },
+    {
+      "id": "col-q65",
+      "question": "Which word means: \"A group of woodpeckers.\"?",
+      "options": [
+        "Convocation",
+        "Labor of moles",
+        "Pandemonium of parrots",
+        "Descent of woodpeckers"
+      ],
+      "answer": 3,
+      "explanation": "Descent of woodpeckers (noun) — A group of woodpeckers."
+    },
+    {
+      "id": "col-q66",
+      "question": "Which word means: \"A group of hares.\"?",
+      "options": [
+        "Mob of kangaroos",
+        "String of ponies",
+        "Charm",
+        "Down of hares"
+      ],
+      "answer": 3,
+      "explanation": "Down of hares (noun) — A group of hares."
+    },
+    {
+      "id": "col-q67",
+      "question": "Which word means: \"A group of cattle.\"?",
+      "options": [
+        "Clutch",
+        "Drove of cattle",
+        "Skulk",
+        "Brood"
+      ],
+      "answer": 1,
+      "explanation": "Drove of cattle (noun) — A group of cattle."
+    },
+    {
+      "id": "col-q68",
+      "question": "Which word means: \"A group of otters.\"?",
+      "options": [
+        "Coalition",
+        "Family of otters",
+        "Army",
+        "Bevy of quails"
+      ],
+      "answer": 1,
+      "explanation": "Family of otters (noun) — A group of otters."
+    },
+    {
+      "id": "col-q69",
+      "question": "Which word means: \"A group of flamingos.\"?",
+      "options": [
+        "Litter",
+        "Nest of mice",
+        "Flamboyance of flamingos",
+        "Troop"
+      ],
+      "answer": 2,
+      "explanation": "Flamboyance of flamingos (noun) — A group of flamingos."
+    },
+    {
+      "id": "col-q70",
+      "question": "Which word means: \"A group of ships.\"?",
+      "options": [
+        "Parade of elephants",
+        "Flotilla of ships",
+        "Sleuth",
+        "Ambush"
+      ],
+      "answer": 1,
+      "explanation": "Flotilla of ships (noun) — A group of ships."
+    },
+    {
+      "id": "col-q71",
+      "question": "Which word means: \"A group of whales.\"?",
+      "options": [
+        "Dazzle",
+        "Shoal",
+        "Gam of whales",
+        "Nest of mice"
+      ],
+      "answer": 2,
+      "explanation": "Gam of whales (noun) — A group of whales."
+    },
+    {
+      "id": "col-q72",
+      "question": "Which word means: \"A group of buffalo.\"?",
+      "options": [
+        "Cauldron",
+        "Gang of buffalo",
+        "Coven of witches",
+        "Skein"
+      ],
+      "answer": 1,
+      "explanation": "Gang of buffalo (noun) — A group of buffalo."
+    },
+    {
+      "id": "col-q73",
+      "question": "Which word means: \"A group of cats.\"?",
+      "options": [
+        "Bed",
+        "Coalition",
+        "Unkindness",
+        "Glaring of cats"
+      ],
+      "answer": 3,
+      "explanation": "Glaring of cats (noun) — A group of cats."
+    },
+    {
+      "id": "col-q74",
+      "question": "Which word means: \"A group of bees.\"?",
+      "options": [
+        "Quiver of cobras",
+        "Bed",
+        "Grist of bees",
+        "Flotilla of ships"
+      ],
+      "answer": 2,
+      "explanation": "Grist of bees (noun) — A group of bees."
+    },
+    {
+      "id": "col-q75",
+      "question": "Which word means: \"A group of elephants.\"?",
+      "options": [
+        "Colony",
+        "Herd of elephants",
+        "Horde of hamsters",
+        "Herd"
+      ],
+      "answer": 1,
+      "explanation": "Herd of elephants (noun) — A group of elephants."
+    },
+    {
+      "id": "col-q76",
+      "question": "Which word means: \"A group of bees.\"?",
+      "options": [
+        "School",
+        "Pod",
+        "Hive of bees",
+        "Aerie"
+      ],
+      "answer": 2,
+      "explanation": "Hive of bees (noun) — A group of bees."
+    },
+    {
+      "id": "col-q77",
+      "question": "Which word means: \"A group of hamsters.\"?",
+      "options": [
+        "Rhumba of rattlesnakes",
+        "Horde of hamsters",
+        "Ambush of tigers",
+        "Bevy of quails"
+      ],
+      "answer": 1,
+      "explanation": "Horde of hamsters (noun) — A group of hamsters."
+    },
+    {
+      "id": "col-q78",
+      "question": "Which word means: \"A group of kittens.\"?",
+      "options": [
+        "Litter",
+        "Kindle of kittens",
+        "Streak",
+        "Journey"
+      ],
+      "answer": 1,
+      "explanation": "Kindle of kittens (noun) — A group of kittens."
+    },
+    {
+      "id": "col-q79",
+      "question": "Which word means: \"A group of toads.\"?",
+      "options": [
+        "Flamboyance of flamingos",
+        "Charm",
+        "Congress",
+        "Knot of toads"
+      ],
+      "answer": 3,
+      "explanation": "Knot of toads (noun) — A group of toads."
+    },
+    {
+      "id": "col-q80",
+      "question": "Which word means: \"A group of moles.\"?",
+      "options": [
+        "Labor of moles",
+        "Bloat of hippos",
+        "Streak",
+        "Rhumba of rattlesnakes"
+      ],
+      "answer": 0,
+      "explanation": "Labor of moles (noun) — A group of moles."
+    },
+    {
+      "id": "col-q81",
+      "question": "Which word means: \"A group of leopards.\"?",
+      "options": [
+        "Bloat of hippos",
+        "Brood",
+        "Skein",
+        "Leap of leopards"
+      ],
+      "answer": 3,
+      "explanation": "Leap of leopards (noun) — A group of leopards."
+    },
+    {
+      "id": "col-q82",
+      "question": "Which word means: \"A group of kangaroos.\"?",
+      "options": [
+        "Mob of kangaroos",
+        "Sounder of pigs",
+        "Streak",
+        "Plague of locusts"
+      ],
+      "answer": 0,
+      "explanation": "Mob of kangaroos (noun) — A group of kangaroos."
+    },
+    {
+      "id": "col-q83",
+      "question": "Which word means: \"A group of storks.\"?",
+      "options": [
+        "Rhumba of rattlesnakes",
+        "Parliament",
+        "Muster of storks",
+        "Romp of otters"
+      ],
+      "answer": 2,
+      "explanation": "Muster of storks (noun) — A group of storks."
+    },
+    {
+      "id": "col-q84",
+      "question": "Which word means: \"A group of mice.\"?",
+      "options": [
+        "Nest of mice",
+        "Drove of cattle",
+        "Army",
+        "Shrewdness of apes"
+      ],
+      "answer": 0,
+      "explanation": "Nest of mice (noun) — A group of mice."
+    },
+    {
+      "id": "col-q85",
+      "question": "Which word means: \"A group of parrots.\"?",
+      "options": [
+        "Tower",
+        "String of ponies",
+        "Pandemonium of parrots",
+        "Unkindness"
+      ],
+      "answer": 2,
+      "explanation": "Pandemonium of parrots (noun) — A group of parrots."
+    },
+    {
+      "id": "col-q86",
+      "question": "Which word means: \"A group of elephants.\"?",
+      "options": [
+        "Family of otters",
+        "Parade of elephants",
+        "Tower",
+        "Bevy of quails"
+      ],
+      "answer": 1,
+      "explanation": "Parade of elephants (noun) — A group of elephants."
+    },
+    {
+      "id": "col-q87",
+      "question": "Which word means: \"A group of locusts.\"?",
+      "options": [
+        "Plague of locusts",
+        "Clowder of cats",
+        "Coven of witches",
+        "Down of hares"
+      ],
+      "answer": 0,
+      "explanation": "Plague of locusts (noun) — A group of locusts."
+    },
+    {
+      "id": "col-q88",
+      "question": "Which word means: \"A group of hedgehogs.\"?",
+      "options": [
+        "Fever",
+        "Glaring of cats",
+        "Prickle of hedgehogs",
+        "Convocation"
+      ],
+      "answer": 2,
+      "explanation": "Prickle of hedgehogs (noun) — A group of hedgehogs."
+    },
+    {
+      "id": "col-q89",
+      "question": "Which word means: \"A group of cobras.\"?",
+      "options": [
+        "Plague of locusts",
+        "Shrewdness of apes",
+        "Quiver of cobras",
+        "Grist of bees"
+      ],
+      "answer": 2,
+      "explanation": "Quiver of cobras (noun) — A group of cobras."
+    },
+    {
+      "id": "col-q90",
+      "question": "Which word means: \"A group of turkeys.\"?",
+      "options": [
+        "Rafter of turkeys",
+        "Troop",
+        "Pack",
+        "School"
+      ],
+      "answer": 0,
+      "explanation": "Rafter of turkeys (noun) — A group of turkeys."
+    },
+    {
+      "id": "col-q91",
+      "question": "Which word means: \"A group of rattlesnakes.\"?",
+      "options": [
+        "Rhumba of rattlesnakes",
+        "Charm",
+        "Kettle",
+        "Consortium"
+      ],
+      "answer": 0,
+      "explanation": "Rhumba of rattlesnakes (noun) — A group of rattlesnakes."
+    },
+    {
+      "id": "col-q92",
+      "question": "Which word means: \"A group of otters.\"?",
+      "options": [
+        "Business",
+        "Congress",
+        "Troop",
+        "Romp of otters"
+      ],
+      "answer": 3,
+      "explanation": "Romp of otters (noun) — A group of otters."
+    },
+    {
+      "id": "col-q93",
+      "question": "Which word means: \"A group of fish.\"?",
+      "options": [
+        "Hive",
+        "School of fish",
+        "Tower",
+        "Grist of bees"
+      ],
+      "answer": 1,
+      "explanation": "School of fish (noun) — A group of fish."
+    },
+    {
+      "id": "col-q94",
+      "question": "Which word means: \"A group of apes.\"?",
+      "options": [
+        "Drove of cattle",
+        "Shrewdness of apes",
+        "Business",
+        "Kettle"
+      ],
+      "answer": 1,
+      "explanation": "Shrewdness of apes (noun) — A group of apes."
+    },
+    {
+      "id": "col-q95",
+      "question": "Which word means: \"A group of foxes.\"?",
+      "options": [
+        "Skulk of foxes",
+        "Zeal",
+        "Cluster of grasshoppers",
+        "Streak"
+      ],
+      "answer": 0,
+      "explanation": "Skulk of foxes (noun) — A group of foxes."
+    },
+    {
+      "id": "col-q96",
+      "question": "Which word means: \"A group of pigs.\"?",
+      "options": [
+        "Pack",
+        "Fever",
+        "Sounder of pigs",
+        "Sloth"
+      ],
+      "answer": 2,
+      "explanation": "Sounder of pigs (noun) — A group of pigs."
+    },
+    {
+      "id": "col-q97",
+      "question": "Which word means: \"A group of ponies.\"?",
+      "options": [
+        "Skulk of foxes",
+        "Troop",
+        "Labor of moles",
+        "String of ponies"
+      ],
+      "answer": 3,
+      "explanation": "String of ponies (noun) — A group of ponies."
+    },
+    {
+      "id": "col-q98",
+      "question": "Which word means: \"A group of horses.\"?",
+      "options": [
+        "Team of horses",
+        "Shrewdness of apes",
+        "Wisdom of wombats",
+        "Sloth"
+      ],
+      "answer": 0,
+      "explanation": "Team of horses (noun) — A group of horses."
+    },
+    {
+      "id": "col-q99",
+      "question": "Which word means: \"A group of goldfish.\"?",
+      "options": [
+        "Flock",
+        "Army of ants",
+        "Troubling of goldfish",
+        "Prickle"
+      ],
+      "answer": 2,
+      "explanation": "Troubling of goldfish (noun) — A group of goldfish."
+    },
+    {
+      "id": "col-q100",
+      "question": "Which word means: \"A group of wombats.\"?",
+      "options": [
+        "Rout",
+        "Pride",
+        "Team of horses",
+        "Wisdom of wombats"
+      ],
+      "answer": 3,
+      "explanation": "Wisdom of wombats (noun) — A group of wombats."
+    }
+  ]
+}

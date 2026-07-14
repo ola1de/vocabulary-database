@@ -1,0 +1,1908 @@
+{
+  "category": "environment",
+  "title": "Environment & Ecology",
+  "words": [
+    {
+      "id": "en-01",
+      "word": "Ecosystem",
+      "pos": "noun",
+      "definition": "A community of living organisms and their physical environment interacting as a system.",
+      "example": "Wetlands are one of the most productive ecosystems on Earth."
+    },
+    {
+      "id": "en-02",
+      "word": "Biodiversity",
+      "pos": "noun",
+      "definition": "The variety of plant and animal life in a particular habitat.",
+      "example": "Tropical rainforests have the highest biodiversity on the planet."
+    },
+    {
+      "id": "en-03",
+      "word": "Habitat",
+      "pos": "noun",
+      "definition": "The natural home or environment of an animal, plant, or other organism.",
+      "example": "Deforestation destroys the habitat of countless species."
+    },
+    {
+      "id": "en-04",
+      "word": "Biome",
+      "pos": "noun",
+      "definition": "A large community of vegetation and wildlife adapted to a specific climate.",
+      "example": "The tundra biome is characterised by extreme cold."
+    },
+    {
+      "id": "en-05",
+      "word": "Fauna",
+      "pos": "noun",
+      "definition": "The animals of a particular region, habitat, or geological period.",
+      "example": "The fauna of Australia includes many marsupials."
+    },
+    {
+      "id": "en-06",
+      "word": "Flora",
+      "pos": "noun",
+      "definition": "The plants of a particular region, habitat, or geological period.",
+      "example": "The flora of the Amazon is remarkably diverse."
+    },
+    {
+      "id": "en-07",
+      "word": "Conservation",
+      "pos": "noun",
+      "definition": "The protection of animals, plants, and natural resources.",
+      "example": "Conservation efforts saved the bald eagle from extinction."
+    },
+    {
+      "id": "en-08",
+      "word": "Preservation",
+      "pos": "noun",
+      "definition": "Keeping a natural area in its original, undisturbed state.",
+      "example": "National parks are set aside for preservation."
+    },
+    {
+      "id": "en-09",
+      "word": "Sustainability",
+      "pos": "noun",
+      "definition": "Meeting present needs without compromising future generations.",
+      "example": "Sustainability guides modern urban planning."
+    },
+    {
+      "id": "en-10",
+      "word": "Renewable",
+      "pos": "noun",
+      "definition": "A resource that can be replenished naturally over time.",
+      "example": "Wind and solar are renewable energy sources."
+    },
+    {
+      "id": "en-11",
+      "word": "Non-renewable",
+      "pos": "noun",
+      "definition": "A resource that cannot be replaced once consumed.",
+      "example": "Coal and oil are non-renewable fuels."
+    },
+    {
+      "id": "en-12",
+      "word": "Pollution",
+      "pos": "noun",
+      "definition": "The introduction of harmful substances into the environment.",
+      "example": "Air pollution is a leading cause of respiratory disease."
+    },
+    {
+      "id": "en-13",
+      "word": "Pollutant",
+      "pos": "noun",
+      "definition": "A substance that causes pollution.",
+      "example": "Sulphur dioxide is a major air pollutant."
+    },
+    {
+      "id": "en-14",
+      "word": "Emission",
+      "pos": "noun",
+      "definition": "The release of gas or radiation into the atmosphere.",
+      "example": "Vehicle emissions contribute to smog."
+    },
+    {
+      "id": "en-15",
+      "word": "Carbon footprint",
+      "pos": "noun",
+      "definition": "The total greenhouse gases produced by a person or activity.",
+      "example": "Cycling to work lowers your carbon footprint."
+    },
+    {
+      "id": "en-16",
+      "word": "Greenhouse gas",
+      "pos": "noun",
+      "definition": "A gas that traps heat in the atmosphere.",
+      "example": "Methane is a potent greenhouse gas."
+    },
+    {
+      "id": "en-17",
+      "word": "Global warming",
+      "pos": "noun",
+      "definition": "The long-term rise in Earth's average surface temperature.",
+      "example": "Global warming is melting the polar ice caps."
+    },
+    {
+      "id": "en-18",
+      "word": "Climate change",
+      "pos": "noun",
+      "definition": "Long-term shifts in temperatures and weather patterns.",
+      "example": "Climate change is intensifying storms worldwide."
+    },
+    {
+      "id": "en-19",
+      "word": "Deforestation",
+      "pos": "noun",
+      "definition": "The clearing or thinning of forests by humans.",
+      "example": "Deforestation in the Amazon accelerates carbon loss."
+    },
+    {
+      "id": "en-20",
+      "word": "Afforestation",
+      "pos": "noun",
+      "definition": "The planting of trees to create a new forest.",
+      "example": "Afforestation schemes help restore degraded land."
+    },
+    {
+      "id": "en-21",
+      "word": "Reforestation",
+      "pos": "noun",
+      "definition": "Replanting trees in an area where the forest has been cut down.",
+      "example": "Reforestation is central to climate policy."
+    },
+    {
+      "id": "en-22",
+      "word": "Desertification",
+      "pos": "noun",
+      "definition": "The process by which fertile land becomes desert.",
+      "example": "Overgrazing accelerates desertification in the Sahel."
+    },
+    {
+      "id": "en-23",
+      "word": "Erosion",
+      "pos": "noun",
+      "definition": "The gradual wearing away of soil or rock by wind or water.",
+      "example": "River erosion carved the deep canyon."
+    },
+    {
+      "id": "en-24",
+      "word": "Sediment",
+      "pos": "noun",
+      "definition": "Matter that settles at the bottom of a liquid.",
+      "example": "Sediment builds up behind large dams."
+    },
+    {
+      "id": "en-25",
+      "word": "Runoff",
+      "pos": "noun",
+      "definition": "Water from rain or melting snow that flows over land.",
+      "example": "Agricultural runoff pollutes nearby rivers."
+    },
+    {
+      "id": "en-26",
+      "word": "Watershed",
+      "pos": "noun",
+      "definition": "An area of land where all water drains to a common outlet.",
+      "example": "The watershed feeds three major rivers."
+    },
+    {
+      "id": "en-27",
+      "word": "Aquifer",
+      "pos": "noun",
+      "definition": "An underground layer of rock that holds groundwater.",
+      "example": "Farmers pump water from a shallow aquifer."
+    },
+    {
+      "id": "en-28",
+      "word": "Groundwater",
+      "pos": "noun",
+      "definition": "Water held underground in soil or rock crevices.",
+      "example": "Groundwater supplies half the town's drinking water."
+    },
+    {
+      "id": "en-29",
+      "word": "Wetland",
+      "pos": "noun",
+      "definition": "Land saturated with water, such as a marsh or swamp.",
+      "example": "Wetlands act as natural water filters."
+    },
+    {
+      "id": "en-30",
+      "word": "Estuary",
+      "pos": "noun",
+      "definition": "The tidal mouth of a large river meeting the sea.",
+      "example": "Estuaries are rich nursery grounds for fish."
+    },
+    {
+      "id": "en-31",
+      "word": "Mangrove",
+      "pos": "noun",
+      "definition": "A coastal tree that grows in salty water.",
+      "example": "Mangroves protect shorelines from erosion."
+    },
+    {
+      "id": "en-32",
+      "word": "Coral reef",
+      "pos": "noun",
+      "definition": "An underwater ecosystem built by coral polyps.",
+      "example": "Rising sea temperatures bleach coral reefs."
+    },
+    {
+      "id": "en-33",
+      "word": "Plankton",
+      "pos": "noun",
+      "definition": "Tiny organisms drifting in oceans and lakes.",
+      "example": "Plankton form the base of the marine food web."
+    },
+    {
+      "id": "en-34",
+      "word": "Food chain",
+      "pos": "noun",
+      "definition": "A sequence of organisms each dependent on the next as food.",
+      "example": "Removing sharks disrupts the ocean food chain."
+    },
+    {
+      "id": "en-35",
+      "word": "Food web",
+      "pos": "noun",
+      "definition": "A network of interconnected food chains.",
+      "example": "A healthy food web supports many predators."
+    },
+    {
+      "id": "en-36",
+      "word": "Producer",
+      "pos": "noun",
+      "definition": "An organism that makes its own food, usually via photosynthesis.",
+      "example": "Green plants are the main producers on land."
+    },
+    {
+      "id": "en-37",
+      "word": "Consumer",
+      "pos": "noun",
+      "definition": "An organism that eats other organisms for energy.",
+      "example": "Herbivores are primary consumers."
+    },
+    {
+      "id": "en-38",
+      "word": "Decomposer",
+      "pos": "noun",
+      "definition": "An organism that breaks down dead matter.",
+      "example": "Fungi are important decomposers in a forest."
+    },
+    {
+      "id": "en-39",
+      "word": "Herbivore",
+      "pos": "noun",
+      "definition": "An animal that feeds on plants.",
+      "example": "Cows are grazing herbivores."
+    },
+    {
+      "id": "en-40",
+      "word": "Carnivore",
+      "pos": "noun",
+      "definition": "An animal that feeds on other animals.",
+      "example": "Lions are apex carnivores."
+    },
+    {
+      "id": "en-41",
+      "word": "Omnivore",
+      "pos": "noun",
+      "definition": "An animal that feeds on both plants and animals.",
+      "example": "Bears are omnivores that eat berries and fish."
+    },
+    {
+      "id": "en-42",
+      "word": "Predator",
+      "pos": "noun",
+      "definition": "An animal that hunts and eats other animals.",
+      "example": "The eagle is the top predator here."
+    },
+    {
+      "id": "en-43",
+      "word": "Prey",
+      "pos": "noun",
+      "definition": "An animal hunted by another for food.",
+      "example": "Rabbits are common prey for foxes."
+    },
+    {
+      "id": "en-44",
+      "word": "Species",
+      "pos": "noun",
+      "definition": "A group of similar organisms capable of interbreeding.",
+      "example": "Over one million insect species have been described."
+    },
+    {
+      "id": "en-45",
+      "word": "Endangered",
+      "pos": "noun",
+      "definition": "At serious risk of extinction.",
+      "example": "The Sumatran tiger is critically endangered."
+    },
+    {
+      "id": "en-46",
+      "word": "Extinct",
+      "pos": "noun",
+      "definition": "No longer in existence as a species.",
+      "example": "The dodo has been extinct since the 17th century."
+    },
+    {
+      "id": "en-47",
+      "word": "Endemic",
+      "pos": "noun",
+      "definition": "Native and restricted to a certain place.",
+      "example": "Lemurs are endemic to Madagascar."
+    },
+    {
+      "id": "en-48",
+      "word": "Invasive species",
+      "pos": "noun",
+      "definition": "A non-native organism that harms local ecosystems.",
+      "example": "Cane toads are an invasive species in Australia."
+    },
+    {
+      "id": "en-49",
+      "word": "Native species",
+      "pos": "noun",
+      "definition": "An organism that occurs naturally in a region.",
+      "example": "Restoring native species stabilises the meadow."
+    },
+    {
+      "id": "en-50",
+      "word": "Migration",
+      "pos": "noun",
+      "definition": "The seasonal movement of animals from one region to another.",
+      "example": "Bird migration follows ancient flyways."
+    },
+    {
+      "id": "en-51",
+      "word": "Hibernation",
+      "pos": "noun",
+      "definition": "A state of inactivity animals enter to survive winter.",
+      "example": "Bears enter hibernation in late autumn."
+    },
+    {
+      "id": "en-52",
+      "word": "Adaptation",
+      "pos": "noun",
+      "definition": "A trait that helps an organism survive in its environment.",
+      "example": "Thick fur is an adaptation to cold climates."
+    },
+    {
+      "id": "en-53",
+      "word": "Evolution",
+      "pos": "noun",
+      "definition": "The gradual change of species over generations.",
+      "example": "Evolution shapes life through natural selection."
+    },
+    {
+      "id": "en-54",
+      "word": "Natural selection",
+      "pos": "noun",
+      "definition": "The process by which better-adapted organisms survive.",
+      "example": "Natural selection favoured the darker moths."
+    },
+    {
+      "id": "en-55",
+      "word": "Photosynthesis",
+      "pos": "noun",
+      "definition": "The process plants use to make food from sunlight.",
+      "example": "Photosynthesis releases oxygen into the air."
+    },
+    {
+      "id": "en-56",
+      "word": "Respiration",
+      "pos": "noun",
+      "definition": "The process of exchanging gases with the environment.",
+      "example": "Cellular respiration turns sugar into energy."
+    },
+    {
+      "id": "en-57",
+      "word": "Ozone layer",
+      "pos": "noun",
+      "definition": "A layer of ozone that shields Earth from ultraviolet rays.",
+      "example": "Aerosols once damaged the ozone layer."
+    },
+    {
+      "id": "en-58",
+      "word": "Acid rain",
+      "pos": "noun",
+      "definition": "Rain made acidic by atmospheric pollution.",
+      "example": "Acid rain damages forests and lakes."
+    },
+    {
+      "id": "en-59",
+      "word": "Smog",
+      "pos": "noun",
+      "definition": "Fog mixed with smoke or pollutants.",
+      "example": "Winter smog blankets the industrial valley."
+    },
+    {
+      "id": "en-60",
+      "word": "Fossil fuel",
+      "pos": "noun",
+      "definition": "A fuel formed from prehistoric organic matter.",
+      "example": "Burning fossil fuels releases carbon dioxide."
+    },
+    {
+      "id": "en-61",
+      "word": "Biofuel",
+      "pos": "noun",
+      "definition": "Fuel derived from living matter such as plants.",
+      "example": "Sugarcane is used to make biofuel in Brazil."
+    },
+    {
+      "id": "en-62",
+      "word": "Solar energy",
+      "pos": "noun",
+      "definition": "Energy obtained from the sun.",
+      "example": "Panels on the roof capture solar energy."
+    },
+    {
+      "id": "en-63",
+      "word": "Wind energy",
+      "pos": "noun",
+      "definition": "Energy generated from moving air.",
+      "example": "Wind energy now powers thousands of homes."
+    },
+    {
+      "id": "en-64",
+      "word": "Hydropower",
+      "pos": "noun",
+      "definition": "Electricity produced from moving water.",
+      "example": "The dam supplies clean hydropower."
+    },
+    {
+      "id": "en-65",
+      "word": "Geothermal",
+      "pos": "noun",
+      "definition": "Heat energy generated inside the Earth.",
+      "example": "Iceland heats its homes with geothermal energy."
+    },
+    {
+      "id": "en-66",
+      "word": "Biomass",
+      "pos": "noun",
+      "definition": "Organic material used as an energy source.",
+      "example": "Biomass boilers burn wood pellets."
+    },
+    {
+      "id": "en-67",
+      "word": "Recycling",
+      "pos": "noun",
+      "definition": "Converting waste materials into reusable products.",
+      "example": "Recycling reduces landfill volume."
+    },
+    {
+      "id": "en-68",
+      "word": "Compost",
+      "pos": "noun",
+      "definition": "Decayed organic matter used as fertiliser.",
+      "example": "Kitchen scraps become rich compost."
+    },
+    {
+      "id": "en-69",
+      "word": "Landfill",
+      "pos": "noun",
+      "definition": "A site where waste is buried under layers of soil.",
+      "example": "The old landfill has been capped and greened."
+    },
+    {
+      "id": "en-70",
+      "word": "Incineration",
+      "pos": "noun",
+      "definition": "The burning of waste materials at high temperature.",
+      "example": "Incineration reduces the volume of hospital waste."
+    },
+    {
+      "id": "en-71",
+      "word": "Effluent",
+      "pos": "noun",
+      "definition": "Liquid waste discharged into a body of water.",
+      "example": "Industrial effluent poisoned the stream."
+    },
+    {
+      "id": "en-72",
+      "word": "Sewage",
+      "pos": "noun",
+      "definition": "Waste water and excrement carried away in drains.",
+      "example": "The plant treats sewage before release."
+    },
+    {
+      "id": "en-73",
+      "word": "Toxic",
+      "pos": "noun",
+      "definition": "Poisonous to living things.",
+      "example": "Toxic runoff killed the fish."
+    },
+    {
+      "id": "en-74",
+      "word": "Contaminant",
+      "pos": "noun",
+      "definition": "A substance that pollutes or spoils something.",
+      "example": "Lead is a common water contaminant."
+    },
+    {
+      "id": "en-75",
+      "word": "Biodegradable",
+      "pos": "noun",
+      "definition": "Capable of being broken down naturally by microbes.",
+      "example": "Cardboard packaging is biodegradable."
+    },
+    {
+      "id": "en-76",
+      "word": "Non-biodegradable",
+      "pos": "noun",
+      "definition": "Not broken down by natural processes.",
+      "example": "Plastic bags are largely non-biodegradable."
+    },
+    {
+      "id": "en-77",
+      "word": "Ozone",
+      "pos": "noun",
+      "definition": "A gas that forms a protective layer high in the atmosphere.",
+      "example": "Ground-level ozone irritates the lungs."
+    },
+    {
+      "id": "en-78",
+      "word": "Ecology",
+      "pos": "noun",
+      "definition": "The study of relationships between organisms and their environment.",
+      "example": "She studies rainforest ecology."
+    },
+    {
+      "id": "en-79",
+      "word": "Environmentalist",
+      "pos": "noun",
+      "definition": "A person who works to protect the environment.",
+      "example": "The environmentalist campaigned for cleaner rivers."
+    },
+    {
+      "id": "en-80",
+      "word": "Sanctuary",
+      "pos": "noun",
+      "definition": "A place of refuge for wildlife.",
+      "example": "The bird sanctuary hosts rare migratory species."
+    },
+    {
+      "id": "en-81",
+      "word": "Reserve",
+      "pos": "noun",
+      "definition": "An area protected for wildlife.",
+      "example": "Rangers patrol the nature reserve."
+    },
+    {
+      "id": "en-82",
+      "word": "National park",
+      "pos": "noun",
+      "definition": "A protected area of natural beauty and wildlife.",
+      "example": "Kruger National Park draws millions of visitors."
+    },
+    {
+      "id": "en-83",
+      "word": "Poaching",
+      "pos": "noun",
+      "definition": "The illegal hunting or capture of wild animals.",
+      "example": "Poaching threatens rhino populations."
+    },
+    {
+      "id": "en-84",
+      "word": "Overfishing",
+      "pos": "noun",
+      "definition": "Catching fish faster than stocks can replenish.",
+      "example": "Overfishing has collapsed the cod fishery."
+    },
+    {
+      "id": "en-85",
+      "word": "Bycatch",
+      "pos": "noun",
+      "definition": "Sea creatures caught unintentionally in nets.",
+      "example": "Turtles often die as bycatch in shrimp nets."
+    },
+    {
+      "id": "en-86",
+      "word": "Drought",
+      "pos": "noun",
+      "definition": "A prolonged period of abnormally low rainfall.",
+      "example": "The drought withered every crop in the field."
+    },
+    {
+      "id": "en-87",
+      "word": "Flood",
+      "pos": "noun",
+      "definition": "An overflow of water onto normally dry land.",
+      "example": "The flood displaced thousands of villagers."
+    },
+    {
+      "id": "en-88",
+      "word": "Wildfire",
+      "pos": "noun",
+      "definition": "A large, uncontrolled fire in a wild area.",
+      "example": "The wildfire spread across three counties."
+    },
+    {
+      "id": "en-89",
+      "word": "Heatwave",
+      "pos": "noun",
+      "definition": "A prolonged period of excessively hot weather.",
+      "example": "The heatwave broke a century-old record."
+    },
+    {
+      "id": "en-90",
+      "word": "Sea level rise",
+      "pos": "noun",
+      "definition": "The long-term increase in the average level of the oceans.",
+      "example": "Sea level rise threatens low-lying islands."
+    },
+    {
+      "id": "en-91",
+      "word": "Permafrost",
+      "pos": "noun",
+      "definition": "Ground that stays frozen for two or more years.",
+      "example": "Thawing permafrost releases methane."
+    },
+    {
+      "id": "en-92",
+      "word": "Glacier",
+      "pos": "noun",
+      "definition": "A slow-moving mass of ice on land.",
+      "example": "The glacier has retreated a full kilometre."
+    },
+    {
+      "id": "en-93",
+      "word": "Iceberg",
+      "pos": "noun",
+      "definition": "A large piece of ice that has broken off a glacier.",
+      "example": "An iceberg drifted across the shipping lane."
+    },
+    {
+      "id": "en-94",
+      "word": "Tundra",
+      "pos": "noun",
+      "definition": "A vast, treeless Arctic region with frozen subsoil.",
+      "example": "Reindeer graze the summer tundra."
+    },
+    {
+      "id": "en-95",
+      "word": "Savanna",
+      "pos": "noun",
+      "definition": "A grassy plain with scattered trees.",
+      "example": "Zebras roam the East African savanna."
+    },
+    {
+      "id": "en-96",
+      "word": "Rainforest",
+      "pos": "noun",
+      "definition": "A dense forest with high annual rainfall.",
+      "example": "The rainforest canopy blocks most sunlight."
+    },
+    {
+      "id": "en-97",
+      "word": "Coniferous",
+      "pos": "noun",
+      "definition": "Trees that bear cones and evergreen needles.",
+      "example": "Coniferous forests dominate northern Canada."
+    },
+    {
+      "id": "en-98",
+      "word": "Deciduous",
+      "pos": "noun",
+      "definition": "Trees that shed their leaves annually.",
+      "example": "Deciduous woods blaze with colour in autumn."
+    },
+    {
+      "id": "en-99",
+      "word": "Symbiosis",
+      "pos": "noun",
+      "definition": "A close biological relationship between two species.",
+      "example": "Bees and flowers have a classic symbiosis."
+    },
+    {
+      "id": "en-100",
+      "word": "Niche",
+      "pos": "noun",
+      "definition": "The role a species plays within its ecosystem.",
+      "example": "Every predator fills a specific niche."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "en-q1",
+      "question": "Which word means: \"A community of living organisms and their physical environment interacting as a system.\"?",
+      "options": [
+        "Carbon footprint",
+        "Heatwave",
+        "Carnivore",
+        "Ecosystem"
+      ],
+      "answer": 3,
+      "explanation": "Ecosystem (noun) — A community of living organisms and their physical environment interacting as a system."
+    },
+    {
+      "id": "en-q2",
+      "question": "Which word means: \"The variety of plant and animal life in a particular habitat.\"?",
+      "options": [
+        "Consumer",
+        "Biodiversity",
+        "Poaching",
+        "Prey"
+      ],
+      "answer": 1,
+      "explanation": "Biodiversity (noun) — The variety of plant and animal life in a particular habitat."
+    },
+    {
+      "id": "en-q3",
+      "question": "Which word means: \"The natural home or environment of an animal, plant, or other organism.\"?",
+      "options": [
+        "Compost",
+        "Habitat",
+        "Watershed",
+        "Reforestation"
+      ],
+      "answer": 1,
+      "explanation": "Habitat (noun) — The natural home or environment of an animal, plant, or other organism."
+    },
+    {
+      "id": "en-q4",
+      "question": "Which word means: \"A large community of vegetation and wildlife adapted to a specific climate.\"?",
+      "options": [
+        "Biome",
+        "Drought",
+        "Heatwave",
+        "Predator"
+      ],
+      "answer": 0,
+      "explanation": "Biome (noun) — A large community of vegetation and wildlife adapted to a specific climate."
+    },
+    {
+      "id": "en-q5",
+      "question": "Which word means: \"The animals of a particular region, habitat, or geological period.\"?",
+      "options": [
+        "Bycatch",
+        "Fauna",
+        "Geothermal",
+        "Herbivore"
+      ],
+      "answer": 1,
+      "explanation": "Fauna (noun) — The animals of a particular region, habitat, or geological period."
+    },
+    {
+      "id": "en-q6",
+      "question": "Which word means: \"The plants of a particular region, habitat, or geological period.\"?",
+      "options": [
+        "Fauna",
+        "Hibernation",
+        "Flora",
+        "Rainforest"
+      ],
+      "answer": 2,
+      "explanation": "Flora (noun) — The plants of a particular region, habitat, or geological period."
+    },
+    {
+      "id": "en-q7",
+      "question": "Which word means: \"The protection of animals, plants, and natural resources.\"?",
+      "options": [
+        "Heatwave",
+        "Incineration",
+        "Poaching",
+        "Conservation"
+      ],
+      "answer": 3,
+      "explanation": "Conservation (noun) — The protection of animals, plants, and natural resources."
+    },
+    {
+      "id": "en-q8",
+      "question": "Which word means: \"Keeping a natural area in its original, undisturbed state.\"?",
+      "options": [
+        "Erosion",
+        "Biomass",
+        "Preservation",
+        "Carnivore"
+      ],
+      "answer": 2,
+      "explanation": "Preservation (noun) — Keeping a natural area in its original, undisturbed state."
+    },
+    {
+      "id": "en-q9",
+      "question": "Which word means: \"Meeting present needs without compromising future generations.\"?",
+      "options": [
+        "Climate change",
+        "Solar energy",
+        "Sustainability",
+        "Rainforest"
+      ],
+      "answer": 2,
+      "explanation": "Sustainability (noun) — Meeting present needs without compromising future generations."
+    },
+    {
+      "id": "en-q10",
+      "question": "Which word means: \"A resource that can be replenished naturally over time.\"?",
+      "options": [
+        "Bycatch",
+        "Species",
+        "Renewable",
+        "Heatwave"
+      ],
+      "answer": 2,
+      "explanation": "Renewable (noun) — A resource that can be replenished naturally over time."
+    },
+    {
+      "id": "en-q11",
+      "question": "Which word means: \"A resource that cannot be replaced once consumed.\"?",
+      "options": [
+        "Estuary",
+        "Omnivore",
+        "Coniferous",
+        "Non-renewable"
+      ],
+      "answer": 3,
+      "explanation": "Non-renewable (noun) — A resource that cannot be replaced once consumed."
+    },
+    {
+      "id": "en-q12",
+      "question": "Which word means: \"The introduction of harmful substances into the environment.\"?",
+      "options": [
+        "Herbivore",
+        "Non-biodegradable",
+        "Food web",
+        "Pollution"
+      ],
+      "answer": 3,
+      "explanation": "Pollution (noun) — The introduction of harmful substances into the environment."
+    },
+    {
+      "id": "en-q13",
+      "question": "Which word means: \"A substance that causes pollution.\"?",
+      "options": [
+        "Non-biodegradable",
+        "Pollutant",
+        "Poaching",
+        "Conservation"
+      ],
+      "answer": 1,
+      "explanation": "Pollutant (noun) — A substance that causes pollution."
+    },
+    {
+      "id": "en-q14",
+      "question": "Which word means: \"The release of gas or radiation into the atmosphere.\"?",
+      "options": [
+        "Biomass",
+        "Global warming",
+        "Heatwave",
+        "Emission"
+      ],
+      "answer": 3,
+      "explanation": "Emission (noun) — The release of gas or radiation into the atmosphere."
+    },
+    {
+      "id": "en-q15",
+      "question": "Which word means: \"The total greenhouse gases produced by a person or activity.\"?",
+      "options": [
+        "Reforestation",
+        "Carbon footprint",
+        "Natural selection",
+        "Conservation"
+      ],
+      "answer": 1,
+      "explanation": "Carbon footprint (noun) — The total greenhouse gases produced by a person or activity."
+    },
+    {
+      "id": "en-q16",
+      "question": "Which word means: \"A gas that traps heat in the atmosphere.\"?",
+      "options": [
+        "Fossil fuel",
+        "Natural selection",
+        "Greenhouse gas",
+        "Contaminant"
+      ],
+      "answer": 2,
+      "explanation": "Greenhouse gas (noun) — A gas that traps heat in the atmosphere."
+    },
+    {
+      "id": "en-q17",
+      "question": "Which word means: \"The long-term rise in Earth's average surface temperature.\"?",
+      "options": [
+        "Species",
+        "Non-renewable",
+        "Global warming",
+        "Hydropower"
+      ],
+      "answer": 2,
+      "explanation": "Global warming (noun) — The long-term rise in Earth's average surface temperature."
+    },
+    {
+      "id": "en-q18",
+      "question": "Which word means: \"Long-term shifts in temperatures and weather patterns.\"?",
+      "options": [
+        "Climate change",
+        "Consumer",
+        "Ecosystem",
+        "Smog"
+      ],
+      "answer": 0,
+      "explanation": "Climate change (noun) — Long-term shifts in temperatures and weather patterns."
+    },
+    {
+      "id": "en-q19",
+      "question": "Which word means: \"The clearing or thinning of forests by humans.\"?",
+      "options": [
+        "Hydropower",
+        "Deforestation",
+        "Pollution",
+        "Symbiosis"
+      ],
+      "answer": 1,
+      "explanation": "Deforestation (noun) — The clearing or thinning of forests by humans."
+    },
+    {
+      "id": "en-q20",
+      "question": "Which word means: \"The planting of trees to create a new forest.\"?",
+      "options": [
+        "Poaching",
+        "Evolution",
+        "Respiration",
+        "Afforestation"
+      ],
+      "answer": 3,
+      "explanation": "Afforestation (noun) — The planting of trees to create a new forest."
+    },
+    {
+      "id": "en-q21",
+      "question": "Which word means: \"Replanting trees in an area where the forest has been cut down.\"?",
+      "options": [
+        "Ecosystem",
+        "Reforestation",
+        "Incineration",
+        "Fauna"
+      ],
+      "answer": 1,
+      "explanation": "Reforestation (noun) — Replanting trees in an area where the forest has been cut down."
+    },
+    {
+      "id": "en-q22",
+      "question": "Which word means: \"The process by which fertile land becomes desert.\"?",
+      "options": [
+        "Desertification",
+        "Deciduous",
+        "Biodiversity",
+        "Prey"
+      ],
+      "answer": 0,
+      "explanation": "Desertification (noun) — The process by which fertile land becomes desert."
+    },
+    {
+      "id": "en-q23",
+      "question": "Which word means: \"The gradual wearing away of soil or rock by wind or water.\"?",
+      "options": [
+        "National park",
+        "Erosion",
+        "Plankton",
+        "Savanna"
+      ],
+      "answer": 1,
+      "explanation": "Erosion (noun) — The gradual wearing away of soil or rock by wind or water."
+    },
+    {
+      "id": "en-q24",
+      "question": "Which word means: \"Matter that settles at the bottom of a liquid.\"?",
+      "options": [
+        "Omnivore",
+        "Global warming",
+        "Emission",
+        "Sediment"
+      ],
+      "answer": 3,
+      "explanation": "Sediment (noun) — Matter that settles at the bottom of a liquid."
+    },
+    {
+      "id": "en-q25",
+      "question": "Which word means: \"Water from rain or melting snow that flows over land.\"?",
+      "options": [
+        "Desertification",
+        "Runoff",
+        "Sustainability",
+        "Flora"
+      ],
+      "answer": 1,
+      "explanation": "Runoff (noun) — Water from rain or melting snow that flows over land."
+    },
+    {
+      "id": "en-q26",
+      "question": "Which word means: \"An area of land where all water drains to a common outlet.\"?",
+      "options": [
+        "Watershed",
+        "Savanna",
+        "Compost",
+        "Ecology"
+      ],
+      "answer": 0,
+      "explanation": "Watershed (noun) — An area of land where all water drains to a common outlet."
+    },
+    {
+      "id": "en-q27",
+      "question": "Which word means: \"An underground layer of rock that holds groundwater.\"?",
+      "options": [
+        "Endemic",
+        "Aquifer",
+        "Endangered",
+        "Hydropower"
+      ],
+      "answer": 1,
+      "explanation": "Aquifer (noun) — An underground layer of rock that holds groundwater."
+    },
+    {
+      "id": "en-q28",
+      "question": "Which word means: \"Water held underground in soil or rock crevices.\"?",
+      "options": [
+        "Groundwater",
+        "Estuary",
+        "Habitat",
+        "Mangrove"
+      ],
+      "answer": 0,
+      "explanation": "Groundwater (noun) — Water held underground in soil or rock crevices."
+    },
+    {
+      "id": "en-q29",
+      "question": "Which word means: \"Land saturated with water, such as a marsh or swamp.\"?",
+      "options": [
+        "Desertification",
+        "Wetland",
+        "Biomass",
+        "Ozone"
+      ],
+      "answer": 1,
+      "explanation": "Wetland (noun) — Land saturated with water, such as a marsh or swamp."
+    },
+    {
+      "id": "en-q30",
+      "question": "Which word means: \"The tidal mouth of a large river meeting the sea.\"?",
+      "options": [
+        "Poaching",
+        "Estuary",
+        "Food chain",
+        "Migration"
+      ],
+      "answer": 1,
+      "explanation": "Estuary (noun) — The tidal mouth of a large river meeting the sea."
+    },
+    {
+      "id": "en-q31",
+      "question": "Which word means: \"A coastal tree that grows in salty water.\"?",
+      "options": [
+        "Emission",
+        "Bycatch",
+        "Mangrove",
+        "Drought"
+      ],
+      "answer": 2,
+      "explanation": "Mangrove (noun) — A coastal tree that grows in salty water."
+    },
+    {
+      "id": "en-q32",
+      "question": "Which word means: \"An underwater ecosystem built by coral polyps.\"?",
+      "options": [
+        "Coral reef",
+        "Acid rain",
+        "Migration",
+        "Photosynthesis"
+      ],
+      "answer": 0,
+      "explanation": "Coral reef (noun) — An underwater ecosystem built by coral polyps."
+    },
+    {
+      "id": "en-q33",
+      "question": "Which word means: \"Tiny organisms drifting in oceans and lakes.\"?",
+      "options": [
+        "Plankton",
+        "Solar energy",
+        "Afforestation",
+        "Permafrost"
+      ],
+      "answer": 0,
+      "explanation": "Plankton (noun) — Tiny organisms drifting in oceans and lakes."
+    },
+    {
+      "id": "en-q34",
+      "question": "Which word means: \"A sequence of organisms each dependent on the next as food.\"?",
+      "options": [
+        "Food chain",
+        "Photosynthesis",
+        "Drought",
+        "Carnivore"
+      ],
+      "answer": 0,
+      "explanation": "Food chain (noun) — A sequence of organisms each dependent on the next as food."
+    },
+    {
+      "id": "en-q35",
+      "question": "Which word means: \"A network of interconnected food chains.\"?",
+      "options": [
+        "Permafrost",
+        "Reserve",
+        "Food web",
+        "Environmentalist"
+      ],
+      "answer": 2,
+      "explanation": "Food web (noun) — A network of interconnected food chains."
+    },
+    {
+      "id": "en-q36",
+      "question": "Which word means: \"An organism that makes its own food, usually via photosynthesis.\"?",
+      "options": [
+        "Reserve",
+        "Producer",
+        "Tundra",
+        "Recycling"
+      ],
+      "answer": 1,
+      "explanation": "Producer (noun) — An organism that makes its own food, usually via photosynthesis."
+    },
+    {
+      "id": "en-q37",
+      "question": "Which word means: \"An organism that eats other organisms for energy.\"?",
+      "options": [
+        "Watershed",
+        "Emission",
+        "Consumer",
+        "Geothermal"
+      ],
+      "answer": 2,
+      "explanation": "Consumer (noun) — An organism that eats other organisms for energy."
+    },
+    {
+      "id": "en-q38",
+      "question": "Which word means: \"An organism that breaks down dead matter.\"?",
+      "options": [
+        "Glacier",
+        "Decomposer",
+        "Endemic",
+        "Natural selection"
+      ],
+      "answer": 1,
+      "explanation": "Decomposer (noun) — An organism that breaks down dead matter."
+    },
+    {
+      "id": "en-q39",
+      "question": "Which word means: \"An animal that feeds on plants.\"?",
+      "options": [
+        "Aquifer",
+        "Sewage",
+        "Geothermal",
+        "Herbivore"
+      ],
+      "answer": 3,
+      "explanation": "Herbivore (noun) — An animal that feeds on plants."
+    },
+    {
+      "id": "en-q40",
+      "question": "Which word means: \"An animal that feeds on other animals.\"?",
+      "options": [
+        "Flood",
+        "Biodiversity",
+        "Carnivore",
+        "Ecosystem"
+      ],
+      "answer": 2,
+      "explanation": "Carnivore (noun) — An animal that feeds on other animals."
+    },
+    {
+      "id": "en-q41",
+      "question": "Which word means: \"An animal that feeds on both plants and animals.\"?",
+      "options": [
+        "Pollution",
+        "Omnivore",
+        "Recycling",
+        "Afforestation"
+      ],
+      "answer": 1,
+      "explanation": "Omnivore (noun) — An animal that feeds on both plants and animals."
+    },
+    {
+      "id": "en-q42",
+      "question": "Which word means: \"An animal that hunts and eats other animals.\"?",
+      "options": [
+        "Plankton",
+        "Estuary",
+        "Overfishing",
+        "Predator"
+      ],
+      "answer": 3,
+      "explanation": "Predator (noun) — An animal that hunts and eats other animals."
+    },
+    {
+      "id": "en-q43",
+      "question": "Which word means: \"An animal hunted by another for food.\"?",
+      "options": [
+        "Pollutant",
+        "Prey",
+        "Biofuel",
+        "Conservation"
+      ],
+      "answer": 1,
+      "explanation": "Prey (noun) — An animal hunted by another for food."
+    },
+    {
+      "id": "en-q44",
+      "question": "Which word means: \"A group of similar organisms capable of interbreeding.\"?",
+      "options": [
+        "Wildfire",
+        "Invasive species",
+        "Omnivore",
+        "Species"
+      ],
+      "answer": 3,
+      "explanation": "Species (noun) — A group of similar organisms capable of interbreeding."
+    },
+    {
+      "id": "en-q45",
+      "question": "Which word means: \"At serious risk of extinction.\"?",
+      "options": [
+        "Symbiosis",
+        "Flora",
+        "Endangered",
+        "Pollutant"
+      ],
+      "answer": 2,
+      "explanation": "Endangered (noun) — At serious risk of extinction."
+    },
+    {
+      "id": "en-q46",
+      "question": "Which word means: \"No longer in existence as a species.\"?",
+      "options": [
+        "Endemic",
+        "Prey",
+        "Extinct",
+        "Acid rain"
+      ],
+      "answer": 2,
+      "explanation": "Extinct (noun) — No longer in existence as a species."
+    },
+    {
+      "id": "en-q47",
+      "question": "Which word means: \"Native and restricted to a certain place.\"?",
+      "options": [
+        "Endemic",
+        "Sediment",
+        "Species",
+        "Native species"
+      ],
+      "answer": 0,
+      "explanation": "Endemic (noun) — Native and restricted to a certain place."
+    },
+    {
+      "id": "en-q48",
+      "question": "Which word means: \"A non-native organism that harms local ecosystems.\"?",
+      "options": [
+        "Hibernation",
+        "Fossil fuel",
+        "Food web",
+        "Invasive species"
+      ],
+      "answer": 3,
+      "explanation": "Invasive species (noun) — A non-native organism that harms local ecosystems."
+    },
+    {
+      "id": "en-q49",
+      "question": "Which word means: \"An organism that occurs naturally in a region.\"?",
+      "options": [
+        "Global warming",
+        "Permafrost",
+        "Native species",
+        "Carbon footprint"
+      ],
+      "answer": 2,
+      "explanation": "Native species (noun) — An organism that occurs naturally in a region."
+    },
+    {
+      "id": "en-q50",
+      "question": "Which word means: \"The seasonal movement of animals from one region to another.\"?",
+      "options": [
+        "Wind energy",
+        "Ozone",
+        "Photosynthesis",
+        "Migration"
+      ],
+      "answer": 3,
+      "explanation": "Migration (noun) — The seasonal movement of animals from one region to another."
+    },
+    {
+      "id": "en-q51",
+      "question": "Which word means: \"A state of inactivity animals enter to survive winter.\"?",
+      "options": [
+        "Extinct",
+        "Biome",
+        "Hibernation",
+        "Sanctuary"
+      ],
+      "answer": 2,
+      "explanation": "Hibernation (noun) — A state of inactivity animals enter to survive winter."
+    },
+    {
+      "id": "en-q52",
+      "question": "Which word means: \"A trait that helps an organism survive in its environment.\"?",
+      "options": [
+        "Acid rain",
+        "Natural selection",
+        "Adaptation",
+        "Carbon footprint"
+      ],
+      "answer": 2,
+      "explanation": "Adaptation (noun) — A trait that helps an organism survive in its environment."
+    },
+    {
+      "id": "en-q53",
+      "question": "Which word means: \"The gradual change of species over generations.\"?",
+      "options": [
+        "Bycatch",
+        "Evolution",
+        "Biodiversity",
+        "Omnivore"
+      ],
+      "answer": 1,
+      "explanation": "Evolution (noun) — The gradual change of species over generations."
+    },
+    {
+      "id": "en-q54",
+      "question": "Which word means: \"The process by which better-adapted organisms survive.\"?",
+      "options": [
+        "Permafrost",
+        "Natural selection",
+        "Sea level rise",
+        "Compost"
+      ],
+      "answer": 1,
+      "explanation": "Natural selection (noun) — The process by which better-adapted organisms survive."
+    },
+    {
+      "id": "en-q55",
+      "question": "Which word means: \"The process plants use to make food from sunlight.\"?",
+      "options": [
+        "Endangered",
+        "Drought",
+        "Wind energy",
+        "Photosynthesis"
+      ],
+      "answer": 3,
+      "explanation": "Photosynthesis (noun) — The process plants use to make food from sunlight."
+    },
+    {
+      "id": "en-q56",
+      "question": "Which word means: \"The process of exchanging gases with the environment.\"?",
+      "options": [
+        "Reforestation",
+        "Biodiversity",
+        "Overfishing",
+        "Respiration"
+      ],
+      "answer": 3,
+      "explanation": "Respiration (noun) — The process of exchanging gases with the environment."
+    },
+    {
+      "id": "en-q57",
+      "question": "Which word means: \"A layer of ozone that shields Earth from ultraviolet rays.\"?",
+      "options": [
+        "Ozone layer",
+        "Deciduous",
+        "Renewable",
+        "Hydropower"
+      ],
+      "answer": 0,
+      "explanation": "Ozone layer (noun) — A layer of ozone that shields Earth from ultraviolet rays."
+    },
+    {
+      "id": "en-q58",
+      "question": "Which word means: \"Rain made acidic by atmospheric pollution.\"?",
+      "options": [
+        "Producer",
+        "Acid rain",
+        "Biomass",
+        "Conservation"
+      ],
+      "answer": 1,
+      "explanation": "Acid rain (noun) — Rain made acidic by atmospheric pollution."
+    },
+    {
+      "id": "en-q59",
+      "question": "Which word means: \"Fog mixed with smoke or pollutants.\"?",
+      "options": [
+        "Adaptation",
+        "Non-renewable",
+        "Mangrove",
+        "Smog"
+      ],
+      "answer": 3,
+      "explanation": "Smog (noun) — Fog mixed with smoke or pollutants."
+    },
+    {
+      "id": "en-q60",
+      "question": "Which word means: \"A fuel formed from prehistoric organic matter.\"?",
+      "options": [
+        "Fossil fuel",
+        "Geothermal",
+        "Pollution",
+        "Acid rain"
+      ],
+      "answer": 0,
+      "explanation": "Fossil fuel (noun) — A fuel formed from prehistoric organic matter."
+    },
+    {
+      "id": "en-q61",
+      "question": "Which word means: \"Fuel derived from living matter such as plants.\"?",
+      "options": [
+        "Biofuel",
+        "Habitat",
+        "Bycatch",
+        "Coniferous"
+      ],
+      "answer": 0,
+      "explanation": "Biofuel (noun) — Fuel derived from living matter such as plants."
+    },
+    {
+      "id": "en-q62",
+      "question": "Which word means: \"Energy obtained from the sun.\"?",
+      "options": [
+        "Sewage",
+        "Toxic",
+        "Solar energy",
+        "Fauna"
+      ],
+      "answer": 2,
+      "explanation": "Solar energy (noun) — Energy obtained from the sun."
+    },
+    {
+      "id": "en-q63",
+      "question": "Which word means: \"Energy generated from moving air.\"?",
+      "options": [
+        "Recycling",
+        "Aquifer",
+        "Toxic",
+        "Wind energy"
+      ],
+      "answer": 3,
+      "explanation": "Wind energy (noun) — Energy generated from moving air."
+    },
+    {
+      "id": "en-q64",
+      "question": "Which word means: \"Electricity produced from moving water.\"?",
+      "options": [
+        "Conservation",
+        "Wetland",
+        "Hydropower",
+        "Smog"
+      ],
+      "answer": 2,
+      "explanation": "Hydropower (noun) — Electricity produced from moving water."
+    },
+    {
+      "id": "en-q65",
+      "question": "Which word means: \"Heat energy generated inside the Earth.\"?",
+      "options": [
+        "Drought",
+        "Endemic",
+        "Iceberg",
+        "Geothermal"
+      ],
+      "answer": 3,
+      "explanation": "Geothermal (noun) — Heat energy generated inside the Earth."
+    },
+    {
+      "id": "en-q66",
+      "question": "Which word means: \"Organic material used as an energy source.\"?",
+      "options": [
+        "Biomass",
+        "Wetland",
+        "Drought",
+        "Symbiosis"
+      ],
+      "answer": 0,
+      "explanation": "Biomass (noun) — Organic material used as an energy source."
+    },
+    {
+      "id": "en-q67",
+      "question": "Which word means: \"Converting waste materials into reusable products.\"?",
+      "options": [
+        "Decomposer",
+        "Poaching",
+        "Recycling",
+        "Sewage"
+      ],
+      "answer": 2,
+      "explanation": "Recycling (noun) — Converting waste materials into reusable products."
+    },
+    {
+      "id": "en-q68",
+      "question": "Which word means: \"Decayed organic matter used as fertiliser.\"?",
+      "options": [
+        "Flora",
+        "Compost",
+        "Hydropower",
+        "Desertification"
+      ],
+      "answer": 1,
+      "explanation": "Compost (noun) — Decayed organic matter used as fertiliser."
+    },
+    {
+      "id": "en-q69",
+      "question": "Which word means: \"A site where waste is buried under layers of soil.\"?",
+      "options": [
+        "Landfill",
+        "Sanctuary",
+        "Emission",
+        "Plankton"
+      ],
+      "answer": 0,
+      "explanation": "Landfill (noun) — A site where waste is buried under layers of soil."
+    },
+    {
+      "id": "en-q70",
+      "question": "Which word means: \"The burning of waste materials at high temperature.\"?",
+      "options": [
+        "Hibernation",
+        "Incineration",
+        "Smog",
+        "Groundwater"
+      ],
+      "answer": 1,
+      "explanation": "Incineration (noun) — The burning of waste materials at high temperature."
+    },
+    {
+      "id": "en-q71",
+      "question": "Which word means: \"Liquid waste discharged into a body of water.\"?",
+      "options": [
+        "Deciduous",
+        "Effluent",
+        "Natural selection",
+        "Emission"
+      ],
+      "answer": 1,
+      "explanation": "Effluent (noun) — Liquid waste discharged into a body of water."
+    },
+    {
+      "id": "en-q72",
+      "question": "Which word means: \"Waste water and excrement carried away in drains.\"?",
+      "options": [
+        "Smog",
+        "Niche",
+        "Sewage",
+        "Acid rain"
+      ],
+      "answer": 2,
+      "explanation": "Sewage (noun) — Waste water and excrement carried away in drains."
+    },
+    {
+      "id": "en-q73",
+      "question": "Which word means: \"Poisonous to living things.\"?",
+      "options": [
+        "Compost",
+        "Rainforest",
+        "Conservation",
+        "Toxic"
+      ],
+      "answer": 3,
+      "explanation": "Toxic (noun) — Poisonous to living things."
+    },
+    {
+      "id": "en-q74",
+      "question": "Which word means: \"A substance that pollutes or spoils something.\"?",
+      "options": [
+        "Contaminant",
+        "Biomass",
+        "Sea level rise",
+        "Erosion"
+      ],
+      "answer": 0,
+      "explanation": "Contaminant (noun) — A substance that pollutes or spoils something."
+    },
+    {
+      "id": "en-q75",
+      "question": "Which word means: \"Capable of being broken down naturally by microbes.\"?",
+      "options": [
+        "Emission",
+        "Migration",
+        "Biodegradable",
+        "Drought"
+      ],
+      "answer": 2,
+      "explanation": "Biodegradable (noun) — Capable of being broken down naturally by microbes."
+    },
+    {
+      "id": "en-q76",
+      "question": "Which word means: \"Not broken down by natural processes.\"?",
+      "options": [
+        "Natural selection",
+        "Sea level rise",
+        "Non-biodegradable",
+        "Environmentalist"
+      ],
+      "answer": 2,
+      "explanation": "Non-biodegradable (noun) — Not broken down by natural processes."
+    },
+    {
+      "id": "en-q77",
+      "question": "Which word means: \"A gas that forms a protective layer high in the atmosphere.\"?",
+      "options": [
+        "Acid rain",
+        "Ozone",
+        "Species",
+        "Decomposer"
+      ],
+      "answer": 1,
+      "explanation": "Ozone (noun) — A gas that forms a protective layer high in the atmosphere."
+    },
+    {
+      "id": "en-q78",
+      "question": "Which word means: \"The study of relationships between organisms and their environment.\"?",
+      "options": [
+        "Environmentalist",
+        "Permafrost",
+        "Ecology",
+        "Coniferous"
+      ],
+      "answer": 2,
+      "explanation": "Ecology (noun) — The study of relationships between organisms and their environment."
+    },
+    {
+      "id": "en-q79",
+      "question": "Which word means: \"A person who works to protect the environment.\"?",
+      "options": [
+        "Environmentalist",
+        "Effluent",
+        "Iceberg",
+        "Rainforest"
+      ],
+      "answer": 0,
+      "explanation": "Environmentalist (noun) — A person who works to protect the environment."
+    },
+    {
+      "id": "en-q80",
+      "question": "Which word means: \"A place of refuge for wildlife.\"?",
+      "options": [
+        "Iceberg",
+        "Reserve",
+        "Sanctuary",
+        "Decomposer"
+      ],
+      "answer": 2,
+      "explanation": "Sanctuary (noun) — A place of refuge for wildlife."
+    },
+    {
+      "id": "en-q81",
+      "question": "Which word means: \"An area protected for wildlife.\"?",
+      "options": [
+        "Bycatch",
+        "Glacier",
+        "Reserve",
+        "Erosion"
+      ],
+      "answer": 2,
+      "explanation": "Reserve (noun) — An area protected for wildlife."
+    },
+    {
+      "id": "en-q82",
+      "question": "Which word means: \"A protected area of natural beauty and wildlife.\"?",
+      "options": [
+        "Symbiosis",
+        "Extinct",
+        "Sewage",
+        "National park"
+      ],
+      "answer": 3,
+      "explanation": "National park (noun) — A protected area of natural beauty and wildlife."
+    },
+    {
+      "id": "en-q83",
+      "question": "Which word means: \"The illegal hunting or capture of wild animals.\"?",
+      "options": [
+        "Poaching",
+        "Wildfire",
+        "Coniferous",
+        "Landfill"
+      ],
+      "answer": 0,
+      "explanation": "Poaching (noun) — The illegal hunting or capture of wild animals."
+    },
+    {
+      "id": "en-q84",
+      "question": "Which word means: \"Catching fish faster than stocks can replenish.\"?",
+      "options": [
+        "Emission",
+        "Biome",
+        "Recycling",
+        "Overfishing"
+      ],
+      "answer": 3,
+      "explanation": "Overfishing (noun) — Catching fish faster than stocks can replenish."
+    },
+    {
+      "id": "en-q85",
+      "question": "Which word means: \"Sea creatures caught unintentionally in nets.\"?",
+      "options": [
+        "Bycatch",
+        "Preservation",
+        "Flood",
+        "Watershed"
+      ],
+      "answer": 0,
+      "explanation": "Bycatch (noun) — Sea creatures caught unintentionally in nets."
+    },
+    {
+      "id": "en-q86",
+      "question": "Which word means: \"A prolonged period of abnormally low rainfall.\"?",
+      "options": [
+        "Drought",
+        "Plankton",
+        "Deforestation",
+        "Heatwave"
+      ],
+      "answer": 0,
+      "explanation": "Drought (noun) — A prolonged period of abnormally low rainfall."
+    },
+    {
+      "id": "en-q87",
+      "question": "Which word means: \"An overflow of water onto normally dry land.\"?",
+      "options": [
+        "Flood",
+        "Incineration",
+        "Deciduous",
+        "Aquifer"
+      ],
+      "answer": 0,
+      "explanation": "Flood (noun) — An overflow of water onto normally dry land."
+    },
+    {
+      "id": "en-q88",
+      "question": "Which word means: \"A large, uncontrolled fire in a wild area.\"?",
+      "options": [
+        "Emission",
+        "Wildfire",
+        "Flood",
+        "Environmentalist"
+      ],
+      "answer": 1,
+      "explanation": "Wildfire (noun) — A large, uncontrolled fire in a wild area."
+    },
+    {
+      "id": "en-q89",
+      "question": "Which word means: \"A prolonged period of excessively hot weather.\"?",
+      "options": [
+        "Biomass",
+        "Mangrove",
+        "Heatwave",
+        "Permafrost"
+      ],
+      "answer": 2,
+      "explanation": "Heatwave (noun) — A prolonged period of excessively hot weather."
+    },
+    {
+      "id": "en-q90",
+      "question": "Which word means: \"The long-term increase in the average level of the oceans.\"?",
+      "options": [
+        "Migration",
+        "Native species",
+        "Sea level rise",
+        "Natural selection"
+      ],
+      "answer": 2,
+      "explanation": "Sea level rise (noun) — The long-term increase in the average level of the oceans."
+    },
+    {
+      "id": "en-q91",
+      "question": "Which word means: \"Ground that stays frozen for two or more years.\"?",
+      "options": [
+        "Biodiversity",
+        "Permafrost",
+        "Plankton",
+        "Coniferous"
+      ],
+      "answer": 1,
+      "explanation": "Permafrost (noun) — Ground that stays frozen for two or more years."
+    },
+    {
+      "id": "en-q92",
+      "question": "Which word means: \"A slow-moving mass of ice on land.\"?",
+      "options": [
+        "National park",
+        "Wetland",
+        "Glacier",
+        "Permafrost"
+      ],
+      "answer": 2,
+      "explanation": "Glacier (noun) — A slow-moving mass of ice on land."
+    },
+    {
+      "id": "en-q93",
+      "question": "Which word means: \"A large piece of ice that has broken off a glacier.\"?",
+      "options": [
+        "Runoff",
+        "Decomposer",
+        "Tundra",
+        "Iceberg"
+      ],
+      "answer": 3,
+      "explanation": "Iceberg (noun) — A large piece of ice that has broken off a glacier."
+    },
+    {
+      "id": "en-q94",
+      "question": "Which word means: \"A vast, treeless Arctic region with frozen subsoil.\"?",
+      "options": [
+        "Rainforest",
+        "Tundra",
+        "Erosion",
+        "Sediment"
+      ],
+      "answer": 1,
+      "explanation": "Tundra (noun) — A vast, treeless Arctic region with frozen subsoil."
+    },
+    {
+      "id": "en-q95",
+      "question": "Which word means: \"A grassy plain with scattered trees.\"?",
+      "options": [
+        "Producer",
+        "Savanna",
+        "Photosynthesis",
+        "Sewage"
+      ],
+      "answer": 1,
+      "explanation": "Savanna (noun) — A grassy plain with scattered trees."
+    },
+    {
+      "id": "en-q96",
+      "question": "Which word means: \"A dense forest with high annual rainfall.\"?",
+      "options": [
+        "Rainforest",
+        "Biodegradable",
+        "Plankton",
+        "Ecosystem"
+      ],
+      "answer": 0,
+      "explanation": "Rainforest (noun) — A dense forest with high annual rainfall."
+    },
+    {
+      "id": "en-q97",
+      "question": "Which word means: \"Trees that bear cones and evergreen needles.\"?",
+      "options": [
+        "Coniferous",
+        "Afforestation",
+        "Predator",
+        "Flora"
+      ],
+      "answer": 0,
+      "explanation": "Coniferous (noun) — Trees that bear cones and evergreen needles."
+    },
+    {
+      "id": "en-q98",
+      "question": "Which word means: \"Trees that shed their leaves annually.\"?",
+      "options": [
+        "Deciduous",
+        "Contaminant",
+        "Wind energy",
+        "Effluent"
+      ],
+      "answer": 0,
+      "explanation": "Deciduous (noun) — Trees that shed their leaves annually."
+    },
+    {
+      "id": "en-q99",
+      "question": "Which word means: \"A close biological relationship between two species.\"?",
+      "options": [
+        "Wetland",
+        "Symbiosis",
+        "Sediment",
+        "Compost"
+      ],
+      "answer": 1,
+      "explanation": "Symbiosis (noun) — A close biological relationship between two species."
+    },
+    {
+      "id": "en-q100",
+      "question": "Which word means: \"The role a species plays within its ecosystem.\"?",
+      "options": [
+        "Landfill",
+        "Incineration",
+        "Natural selection",
+        "Niche"
+      ],
+      "answer": 3,
+      "explanation": "Niche (noun) — The role a species plays within its ecosystem."
+    }
+  ]
+}

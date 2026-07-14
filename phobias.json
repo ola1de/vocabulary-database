@@ -1,0 +1,1908 @@
+{
+  "category": "phobias",
+  "title": "Phobias",
+  "words": [
+    {
+      "id": "ph-01",
+      "word": "Acrophobia",
+      "pos": "noun",
+      "definition": "Fear of heights.",
+      "example": "His acrophobia prevented him from using the glass elevator."
+    },
+    {
+      "id": "ph-02",
+      "word": "Agoraphobia",
+      "pos": "noun",
+      "definition": "Fear of open or crowded public places.",
+      "example": "Severe agoraphobia kept her housebound for years."
+    },
+    {
+      "id": "ph-03",
+      "word": "Aichmophobia",
+      "pos": "noun",
+      "definition": "Fear of sharp objects, especially needles.",
+      "example": "The child's aichmophobia complicated the vaccination."
+    },
+    {
+      "id": "ph-04",
+      "word": "Ailurophobia",
+      "pos": "noun",
+      "definition": "Fear of cats.",
+      "example": "Napoleon reportedly suffered from ailurophobia."
+    },
+    {
+      "id": "ph-05",
+      "word": "Algophobia",
+      "pos": "noun",
+      "definition": "Fear of pain.",
+      "example": "Algophobia can lead patients to postpone dental care."
+    },
+    {
+      "id": "ph-06",
+      "word": "Androphobia",
+      "pos": "noun",
+      "definition": "Fear of men.",
+      "example": "Trauma survivors sometimes develop temporary androphobia."
+    },
+    {
+      "id": "ph-07",
+      "word": "Anthrophobia",
+      "pos": "noun",
+      "definition": "Fear of people or society.",
+      "example": "His anthrophobia made networking impossible."
+    },
+    {
+      "id": "ph-08",
+      "word": "Aquaphobia",
+      "pos": "noun",
+      "definition": "Fear of water.",
+      "example": "Aquaphobia should be distinguished from mere non-swimming."
+    },
+    {
+      "id": "ph-09",
+      "word": "Arachnophobia",
+      "pos": "noun",
+      "definition": "Fear of spiders.",
+      "example": "Arachnophobia is one of the most common specific phobias."
+    },
+    {
+      "id": "ph-10",
+      "word": "Astraphobia",
+      "pos": "noun",
+      "definition": "Fear of thunder and lightning.",
+      "example": "The dog's astraphobia grew worse each storm."
+    },
+    {
+      "id": "ph-11",
+      "word": "Autophobia",
+      "pos": "noun",
+      "definition": "Fear of being alone.",
+      "example": "Her autophobia surfaced whenever the flat was empty."
+    },
+    {
+      "id": "ph-12",
+      "word": "Bacillophobia",
+      "pos": "noun",
+      "definition": "Fear of microbes and germs.",
+      "example": "His bacillophobia made hand-washing compulsive."
+    },
+    {
+      "id": "ph-13",
+      "word": "Batrachophobia",
+      "pos": "noun",
+      "definition": "Fear of amphibians such as frogs.",
+      "example": "Batrachophobia complicated her fieldwork in wetlands."
+    },
+    {
+      "id": "ph-14",
+      "word": "Bibliophobia",
+      "pos": "noun",
+      "definition": "Fear or dislike of books.",
+      "example": "Ironically, the librarian counselled patients with bibliophobia."
+    },
+    {
+      "id": "ph-15",
+      "word": "Cacophobia",
+      "pos": "noun",
+      "definition": "Fear of ugliness.",
+      "example": "Cacophobia can drive obsessive attention to appearance."
+    },
+    {
+      "id": "ph-16",
+      "word": "Cheimaphobia",
+      "pos": "noun",
+      "definition": "Fear of cold.",
+      "example": "His cheimaphobia grew acute during Nordic winters."
+    },
+    {
+      "id": "ph-17",
+      "word": "Chionophobia",
+      "pos": "noun",
+      "definition": "Fear of snow.",
+      "example": "Chionophobia may include fear of being trapped in blizzards."
+    },
+    {
+      "id": "ph-18",
+      "word": "Chromophobia",
+      "pos": "noun",
+      "definition": "Fear of colours.",
+      "example": "Some designers describe modern architecture's chromophobia."
+    },
+    {
+      "id": "ph-19",
+      "word": "Chronophobia",
+      "pos": "noun",
+      "definition": "Fear of time or its passage.",
+      "example": "Prisoners often report chronophobia during long sentences."
+    },
+    {
+      "id": "ph-20",
+      "word": "Claustrophobia",
+      "pos": "noun",
+      "definition": "Fear of enclosed spaces.",
+      "example": "Her claustrophobia made MRI scans intolerable."
+    },
+    {
+      "id": "ph-21",
+      "word": "Coulrophobia",
+      "pos": "noun",
+      "definition": "Fear of clowns.",
+      "example": "Coulrophobia became a talking point after horror films popularised it."
+    },
+    {
+      "id": "ph-22",
+      "word": "Cynophobia",
+      "pos": "noun",
+      "definition": "Fear of dogs.",
+      "example": "Cynophobia is often traceable to a childhood bite."
+    },
+    {
+      "id": "ph-23",
+      "word": "Demophobia",
+      "pos": "noun",
+      "definition": "Fear of crowds.",
+      "example": "Demophobia forced him to avoid the festival."
+    },
+    {
+      "id": "ph-24",
+      "word": "Dendrophobia",
+      "pos": "noun",
+      "definition": "Fear of trees.",
+      "example": "Dendrophobia is rare and often environmentally triggered."
+    },
+    {
+      "id": "ph-25",
+      "word": "Dentophobia",
+      "pos": "noun",
+      "definition": "Fear of dentists.",
+      "example": "Dentophobia leads many adults to neglect oral care."
+    },
+    {
+      "id": "ph-26",
+      "word": "Ecophobia",
+      "pos": "noun",
+      "definition": "Fear of one's home.",
+      "example": "Ecophobia can develop after a domestic trauma."
+    },
+    {
+      "id": "ph-27",
+      "word": "Entomophobia",
+      "pos": "noun",
+      "definition": "Fear of insects.",
+      "example": "Entomophobia complicated her camping trip."
+    },
+    {
+      "id": "ph-28",
+      "word": "Ergophobia",
+      "pos": "noun",
+      "definition": "Fear of work.",
+      "example": "Ergophobia should not be confused with laziness."
+    },
+    {
+      "id": "ph-29",
+      "word": "Gamophobia",
+      "pos": "noun",
+      "definition": "Fear of marriage.",
+      "example": "His gamophobia surfaced whenever engagement was mentioned."
+    },
+    {
+      "id": "ph-30",
+      "word": "Gephyrophobia",
+      "pos": "noun",
+      "definition": "Fear of crossing bridges.",
+      "example": "Some cities offer driving services for gephyrophobia sufferers."
+    },
+    {
+      "id": "ph-31",
+      "word": "Gerascophobia",
+      "pos": "noun",
+      "definition": "Fear of growing old.",
+      "example": "Gerascophobia fuels the anti-ageing industry."
+    },
+    {
+      "id": "ph-32",
+      "word": "Glossophobia",
+      "pos": "noun",
+      "definition": "Fear of public speaking.",
+      "example": "Glossophobia affects the majority of adults to some degree."
+    },
+    {
+      "id": "ph-33",
+      "word": "Gynophobia",
+      "pos": "noun",
+      "definition": "Fear of women.",
+      "example": "Gynophobia has cultural as well as psychological roots."
+    },
+    {
+      "id": "ph-34",
+      "word": "Haemophobia",
+      "pos": "noun",
+      "definition": "Fear of blood.",
+      "example": "Her haemophobia caused her to faint at the sight of a cut."
+    },
+    {
+      "id": "ph-35",
+      "word": "Hippopotomonstrosesquippedaliophobia",
+      "pos": "noun",
+      "definition": "Fear of long words.",
+      "example": "Ironically, hippopotomonstrosesquippedaliophobia has a very long name."
+    },
+    {
+      "id": "ph-36",
+      "word": "Hydrophobia",
+      "pos": "noun",
+      "definition": "Fear of water; a historical name for rabies.",
+      "example": "Rabies was long called hydrophobia."
+    },
+    {
+      "id": "ph-37",
+      "word": "Hypnophobia",
+      "pos": "noun",
+      "definition": "Fear of sleep.",
+      "example": "Hypnophobia often follows recurrent nightmares."
+    },
+    {
+      "id": "ph-38",
+      "word": "Iatrophobia",
+      "pos": "noun",
+      "definition": "Fear of doctors.",
+      "example": "Iatrophobia can delay diagnosis of serious illness."
+    },
+    {
+      "id": "ph-39",
+      "word": "Kenophobia",
+      "pos": "noun",
+      "definition": "Fear of empty spaces.",
+      "example": "Some interiors are cluttered by their designer's kenophobia."
+    },
+    {
+      "id": "ph-40",
+      "word": "Lachanophobia",
+      "pos": "noun",
+      "definition": "Fear of vegetables.",
+      "example": "Lachanophobia sounds trivial but disrupts nutrition."
+    },
+    {
+      "id": "ph-41",
+      "word": "Mysophobia",
+      "pos": "noun",
+      "definition": "Fear of dirt or contamination.",
+      "example": "His mysophobia made shared kitchens intolerable."
+    },
+    {
+      "id": "ph-42",
+      "word": "Necrophobia",
+      "pos": "noun",
+      "definition": "Fear of death or dead things.",
+      "example": "Necrophobia is a near-universal human trait to some extent."
+    },
+    {
+      "id": "ph-43",
+      "word": "Nyctophobia",
+      "pos": "noun",
+      "definition": "Fear of the dark.",
+      "example": "Nyctophobia is common in children but rare in adults."
+    },
+    {
+      "id": "ph-44",
+      "word": "Ophidiophobia",
+      "pos": "noun",
+      "definition": "Fear of snakes.",
+      "example": "Ophidiophobia is thought by some to be evolutionarily primed."
+    },
+    {
+      "id": "ph-45",
+      "word": "Ornithophobia",
+      "pos": "noun",
+      "definition": "Fear of birds.",
+      "example": "Ornithophobia made Hitchcock's film particularly resonant."
+    },
+    {
+      "id": "ph-46",
+      "word": "Pyrophobia",
+      "pos": "noun",
+      "definition": "Fear of fire.",
+      "example": "Survivors of house fires sometimes develop pyrophobia."
+    },
+    {
+      "id": "ph-47",
+      "word": "Thalassophobia",
+      "pos": "noun",
+      "definition": "Fear of the sea or deep water.",
+      "example": "Divers must first overcome thalassophobia."
+    },
+    {
+      "id": "ph-48",
+      "word": "Thanatophobia",
+      "pos": "noun",
+      "definition": "Fear of dying.",
+      "example": "Thanatophobia intensified as the diagnosis loomed."
+    },
+    {
+      "id": "ph-49",
+      "word": "Triskaidekaphobia",
+      "pos": "noun",
+      "definition": "Fear of the number thirteen.",
+      "example": "Some hotels omit floor thirteen for triskaidekaphobia."
+    },
+    {
+      "id": "ph-50",
+      "word": "Xenophobia",
+      "pos": "noun",
+      "definition": "Fear or dislike of strangers or foreigners.",
+      "example": "Populist rhetoric fed the country's xenophobia."
+    },
+    {
+      "id": "p-051",
+      "word": "Aerophobia",
+      "pos": "noun",
+      "definition": "Fear of flying or of air.",
+      "example": "His aerophobia kept him off planes."
+    },
+    {
+      "id": "p-052",
+      "word": "Ablutophobia",
+      "pos": "noun",
+      "definition": "Fear of bathing or washing.",
+      "example": "Children sometimes develop ablutophobia briefly."
+    },
+    {
+      "id": "p-053",
+      "word": "Acousticophobia",
+      "pos": "noun",
+      "definition": "Fear of loud noises.",
+      "example": "Her acousticophobia made concerts impossible."
+    },
+    {
+      "id": "p-054",
+      "word": "Aerophobia (draft)",
+      "pos": "noun",
+      "definition": "Fear of drafts of air.",
+      "example": "Old texts note aerophobia in rabies patients."
+    },
+    {
+      "id": "p-055",
+      "word": "Ailurophobia (severe)",
+      "pos": "noun",
+      "definition": "Intense fear of cats.",
+      "example": "His ailurophobia forced him to change flats."
+    },
+    {
+      "id": "p-056",
+      "word": "Amaxophobia",
+      "pos": "noun",
+      "definition": "Fear of riding in vehicles.",
+      "example": "Amaxophobia made her avoid taxis."
+    },
+    {
+      "id": "p-057",
+      "word": "Anemophobia",
+      "pos": "noun",
+      "definition": "Fear of wind or drafts.",
+      "example": "Anemophobia flared during storms."
+    },
+    {
+      "id": "p-058",
+      "word": "Anthophobia",
+      "pos": "noun",
+      "definition": "Fear of flowers.",
+      "example": "Her anthophobia surprised the florist."
+    },
+    {
+      "id": "p-059",
+      "word": "Apiphobia",
+      "pos": "noun",
+      "definition": "Fear of bees.",
+      "example": "Apiphobia kept him indoors in summer."
+    },
+    {
+      "id": "p-060",
+      "word": "Astrophobia",
+      "pos": "noun",
+      "definition": "Fear of stars or celestial space.",
+      "example": "Astrophobia is often linked to agoraphobia."
+    },
+    {
+      "id": "p-061",
+      "word": "Atychiphobia",
+      "pos": "noun",
+      "definition": "Fear of failure.",
+      "example": "Atychiphobia paralysed his career choices."
+    },
+    {
+      "id": "p-062",
+      "word": "Bathmophobia",
+      "pos": "noun",
+      "definition": "Fear of stairs or steep slopes.",
+      "example": "Bathmophobia kept her on the ground floor."
+    },
+    {
+      "id": "p-063",
+      "word": "Belonephobia",
+      "pos": "noun",
+      "definition": "Fear of pins and needles.",
+      "example": "Belonephobia complicates blood tests."
+    },
+    {
+      "id": "p-064",
+      "word": "Cardiophobia",
+      "pos": "noun",
+      "definition": "Fear of heart disease.",
+      "example": "Cardiophobia drove him to constant check-ups."
+    },
+    {
+      "id": "p-065",
+      "word": "Carcinophobia",
+      "pos": "noun",
+      "definition": "Fear of cancer.",
+      "example": "Carcinophobia is common after a family loss."
+    },
+    {
+      "id": "p-066",
+      "word": "Chemophobia",
+      "pos": "noun",
+      "definition": "Fear of chemicals.",
+      "example": "Chemophobia can distort risk perception."
+    },
+    {
+      "id": "p-067",
+      "word": "Cibophobia",
+      "pos": "noun",
+      "definition": "Fear of food.",
+      "example": "Cibophobia caused rapid weight loss."
+    },
+    {
+      "id": "p-068",
+      "word": "Cyberphobia",
+      "pos": "noun",
+      "definition": "Fear of computers.",
+      "example": "Cyberphobia hindered her office work."
+    },
+    {
+      "id": "p-069",
+      "word": "Decidophobia",
+      "pos": "noun",
+      "definition": "Fear of making decisions.",
+      "example": "Decidophobia stalled every project."
+    },
+    {
+      "id": "p-070",
+      "word": "Dromophobia",
+      "pos": "noun",
+      "definition": "Fear of crossing streets.",
+      "example": "Dromophobia is common in older adults."
+    },
+    {
+      "id": "p-071",
+      "word": "Elurophobia",
+      "pos": "noun",
+      "definition": "Fear of cats (variant).",
+      "example": "Elurophobia is another term for ailurophobia."
+    },
+    {
+      "id": "p-072",
+      "word": "Emetophobia",
+      "pos": "noun",
+      "definition": "Fear of vomiting.",
+      "example": "Emetophobia made him avoid sea travel."
+    },
+    {
+      "id": "p-073",
+      "word": "Enochlophobia",
+      "pos": "noun",
+      "definition": "Fear of crowds.",
+      "example": "Enochlophobia flared at the concert."
+    },
+    {
+      "id": "p-074",
+      "word": "Eremophobia",
+      "pos": "noun",
+      "definition": "Fear of being alone or of solitude.",
+      "example": "Eremophobia made her keep the TV on."
+    },
+    {
+      "id": "p-075",
+      "word": "Erotophobia",
+      "pos": "noun",
+      "definition": "Fear of sexual matters.",
+      "example": "Therapy addressed his erotophobia."
+    },
+    {
+      "id": "p-076",
+      "word": "Frigophobia",
+      "pos": "noun",
+      "definition": "Fear of cold or cold things.",
+      "example": "Frigophobia kept her bundled indoors."
+    },
+    {
+      "id": "p-077",
+      "word": "Galeophobia",
+      "pos": "noun",
+      "definition": "Fear of sharks.",
+      "example": "Galeophobia is fuelled by movies."
+    },
+    {
+      "id": "p-078",
+      "word": "Geliophobia",
+      "pos": "noun",
+      "definition": "Fear of laughter.",
+      "example": "Geliophobia is a rare social phobia."
+    },
+    {
+      "id": "p-079",
+      "word": "Hadephobia",
+      "pos": "noun",
+      "definition": "Fear of hell.",
+      "example": "Hadephobia troubled him after the sermon."
+    },
+    {
+      "id": "p-080",
+      "word": "Hedonophobia",
+      "pos": "noun",
+      "definition": "Fear of pleasure.",
+      "example": "Hedonophobia is linked to guilt."
+    },
+    {
+      "id": "p-081",
+      "word": "Heliophobia",
+      "pos": "noun",
+      "definition": "Fear of the sun.",
+      "example": "Heliophobia can accompany skin conditions."
+    },
+    {
+      "id": "p-082",
+      "word": "Hodophobia",
+      "pos": "noun",
+      "definition": "Fear of travel.",
+      "example": "Hodophobia kept him from vacations."
+    },
+    {
+      "id": "p-083",
+      "word": "Iophobia",
+      "pos": "noun",
+      "definition": "Fear of poison.",
+      "example": "Iophobia made him wary of unfamiliar food."
+    },
+    {
+      "id": "p-084",
+      "word": "Kynophobia",
+      "pos": "noun",
+      "definition": "Fear of rabies.",
+      "example": "Kynophobia grew after the outbreak."
+    },
+    {
+      "id": "p-085",
+      "word": "Ligyrophobia",
+      "pos": "noun",
+      "definition": "Fear of loud sudden noises.",
+      "example": "Fireworks worsened her ligyrophobia."
+    },
+    {
+      "id": "p-086",
+      "word": "Lockiophobia",
+      "pos": "noun",
+      "definition": "Fear of childbirth.",
+      "example": "Lockiophobia influenced her decisions."
+    },
+    {
+      "id": "p-087",
+      "word": "Megalophobia",
+      "pos": "noun",
+      "definition": "Fear of large objects.",
+      "example": "Megalophobia flared near the statue."
+    },
+    {
+      "id": "p-088",
+      "word": "Monophobia",
+      "pos": "noun",
+      "definition": "Fear of being alone.",
+      "example": "Monophobia made him seek roommates."
+    },
+    {
+      "id": "p-089",
+      "word": "Nomophobia",
+      "pos": "noun",
+      "definition": "Fear of being without mobile phone.",
+      "example": "Nomophobia is now widely reported."
+    },
+    {
+      "id": "p-090",
+      "word": "Nosophobia",
+      "pos": "noun",
+      "definition": "Fear of contracting disease.",
+      "example": "Nosophobia intensified during the pandemic."
+    },
+    {
+      "id": "p-091",
+      "word": "Obesophobia",
+      "pos": "noun",
+      "definition": "Fear of gaining weight.",
+      "example": "Obesophobia can precede eating disorders."
+    },
+    {
+      "id": "p-092",
+      "word": "Ombrophobia",
+      "pos": "noun",
+      "definition": "Fear of rain.",
+      "example": "Ombrophobia disrupted her commute."
+    },
+    {
+      "id": "p-093",
+      "word": "Panphobia",
+      "pos": "noun",
+      "definition": "Fear of everything.",
+      "example": "Panphobia describes vague, pervasive dread."
+    },
+    {
+      "id": "p-094",
+      "word": "Pathophobia",
+      "pos": "noun",
+      "definition": "Fear of disease.",
+      "example": "Pathophobia sent him to many doctors."
+    },
+    {
+      "id": "p-095",
+      "word": "Pediophobia",
+      "pos": "noun",
+      "definition": "Fear of dolls.",
+      "example": "Pediophobia is common in horror fans."
+    },
+    {
+      "id": "p-096",
+      "word": "Selenophobia",
+      "pos": "noun",
+      "definition": "Fear of the moon.",
+      "example": "Selenophobia peaked on full-moon nights."
+    },
+    {
+      "id": "p-097",
+      "word": "Sociophobia",
+      "pos": "noun",
+      "definition": "Fear of society or people.",
+      "example": "Sociophobia limited his friendships."
+    },
+    {
+      "id": "p-098",
+      "word": "Somniphobia",
+      "pos": "noun",
+      "definition": "Fear of sleep.",
+      "example": "Somniphobia followed his nightmares."
+    },
+    {
+      "id": "p-099",
+      "word": "Technophobia",
+      "pos": "noun",
+      "definition": "Fear of technology.",
+      "example": "Technophobia complicated remote work."
+    },
+    {
+      "id": "p-100",
+      "word": "Tocophobia",
+      "pos": "noun",
+      "definition": "Fear of pregnancy or childbirth.",
+      "example": "Tocophobia influenced her family planning."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "pho-q1",
+      "question": "Which word means: \"Fear of heights.\"?",
+      "options": [
+        "Acrophobia",
+        "Technophobia",
+        "Hedonophobia",
+        "Chionophobia"
+      ],
+      "answer": 0,
+      "explanation": "Acrophobia (noun) — Fear of heights."
+    },
+    {
+      "id": "pho-q2",
+      "question": "Which word means: \"Fear of open or crowded public places.\"?",
+      "options": [
+        "Gynophobia",
+        "Heliophobia",
+        "Agoraphobia",
+        "Somniphobia"
+      ],
+      "answer": 2,
+      "explanation": "Agoraphobia (noun) — Fear of open or crowded public places."
+    },
+    {
+      "id": "pho-q3",
+      "question": "Which word means: \"Fear of sharp objects, especially needles.\"?",
+      "options": [
+        "Kenophobia",
+        "Aichmophobia",
+        "Triskaidekaphobia",
+        "Carcinophobia"
+      ],
+      "answer": 1,
+      "explanation": "Aichmophobia (noun) — Fear of sharp objects, especially needles."
+    },
+    {
+      "id": "pho-q4",
+      "question": "Which word means: \"Fear of cats.\"?",
+      "options": [
+        "Ergophobia",
+        "Ailurophobia",
+        "Androphobia",
+        "Kynophobia"
+      ],
+      "answer": 1,
+      "explanation": "Ailurophobia (noun) — Fear of cats."
+    },
+    {
+      "id": "pho-q5",
+      "question": "Which word means: \"Fear of pain.\"?",
+      "options": [
+        "Algophobia",
+        "Selenophobia",
+        "Ophidiophobia",
+        "Chronophobia"
+      ],
+      "answer": 0,
+      "explanation": "Algophobia (noun) — Fear of pain."
+    },
+    {
+      "id": "pho-q6",
+      "question": "Which word means: \"Fear of men.\"?",
+      "options": [
+        "Ailurophobia (severe)",
+        "Androphobia",
+        "Cyberphobia",
+        "Kynophobia"
+      ],
+      "answer": 1,
+      "explanation": "Androphobia (noun) — Fear of men."
+    },
+    {
+      "id": "pho-q7",
+      "question": "Which word means: \"Fear of people or society.\"?",
+      "options": [
+        "Anthrophobia",
+        "Ornithophobia",
+        "Pediophobia",
+        "Ophidiophobia"
+      ],
+      "answer": 0,
+      "explanation": "Anthrophobia (noun) — Fear of people or society."
+    },
+    {
+      "id": "pho-q8",
+      "question": "Which word means: \"Fear of water.\"?",
+      "options": [
+        "Megalophobia",
+        "Aquaphobia",
+        "Nomophobia",
+        "Gynophobia"
+      ],
+      "answer": 1,
+      "explanation": "Aquaphobia (noun) — Fear of water."
+    },
+    {
+      "id": "pho-q9",
+      "question": "Which word means: \"Fear of spiders.\"?",
+      "options": [
+        "Nyctophobia",
+        "Cyberphobia",
+        "Dentophobia",
+        "Arachnophobia"
+      ],
+      "answer": 3,
+      "explanation": "Arachnophobia (noun) — Fear of spiders."
+    },
+    {
+      "id": "pho-q10",
+      "question": "Which word means: \"Fear of thunder and lightning.\"?",
+      "options": [
+        "Cardiophobia",
+        "Astraphobia",
+        "Ecophobia",
+        "Arachnophobia"
+      ],
+      "answer": 1,
+      "explanation": "Astraphobia (noun) — Fear of thunder and lightning."
+    },
+    {
+      "id": "pho-q11",
+      "question": "Which word means: \"Fear of being alone.\"?",
+      "options": [
+        "Autophobia",
+        "Ergophobia",
+        "Batrachophobia",
+        "Chromophobia"
+      ],
+      "answer": 0,
+      "explanation": "Autophobia (noun) — Fear of being alone."
+    },
+    {
+      "id": "pho-q12",
+      "question": "Which word means: \"Fear of microbes and germs.\"?",
+      "options": [
+        "Glossophobia",
+        "Chemophobia",
+        "Autophobia",
+        "Bacillophobia"
+      ],
+      "answer": 3,
+      "explanation": "Bacillophobia (noun) — Fear of microbes and germs."
+    },
+    {
+      "id": "pho-q13",
+      "question": "Which word means: \"Fear of amphibians such as frogs.\"?",
+      "options": [
+        "Pathophobia",
+        "Batrachophobia",
+        "Mysophobia",
+        "Demophobia"
+      ],
+      "answer": 1,
+      "explanation": "Batrachophobia (noun) — Fear of amphibians such as frogs."
+    },
+    {
+      "id": "pho-q14",
+      "question": "Which word means: \"Fear or dislike of books.\"?",
+      "options": [
+        "Dendrophobia",
+        "Bibliophobia",
+        "Hadephobia",
+        "Gynophobia"
+      ],
+      "answer": 1,
+      "explanation": "Bibliophobia (noun) — Fear or dislike of books."
+    },
+    {
+      "id": "pho-q15",
+      "question": "Which word means: \"Fear of ugliness.\"?",
+      "options": [
+        "Hydrophobia",
+        "Entomophobia",
+        "Iophobia",
+        "Cacophobia"
+      ],
+      "answer": 3,
+      "explanation": "Cacophobia (noun) — Fear of ugliness."
+    },
+    {
+      "id": "pho-q16",
+      "question": "Which word means: \"Fear of cold.\"?",
+      "options": [
+        "Ablutophobia",
+        "Demophobia",
+        "Xenophobia",
+        "Cheimaphobia"
+      ],
+      "answer": 3,
+      "explanation": "Cheimaphobia (noun) — Fear of cold."
+    },
+    {
+      "id": "pho-q17",
+      "question": "Which word means: \"Fear of snow.\"?",
+      "options": [
+        "Selenophobia",
+        "Hedonophobia",
+        "Chemophobia",
+        "Chionophobia"
+      ],
+      "answer": 3,
+      "explanation": "Chionophobia (noun) — Fear of snow."
+    },
+    {
+      "id": "pho-q18",
+      "question": "Which word means: \"Fear of colours.\"?",
+      "options": [
+        "Xenophobia",
+        "Technophobia",
+        "Aichmophobia",
+        "Chromophobia"
+      ],
+      "answer": 3,
+      "explanation": "Chromophobia (noun) — Fear of colours."
+    },
+    {
+      "id": "pho-q19",
+      "question": "Which word means: \"Fear of time or its passage.\"?",
+      "options": [
+        "Geliophobia",
+        "Coulrophobia",
+        "Chronophobia",
+        "Dromophobia"
+      ],
+      "answer": 2,
+      "explanation": "Chronophobia (noun) — Fear of time or its passage."
+    },
+    {
+      "id": "pho-q20",
+      "question": "Which word means: \"Fear of enclosed spaces.\"?",
+      "options": [
+        "Atychiphobia",
+        "Claustrophobia",
+        "Mysophobia",
+        "Astrophobia"
+      ],
+      "answer": 1,
+      "explanation": "Claustrophobia (noun) — Fear of enclosed spaces."
+    },
+    {
+      "id": "pho-q21",
+      "question": "Which word means: \"Fear of clowns.\"?",
+      "options": [
+        "Ophidiophobia",
+        "Chromophobia",
+        "Astraphobia",
+        "Coulrophobia"
+      ],
+      "answer": 3,
+      "explanation": "Coulrophobia (noun) — Fear of clowns."
+    },
+    {
+      "id": "pho-q22",
+      "question": "Which word means: \"Fear of dogs.\"?",
+      "options": [
+        "Ecophobia",
+        "Cynophobia",
+        "Acrophobia",
+        "Agoraphobia"
+      ],
+      "answer": 1,
+      "explanation": "Cynophobia (noun) — Fear of dogs."
+    },
+    {
+      "id": "pho-q23",
+      "question": "Which word means: \"Fear of crowds.\"?",
+      "options": [
+        "Ailurophobia (severe)",
+        "Demophobia",
+        "Ablutophobia",
+        "Sociophobia"
+      ],
+      "answer": 1,
+      "explanation": "Demophobia (noun) — Fear of crowds."
+    },
+    {
+      "id": "pho-q24",
+      "question": "Which word means: \"Fear of trees.\"?",
+      "options": [
+        "Galeophobia",
+        "Dendrophobia",
+        "Kynophobia",
+        "Mysophobia"
+      ],
+      "answer": 1,
+      "explanation": "Dendrophobia (noun) — Fear of trees."
+    },
+    {
+      "id": "pho-q25",
+      "question": "Which word means: \"Fear of dentists.\"?",
+      "options": [
+        "Eremophobia",
+        "Dentophobia",
+        "Cheimaphobia",
+        "Aerophobia"
+      ],
+      "answer": 1,
+      "explanation": "Dentophobia (noun) — Fear of dentists."
+    },
+    {
+      "id": "pho-q26",
+      "question": "Which word means: \"Fear of one's home.\"?",
+      "options": [
+        "Haemophobia",
+        "Tocophobia",
+        "Ecophobia",
+        "Somniphobia"
+      ],
+      "answer": 2,
+      "explanation": "Ecophobia (noun) — Fear of one's home."
+    },
+    {
+      "id": "pho-q27",
+      "question": "Which word means: \"Fear of insects.\"?",
+      "options": [
+        "Entomophobia",
+        "Nosophobia",
+        "Triskaidekaphobia",
+        "Iophobia"
+      ],
+      "answer": 0,
+      "explanation": "Entomophobia (noun) — Fear of insects."
+    },
+    {
+      "id": "pho-q28",
+      "question": "Which word means: \"Fear of work.\"?",
+      "options": [
+        "Gynophobia",
+        "Amaxophobia",
+        "Ergophobia",
+        "Selenophobia"
+      ],
+      "answer": 2,
+      "explanation": "Ergophobia (noun) — Fear of work."
+    },
+    {
+      "id": "pho-q29",
+      "question": "Which word means: \"Fear of marriage.\"?",
+      "options": [
+        "Hodophobia",
+        "Gamophobia",
+        "Ombrophobia",
+        "Thanatophobia"
+      ],
+      "answer": 1,
+      "explanation": "Gamophobia (noun) — Fear of marriage."
+    },
+    {
+      "id": "pho-q30",
+      "question": "Which word means: \"Fear of crossing bridges.\"?",
+      "options": [
+        "Astrophobia",
+        "Hippopotomonstrosesquippedaliophobia",
+        "Gephyrophobia",
+        "Hadephobia"
+      ],
+      "answer": 2,
+      "explanation": "Gephyrophobia (noun) — Fear of crossing bridges."
+    },
+    {
+      "id": "pho-q31",
+      "question": "Which word means: \"Fear of growing old.\"?",
+      "options": [
+        "Gerascophobia",
+        "Lockiophobia",
+        "Hadephobia",
+        "Frigophobia"
+      ],
+      "answer": 0,
+      "explanation": "Gerascophobia (noun) — Fear of growing old."
+    },
+    {
+      "id": "pho-q32",
+      "question": "Which word means: \"Fear of public speaking.\"?",
+      "options": [
+        "Kynophobia",
+        "Tocophobia",
+        "Bacillophobia",
+        "Glossophobia"
+      ],
+      "answer": 3,
+      "explanation": "Glossophobia (noun) — Fear of public speaking."
+    },
+    {
+      "id": "pho-q33",
+      "question": "Which word means: \"Fear of women.\"?",
+      "options": [
+        "Cyberphobia",
+        "Amaxophobia",
+        "Gynophobia",
+        "Dentophobia"
+      ],
+      "answer": 2,
+      "explanation": "Gynophobia (noun) — Fear of women."
+    },
+    {
+      "id": "pho-q34",
+      "question": "Which word means: \"Fear of blood.\"?",
+      "options": [
+        "Nosophobia",
+        "Lachanophobia",
+        "Chemophobia",
+        "Haemophobia"
+      ],
+      "answer": 3,
+      "explanation": "Haemophobia (noun) — Fear of blood."
+    },
+    {
+      "id": "pho-q35",
+      "question": "Which word means: \"Fear of long words.\"?",
+      "options": [
+        "Somniphobia",
+        "Aerophobia (draft)",
+        "Hippopotomonstrosesquippedaliophobia",
+        "Pediophobia"
+      ],
+      "answer": 2,
+      "explanation": "Hippopotomonstrosesquippedaliophobia (noun) — Fear of long words."
+    },
+    {
+      "id": "pho-q36",
+      "question": "Which word means: \"Fear of water; a historical name for rabies.\"?",
+      "options": [
+        "Chronophobia",
+        "Hydrophobia",
+        "Sociophobia",
+        "Hippopotomonstrosesquippedaliophobia"
+      ],
+      "answer": 1,
+      "explanation": "Hydrophobia (noun) — Fear of water; a historical name for rabies."
+    },
+    {
+      "id": "pho-q37",
+      "question": "Which word means: \"Fear of sleep.\"?",
+      "options": [
+        "Acrophobia",
+        "Obesophobia",
+        "Hypnophobia",
+        "Mysophobia"
+      ],
+      "answer": 2,
+      "explanation": "Hypnophobia (noun) — Fear of sleep."
+    },
+    {
+      "id": "pho-q38",
+      "question": "Which word means: \"Fear of doctors.\"?",
+      "options": [
+        "Batrachophobia",
+        "Arachnophobia",
+        "Obesophobia",
+        "Iatrophobia"
+      ],
+      "answer": 3,
+      "explanation": "Iatrophobia (noun) — Fear of doctors."
+    },
+    {
+      "id": "pho-q39",
+      "question": "Which word means: \"Fear of empty spaces.\"?",
+      "options": [
+        "Hypnophobia",
+        "Pediophobia",
+        "Ligyrophobia",
+        "Kenophobia"
+      ],
+      "answer": 3,
+      "explanation": "Kenophobia (noun) — Fear of empty spaces."
+    },
+    {
+      "id": "pho-q40",
+      "question": "Which word means: \"Fear of vegetables.\"?",
+      "options": [
+        "Ombrophobia",
+        "Lachanophobia",
+        "Triskaidekaphobia",
+        "Dendrophobia"
+      ],
+      "answer": 1,
+      "explanation": "Lachanophobia (noun) — Fear of vegetables."
+    },
+    {
+      "id": "pho-q41",
+      "question": "Which word means: \"Fear of dirt or contamination.\"?",
+      "options": [
+        "Chemophobia",
+        "Dendrophobia",
+        "Cacophobia",
+        "Mysophobia"
+      ],
+      "answer": 3,
+      "explanation": "Mysophobia (noun) — Fear of dirt or contamination."
+    },
+    {
+      "id": "pho-q42",
+      "question": "Which word means: \"Fear of death or dead things.\"?",
+      "options": [
+        "Aquaphobia",
+        "Necrophobia",
+        "Dendrophobia",
+        "Ecophobia"
+      ],
+      "answer": 1,
+      "explanation": "Necrophobia (noun) — Fear of death or dead things."
+    },
+    {
+      "id": "pho-q43",
+      "question": "Which word means: \"Fear of the dark.\"?",
+      "options": [
+        "Anthophobia",
+        "Nyctophobia",
+        "Hodophobia",
+        "Aerophobia (draft)"
+      ],
+      "answer": 1,
+      "explanation": "Nyctophobia (noun) — Fear of the dark."
+    },
+    {
+      "id": "pho-q44",
+      "question": "Which word means: \"Fear of snakes.\"?",
+      "options": [
+        "Xenophobia",
+        "Ophidiophobia",
+        "Iatrophobia",
+        "Autophobia"
+      ],
+      "answer": 1,
+      "explanation": "Ophidiophobia (noun) — Fear of snakes."
+    },
+    {
+      "id": "pho-q45",
+      "question": "Which word means: \"Fear of birds.\"?",
+      "options": [
+        "Ophidiophobia",
+        "Frigophobia",
+        "Ornithophobia",
+        "Ailurophobia"
+      ],
+      "answer": 2,
+      "explanation": "Ornithophobia (noun) — Fear of birds."
+    },
+    {
+      "id": "pho-q46",
+      "question": "Which word means: \"Fear of fire.\"?",
+      "options": [
+        "Batrachophobia",
+        "Technophobia",
+        "Pyrophobia",
+        "Monophobia"
+      ],
+      "answer": 2,
+      "explanation": "Pyrophobia (noun) — Fear of fire."
+    },
+    {
+      "id": "pho-q47",
+      "question": "Which word means: \"Fear of the sea or deep water.\"?",
+      "options": [
+        "Acrophobia",
+        "Megalophobia",
+        "Thalassophobia",
+        "Somniphobia"
+      ],
+      "answer": 2,
+      "explanation": "Thalassophobia (noun) — Fear of the sea or deep water."
+    },
+    {
+      "id": "pho-q48",
+      "question": "Which word means: \"Fear of dying.\"?",
+      "options": [
+        "Cyberphobia",
+        "Thanatophobia",
+        "Acrophobia",
+        "Xenophobia"
+      ],
+      "answer": 1,
+      "explanation": "Thanatophobia (noun) — Fear of dying."
+    },
+    {
+      "id": "pho-q49",
+      "question": "Which word means: \"Fear of the number thirteen.\"?",
+      "options": [
+        "Somniphobia",
+        "Hadephobia",
+        "Ophidiophobia",
+        "Triskaidekaphobia"
+      ],
+      "answer": 3,
+      "explanation": "Triskaidekaphobia (noun) — Fear of the number thirteen."
+    },
+    {
+      "id": "pho-q50",
+      "question": "Which word means: \"Fear or dislike of strangers or foreigners.\"?",
+      "options": [
+        "Nomophobia",
+        "Mysophobia",
+        "Xenophobia",
+        "Ophidiophobia"
+      ],
+      "answer": 2,
+      "explanation": "Xenophobia (noun) — Fear or dislike of strangers or foreigners."
+    },
+    {
+      "id": "pho-q51",
+      "question": "Which word means: \"Fear of flying or of air.\"?",
+      "options": [
+        "Aerophobia",
+        "Triskaidekaphobia",
+        "Hedonophobia",
+        "Aquaphobia"
+      ],
+      "answer": 0,
+      "explanation": "Aerophobia (noun) — Fear of flying or of air."
+    },
+    {
+      "id": "pho-q52",
+      "question": "Which word means: \"Fear of bathing or washing.\"?",
+      "options": [
+        "Astrophobia",
+        "Acrophobia",
+        "Obesophobia",
+        "Ablutophobia"
+      ],
+      "answer": 3,
+      "explanation": "Ablutophobia (noun) — Fear of bathing or washing."
+    },
+    {
+      "id": "pho-q53",
+      "question": "Which word means: \"Fear of loud noises.\"?",
+      "options": [
+        "Hadephobia",
+        "Ailurophobia",
+        "Acousticophobia",
+        "Cheimaphobia"
+      ],
+      "answer": 2,
+      "explanation": "Acousticophobia (noun) — Fear of loud noises."
+    },
+    {
+      "id": "pho-q54",
+      "question": "Which word means: \"Fear of drafts of air.\"?",
+      "options": [
+        "Thanatophobia",
+        "Apiphobia",
+        "Heliophobia",
+        "Aerophobia (draft)"
+      ],
+      "answer": 3,
+      "explanation": "Aerophobia (draft) (noun) — Fear of drafts of air."
+    },
+    {
+      "id": "pho-q55",
+      "question": "Which word means: \"Intense fear of cats.\"?",
+      "options": [
+        "Ailurophobia (severe)",
+        "Dentophobia",
+        "Lockiophobia",
+        "Acrophobia"
+      ],
+      "answer": 0,
+      "explanation": "Ailurophobia (severe) (noun) — Intense fear of cats."
+    },
+    {
+      "id": "pho-q56",
+      "question": "Which word means: \"Fear of riding in vehicles.\"?",
+      "options": [
+        "Necrophobia",
+        "Selenophobia",
+        "Androphobia",
+        "Amaxophobia"
+      ],
+      "answer": 3,
+      "explanation": "Amaxophobia (noun) — Fear of riding in vehicles."
+    },
+    {
+      "id": "pho-q57",
+      "question": "Which word means: \"Fear of wind or drafts.\"?",
+      "options": [
+        "Anemophobia",
+        "Hedonophobia",
+        "Selenophobia",
+        "Ablutophobia"
+      ],
+      "answer": 0,
+      "explanation": "Anemophobia (noun) — Fear of wind or drafts."
+    },
+    {
+      "id": "pho-q58",
+      "question": "Which word means: \"Fear of flowers.\"?",
+      "options": [
+        "Anthophobia",
+        "Lockiophobia",
+        "Obesophobia",
+        "Bathmophobia"
+      ],
+      "answer": 0,
+      "explanation": "Anthophobia (noun) — Fear of flowers."
+    },
+    {
+      "id": "pho-q59",
+      "question": "Which word means: \"Fear of bees.\"?",
+      "options": [
+        "Apiphobia",
+        "Iatrophobia",
+        "Dentophobia",
+        "Hadephobia"
+      ],
+      "answer": 0,
+      "explanation": "Apiphobia (noun) — Fear of bees."
+    },
+    {
+      "id": "pho-q60",
+      "question": "Which word means: \"Fear of stars or celestial space.\"?",
+      "options": [
+        "Chionophobia",
+        "Carcinophobia",
+        "Astrophobia",
+        "Bacillophobia"
+      ],
+      "answer": 2,
+      "explanation": "Astrophobia (noun) — Fear of stars or celestial space."
+    },
+    {
+      "id": "pho-q61",
+      "question": "Which word means: \"Fear of failure.\"?",
+      "options": [
+        "Anthophobia",
+        "Cynophobia",
+        "Cacophobia",
+        "Atychiphobia"
+      ],
+      "answer": 3,
+      "explanation": "Atychiphobia (noun) — Fear of failure."
+    },
+    {
+      "id": "pho-q62",
+      "question": "Which word means: \"Fear of stairs or steep slopes.\"?",
+      "options": [
+        "Cynophobia",
+        "Ergophobia",
+        "Bathmophobia",
+        "Glossophobia"
+      ],
+      "answer": 2,
+      "explanation": "Bathmophobia (noun) — Fear of stairs or steep slopes."
+    },
+    {
+      "id": "pho-q63",
+      "question": "Which word means: \"Fear of pins and needles.\"?",
+      "options": [
+        "Panphobia",
+        "Belonephobia",
+        "Ailurophobia",
+        "Coulrophobia"
+      ],
+      "answer": 1,
+      "explanation": "Belonephobia (noun) — Fear of pins and needles."
+    },
+    {
+      "id": "pho-q64",
+      "question": "Which word means: \"Fear of heart disease.\"?",
+      "options": [
+        "Pathophobia",
+        "Gamophobia",
+        "Gynophobia",
+        "Cardiophobia"
+      ],
+      "answer": 3,
+      "explanation": "Cardiophobia (noun) — Fear of heart disease."
+    },
+    {
+      "id": "pho-q65",
+      "question": "Which word means: \"Fear of cancer.\"?",
+      "options": [
+        "Dromophobia",
+        "Chromophobia",
+        "Megalophobia",
+        "Carcinophobia"
+      ],
+      "answer": 3,
+      "explanation": "Carcinophobia (noun) — Fear of cancer."
+    },
+    {
+      "id": "pho-q66",
+      "question": "Which word means: \"Fear of chemicals.\"?",
+      "options": [
+        "Chemophobia",
+        "Erotophobia",
+        "Tocophobia",
+        "Gamophobia"
+      ],
+      "answer": 0,
+      "explanation": "Chemophobia (noun) — Fear of chemicals."
+    },
+    {
+      "id": "pho-q67",
+      "question": "Which word means: \"Fear of food.\"?",
+      "options": [
+        "Triskaidekaphobia",
+        "Panphobia",
+        "Sociophobia",
+        "Cibophobia"
+      ],
+      "answer": 3,
+      "explanation": "Cibophobia (noun) — Fear of food."
+    },
+    {
+      "id": "pho-q68",
+      "question": "Which word means: \"Fear of computers.\"?",
+      "options": [
+        "Haemophobia",
+        "Cyberphobia",
+        "Gamophobia",
+        "Gephyrophobia"
+      ],
+      "answer": 1,
+      "explanation": "Cyberphobia (noun) — Fear of computers."
+    },
+    {
+      "id": "pho-q69",
+      "question": "Which word means: \"Fear of making decisions.\"?",
+      "options": [
+        "Decidophobia",
+        "Cacophobia",
+        "Ophidiophobia",
+        "Bacillophobia"
+      ],
+      "answer": 0,
+      "explanation": "Decidophobia (noun) — Fear of making decisions."
+    },
+    {
+      "id": "pho-q70",
+      "question": "Which word means: \"Fear of crossing streets.\"?",
+      "options": [
+        "Dromophobia",
+        "Erotophobia",
+        "Thanatophobia",
+        "Chionophobia"
+      ],
+      "answer": 0,
+      "explanation": "Dromophobia (noun) — Fear of crossing streets."
+    },
+    {
+      "id": "pho-q71",
+      "question": "Which word means: \"Fear of cats (variant).\"?",
+      "options": [
+        "Lachanophobia",
+        "Galeophobia",
+        "Elurophobia",
+        "Aquaphobia"
+      ],
+      "answer": 2,
+      "explanation": "Elurophobia (noun) — Fear of cats (variant)."
+    },
+    {
+      "id": "pho-q72",
+      "question": "Which word means: \"Fear of vomiting.\"?",
+      "options": [
+        "Emetophobia",
+        "Mysophobia",
+        "Thalassophobia",
+        "Tocophobia"
+      ],
+      "answer": 0,
+      "explanation": "Emetophobia (noun) — Fear of vomiting."
+    },
+    {
+      "id": "pho-q73",
+      "question": "Which word means: \"Fear of crowds.\"?",
+      "options": [
+        "Agoraphobia",
+        "Bibliophobia",
+        "Aerophobia",
+        "Enochlophobia"
+      ],
+      "answer": 3,
+      "explanation": "Enochlophobia (noun) — Fear of crowds."
+    },
+    {
+      "id": "pho-q74",
+      "question": "Which word means: \"Fear of being alone or of solitude.\"?",
+      "options": [
+        "Cardiophobia",
+        "Gamophobia",
+        "Iatrophobia",
+        "Eremophobia"
+      ],
+      "answer": 3,
+      "explanation": "Eremophobia (noun) — Fear of being alone or of solitude."
+    },
+    {
+      "id": "pho-q75",
+      "question": "Which word means: \"Fear of sexual matters.\"?",
+      "options": [
+        "Erotophobia",
+        "Sociophobia",
+        "Megalophobia",
+        "Chronophobia"
+      ],
+      "answer": 0,
+      "explanation": "Erotophobia (noun) — Fear of sexual matters."
+    },
+    {
+      "id": "pho-q76",
+      "question": "Which word means: \"Fear of cold or cold things.\"?",
+      "options": [
+        "Frigophobia",
+        "Nosophobia",
+        "Carcinophobia",
+        "Lachanophobia"
+      ],
+      "answer": 0,
+      "explanation": "Frigophobia (noun) — Fear of cold or cold things."
+    },
+    {
+      "id": "pho-q77",
+      "question": "Which word means: \"Fear of sharks.\"?",
+      "options": [
+        "Hodophobia",
+        "Ergophobia",
+        "Galeophobia",
+        "Cardiophobia"
+      ],
+      "answer": 2,
+      "explanation": "Galeophobia (noun) — Fear of sharks."
+    },
+    {
+      "id": "pho-q78",
+      "question": "Which word means: \"Fear of laughter.\"?",
+      "options": [
+        "Geliophobia",
+        "Aquaphobia",
+        "Claustrophobia",
+        "Nyctophobia"
+      ],
+      "answer": 0,
+      "explanation": "Geliophobia (noun) — Fear of laughter."
+    },
+    {
+      "id": "pho-q79",
+      "question": "Which word means: \"Fear of hell.\"?",
+      "options": [
+        "Obesophobia",
+        "Anthrophobia",
+        "Hadephobia",
+        "Selenophobia"
+      ],
+      "answer": 2,
+      "explanation": "Hadephobia (noun) — Fear of hell."
+    },
+    {
+      "id": "pho-q80",
+      "question": "Which word means: \"Fear of pleasure.\"?",
+      "options": [
+        "Hedonophobia",
+        "Lockiophobia",
+        "Coulrophobia",
+        "Kenophobia"
+      ],
+      "answer": 0,
+      "explanation": "Hedonophobia (noun) — Fear of pleasure."
+    },
+    {
+      "id": "pho-q81",
+      "question": "Which word means: \"Fear of the sun.\"?",
+      "options": [
+        "Ophidiophobia",
+        "Monophobia",
+        "Ailurophobia (severe)",
+        "Heliophobia"
+      ],
+      "answer": 3,
+      "explanation": "Heliophobia (noun) — Fear of the sun."
+    },
+    {
+      "id": "pho-q82",
+      "question": "Which word means: \"Fear of travel.\"?",
+      "options": [
+        "Hodophobia",
+        "Aerophobia",
+        "Astraphobia",
+        "Cyberphobia"
+      ],
+      "answer": 0,
+      "explanation": "Hodophobia (noun) — Fear of travel."
+    },
+    {
+      "id": "pho-q83",
+      "question": "Which word means: \"Fear of poison.\"?",
+      "options": [
+        "Aerophobia",
+        "Elurophobia",
+        "Iophobia",
+        "Obesophobia"
+      ],
+      "answer": 2,
+      "explanation": "Iophobia (noun) — Fear of poison."
+    },
+    {
+      "id": "pho-q84",
+      "question": "Which word means: \"Fear of rabies.\"?",
+      "options": [
+        "Kynophobia",
+        "Somniphobia",
+        "Erotophobia",
+        "Anthrophobia"
+      ],
+      "answer": 0,
+      "explanation": "Kynophobia (noun) — Fear of rabies."
+    },
+    {
+      "id": "pho-q85",
+      "question": "Which word means: \"Fear of loud sudden noises.\"?",
+      "options": [
+        "Anemophobia",
+        "Eremophobia",
+        "Chromophobia",
+        "Ligyrophobia"
+      ],
+      "answer": 3,
+      "explanation": "Ligyrophobia (noun) — Fear of loud sudden noises."
+    },
+    {
+      "id": "pho-q86",
+      "question": "Which word means: \"Fear of childbirth.\"?",
+      "options": [
+        "Lockiophobia",
+        "Entomophobia",
+        "Sociophobia",
+        "Ergophobia"
+      ],
+      "answer": 0,
+      "explanation": "Lockiophobia (noun) — Fear of childbirth."
+    },
+    {
+      "id": "pho-q87",
+      "question": "Which word means: \"Fear of large objects.\"?",
+      "options": [
+        "Pathophobia",
+        "Megalophobia",
+        "Eremophobia",
+        "Thalassophobia"
+      ],
+      "answer": 1,
+      "explanation": "Megalophobia (noun) — Fear of large objects."
+    },
+    {
+      "id": "pho-q88",
+      "question": "Which word means: \"Fear of being alone.\"?",
+      "options": [
+        "Monophobia",
+        "Megalophobia",
+        "Triskaidekaphobia",
+        "Ailurophobia (severe)"
+      ],
+      "answer": 0,
+      "explanation": "Monophobia (noun) — Fear of being alone."
+    },
+    {
+      "id": "pho-q89",
+      "question": "Which word means: \"Fear of being without mobile phone.\"?",
+      "options": [
+        "Demophobia",
+        "Atychiphobia",
+        "Nomophobia",
+        "Pyrophobia"
+      ],
+      "answer": 2,
+      "explanation": "Nomophobia (noun) — Fear of being without mobile phone."
+    },
+    {
+      "id": "pho-q90",
+      "question": "Which word means: \"Fear of contracting disease.\"?",
+      "options": [
+        "Amaxophobia",
+        "Claustrophobia",
+        "Frigophobia",
+        "Nosophobia"
+      ],
+      "answer": 3,
+      "explanation": "Nosophobia (noun) — Fear of contracting disease."
+    },
+    {
+      "id": "pho-q91",
+      "question": "Which word means: \"Fear of gaining weight.\"?",
+      "options": [
+        "Aerophobia",
+        "Cheimaphobia",
+        "Gerascophobia",
+        "Obesophobia"
+      ],
+      "answer": 3,
+      "explanation": "Obesophobia (noun) — Fear of gaining weight."
+    },
+    {
+      "id": "pho-q92",
+      "question": "Which word means: \"Fear of rain.\"?",
+      "options": [
+        "Ombrophobia",
+        "Triskaidekaphobia",
+        "Sociophobia",
+        "Kynophobia"
+      ],
+      "answer": 0,
+      "explanation": "Ombrophobia (noun) — Fear of rain."
+    },
+    {
+      "id": "pho-q93",
+      "question": "Which word means: \"Fear of everything.\"?",
+      "options": [
+        "Kynophobia",
+        "Hydrophobia",
+        "Heliophobia",
+        "Panphobia"
+      ],
+      "answer": 3,
+      "explanation": "Panphobia (noun) — Fear of everything."
+    },
+    {
+      "id": "pho-q94",
+      "question": "Which word means: \"Fear of disease.\"?",
+      "options": [
+        "Autophobia",
+        "Pathophobia",
+        "Cacophobia",
+        "Cheimaphobia"
+      ],
+      "answer": 1,
+      "explanation": "Pathophobia (noun) — Fear of disease."
+    },
+    {
+      "id": "pho-q95",
+      "question": "Which word means: \"Fear of dolls.\"?",
+      "options": [
+        "Eremophobia",
+        "Aichmophobia",
+        "Frigophobia",
+        "Pediophobia"
+      ],
+      "answer": 3,
+      "explanation": "Pediophobia (noun) — Fear of dolls."
+    },
+    {
+      "id": "pho-q96",
+      "question": "Which word means: \"Fear of the moon.\"?",
+      "options": [
+        "Frigophobia",
+        "Dendrophobia",
+        "Xenophobia",
+        "Selenophobia"
+      ],
+      "answer": 3,
+      "explanation": "Selenophobia (noun) — Fear of the moon."
+    },
+    {
+      "id": "pho-q97",
+      "question": "Which word means: \"Fear of society or people.\"?",
+      "options": [
+        "Chionophobia",
+        "Sociophobia",
+        "Eremophobia",
+        "Kenophobia"
+      ],
+      "answer": 1,
+      "explanation": "Sociophobia (noun) — Fear of society or people."
+    },
+    {
+      "id": "pho-q98",
+      "question": "Which word means: \"Fear of sleep.\"?",
+      "options": [
+        "Decidophobia",
+        "Ombrophobia",
+        "Dendrophobia",
+        "Somniphobia"
+      ],
+      "answer": 3,
+      "explanation": "Somniphobia (noun) — Fear of sleep."
+    },
+    {
+      "id": "pho-q99",
+      "question": "Which word means: \"Fear of technology.\"?",
+      "options": [
+        "Emetophobia",
+        "Decidophobia",
+        "Aerophobia",
+        "Technophobia"
+      ],
+      "answer": 3,
+      "explanation": "Technophobia (noun) — Fear of technology."
+    },
+    {
+      "id": "pho-q100",
+      "question": "Which word means: \"Fear of pregnancy or childbirth.\"?",
+      "options": [
+        "Entomophobia",
+        "Ligyrophobia",
+        "Tocophobia",
+        "Sociophobia"
+      ],
+      "answer": 2,
+      "explanation": "Tocophobia (noun) — Fear of pregnancy or childbirth."
+    }
+  ]
+}

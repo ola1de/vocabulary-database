@@ -1,0 +1,1908 @@
+{
+  "category": "admin-vocabulary",
+  "title": "Administrative Vocabulary",
+  "words": [
+    {
+      "id": "ad-001",
+      "word": "Agenda",
+      "pos": "noun",
+      "definition": "A list of items to be discussed at a formal meeting.",
+      "example": "The chair circulated the agenda a week in advance."
+    },
+    {
+      "id": "ad-002",
+      "word": "Minutes",
+      "pos": "noun",
+      "definition": "A written record of the discussions and decisions made at a meeting.",
+      "example": "The secretary read the minutes of the previous meeting."
+    },
+    {
+      "id": "ad-003",
+      "word": "Quorum",
+      "pos": "noun",
+      "definition": "The minimum number of members required to be present for a meeting to conduct valid business.",
+      "example": "No decision could be taken without a quorum."
+    },
+    {
+      "id": "ad-004",
+      "word": "Motion",
+      "pos": "noun",
+      "definition": "A formal proposal put to a meeting for discussion or vote.",
+      "example": "The motion was carried by a large majority."
+    },
+    {
+      "id": "ad-005",
+      "word": "Resolution",
+      "pos": "noun",
+      "definition": "A firm decision formally adopted by an assembly.",
+      "example": "The board passed a resolution to expand overseas."
+    },
+    {
+      "id": "ad-006",
+      "word": "Amendment",
+      "pos": "noun",
+      "definition": "A minor change or addition designed to improve a text or motion.",
+      "example": "She proposed an amendment to the wording."
+    },
+    {
+      "id": "ad-007",
+      "word": "Bylaw",
+      "pos": "noun",
+      "definition": "A rule made by a company or society to control the actions of its members.",
+      "example": "The bylaw required annual audits."
+    },
+    {
+      "id": "ad-008",
+      "word": "Ordinance",
+      "pos": "noun",
+      "definition": "An authoritative order or law issued by a governmental body.",
+      "example": "The city council passed a noise ordinance."
+    },
+    {
+      "id": "ad-009",
+      "word": "Regulation",
+      "pos": "noun",
+      "definition": "A rule made and maintained by an authority.",
+      "example": "New safety regulations came into force this year."
+    },
+    {
+      "id": "ad-010",
+      "word": "Statute",
+      "pos": "noun",
+      "definition": "A written law passed by a legislative body.",
+      "example": "The statute of limitations had expired."
+    },
+    {
+      "id": "ad-011",
+      "word": "Policy",
+      "pos": "noun",
+      "definition": "A course or principle of action adopted or proposed by an organization.",
+      "example": "The company introduced a flexible-working policy."
+    },
+    {
+      "id": "ad-012",
+      "word": "Procedure",
+      "pos": "noun",
+      "definition": "An established or official way of doing something.",
+      "example": "The refund procedure is set out on our website."
+    },
+    {
+      "id": "ad-013",
+      "word": "Protocol",
+      "pos": "noun",
+      "definition": "The official procedure or system of rules governing affairs.",
+      "example": "Diplomatic protocol requires a formal reply."
+    },
+    {
+      "id": "ad-014",
+      "word": "Directive",
+      "pos": "noun",
+      "definition": "An official or authoritative instruction.",
+      "example": "The ministry issued a directive to all schools."
+    },
+    {
+      "id": "ad-015",
+      "word": "Memorandum",
+      "pos": "noun",
+      "definition": "A written message in business or diplomacy; a memo.",
+      "example": "She sent a memorandum to all department heads."
+    },
+    {
+      "id": "ad-016",
+      "word": "Memo",
+      "pos": "noun",
+      "definition": "A short written note, especially in an office.",
+      "example": "Please read the memo about parking arrangements."
+    },
+    {
+      "id": "ad-017",
+      "word": "Circular",
+      "pos": "noun",
+      "definition": "A letter or notice sent to many people.",
+      "example": "A circular announced the change of address."
+    },
+    {
+      "id": "ad-018",
+      "word": "Bulletin",
+      "pos": "noun",
+      "definition": "A short official statement or broadcast summary of news.",
+      "example": "The staff bulletin appears every Friday."
+    },
+    {
+      "id": "ad-019",
+      "word": "Notice",
+      "pos": "noun",
+      "definition": "A displayed sheet giving news or information.",
+      "example": "A notice on the door listed the opening hours."
+    },
+    {
+      "id": "ad-020",
+      "word": "Report",
+      "pos": "noun",
+      "definition": "An account given of a matter after investigation or consideration.",
+      "example": "The annual report was published in March."
+    },
+    {
+      "id": "ad-021",
+      "word": "Return",
+      "pos": "noun",
+      "definition": "An official report or statement submitted in response to a formal demand.",
+      "example": "Every citizen must file a tax return."
+    },
+    {
+      "id": "ad-022",
+      "word": "Docket",
+      "pos": "noun",
+      "definition": "A document listing the contents of a shipment or a summary of proceedings.",
+      "example": "The judge worked through a crowded docket."
+    },
+    {
+      "id": "ad-023",
+      "word": "Dossier",
+      "pos": "noun",
+      "definition": "A collection of documents about a particular person, event, or subject.",
+      "example": "The regulator opened a dossier on the firm."
+    },
+    {
+      "id": "ad-024",
+      "word": "File",
+      "pos": "noun",
+      "definition": "A folder or box for keeping loose papers together and in order.",
+      "example": "She retrieved the personnel file from the cabinet."
+    },
+    {
+      "id": "ad-025",
+      "word": "Archive",
+      "pos": "noun",
+      "definition": "A collection of historical documents or records.",
+      "example": "The company archive contained decades of correspondence."
+    },
+    {
+      "id": "ad-026",
+      "word": "Ledger",
+      "pos": "noun",
+      "definition": "A book or other collection of financial accounts.",
+      "example": "The ledger balanced to the penny."
+    },
+    {
+      "id": "ad-027",
+      "word": "Roster",
+      "pos": "noun",
+      "definition": "A list or plan showing turns of duty or leave for individuals or groups.",
+      "example": "The duty roster was pinned to the notice board."
+    },
+    {
+      "id": "ad-028",
+      "word": "Register",
+      "pos": "noun",
+      "definition": "An official list or record of names or items.",
+      "example": "Please sign the visitors' register at reception."
+    },
+    {
+      "id": "ad-029",
+      "word": "Log",
+      "pos": "noun",
+      "definition": "An official record of events during the voyage of a ship or aircraft, or in a business.",
+      "example": "The security guard updated the log every hour."
+    },
+    {
+      "id": "ad-030",
+      "word": "Roll",
+      "pos": "noun",
+      "definition": "A list of names, especially of members of an organization.",
+      "example": "The clerk called the roll of members."
+    },
+    {
+      "id": "ad-031",
+      "word": "Manifest",
+      "pos": "noun",
+      "definition": "A document listing a ship's or aircraft's cargo, passengers, or crew.",
+      "example": "The customs officer checked the cargo manifest."
+    },
+    {
+      "id": "ad-032",
+      "word": "Inventory",
+      "pos": "noun",
+      "definition": "A complete list of items such as goods in stock.",
+      "example": "The shop takes inventory twice a year."
+    },
+    {
+      "id": "ad-033",
+      "word": "Invoice",
+      "pos": "noun",
+      "definition": "A list of goods sent or services provided with a statement of the sum due.",
+      "example": "The invoice was payable within thirty days."
+    },
+    {
+      "id": "ad-034",
+      "word": "Receipt",
+      "pos": "noun",
+      "definition": "A written or printed acknowledgment of receiving money or goods.",
+      "example": "Keep the receipt for your records."
+    },
+    {
+      "id": "ad-035",
+      "word": "Voucher",
+      "pos": "noun",
+      "definition": "A small printed piece of paper entitling the holder to a discount or exchangeable for goods.",
+      "example": "Attach the voucher to your expense claim."
+    },
+    {
+      "id": "ad-036",
+      "word": "Warrant",
+      "pos": "noun",
+      "definition": "A document issued by a legal or government official authorizing an action.",
+      "example": "The officers arrived with a search warrant."
+    },
+    {
+      "id": "ad-037",
+      "word": "Requisition",
+      "pos": "noun",
+      "definition": "An official order laying claim to the use of property or materials.",
+      "example": "Submit a requisition for new stationery."
+    },
+    {
+      "id": "ad-038",
+      "word": "Petition",
+      "pos": "noun",
+      "definition": "A formal written request to an authority, signed by many people.",
+      "example": "The petition gathered ten thousand signatures."
+    },
+    {
+      "id": "ad-039",
+      "word": "Application",
+      "pos": "noun",
+      "definition": "A formal request to an authority for something.",
+      "example": "She submitted her application before the deadline."
+    },
+    {
+      "id": "ad-040",
+      "word": "Appendix",
+      "pos": "noun",
+      "definition": "A section of extra information added at the end of a document.",
+      "example": "See appendix B for the full data set."
+    },
+    {
+      "id": "ad-041",
+      "word": "Annexe",
+      "pos": "noun",
+      "definition": "Something added or attached, such as a supplementary section of a document.",
+      "example": "The annexe listed all the technical definitions."
+    },
+    {
+      "id": "ad-042",
+      "word": "Addendum",
+      "pos": "noun",
+      "definition": "An item of additional material added at the end of a book or other publication.",
+      "example": "An addendum corrected the earlier figures."
+    },
+    {
+      "id": "ad-043",
+      "word": "Erratum",
+      "pos": "noun",
+      "definition": "An error in printing or writing, especially one noted in a list of corrections.",
+      "example": "An erratum slip was inserted at the front."
+    },
+    {
+      "id": "ad-044",
+      "word": "Preamble",
+      "pos": "noun",
+      "definition": "A preliminary statement in a document explaining its purpose.",
+      "example": "The preamble set out the treaty's aims."
+    },
+    {
+      "id": "ad-045",
+      "word": "Clause",
+      "pos": "noun",
+      "definition": "A particular and separate article, stipulation, or proviso in a treaty, bill, or contract.",
+      "example": "Clause seven allowed for early termination."
+    },
+    {
+      "id": "ad-046",
+      "word": "Provision",
+      "pos": "noun",
+      "definition": "A condition or requirement in a legal document.",
+      "example": "The provision limited liability to one year."
+    },
+    {
+      "id": "ad-047",
+      "word": "Stipulation",
+      "pos": "noun",
+      "definition": "A condition or requirement that is specified or demanded as part of an agreement.",
+      "example": "There was a stipulation about weekend work."
+    },
+    {
+      "id": "ad-048",
+      "word": "Ratification",
+      "pos": "noun",
+      "definition": "The formal confirmation or approval of something.",
+      "example": "The treaty awaited parliamentary ratification."
+    },
+    {
+      "id": "ad-049",
+      "word": "Endorsement",
+      "pos": "noun",
+      "definition": "An act of giving one's public approval or support to someone or something.",
+      "example": "The proposal won the ministry's endorsement."
+    },
+    {
+      "id": "ad-050",
+      "word": "Approval",
+      "pos": "noun",
+      "definition": "The action of officially agreeing to something or accepting something as satisfactory.",
+      "example": "The plans went to the committee for approval."
+    },
+    {
+      "id": "ad-051",
+      "word": "Consent",
+      "pos": "noun",
+      "definition": "Permission for something to happen or agreement to do something.",
+      "example": "Written consent is required before any procedure."
+    },
+    {
+      "id": "ad-052",
+      "word": "Waiver",
+      "pos": "noun",
+      "definition": "An act of relinquishing a right or claim, especially in writing.",
+      "example": "She signed a waiver before the skydive."
+    },
+    {
+      "id": "ad-053",
+      "word": "Injunction",
+      "pos": "noun",
+      "definition": "An authoritative warning or order, especially from a court.",
+      "example": "The court issued an injunction against publication."
+    },
+    {
+      "id": "ad-054",
+      "word": "Subpoena",
+      "pos": "noun",
+      "definition": "A writ ordering a person to attend a court.",
+      "example": "A subpoena arrived that morning."
+    },
+    {
+      "id": "ad-055",
+      "word": "Affidavit",
+      "pos": "noun",
+      "definition": "A written statement confirmed by oath, for use as evidence in court.",
+      "example": "She swore an affidavit before the notary."
+    },
+    {
+      "id": "ad-056",
+      "word": "Bond",
+      "pos": "noun",
+      "definition": "A signed written agreement to pay a sum of money by a specified date.",
+      "example": "The contractor posted a performance bond."
+    },
+    {
+      "id": "ad-057",
+      "word": "Contract",
+      "pos": "noun",
+      "definition": "A written or spoken agreement intended to be enforceable by law.",
+      "example": "Both parties signed the contract in triplicate."
+    },
+    {
+      "id": "ad-058",
+      "word": "Covenant",
+      "pos": "noun",
+      "definition": "A formal agreement or promise between two or more parties.",
+      "example": "The lease contained a covenant against subletting."
+    },
+    {
+      "id": "ad-059",
+      "word": "Treaty",
+      "pos": "noun",
+      "definition": "A formally concluded and ratified agreement between countries.",
+      "example": "The peace treaty ended decades of conflict."
+    },
+    {
+      "id": "ad-060",
+      "word": "Accord",
+      "pos": "noun",
+      "definition": "An official agreement or treaty.",
+      "example": "The two states signed a trade accord."
+    },
+    {
+      "id": "ad-061",
+      "word": "Charter",
+      "pos": "noun",
+      "definition": "A written grant by a country's legislative or sovereign power, by which an institution such as a company is created.",
+      "example": "The university's royal charter dates from 1832."
+    },
+    {
+      "id": "ad-062",
+      "word": "Constitution",
+      "pos": "noun",
+      "definition": "A body of fundamental principles by which a state or organization is governed.",
+      "example": "Any change must be consistent with the constitution."
+    },
+    {
+      "id": "ad-063",
+      "word": "Mandate",
+      "pos": "noun",
+      "definition": "An official order or commission to do something.",
+      "example": "The agency's mandate covers all public transport."
+    },
+    {
+      "id": "ad-064",
+      "word": "Warrant of appointment",
+      "pos": "noun",
+      "definition": "A formal instrument confirming appointment to office.",
+      "example": "A warrant of appointment was presented at the ceremony."
+    },
+    {
+      "id": "ad-065",
+      "word": "Commission",
+      "pos": "noun",
+      "definition": "An instruction, command, or duty given to a person or group.",
+      "example": "She served on a commission of inquiry."
+    },
+    {
+      "id": "ad-066",
+      "word": "Delegation",
+      "pos": "noun",
+      "definition": "The assignment of authority or responsibility to another person to carry out specific activities.",
+      "example": "Effective delegation frees managers for strategic work."
+    },
+    {
+      "id": "ad-067",
+      "word": "Deputation",
+      "pos": "noun",
+      "definition": "A group of people appointed to undertake a mission or take part in a formal process.",
+      "example": "A deputation met with the minister."
+    },
+    {
+      "id": "ad-068",
+      "word": "Jurisdiction",
+      "pos": "noun",
+      "definition": "The official power to make legal decisions and judgements.",
+      "example": "The case fell outside the tribunal's jurisdiction."
+    },
+    {
+      "id": "ad-069",
+      "word": "Compliance",
+      "pos": "noun",
+      "definition": "The action or fact of complying with a wish or command.",
+      "example": "Regular audits ensure compliance with the standard."
+    },
+    {
+      "id": "ad-070",
+      "word": "Governance",
+      "pos": "noun",
+      "definition": "The action or manner of governing an organization.",
+      "example": "Good governance requires transparency."
+    },
+    {
+      "id": "ad-071",
+      "word": "Bureaucracy",
+      "pos": "noun",
+      "definition": "A system of government in which most decisions are made by state officials rather than by elected representatives.",
+      "example": "Reforms aimed to reduce needless bureaucracy."
+    },
+    {
+      "id": "ad-072",
+      "word": "Hierarchy",
+      "pos": "noun",
+      "definition": "A system in which members of an organization or society are ranked according to relative status or authority.",
+      "example": "The organizational hierarchy was clearly defined."
+    },
+    {
+      "id": "ad-073",
+      "word": "Chain of command",
+      "pos": "noun",
+      "definition": "A system in an organization by which orders are passed from one level to the next.",
+      "example": "The report followed the chain of command."
+    },
+    {
+      "id": "ad-074",
+      "word": "Portfolio",
+      "pos": "noun",
+      "definition": "The particular responsibilities held by a government minister.",
+      "example": "She was given the transport portfolio."
+    },
+    {
+      "id": "ad-075",
+      "word": "Tenure",
+      "pos": "noun",
+      "definition": "The holding of an office; a period for which an office is held.",
+      "example": "His tenure as chairman lasted six years."
+    },
+    {
+      "id": "ad-076",
+      "word": "Incumbent",
+      "pos": "noun",
+      "definition": "The holder of an office or post.",
+      "example": "The incumbent stood for re-election."
+    },
+    {
+      "id": "ad-077",
+      "word": "Successor",
+      "pos": "noun",
+      "definition": "A person who succeeds another in an office or position.",
+      "example": "Her successor took over in September."
+    },
+    {
+      "id": "ad-078",
+      "word": "Nominee",
+      "pos": "noun",
+      "definition": "A person officially proposed for an office or position.",
+      "example": "Each nominee was interviewed in turn."
+    },
+    {
+      "id": "ad-079",
+      "word": "Ballot",
+      "pos": "noun",
+      "definition": "A process of voting, in writing and typically in secret.",
+      "example": "A postal ballot was arranged."
+    },
+    {
+      "id": "ad-080",
+      "word": "Franchise",
+      "pos": "noun",
+      "definition": "The right to vote in public elections.",
+      "example": "Universal adult franchise was won in stages."
+    },
+    {
+      "id": "ad-081",
+      "word": "Referendum",
+      "pos": "noun",
+      "definition": "A general vote by the electorate on a single political question.",
+      "example": "The referendum settled the matter."
+    },
+    {
+      "id": "ad-082",
+      "word": "Caucus",
+      "pos": "noun",
+      "definition": "A meeting of the members of a legislative body who are members of a particular political party.",
+      "example": "The caucus met behind closed doors."
+    },
+    {
+      "id": "ad-083",
+      "word": "Session",
+      "pos": "noun",
+      "definition": "A period devoted to a particular activity, especially a meeting of a deliberative body.",
+      "example": "Parliament returned for its autumn session."
+    },
+    {
+      "id": "ad-084",
+      "word": "Sitting",
+      "pos": "noun",
+      "definition": "A period of time occupied by a court, committee, or other body in performing its business.",
+      "example": "The sitting adjourned at six."
+    },
+    {
+      "id": "ad-085",
+      "word": "Recess",
+      "pos": "noun",
+      "definition": "A period of time when a formal meeting or activity is suspended.",
+      "example": "Congress adjourned for the summer recess."
+    },
+    {
+      "id": "ad-086",
+      "word": "Adjournment",
+      "pos": "noun",
+      "definition": "A postponement of a meeting or session.",
+      "example": "The chair moved the adjournment of the meeting."
+    },
+    {
+      "id": "ad-087",
+      "word": "Convocation",
+      "pos": "noun",
+      "definition": "A large formal assembly of people.",
+      "example": "The university held its annual convocation."
+    },
+    {
+      "id": "ad-088",
+      "word": "Assembly",
+      "pos": "noun",
+      "definition": "A group of people gathered together in one place for a common purpose.",
+      "example": "The general assembly ratified the new rules."
+    },
+    {
+      "id": "ad-089",
+      "word": "Board",
+      "pos": "noun",
+      "definition": "The group of people who officially direct the business of a company or organization.",
+      "example": "The board approved the acquisition."
+    },
+    {
+      "id": "ad-090",
+      "word": "Committee",
+      "pos": "noun",
+      "definition": "A group of people appointed for a specific function by a larger group.",
+      "example": "The steering committee met monthly."
+    },
+    {
+      "id": "ad-091",
+      "word": "Subcommittee",
+      "pos": "noun",
+      "definition": "A committee formed from the main committee.",
+      "example": "A subcommittee was tasked with drafting the report."
+    },
+    {
+      "id": "ad-092",
+      "word": "Panel",
+      "pos": "noun",
+      "definition": "A small group of experts convened for a specific purpose.",
+      "example": "A panel of judges scored each entry."
+    },
+    {
+      "id": "ad-093",
+      "word": "Working group",
+      "pos": "noun",
+      "definition": "A group of experts working together to achieve specified goals.",
+      "example": "A working group examined the technical options."
+    },
+    {
+      "id": "ad-094",
+      "word": "Task force",
+      "pos": "noun",
+      "definition": "A unit or formation established to work on a single defined task or activity.",
+      "example": "A task force was set up to fight fraud."
+    },
+    {
+      "id": "ad-095",
+      "word": "Secretariat",
+      "pos": "noun",
+      "definition": "A permanent administrative office or department.",
+      "example": "The secretariat prepared the background papers."
+    },
+    {
+      "id": "ad-096",
+      "word": "Directorate",
+      "pos": "noun",
+      "definition": "The board of directors of a company or the position of director.",
+      "example": "The directorate oversees all research programmes."
+    },
+    {
+      "id": "ad-097",
+      "word": "Agency",
+      "pos": "noun",
+      "definition": "A business or organization providing a particular service on behalf of another.",
+      "example": "The agency handles all press enquiries."
+    },
+    {
+      "id": "ad-098",
+      "word": "Bureau",
+      "pos": "noun",
+      "definition": "An office or department for transacting particular business.",
+      "example": "The statistics bureau publishes monthly figures."
+    },
+    {
+      "id": "ad-099",
+      "word": "Department",
+      "pos": "noun",
+      "definition": "A division of a large organization or building, dealing with a specific area of activity.",
+      "example": "The finance department approved the request."
+    },
+    {
+      "id": "ad-100",
+      "word": "Ministry",
+      "pos": "noun",
+      "definition": "A government department headed by a minister.",
+      "example": "The ministry of education revised the curriculum."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ad-q1",
+      "question": "Which word means: \"A list of items to be discussed at a formal meeting.\"?",
+      "options": [
+        "Memo",
+        "Agenda",
+        "Session",
+        "Resolution"
+      ],
+      "answer": 1,
+      "explanation": "Agenda (noun) — A list of items to be discussed at a formal meeting."
+    },
+    {
+      "id": "ad-q2",
+      "question": "Which word means: \"A written record of the discussions and decisions made at a meeting.\"?",
+      "options": [
+        "Minutes",
+        "Directorate",
+        "Memorandum",
+        "Notice"
+      ],
+      "answer": 0,
+      "explanation": "Minutes (noun) — A written record of the discussions and decisions made at a meeting."
+    },
+    {
+      "id": "ad-q3",
+      "question": "Which word means: \"The minimum number of members required to be present for a meeting to conduct valid business.\"?",
+      "options": [
+        "Quorum",
+        "Protocol",
+        "Amendment",
+        "Resolution"
+      ],
+      "answer": 0,
+      "explanation": "Quorum (noun) — The minimum number of members required to be present for a meeting to conduct valid business."
+    },
+    {
+      "id": "ad-q4",
+      "question": "Which word means: \"A formal proposal put to a meeting for discussion or vote.\"?",
+      "options": [
+        "Working group",
+        "Roster",
+        "Chain of command",
+        "Motion"
+      ],
+      "answer": 3,
+      "explanation": "Motion (noun) — A formal proposal put to a meeting for discussion or vote."
+    },
+    {
+      "id": "ad-q5",
+      "question": "Which word means: \"A firm decision formally adopted by an assembly.\"?",
+      "options": [
+        "Successor",
+        "Resolution",
+        "Agenda",
+        "Requisition"
+      ],
+      "answer": 1,
+      "explanation": "Resolution (noun) — A firm decision formally adopted by an assembly."
+    },
+    {
+      "id": "ad-q6",
+      "question": "Which word means: \"A minor change or addition designed to improve a text or motion.\"?",
+      "options": [
+        "Return",
+        "Clause",
+        "Amendment",
+        "Requisition"
+      ],
+      "answer": 2,
+      "explanation": "Amendment (noun) — A minor change or addition designed to improve a text or motion."
+    },
+    {
+      "id": "ad-q7",
+      "question": "Which word means: \"A rule made by a company or society to control the actions of its members.\"?",
+      "options": [
+        "Protocol",
+        "Bylaw",
+        "Approval",
+        "Directive"
+      ],
+      "answer": 1,
+      "explanation": "Bylaw (noun) — A rule made by a company or society to control the actions of its members."
+    },
+    {
+      "id": "ad-q8",
+      "question": "Which word means: \"An authoritative order or law issued by a governmental body.\"?",
+      "options": [
+        "Accord",
+        "Ordinance",
+        "Secretariat",
+        "Amendment"
+      ],
+      "answer": 1,
+      "explanation": "Ordinance (noun) — An authoritative order or law issued by a governmental body."
+    },
+    {
+      "id": "ad-q9",
+      "question": "Which word means: \"A rule made and maintained by an authority.\"?",
+      "options": [
+        "Application",
+        "Hierarchy",
+        "Regulation",
+        "Caucus"
+      ],
+      "answer": 2,
+      "explanation": "Regulation (noun) — A rule made and maintained by an authority."
+    },
+    {
+      "id": "ad-q10",
+      "question": "Which word means: \"A written law passed by a legislative body.\"?",
+      "options": [
+        "Amendment",
+        "Panel",
+        "Statute",
+        "Regulation"
+      ],
+      "answer": 2,
+      "explanation": "Statute (noun) — A written law passed by a legislative body."
+    },
+    {
+      "id": "ad-q11",
+      "question": "Which word means: \"A course or principle of action adopted or proposed by an organization.\"?",
+      "options": [
+        "Manifest",
+        "Policy",
+        "Directive",
+        "Approval"
+      ],
+      "answer": 1,
+      "explanation": "Policy (noun) — A course or principle of action adopted or proposed by an organization."
+    },
+    {
+      "id": "ad-q12",
+      "question": "Which word means: \"An established or official way of doing something.\"?",
+      "options": [
+        "Docket",
+        "Procedure",
+        "Stipulation",
+        "Endorsement"
+      ],
+      "answer": 1,
+      "explanation": "Procedure (noun) — An established or official way of doing something."
+    },
+    {
+      "id": "ad-q13",
+      "question": "Which word means: \"The official procedure or system of rules governing affairs.\"?",
+      "options": [
+        "Board",
+        "Protocol",
+        "Sitting",
+        "Subcommittee"
+      ],
+      "answer": 1,
+      "explanation": "Protocol (noun) — The official procedure or system of rules governing affairs."
+    },
+    {
+      "id": "ad-q14",
+      "question": "Which word means: \"An official or authoritative instruction.\"?",
+      "options": [
+        "Governance",
+        "Invoice",
+        "Directive",
+        "Secretariat"
+      ],
+      "answer": 2,
+      "explanation": "Directive (noun) — An official or authoritative instruction."
+    },
+    {
+      "id": "ad-q15",
+      "question": "Which word means: \"A written message in business or diplomacy; a memo.\"?",
+      "options": [
+        "Warrant",
+        "Memorandum",
+        "Committee",
+        "Session"
+      ],
+      "answer": 1,
+      "explanation": "Memorandum (noun) — A written message in business or diplomacy; a memo."
+    },
+    {
+      "id": "ad-q16",
+      "question": "Which word means: \"A short written note, especially in an office.\"?",
+      "options": [
+        "Memo",
+        "Manifest",
+        "Ordinance",
+        "Ministry"
+      ],
+      "answer": 0,
+      "explanation": "Memo (noun) — A short written note, especially in an office."
+    },
+    {
+      "id": "ad-q17",
+      "question": "Which word means: \"A letter or notice sent to many people.\"?",
+      "options": [
+        "Circular",
+        "Regulation",
+        "Warrant",
+        "Log"
+      ],
+      "answer": 0,
+      "explanation": "Circular (noun) — A letter or notice sent to many people."
+    },
+    {
+      "id": "ad-q18",
+      "question": "Which word means: \"A short official statement or broadcast summary of news.\"?",
+      "options": [
+        "Accord",
+        "Waiver",
+        "Bulletin",
+        "Sitting"
+      ],
+      "answer": 2,
+      "explanation": "Bulletin (noun) — A short official statement or broadcast summary of news."
+    },
+    {
+      "id": "ad-q19",
+      "question": "Which word means: \"A displayed sheet giving news or information.\"?",
+      "options": [
+        "Invoice",
+        "Agency",
+        "Notice",
+        "Chain of command"
+      ],
+      "answer": 2,
+      "explanation": "Notice (noun) — A displayed sheet giving news or information."
+    },
+    {
+      "id": "ad-q20",
+      "question": "Which word means: \"An account given of a matter after investigation or consideration.\"?",
+      "options": [
+        "Ratification",
+        "Report",
+        "Incumbent",
+        "Injunction"
+      ],
+      "answer": 1,
+      "explanation": "Report (noun) — An account given of a matter after investigation or consideration."
+    },
+    {
+      "id": "ad-q21",
+      "question": "Which word means: \"An official report or statement submitted in response to a formal demand.\"?",
+      "options": [
+        "Bureau",
+        "Bylaw",
+        "Return",
+        "Procedure"
+      ],
+      "answer": 2,
+      "explanation": "Return (noun) — An official report or statement submitted in response to a formal demand."
+    },
+    {
+      "id": "ad-q22",
+      "question": "Which word means: \"A document listing the contents of a shipment or a summary of proceedings.\"?",
+      "options": [
+        "Docket",
+        "Nominee",
+        "Bond",
+        "Board"
+      ],
+      "answer": 0,
+      "explanation": "Docket (noun) — A document listing the contents of a shipment or a summary of proceedings."
+    },
+    {
+      "id": "ad-q23",
+      "question": "Which word means: \"A collection of documents about a particular person, event, or subject.\"?",
+      "options": [
+        "Charter",
+        "Nominee",
+        "Dossier",
+        "Compliance"
+      ],
+      "answer": 2,
+      "explanation": "Dossier (noun) — A collection of documents about a particular person, event, or subject."
+    },
+    {
+      "id": "ad-q24",
+      "question": "Which word means: \"A folder or box for keeping loose papers together and in order.\"?",
+      "options": [
+        "Board",
+        "Task force",
+        "File",
+        "Memorandum"
+      ],
+      "answer": 2,
+      "explanation": "File (noun) — A folder or box for keeping loose papers together and in order."
+    },
+    {
+      "id": "ad-q25",
+      "question": "Which word means: \"A collection of historical documents or records.\"?",
+      "options": [
+        "Contract",
+        "Memorandum",
+        "Archive",
+        "Application"
+      ],
+      "answer": 2,
+      "explanation": "Archive (noun) — A collection of historical documents or records."
+    },
+    {
+      "id": "ad-q26",
+      "question": "Which word means: \"A book or other collection of financial accounts.\"?",
+      "options": [
+        "Ledger",
+        "Task force",
+        "Delegation",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Ledger (noun) — A book or other collection of financial accounts."
+    },
+    {
+      "id": "ad-q27",
+      "question": "Which word means: \"A list or plan showing turns of duty or leave for individuals or groups.\"?",
+      "options": [
+        "Session",
+        "Roster",
+        "Caucus",
+        "Appendix"
+      ],
+      "answer": 1,
+      "explanation": "Roster (noun) — A list or plan showing turns of duty or leave for individuals or groups."
+    },
+    {
+      "id": "ad-q28",
+      "question": "Which word means: \"An official list or record of names or items.\"?",
+      "options": [
+        "Register",
+        "Return",
+        "Bureaucracy",
+        "Department"
+      ],
+      "answer": 0,
+      "explanation": "Register (noun) — An official list or record of names or items."
+    },
+    {
+      "id": "ad-q29",
+      "question": "Which word means: \"An official record of events during the voyage of a ship or aircraft, or in a business.\"?",
+      "options": [
+        "Log",
+        "Warrant of appointment",
+        "Quorum",
+        "Memorandum"
+      ],
+      "answer": 0,
+      "explanation": "Log (noun) — An official record of events during the voyage of a ship or aircraft, or in a business."
+    },
+    {
+      "id": "ad-q30",
+      "question": "Which word means: \"A list of names, especially of members of an organization.\"?",
+      "options": [
+        "Portfolio",
+        "Inventory",
+        "Roll",
+        "Ordinance"
+      ],
+      "answer": 2,
+      "explanation": "Roll (noun) — A list of names, especially of members of an organization."
+    },
+    {
+      "id": "ad-q31",
+      "question": "Which word means: \"A document listing a ship's or aircraft's cargo, passengers, or crew.\"?",
+      "options": [
+        "Governance",
+        "Manifest",
+        "Regulation",
+        "Department"
+      ],
+      "answer": 1,
+      "explanation": "Manifest (noun) — A document listing a ship's or aircraft's cargo, passengers, or crew."
+    },
+    {
+      "id": "ad-q32",
+      "question": "Which word means: \"A complete list of items such as goods in stock.\"?",
+      "options": [
+        "Docket",
+        "Voucher",
+        "Hierarchy",
+        "Inventory"
+      ],
+      "answer": 3,
+      "explanation": "Inventory (noun) — A complete list of items such as goods in stock."
+    },
+    {
+      "id": "ad-q33",
+      "question": "Which word means: \"A list of goods sent or services provided with a statement of the sum due.\"?",
+      "options": [
+        "Working group",
+        "Invoice",
+        "Annexe",
+        "Injunction"
+      ],
+      "answer": 1,
+      "explanation": "Invoice (noun) — A list of goods sent or services provided with a statement of the sum due."
+    },
+    {
+      "id": "ad-q34",
+      "question": "Which word means: \"A written or printed acknowledgment of receiving money or goods.\"?",
+      "options": [
+        "Log",
+        "Receipt",
+        "Inventory",
+        "Memo"
+      ],
+      "answer": 1,
+      "explanation": "Receipt (noun) — A written or printed acknowledgment of receiving money or goods."
+    },
+    {
+      "id": "ad-q35",
+      "question": "Which word means: \"A small printed piece of paper entitling the holder to a discount or exchangeable for goods.\"?",
+      "options": [
+        "Voucher",
+        "Roll",
+        "Successor",
+        "Hierarchy"
+      ],
+      "answer": 0,
+      "explanation": "Voucher (noun) — A small printed piece of paper entitling the holder to a discount or exchangeable for goods."
+    },
+    {
+      "id": "ad-q36",
+      "question": "Which word means: \"A document issued by a legal or government official authorizing an action.\"?",
+      "options": [
+        "Warrant",
+        "Ordinance",
+        "Panel",
+        "Caucus"
+      ],
+      "answer": 0,
+      "explanation": "Warrant (noun) — A document issued by a legal or government official authorizing an action."
+    },
+    {
+      "id": "ad-q37",
+      "question": "Which word means: \"An official order laying claim to the use of property or materials.\"?",
+      "options": [
+        "Preamble",
+        "Deputation",
+        "Requisition",
+        "Statute"
+      ],
+      "answer": 2,
+      "explanation": "Requisition (noun) — An official order laying claim to the use of property or materials."
+    },
+    {
+      "id": "ad-q38",
+      "question": "Which word means: \"A formal written request to an authority, signed by many people.\"?",
+      "options": [
+        "Circular",
+        "Bureaucracy",
+        "Register",
+        "Petition"
+      ],
+      "answer": 3,
+      "explanation": "Petition (noun) — A formal written request to an authority, signed by many people."
+    },
+    {
+      "id": "ad-q39",
+      "question": "Which word means: \"A formal request to an authority for something.\"?",
+      "options": [
+        "Application",
+        "Archive",
+        "Protocol",
+        "Subpoena"
+      ],
+      "answer": 0,
+      "explanation": "Application (noun) — A formal request to an authority for something."
+    },
+    {
+      "id": "ad-q40",
+      "question": "Which word means: \"A section of extra information added at the end of a document.\"?",
+      "options": [
+        "Bond",
+        "Stipulation",
+        "Subpoena",
+        "Appendix"
+      ],
+      "answer": 3,
+      "explanation": "Appendix (noun) — A section of extra information added at the end of a document."
+    },
+    {
+      "id": "ad-q41",
+      "question": "Which word means: \"Something added or attached, such as a supplementary section of a document.\"?",
+      "options": [
+        "Sitting",
+        "Recess",
+        "Annexe",
+        "Assembly"
+      ],
+      "answer": 2,
+      "explanation": "Annexe (noun) — Something added or attached, such as a supplementary section of a document."
+    },
+    {
+      "id": "ad-q42",
+      "question": "Which word means: \"An item of additional material added at the end of a book or other publication.\"?",
+      "options": [
+        "Addendum",
+        "Directive",
+        "Secretariat",
+        "Clause"
+      ],
+      "answer": 0,
+      "explanation": "Addendum (noun) — An item of additional material added at the end of a book or other publication."
+    },
+    {
+      "id": "ad-q43",
+      "question": "Which word means: \"An error in printing or writing, especially one noted in a list of corrections.\"?",
+      "options": [
+        "Bulletin",
+        "Treaty",
+        "Governance",
+        "Erratum"
+      ],
+      "answer": 3,
+      "explanation": "Erratum (noun) — An error in printing or writing, especially one noted in a list of corrections."
+    },
+    {
+      "id": "ad-q44",
+      "question": "Which word means: \"A preliminary statement in a document explaining its purpose.\"?",
+      "options": [
+        "Inventory",
+        "Charter",
+        "Statute",
+        "Preamble"
+      ],
+      "answer": 3,
+      "explanation": "Preamble (noun) — A preliminary statement in a document explaining its purpose."
+    },
+    {
+      "id": "ad-q45",
+      "question": "Which word means: \"A particular and separate article, stipulation, or proviso in a treaty, bill, or contract.\"?",
+      "options": [
+        "Recess",
+        "Bureaucracy",
+        "Clause",
+        "Bylaw"
+      ],
+      "answer": 2,
+      "explanation": "Clause (noun) — A particular and separate article, stipulation, or proviso in a treaty, bill, or contract."
+    },
+    {
+      "id": "ad-q46",
+      "question": "Which word means: \"A condition or requirement in a legal document.\"?",
+      "options": [
+        "Warrant of appointment",
+        "Subpoena",
+        "Docket",
+        "Provision"
+      ],
+      "answer": 3,
+      "explanation": "Provision (noun) — A condition or requirement in a legal document."
+    },
+    {
+      "id": "ad-q47",
+      "question": "Which word means: \"A condition or requirement that is specified or demanded as part of an agreement.\"?",
+      "options": [
+        "Stipulation",
+        "Approval",
+        "Docket",
+        "Ordinance"
+      ],
+      "answer": 0,
+      "explanation": "Stipulation (noun) — A condition or requirement that is specified or demanded as part of an agreement."
+    },
+    {
+      "id": "ad-q48",
+      "question": "Which word means: \"The formal confirmation or approval of something.\"?",
+      "options": [
+        "Requisition",
+        "Bond",
+        "Accord",
+        "Ratification"
+      ],
+      "answer": 3,
+      "explanation": "Ratification (noun) — The formal confirmation or approval of something."
+    },
+    {
+      "id": "ad-q49",
+      "question": "Which word means: \"An act of giving one's public approval or support to someone or something.\"?",
+      "options": [
+        "Endorsement",
+        "Register",
+        "Ordinance",
+        "Petition"
+      ],
+      "answer": 0,
+      "explanation": "Endorsement (noun) — An act of giving one's public approval or support to someone or something."
+    },
+    {
+      "id": "ad-q50",
+      "question": "Which word means: \"The action of officially agreeing to something or accepting something as satisfactory.\"?",
+      "options": [
+        "Bylaw",
+        "Ordinance",
+        "Incumbent",
+        "Approval"
+      ],
+      "answer": 3,
+      "explanation": "Approval (noun) — The action of officially agreeing to something or accepting something as satisfactory."
+    },
+    {
+      "id": "ad-q51",
+      "question": "Which word means: \"Permission for something to happen or agreement to do something.\"?",
+      "options": [
+        "Consent",
+        "Policy",
+        "Ordinance",
+        "Deputation"
+      ],
+      "answer": 0,
+      "explanation": "Consent (noun) — Permission for something to happen or agreement to do something."
+    },
+    {
+      "id": "ad-q52",
+      "question": "Which word means: \"An act of relinquishing a right or claim, especially in writing.\"?",
+      "options": [
+        "Manifest",
+        "Waiver",
+        "Injunction",
+        "Assembly"
+      ],
+      "answer": 1,
+      "explanation": "Waiver (noun) — An act of relinquishing a right or claim, especially in writing."
+    },
+    {
+      "id": "ad-q53",
+      "question": "Which word means: \"An authoritative warning or order, especially from a court.\"?",
+      "options": [
+        "Injunction",
+        "Amendment",
+        "Nominee",
+        "Incumbent"
+      ],
+      "answer": 0,
+      "explanation": "Injunction (noun) — An authoritative warning or order, especially from a court."
+    },
+    {
+      "id": "ad-q54",
+      "question": "Which word means: \"A writ ordering a person to attend a court.\"?",
+      "options": [
+        "Subpoena",
+        "Roster",
+        "Receipt",
+        "Convocation"
+      ],
+      "answer": 0,
+      "explanation": "Subpoena (noun) — A writ ordering a person to attend a court."
+    },
+    {
+      "id": "ad-q55",
+      "question": "Which word means: \"A written statement confirmed by oath, for use as evidence in court.\"?",
+      "options": [
+        "Consent",
+        "Affidavit",
+        "Circular",
+        "Convocation"
+      ],
+      "answer": 1,
+      "explanation": "Affidavit (noun) — A written statement confirmed by oath, for use as evidence in court."
+    },
+    {
+      "id": "ad-q56",
+      "question": "Which word means: \"A signed written agreement to pay a sum of money by a specified date.\"?",
+      "options": [
+        "Statute",
+        "Bureau",
+        "Minutes",
+        "Bond"
+      ],
+      "answer": 3,
+      "explanation": "Bond (noun) — A signed written agreement to pay a sum of money by a specified date."
+    },
+    {
+      "id": "ad-q57",
+      "question": "Which word means: \"A written or spoken agreement intended to be enforceable by law.\"?",
+      "options": [
+        "Contract",
+        "Governance",
+        "Statute",
+        "Register"
+      ],
+      "answer": 0,
+      "explanation": "Contract (noun) — A written or spoken agreement intended to be enforceable by law."
+    },
+    {
+      "id": "ad-q58",
+      "question": "Which word means: \"A formal agreement or promise between two or more parties.\"?",
+      "options": [
+        "Covenant",
+        "Inventory",
+        "Regulation",
+        "Ratification"
+      ],
+      "answer": 0,
+      "explanation": "Covenant (noun) — A formal agreement or promise between two or more parties."
+    },
+    {
+      "id": "ad-q59",
+      "question": "Which word means: \"A formally concluded and ratified agreement between countries.\"?",
+      "options": [
+        "Treaty",
+        "Panel",
+        "Application",
+        "Bureaucracy"
+      ],
+      "answer": 0,
+      "explanation": "Treaty (noun) — A formally concluded and ratified agreement between countries."
+    },
+    {
+      "id": "ad-q60",
+      "question": "Which word means: \"An official agreement or treaty.\"?",
+      "options": [
+        "Directive",
+        "Accord",
+        "Adjournment",
+        "Bulletin"
+      ],
+      "answer": 1,
+      "explanation": "Accord (noun) — An official agreement or treaty."
+    },
+    {
+      "id": "ad-q61",
+      "question": "Which word means: \"A written grant by a country's legislative or sovereign power, by which an institution such as a company is created.\"?",
+      "options": [
+        "Charter",
+        "Agency",
+        "Hierarchy",
+        "Report"
+      ],
+      "answer": 0,
+      "explanation": "Charter (noun) — A written grant by a country's legislative or sovereign power, by which an institution such as a company is created."
+    },
+    {
+      "id": "ad-q62",
+      "question": "Which word means: \"A body of fundamental principles by which a state or organization is governed.\"?",
+      "options": [
+        "Working group",
+        "Preamble",
+        "Constitution",
+        "Roster"
+      ],
+      "answer": 2,
+      "explanation": "Constitution (noun) — A body of fundamental principles by which a state or organization is governed."
+    },
+    {
+      "id": "ad-q63",
+      "question": "Which word means: \"An official order or commission to do something.\"?",
+      "options": [
+        "Procedure",
+        "Invoice",
+        "Bylaw",
+        "Mandate"
+      ],
+      "answer": 3,
+      "explanation": "Mandate (noun) — An official order or commission to do something."
+    },
+    {
+      "id": "ad-q64",
+      "question": "Which word means: \"A formal instrument confirming appointment to office.\"?",
+      "options": [
+        "Agenda",
+        "Warrant of appointment",
+        "Ministry",
+        "Erratum"
+      ],
+      "answer": 1,
+      "explanation": "Warrant of appointment (noun) — A formal instrument confirming appointment to office."
+    },
+    {
+      "id": "ad-q65",
+      "question": "Which word means: \"An instruction, command, or duty given to a person or group.\"?",
+      "options": [
+        "Directorate",
+        "Return",
+        "Contract",
+        "Commission"
+      ],
+      "answer": 3,
+      "explanation": "Commission (noun) — An instruction, command, or duty given to a person or group."
+    },
+    {
+      "id": "ad-q66",
+      "question": "Which word means: \"The assignment of authority or responsibility to another person to carry out specific activities.\"?",
+      "options": [
+        "Delegation",
+        "Memorandum",
+        "Committee",
+        "Statute"
+      ],
+      "answer": 0,
+      "explanation": "Delegation (noun) — The assignment of authority or responsibility to another person to carry out specific activities."
+    },
+    {
+      "id": "ad-q67",
+      "question": "Which word means: \"A group of people appointed to undertake a mission or take part in a formal process.\"?",
+      "options": [
+        "Hierarchy",
+        "Ratification",
+        "Deputation",
+        "Incumbent"
+      ],
+      "answer": 2,
+      "explanation": "Deputation (noun) — A group of people appointed to undertake a mission or take part in a formal process."
+    },
+    {
+      "id": "ad-q68",
+      "question": "Which word means: \"The official power to make legal decisions and judgements.\"?",
+      "options": [
+        "Stipulation",
+        "Jurisdiction",
+        "Appendix",
+        "Amendment"
+      ],
+      "answer": 1,
+      "explanation": "Jurisdiction (noun) — The official power to make legal decisions and judgements."
+    },
+    {
+      "id": "ad-q69",
+      "question": "Which word means: \"The action or fact of complying with a wish or command.\"?",
+      "options": [
+        "Compliance",
+        "Convocation",
+        "Inventory",
+        "Board"
+      ],
+      "answer": 0,
+      "explanation": "Compliance (noun) — The action or fact of complying with a wish or command."
+    },
+    {
+      "id": "ad-q70",
+      "question": "Which word means: \"The action or manner of governing an organization.\"?",
+      "options": [
+        "Governance",
+        "Report",
+        "Referendum",
+        "Agency"
+      ],
+      "answer": 0,
+      "explanation": "Governance (noun) — The action or manner of governing an organization."
+    },
+    {
+      "id": "ad-q71",
+      "question": "Which word means: \"A system of government in which most decisions are made by state officials rather than by elected representatives.\"?",
+      "options": [
+        "Bureaucracy",
+        "Injunction",
+        "Motion",
+        "Dossier"
+      ],
+      "answer": 0,
+      "explanation": "Bureaucracy (noun) — A system of government in which most decisions are made by state officials rather than by elected representatives."
+    },
+    {
+      "id": "ad-q72",
+      "question": "Which word means: \"A system in which members of an organization or society are ranked according to relative status or authority.\"?",
+      "options": [
+        "Subcommittee",
+        "Hierarchy",
+        "Return",
+        "Voucher"
+      ],
+      "answer": 1,
+      "explanation": "Hierarchy (noun) — A system in which members of an organization or society are ranked according to relative status or authority."
+    },
+    {
+      "id": "ad-q73",
+      "question": "Which word means: \"A system in an organization by which orders are passed from one level to the next.\"?",
+      "options": [
+        "Charter",
+        "Ledger",
+        "Log",
+        "Chain of command"
+      ],
+      "answer": 3,
+      "explanation": "Chain of command (noun) — A system in an organization by which orders are passed from one level to the next."
+    },
+    {
+      "id": "ad-q74",
+      "question": "Which word means: \"The particular responsibilities held by a government minister.\"?",
+      "options": [
+        "Roll",
+        "Motion",
+        "Portfolio",
+        "Log"
+      ],
+      "answer": 2,
+      "explanation": "Portfolio (noun) — The particular responsibilities held by a government minister."
+    },
+    {
+      "id": "ad-q75",
+      "question": "Which word means: \"The holding of an office; a period for which an office is held.\"?",
+      "options": [
+        "Warrant",
+        "Tenure",
+        "Regulation",
+        "Ministry"
+      ],
+      "answer": 1,
+      "explanation": "Tenure (noun) — The holding of an office; a period for which an office is held."
+    },
+    {
+      "id": "ad-q76",
+      "question": "Which word means: \"The holder of an office or post.\"?",
+      "options": [
+        "Erratum",
+        "Compliance",
+        "Incumbent",
+        "Assembly"
+      ],
+      "answer": 2,
+      "explanation": "Incumbent (noun) — The holder of an office or post."
+    },
+    {
+      "id": "ad-q77",
+      "question": "Which word means: \"A person who succeeds another in an office or position.\"?",
+      "options": [
+        "Receipt",
+        "Tenure",
+        "Successor",
+        "Dossier"
+      ],
+      "answer": 2,
+      "explanation": "Successor (noun) — A person who succeeds another in an office or position."
+    },
+    {
+      "id": "ad-q78",
+      "question": "Which word means: \"A person officially proposed for an office or position.\"?",
+      "options": [
+        "Secretariat",
+        "Clause",
+        "Annexe",
+        "Nominee"
+      ],
+      "answer": 3,
+      "explanation": "Nominee (noun) — A person officially proposed for an office or position."
+    },
+    {
+      "id": "ad-q79",
+      "question": "Which word means: \"A process of voting, in writing and typically in secret.\"?",
+      "options": [
+        "Ballot",
+        "Portfolio",
+        "Approval",
+        "Archive"
+      ],
+      "answer": 0,
+      "explanation": "Ballot (noun) — A process of voting, in writing and typically in secret."
+    },
+    {
+      "id": "ad-q80",
+      "question": "Which word means: \"The right to vote in public elections.\"?",
+      "options": [
+        "Agenda",
+        "Compliance",
+        "Franchise",
+        "Deputation"
+      ],
+      "answer": 2,
+      "explanation": "Franchise (noun) — The right to vote in public elections."
+    },
+    {
+      "id": "ad-q81",
+      "question": "Which word means: \"A general vote by the electorate on a single political question.\"?",
+      "options": [
+        "Convocation",
+        "Regulation",
+        "Referendum",
+        "Erratum"
+      ],
+      "answer": 2,
+      "explanation": "Referendum (noun) — A general vote by the electorate on a single political question."
+    },
+    {
+      "id": "ad-q82",
+      "question": "Which word means: \"A meeting of the members of a legislative body who are members of a particular political party.\"?",
+      "options": [
+        "Task force",
+        "Application",
+        "Caucus",
+        "Commission"
+      ],
+      "answer": 2,
+      "explanation": "Caucus (noun) — A meeting of the members of a legislative body who are members of a particular political party."
+    },
+    {
+      "id": "ad-q83",
+      "question": "Which word means: \"A period devoted to a particular activity, especially a meeting of a deliberative body.\"?",
+      "options": [
+        "Waiver",
+        "Addendum",
+        "Session",
+        "Subcommittee"
+      ],
+      "answer": 2,
+      "explanation": "Session (noun) — A period devoted to a particular activity, especially a meeting of a deliberative body."
+    },
+    {
+      "id": "ad-q84",
+      "question": "Which word means: \"A period of time occupied by a court, committee, or other body in performing its business.\"?",
+      "options": [
+        "Subpoena",
+        "Archive",
+        "Convocation",
+        "Sitting"
+      ],
+      "answer": 3,
+      "explanation": "Sitting (noun) — A period of time occupied by a court, committee, or other body in performing its business."
+    },
+    {
+      "id": "ad-q85",
+      "question": "Which word means: \"A period of time when a formal meeting or activity is suspended.\"?",
+      "options": [
+        "Chain of command",
+        "Ballot",
+        "Application",
+        "Recess"
+      ],
+      "answer": 3,
+      "explanation": "Recess (noun) — A period of time when a formal meeting or activity is suspended."
+    },
+    {
+      "id": "ad-q86",
+      "question": "Which word means: \"A postponement of a meeting or session.\"?",
+      "options": [
+        "Application",
+        "Requisition",
+        "Roster",
+        "Adjournment"
+      ],
+      "answer": 3,
+      "explanation": "Adjournment (noun) — A postponement of a meeting or session."
+    },
+    {
+      "id": "ad-q87",
+      "question": "Which word means: \"A large formal assembly of people.\"?",
+      "options": [
+        "Accord",
+        "Convocation",
+        "Assembly",
+        "Contract"
+      ],
+      "answer": 1,
+      "explanation": "Convocation (noun) — A large formal assembly of people."
+    },
+    {
+      "id": "ad-q88",
+      "question": "Which word means: \"A group of people gathered together in one place for a common purpose.\"?",
+      "options": [
+        "Assembly",
+        "Recess",
+        "Docket",
+        "Directorate"
+      ],
+      "answer": 0,
+      "explanation": "Assembly (noun) — A group of people gathered together in one place for a common purpose."
+    },
+    {
+      "id": "ad-q89",
+      "question": "Which word means: \"The group of people who officially direct the business of a company or organization.\"?",
+      "options": [
+        "Bureau",
+        "Board",
+        "Procedure",
+        "Manifest"
+      ],
+      "answer": 1,
+      "explanation": "Board (noun) — The group of people who officially direct the business of a company or organization."
+    },
+    {
+      "id": "ad-q90",
+      "question": "Which word means: \"A group of people appointed for a specific function by a larger group.\"?",
+      "options": [
+        "Amendment",
+        "Notice",
+        "Committee",
+        "Motion"
+      ],
+      "answer": 2,
+      "explanation": "Committee (noun) — A group of people appointed for a specific function by a larger group."
+    },
+    {
+      "id": "ad-q91",
+      "question": "Which word means: \"A committee formed from the main committee.\"?",
+      "options": [
+        "Treaty",
+        "Subcommittee",
+        "Referendum",
+        "Subpoena"
+      ],
+      "answer": 1,
+      "explanation": "Subcommittee (noun) — A committee formed from the main committee."
+    },
+    {
+      "id": "ad-q92",
+      "question": "Which word means: \"A small group of experts convened for a specific purpose.\"?",
+      "options": [
+        "Panel",
+        "Warrant of appointment",
+        "Inventory",
+        "Waiver"
+      ],
+      "answer": 0,
+      "explanation": "Panel (noun) — A small group of experts convened for a specific purpose."
+    },
+    {
+      "id": "ad-q93",
+      "question": "Which word means: \"A group of experts working together to achieve specified goals.\"?",
+      "options": [
+        "Ministry",
+        "Directive",
+        "Bureau",
+        "Working group"
+      ],
+      "answer": 3,
+      "explanation": "Working group (noun) — A group of experts working together to achieve specified goals."
+    },
+    {
+      "id": "ad-q94",
+      "question": "Which word means: \"A unit or formation established to work on a single defined task or activity.\"?",
+      "options": [
+        "Deputation",
+        "Task force",
+        "Accord",
+        "Committee"
+      ],
+      "answer": 1,
+      "explanation": "Task force (noun) — A unit or formation established to work on a single defined task or activity."
+    },
+    {
+      "id": "ad-q95",
+      "question": "Which word means: \"A permanent administrative office or department.\"?",
+      "options": [
+        "Memo",
+        "Treaty",
+        "Bulletin",
+        "Secretariat"
+      ],
+      "answer": 3,
+      "explanation": "Secretariat (noun) — A permanent administrative office or department."
+    },
+    {
+      "id": "ad-q96",
+      "question": "Which word means: \"The board of directors of a company or the position of director.\"?",
+      "options": [
+        "Bureau",
+        "Contract",
+        "Ballot",
+        "Directorate"
+      ],
+      "answer": 3,
+      "explanation": "Directorate (noun) — The board of directors of a company or the position of director."
+    },
+    {
+      "id": "ad-q97",
+      "question": "Which word means: \"A business or organization providing a particular service on behalf of another.\"?",
+      "options": [
+        "Charter",
+        "Return",
+        "Directorate",
+        "Agency"
+      ],
+      "answer": 3,
+      "explanation": "Agency (noun) — A business or organization providing a particular service on behalf of another."
+    },
+    {
+      "id": "ad-q98",
+      "question": "Which word means: \"An office or department for transacting particular business.\"?",
+      "options": [
+        "Warrant",
+        "Caucus",
+        "Ministry",
+        "Bureau"
+      ],
+      "answer": 3,
+      "explanation": "Bureau (noun) — An office or department for transacting particular business."
+    },
+    {
+      "id": "ad-q99",
+      "question": "Which word means: \"A division of a large organization or building, dealing with a specific area of activity.\"?",
+      "options": [
+        "Department",
+        "Contract",
+        "Warrant",
+        "Statute"
+      ],
+      "answer": 0,
+      "explanation": "Department (noun) — A division of a large organization or building, dealing with a specific area of activity."
+    },
+    {
+      "id": "ad-q100",
+      "question": "Which word means: \"A government department headed by a minister.\"?",
+      "options": [
+        "Annexe",
+        "Governance",
+        "Ministry",
+        "Erratum"
+      ],
+      "answer": 2,
+      "explanation": "Ministry (noun) — A government department headed by a minister."
+    }
+  ]
+}

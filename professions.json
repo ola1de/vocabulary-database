@@ -1,0 +1,1908 @@
+{
+  "category": "professions",
+  "title": "Professions",
+  "words": [
+    {
+      "id": "pr-001",
+      "word": "Pilot",
+      "pos": "noun",
+      "definition": "A person who operates the flying controls of an aircraft.",
+      "example": "The pilot announced the smooth cruising altitude."
+    },
+    {
+      "id": "pr-002",
+      "word": "Surgeon",
+      "pos": "noun",
+      "definition": "A medical practitioner qualified to perform surgical operations.",
+      "example": "The surgeon scrubbed carefully before the operation."
+    },
+    {
+      "id": "pr-003",
+      "word": "Physician",
+      "pos": "noun",
+      "definition": "A person qualified to practise medicine.",
+      "example": "The physician prescribed a course of antibiotics."
+    },
+    {
+      "id": "pr-004",
+      "word": "Architect",
+      "pos": "noun",
+      "definition": "A person who designs buildings and often supervises their construction.",
+      "example": "The architect unrolled the plans on the table."
+    },
+    {
+      "id": "pr-005",
+      "word": "Engineer",
+      "pos": "noun",
+      "definition": "A person qualified in a branch of engineering.",
+      "example": "The engineer inspected the bridge for stress cracks."
+    },
+    {
+      "id": "pr-006",
+      "word": "Lawyer",
+      "pos": "noun",
+      "definition": "A person who practises or studies law; an attorney or counsel.",
+      "example": "Her lawyer prepared the contract overnight."
+    },
+    {
+      "id": "pr-007",
+      "word": "Barrister",
+      "pos": "noun",
+      "definition": "A lawyer entitled to practise as an advocate in the higher courts.",
+      "example": "The barrister addressed the jury in measured tones."
+    },
+    {
+      "id": "pr-008",
+      "word": "Solicitor",
+      "pos": "noun",
+      "definition": "A lawyer who advises clients and prepares legal documents.",
+      "example": "The solicitor drafted the will that afternoon."
+    },
+    {
+      "id": "pr-009",
+      "word": "Judge",
+      "pos": "noun",
+      "definition": "A public officer appointed to decide cases in a court of law.",
+      "example": "The judge entered and everyone rose."
+    },
+    {
+      "id": "pr-010",
+      "word": "Magistrate",
+      "pos": "noun",
+      "definition": "A civil officer who administers the law, especially in minor cases.",
+      "example": "The magistrate fined the defendant fifty pounds."
+    },
+    {
+      "id": "pr-011",
+      "word": "Accountant",
+      "pos": "noun",
+      "definition": "A person who keeps or inspects financial accounts.",
+      "example": "The accountant balanced the year-end books."
+    },
+    {
+      "id": "pr-012",
+      "word": "Auditor",
+      "pos": "noun",
+      "definition": "A person authorized to examine and verify accounts.",
+      "example": "The auditor requested every receipt."
+    },
+    {
+      "id": "pr-013",
+      "word": "Banker",
+      "pos": "noun",
+      "definition": "A person who manages or owns a bank.",
+      "example": "The banker approved the small business loan."
+    },
+    {
+      "id": "pr-014",
+      "word": "Broker",
+      "pos": "noun",
+      "definition": "A person who buys and sells goods or assets for others.",
+      "example": "The broker closed the deal by phone."
+    },
+    {
+      "id": "pr-015",
+      "word": "Economist",
+      "pos": "noun",
+      "definition": "An expert in economics.",
+      "example": "The economist forecast a mild recession."
+    },
+    {
+      "id": "pr-016",
+      "word": "Statistician",
+      "pos": "noun",
+      "definition": "An expert in the preparation and analysis of statistics.",
+      "example": "The statistician cleaned the survey data."
+    },
+    {
+      "id": "pr-017",
+      "word": "Actuary",
+      "pos": "noun",
+      "definition": "A person who compiles and analyses statistics to calculate insurance risks and premiums.",
+      "example": "The actuary reassessed the mortality tables."
+    },
+    {
+      "id": "pr-018",
+      "word": "Teacher",
+      "pos": "noun",
+      "definition": "A person who teaches, especially in a school.",
+      "example": "The teacher wrote the date on the board."
+    },
+    {
+      "id": "pr-019",
+      "word": "Professor",
+      "pos": "noun",
+      "definition": "A university academic of the highest rank.",
+      "example": "The professor's lectures were famously entertaining."
+    },
+    {
+      "id": "pr-020",
+      "word": "Lecturer",
+      "pos": "noun",
+      "definition": "A person who gives lectures, especially as an occupation at a university.",
+      "example": "The lecturer projected a diagram of the cell."
+    },
+    {
+      "id": "pr-021",
+      "word": "Tutor",
+      "pos": "noun",
+      "definition": "A private teacher, typically one who teaches a single student or a very small group.",
+      "example": "Her tutor came twice a week for maths."
+    },
+    {
+      "id": "pr-022",
+      "word": "Librarian",
+      "pos": "noun",
+      "definition": "A person in charge of, or assisting in, a library.",
+      "example": "The librarian catalogued the new arrivals."
+    },
+    {
+      "id": "pr-023",
+      "word": "Archivist",
+      "pos": "noun",
+      "definition": "A person who maintains and is in charge of archives.",
+      "example": "The archivist unfolded the fragile letter carefully."
+    },
+    {
+      "id": "pr-024",
+      "word": "Curator",
+      "pos": "noun",
+      "definition": "A keeper or custodian of a museum or other collection.",
+      "example": "The curator arranged the new exhibition."
+    },
+    {
+      "id": "pr-025",
+      "word": "Journalist",
+      "pos": "noun",
+      "definition": "A person who writes for newspapers or magazines or prepares news for broadcast.",
+      "example": "The journalist filed the story before midnight."
+    },
+    {
+      "id": "pr-026",
+      "word": "Editor",
+      "pos": "noun",
+      "definition": "A person responsible for the content of a publication or section of it.",
+      "example": "The editor blue-pencilled the opening paragraph."
+    },
+    {
+      "id": "pr-027",
+      "word": "Reporter",
+      "pos": "noun",
+      "definition": "A person who reports news for a newspaper or broadcast.",
+      "example": "The reporter interviewed witnesses at the scene."
+    },
+    {
+      "id": "pr-028",
+      "word": "Author",
+      "pos": "noun",
+      "definition": "A writer of a book, article, or report.",
+      "example": "The author signed copies for two hours."
+    },
+    {
+      "id": "pr-029",
+      "word": "Novelist",
+      "pos": "noun",
+      "definition": "A person who writes novels.",
+      "example": "The novelist worked in longhand each morning."
+    },
+    {
+      "id": "pr-030",
+      "word": "Poet",
+      "pos": "noun",
+      "definition": "A person who writes poems.",
+      "example": "The poet read a new sonnet to the audience."
+    },
+    {
+      "id": "pr-031",
+      "word": "Playwright",
+      "pos": "noun",
+      "definition": "A person who writes plays.",
+      "example": "The playwright watched from the wings on opening night."
+    },
+    {
+      "id": "pr-032",
+      "word": "Screenwriter",
+      "pos": "noun",
+      "definition": "A person who writes screenplays for films or television.",
+      "example": "The screenwriter revised the third act again."
+    },
+    {
+      "id": "pr-033",
+      "word": "Director",
+      "pos": "noun",
+      "definition": "A person who is in charge of a film, play, or similar production.",
+      "example": "The director called for another take."
+    },
+    {
+      "id": "pr-034",
+      "word": "Producer",
+      "pos": "noun",
+      "definition": "A person responsible for the financial and managerial aspects of making a film or broadcast.",
+      "example": "The producer raised the funding for the project."
+    },
+    {
+      "id": "pr-035",
+      "word": "Actor",
+      "pos": "noun",
+      "definition": "A person whose profession is acting on the stage, in films, or on television.",
+      "example": "The actor rehearsed his monologue in the mirror."
+    },
+    {
+      "id": "pr-036",
+      "word": "Musician",
+      "pos": "noun",
+      "definition": "A person who plays a musical instrument or is musically talented.",
+      "example": "The musician tuned his violin before the concert."
+    },
+    {
+      "id": "pr-037",
+      "word": "Composer",
+      "pos": "noun",
+      "definition": "A person who writes music, especially as a professional occupation.",
+      "example": "The composer scored the film in six weeks."
+    },
+    {
+      "id": "pr-038",
+      "word": "Conductor",
+      "pos": "noun",
+      "definition": "A person who directs the performance of an orchestra or choir.",
+      "example": "The conductor raised the baton and the hall fell silent."
+    },
+    {
+      "id": "pr-039",
+      "word": "Singer",
+      "pos": "noun",
+      "definition": "A person who sings, especially professionally.",
+      "example": "The singer held the final note effortlessly."
+    },
+    {
+      "id": "pr-040",
+      "word": "Dancer",
+      "pos": "noun",
+      "definition": "A person who dances or whose profession is dancing.",
+      "example": "The dancer stretched at the barre for an hour."
+    },
+    {
+      "id": "pr-041",
+      "word": "Choreographer",
+      "pos": "noun",
+      "definition": "A person who creates and arranges dances.",
+      "example": "The choreographer taught the sequence step by step."
+    },
+    {
+      "id": "pr-042",
+      "word": "Painter",
+      "pos": "noun",
+      "definition": "An artist who paints pictures.",
+      "example": "The painter mixed cadmium yellow on her palette."
+    },
+    {
+      "id": "pr-043",
+      "word": "Sculptor",
+      "pos": "noun",
+      "definition": "An artist who makes sculptures.",
+      "example": "The sculptor chipped away at the marble block."
+    },
+    {
+      "id": "pr-044",
+      "word": "Photographer",
+      "pos": "noun",
+      "definition": "A person who takes photographs, especially as a job.",
+      "example": "The photographer adjusted the studio lights."
+    },
+    {
+      "id": "pr-045",
+      "word": "Illustrator",
+      "pos": "noun",
+      "definition": "A person who draws or creates pictures for magazines, books, or advertising.",
+      "example": "The illustrator inked the final panel."
+    },
+    {
+      "id": "pr-046",
+      "word": "Designer",
+      "pos": "noun",
+      "definition": "A person who plans the form or structure of something before it is made.",
+      "example": "The designer sketched three variations of the logo."
+    },
+    {
+      "id": "pr-047",
+      "word": "Chef",
+      "pos": "noun",
+      "definition": "A professional cook, typically the chief cook in a restaurant.",
+      "example": "The chef tasted the sauce and added a pinch of salt."
+    },
+    {
+      "id": "pr-048",
+      "word": "Baker",
+      "pos": "noun",
+      "definition": "A person whose occupation is making and selling bread and cakes.",
+      "example": "The baker slid the loaves into the oven at dawn."
+    },
+    {
+      "id": "pr-049",
+      "word": "Butcher",
+      "pos": "noun",
+      "definition": "A person whose trade is preparing and selling meat.",
+      "example": "The butcher wrapped the lamb chops in paper."
+    },
+    {
+      "id": "pr-050",
+      "word": "Farmer",
+      "pos": "noun",
+      "definition": "A person who owns or manages a farm.",
+      "example": "The farmer inspected the wheat before harvest."
+    },
+    {
+      "id": "pr-051",
+      "word": "Fisherman",
+      "pos": "noun",
+      "definition": "A person who catches fish for a living or for sport.",
+      "example": "The fisherman mended his nets by the harbour."
+    },
+    {
+      "id": "pr-052",
+      "word": "Sailor",
+      "pos": "noun",
+      "definition": "A person who works as a member of a ship's crew.",
+      "example": "The sailor climbed nimbly into the rigging."
+    },
+    {
+      "id": "pr-053",
+      "word": "Captain",
+      "pos": "noun",
+      "definition": "The person in command of a ship or aircraft.",
+      "example": "The captain welcomed passengers aboard."
+    },
+    {
+      "id": "pr-054",
+      "word": "Soldier",
+      "pos": "noun",
+      "definition": "A person who serves in an army.",
+      "example": "The soldier stood at attention on parade."
+    },
+    {
+      "id": "pr-055",
+      "word": "Officer",
+      "pos": "noun",
+      "definition": "A person holding a position of command or authority in the armed services.",
+      "example": "The officer inspected the barracks."
+    },
+    {
+      "id": "pr-056",
+      "word": "Police officer",
+      "pos": "noun",
+      "definition": "A member of a police force.",
+      "example": "The police officer directed traffic at the junction."
+    },
+    {
+      "id": "pr-057",
+      "word": "Detective",
+      "pos": "noun",
+      "definition": "A person, especially a police officer, whose occupation is to investigate crimes.",
+      "example": "The detective reviewed the case files late into the night."
+    },
+    {
+      "id": "pr-058",
+      "word": "Firefighter",
+      "pos": "noun",
+      "definition": "A person whose job is to extinguish fires.",
+      "example": "The firefighter ran a hose to the top floor."
+    },
+    {
+      "id": "pr-059",
+      "word": "Paramedic",
+      "pos": "noun",
+      "definition": "A person trained to give emergency medical care.",
+      "example": "The paramedic stabilized the patient in the ambulance."
+    },
+    {
+      "id": "pr-060",
+      "word": "Nurse",
+      "pos": "noun",
+      "definition": "A person trained to care for the sick or infirm.",
+      "example": "The nurse checked the patient's blood pressure."
+    },
+    {
+      "id": "pr-061",
+      "word": "Dentist",
+      "pos": "noun",
+      "definition": "A person qualified to treat the diseases and conditions that affect the teeth and gums.",
+      "example": "The dentist recommended a cleaning every six months."
+    },
+    {
+      "id": "pr-062",
+      "word": "Optometrist",
+      "pos": "noun",
+      "definition": "A person trained to examine the eyes and prescribe corrective lenses.",
+      "example": "The optometrist updated her lens prescription."
+    },
+    {
+      "id": "pr-063",
+      "word": "Pharmacist",
+      "pos": "noun",
+      "definition": "A person qualified to prepare and dispense medicinal drugs.",
+      "example": "The pharmacist explained how to take the medicine."
+    },
+    {
+      "id": "pr-064",
+      "word": "Veterinarian",
+      "pos": "noun",
+      "definition": "A person qualified to treat diseased or injured animals.",
+      "example": "The veterinarian vaccinated the new puppy."
+    },
+    {
+      "id": "pr-065",
+      "word": "Psychologist",
+      "pos": "noun",
+      "definition": "An expert or specialist in psychology.",
+      "example": "The psychologist listened attentively to her client."
+    },
+    {
+      "id": "pr-066",
+      "word": "Psychiatrist",
+      "pos": "noun",
+      "definition": "A medical practitioner specializing in the diagnosis and treatment of mental illness.",
+      "example": "The psychiatrist adjusted the patient's medication."
+    },
+    {
+      "id": "pr-067",
+      "word": "Therapist",
+      "pos": "noun",
+      "definition": "A person skilled in a particular kind of therapy.",
+      "example": "The therapist suggested a breathing exercise."
+    },
+    {
+      "id": "pr-068",
+      "word": "Scientist",
+      "pos": "noun",
+      "definition": "A person who is studying or has expert knowledge of one or more of the sciences.",
+      "example": "The scientist recorded the results carefully."
+    },
+    {
+      "id": "pr-069",
+      "word": "Biologist",
+      "pos": "noun",
+      "definition": "A person who studies living organisms.",
+      "example": "The biologist collected samples in the rainforest."
+    },
+    {
+      "id": "pr-070",
+      "word": "Chemist",
+      "pos": "noun",
+      "definition": "A person engaged in chemical research or experiments.",
+      "example": "The chemist titrated the solution drop by drop."
+    },
+    {
+      "id": "pr-071",
+      "word": "Physicist",
+      "pos": "noun",
+      "definition": "A scientist who specializes in physics.",
+      "example": "The physicist wrote equations across the whiteboard."
+    },
+    {
+      "id": "pr-072",
+      "word": "Mathematician",
+      "pos": "noun",
+      "definition": "An expert in or student of mathematics.",
+      "example": "The mathematician published a proof of the theorem."
+    },
+    {
+      "id": "pr-073",
+      "word": "Astronomer",
+      "pos": "noun",
+      "definition": "A scientist who studies celestial bodies and the universe as a whole.",
+      "example": "The astronomer photographed the passing comet."
+    },
+    {
+      "id": "pr-074",
+      "word": "Geologist",
+      "pos": "noun",
+      "definition": "A scientist who studies the solid features of the earth.",
+      "example": "The geologist tapped the outcrop with her hammer."
+    },
+    {
+      "id": "pr-075",
+      "word": "Meteorologist",
+      "pos": "noun",
+      "definition": "A scientist who studies the atmosphere and weather.",
+      "example": "The meteorologist warned of severe storms."
+    },
+    {
+      "id": "pr-076",
+      "word": "Programmer",
+      "pos": "noun",
+      "definition": "A person who writes computer programs.",
+      "example": "The programmer refactored the module before lunch."
+    },
+    {
+      "id": "pr-077",
+      "word": "Developer",
+      "pos": "noun",
+      "definition": "A person or company that develops software or products.",
+      "example": "The developer pushed a fix to the production server."
+    },
+    {
+      "id": "pr-078",
+      "word": "Analyst",
+      "pos": "noun",
+      "definition": "A person who analyses data, systems, or performance.",
+      "example": "The analyst prepared a report on quarterly sales."
+    },
+    {
+      "id": "pr-079",
+      "word": "Consultant",
+      "pos": "noun",
+      "definition": "A person who provides expert advice professionally.",
+      "example": "The consultant recommended a leaner workflow."
+    },
+    {
+      "id": "pr-080",
+      "word": "Entrepreneur",
+      "pos": "noun",
+      "definition": "A person who sets up a business, taking on financial risks.",
+      "example": "The entrepreneur launched her third start-up."
+    },
+    {
+      "id": "pr-081",
+      "word": "Manager",
+      "pos": "noun",
+      "definition": "A person responsible for controlling or administering an organization or group.",
+      "example": "The manager led the morning briefing."
+    },
+    {
+      "id": "pr-082",
+      "word": "Secretary",
+      "pos": "noun",
+      "definition": "A person employed to handle correspondence and clerical work for a person or organization.",
+      "example": "The secretary scheduled the afternoon meetings."
+    },
+    {
+      "id": "pr-083",
+      "word": "Receptionist",
+      "pos": "noun",
+      "definition": "A person employed in an office or other establishment to answer the telephone and deal with visitors.",
+      "example": "The receptionist greeted each visitor with a smile."
+    },
+    {
+      "id": "pr-084",
+      "word": "Clerk",
+      "pos": "noun",
+      "definition": "A person employed in an office or bank to keep records and undertake other routine administrative duties.",
+      "example": "The clerk stamped the documents in triplicate."
+    },
+    {
+      "id": "pr-085",
+      "word": "Cashier",
+      "pos": "noun",
+      "definition": "A person handling payments and receipts in a shop, bank, or business.",
+      "example": "The cashier counted the drawer at closing."
+    },
+    {
+      "id": "pr-086",
+      "word": "Salesperson",
+      "pos": "noun",
+      "definition": "A person whose job involves selling goods in a shop or directly to customers.",
+      "example": "The salesperson demonstrated the new appliance."
+    },
+    {
+      "id": "pr-087",
+      "word": "Waiter",
+      "pos": "noun",
+      "definition": "A person whose job is to serve customers at their tables in a restaurant.",
+      "example": "The waiter recited the day's specials."
+    },
+    {
+      "id": "pr-088",
+      "word": "Bartender",
+      "pos": "noun",
+      "definition": "A person who serves drinks at a bar.",
+      "example": "The bartender polished glasses between orders."
+    },
+    {
+      "id": "pr-089",
+      "word": "Hairdresser",
+      "pos": "noun",
+      "definition": "A person who cuts and styles hair as an occupation.",
+      "example": "The hairdresser suggested a shorter cut."
+    },
+    {
+      "id": "pr-090",
+      "word": "Barber",
+      "pos": "noun",
+      "definition": "A person who cuts men's hair.",
+      "example": "The barber snapped a fresh cape around his customer."
+    },
+    {
+      "id": "pr-091",
+      "word": "Tailor",
+      "pos": "noun",
+      "definition": "A person whose occupation is making fitted clothes such as suits, trousers, and jackets.",
+      "example": "The tailor pinned the sleeves for a final fitting."
+    },
+    {
+      "id": "pr-092",
+      "word": "Dressmaker",
+      "pos": "noun",
+      "definition": "A person who makes women's clothes.",
+      "example": "The dressmaker delivered the wedding gown herself."
+    },
+    {
+      "id": "pr-093",
+      "word": "Jeweller",
+      "pos": "noun",
+      "definition": "A person who makes or sells jewellery.",
+      "example": "The jeweller sized the ring while she waited."
+    },
+    {
+      "id": "pr-094",
+      "word": "Watchmaker",
+      "pos": "noun",
+      "definition": "A person who makes and repairs watches and clocks.",
+      "example": "The watchmaker cleaned each tiny gear."
+    },
+    {
+      "id": "pr-095",
+      "word": "Plumber",
+      "pos": "noun",
+      "definition": "A person who fits and repairs the pipes and fittings of water supply and sanitation systems.",
+      "example": "The plumber unblocked the kitchen sink."
+    },
+    {
+      "id": "pr-096",
+      "word": "Electrician",
+      "pos": "noun",
+      "definition": "A person who installs and maintains electrical equipment.",
+      "example": "The electrician rewired the living room."
+    },
+    {
+      "id": "pr-097",
+      "word": "Carpenter",
+      "pos": "noun",
+      "definition": "A person who makes and repairs wooden objects and structures.",
+      "example": "The carpenter measured twice and cut once."
+    },
+    {
+      "id": "pr-098",
+      "word": "Mechanic",
+      "pos": "noun",
+      "definition": "A person who repairs and maintains machinery.",
+      "example": "The mechanic replaced the worn brake pads."
+    },
+    {
+      "id": "pr-099",
+      "word": "Welder",
+      "pos": "noun",
+      "definition": "A person whose job is to join metal parts by heating and fusing them.",
+      "example": "Sparks flew as the welder joined the beams."
+    },
+    {
+      "id": "pr-100",
+      "word": "Miner",
+      "pos": "noun",
+      "definition": "A person who works in a mine.",
+      "example": "The miner emerged blinking into the sunlight."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "pr-q1",
+      "question": "Which word means: \"A person who operates the flying controls of an aircraft.\"?",
+      "options": [
+        "Astronomer",
+        "Pilot",
+        "Surgeon",
+        "Paramedic"
+      ],
+      "answer": 1,
+      "explanation": "Pilot (noun) — A person who operates the flying controls of an aircraft."
+    },
+    {
+      "id": "pr-q2",
+      "question": "Which word means: \"A medical practitioner qualified to perform surgical operations.\"?",
+      "options": [
+        "Author",
+        "Surgeon",
+        "Teacher",
+        "Meteorologist"
+      ],
+      "answer": 1,
+      "explanation": "Surgeon (noun) — A medical practitioner qualified to perform surgical operations."
+    },
+    {
+      "id": "pr-q3",
+      "question": "Which word means: \"A person qualified to practise medicine.\"?",
+      "options": [
+        "Physician",
+        "Lawyer",
+        "Auditor",
+        "Mechanic"
+      ],
+      "answer": 0,
+      "explanation": "Physician (noun) — A person qualified to practise medicine."
+    },
+    {
+      "id": "pr-q4",
+      "question": "Which word means: \"A person who designs buildings and often supervises their construction.\"?",
+      "options": [
+        "Physicist",
+        "Baker",
+        "Archivist",
+        "Architect"
+      ],
+      "answer": 3,
+      "explanation": "Architect (noun) — A person who designs buildings and often supervises their construction."
+    },
+    {
+      "id": "pr-q5",
+      "question": "Which word means: \"A person qualified in a branch of engineering.\"?",
+      "options": [
+        "Director",
+        "Dancer",
+        "Engineer",
+        "Barrister"
+      ],
+      "answer": 2,
+      "explanation": "Engineer (noun) — A person qualified in a branch of engineering."
+    },
+    {
+      "id": "pr-q6",
+      "question": "Which word means: \"A person who practises or studies law; an attorney or counsel.\"?",
+      "options": [
+        "Professor",
+        "Meteorologist",
+        "Lawyer",
+        "Veterinarian"
+      ],
+      "answer": 2,
+      "explanation": "Lawyer (noun) — A person who practises or studies law; an attorney or counsel."
+    },
+    {
+      "id": "pr-q7",
+      "question": "Which word means: \"A lawyer entitled to practise as an advocate in the higher courts.\"?",
+      "options": [
+        "Barrister",
+        "Consultant",
+        "Therapist",
+        "Chemist"
+      ],
+      "answer": 0,
+      "explanation": "Barrister (noun) — A lawyer entitled to practise as an advocate in the higher courts."
+    },
+    {
+      "id": "pr-q8",
+      "question": "Which word means: \"A lawyer who advises clients and prepares legal documents.\"?",
+      "options": [
+        "Lawyer",
+        "Screenwriter",
+        "Solicitor",
+        "Salesperson"
+      ],
+      "answer": 2,
+      "explanation": "Solicitor (noun) — A lawyer who advises clients and prepares legal documents."
+    },
+    {
+      "id": "pr-q9",
+      "question": "Which word means: \"A public officer appointed to decide cases in a court of law.\"?",
+      "options": [
+        "Dancer",
+        "Judge",
+        "Professor",
+        "Novelist"
+      ],
+      "answer": 1,
+      "explanation": "Judge (noun) — A public officer appointed to decide cases in a court of law."
+    },
+    {
+      "id": "pr-q10",
+      "question": "Which word means: \"A civil officer who administers the law, especially in minor cases.\"?",
+      "options": [
+        "Plumber",
+        "Teacher",
+        "Composer",
+        "Magistrate"
+      ],
+      "answer": 3,
+      "explanation": "Magistrate (noun) — A civil officer who administers the law, especially in minor cases."
+    },
+    {
+      "id": "pr-q11",
+      "question": "Which word means: \"A person who keeps or inspects financial accounts.\"?",
+      "options": [
+        "Actor",
+        "Cashier",
+        "Accountant",
+        "Farmer"
+      ],
+      "answer": 2,
+      "explanation": "Accountant (noun) — A person who keeps or inspects financial accounts."
+    },
+    {
+      "id": "pr-q12",
+      "question": "Which word means: \"A person authorized to examine and verify accounts.\"?",
+      "options": [
+        "Producer",
+        "Accountant",
+        "Bartender",
+        "Auditor"
+      ],
+      "answer": 3,
+      "explanation": "Auditor (noun) — A person authorized to examine and verify accounts."
+    },
+    {
+      "id": "pr-q13",
+      "question": "Which word means: \"A person who manages or owns a bank.\"?",
+      "options": [
+        "Author",
+        "Chemist",
+        "Banker",
+        "Magistrate"
+      ],
+      "answer": 2,
+      "explanation": "Banker (noun) — A person who manages or owns a bank."
+    },
+    {
+      "id": "pr-q14",
+      "question": "Which word means: \"A person who buys and sells goods or assets for others.\"?",
+      "options": [
+        "Geologist",
+        "Jeweller",
+        "Broker",
+        "Butcher"
+      ],
+      "answer": 2,
+      "explanation": "Broker (noun) — A person who buys and sells goods or assets for others."
+    },
+    {
+      "id": "pr-q15",
+      "question": "Which word means: \"An expert in economics.\"?",
+      "options": [
+        "Detective",
+        "Economist",
+        "Farmer",
+        "Painter"
+      ],
+      "answer": 1,
+      "explanation": "Economist (noun) — An expert in economics."
+    },
+    {
+      "id": "pr-q16",
+      "question": "Which word means: \"An expert in the preparation and analysis of statistics.\"?",
+      "options": [
+        "Statistician",
+        "Musician",
+        "Actuary",
+        "Magistrate"
+      ],
+      "answer": 0,
+      "explanation": "Statistician (noun) — An expert in the preparation and analysis of statistics."
+    },
+    {
+      "id": "pr-q17",
+      "question": "Which word means: \"A person who compiles and analyses statistics to calculate insurance risks and premiums.\"?",
+      "options": [
+        "Actuary",
+        "Receptionist",
+        "Photographer",
+        "Judge"
+      ],
+      "answer": 0,
+      "explanation": "Actuary (noun) — A person who compiles and analyses statistics to calculate insurance risks and premiums."
+    },
+    {
+      "id": "pr-q18",
+      "question": "Which word means: \"A person who teaches, especially in a school.\"?",
+      "options": [
+        "Lecturer",
+        "Teacher",
+        "Musician",
+        "Poet"
+      ],
+      "answer": 1,
+      "explanation": "Teacher (noun) — A person who teaches, especially in a school."
+    },
+    {
+      "id": "pr-q19",
+      "question": "Which word means: \"A university academic of the highest rank.\"?",
+      "options": [
+        "Broker",
+        "Poet",
+        "Professor",
+        "Farmer"
+      ],
+      "answer": 2,
+      "explanation": "Professor (noun) — A university academic of the highest rank."
+    },
+    {
+      "id": "pr-q20",
+      "question": "Which word means: \"A person who gives lectures, especially as an occupation at a university.\"?",
+      "options": [
+        "Developer",
+        "Veterinarian",
+        "Lecturer",
+        "Banker"
+      ],
+      "answer": 2,
+      "explanation": "Lecturer (noun) — A person who gives lectures, especially as an occupation at a university."
+    },
+    {
+      "id": "pr-q21",
+      "question": "Which word means: \"A private teacher, typically one who teaches a single student or a very small group.\"?",
+      "options": [
+        "Musician",
+        "Consultant",
+        "Tutor",
+        "Mathematician"
+      ],
+      "answer": 2,
+      "explanation": "Tutor (noun) — A private teacher, typically one who teaches a single student or a very small group."
+    },
+    {
+      "id": "pr-q22",
+      "question": "Which word means: \"A person in charge of, or assisting in, a library.\"?",
+      "options": [
+        "Painter",
+        "Fisherman",
+        "Librarian",
+        "Mechanic"
+      ],
+      "answer": 2,
+      "explanation": "Librarian (noun) — A person in charge of, or assisting in, a library."
+    },
+    {
+      "id": "pr-q23",
+      "question": "Which word means: \"A person who maintains and is in charge of archives.\"?",
+      "options": [
+        "Developer",
+        "Archivist",
+        "Pharmacist",
+        "Actuary"
+      ],
+      "answer": 1,
+      "explanation": "Archivist (noun) — A person who maintains and is in charge of archives."
+    },
+    {
+      "id": "pr-q24",
+      "question": "Which word means: \"A keeper or custodian of a museum or other collection.\"?",
+      "options": [
+        "Salesperson",
+        "Actuary",
+        "Professor",
+        "Curator"
+      ],
+      "answer": 3,
+      "explanation": "Curator (noun) — A keeper or custodian of a museum or other collection."
+    },
+    {
+      "id": "pr-q25",
+      "question": "Which word means: \"A person who writes for newspapers or magazines or prepares news for broadcast.\"?",
+      "options": [
+        "Watchmaker",
+        "Barrister",
+        "Journalist",
+        "Receptionist"
+      ],
+      "answer": 2,
+      "explanation": "Journalist (noun) — A person who writes for newspapers or magazines or prepares news for broadcast."
+    },
+    {
+      "id": "pr-q26",
+      "question": "Which word means: \"A person responsible for the content of a publication or section of it.\"?",
+      "options": [
+        "Officer",
+        "Consultant",
+        "Bartender",
+        "Editor"
+      ],
+      "answer": 3,
+      "explanation": "Editor (noun) — A person responsible for the content of a publication or section of it."
+    },
+    {
+      "id": "pr-q27",
+      "question": "Which word means: \"A person who reports news for a newspaper or broadcast.\"?",
+      "options": [
+        "Chef",
+        "Reporter",
+        "Dentist",
+        "Psychiatrist"
+      ],
+      "answer": 1,
+      "explanation": "Reporter (noun) — A person who reports news for a newspaper or broadcast."
+    },
+    {
+      "id": "pr-q28",
+      "question": "Which word means: \"A writer of a book, article, or report.\"?",
+      "options": [
+        "Jeweller",
+        "Scientist",
+        "Author",
+        "Playwright"
+      ],
+      "answer": 2,
+      "explanation": "Author (noun) — A writer of a book, article, or report."
+    },
+    {
+      "id": "pr-q29",
+      "question": "Which word means: \"A person who writes novels.\"?",
+      "options": [
+        "Soldier",
+        "Novelist",
+        "Choreographer",
+        "Miner"
+      ],
+      "answer": 1,
+      "explanation": "Novelist (noun) — A person who writes novels."
+    },
+    {
+      "id": "pr-q30",
+      "question": "Which word means: \"A person who writes poems.\"?",
+      "options": [
+        "Plumber",
+        "Screenwriter",
+        "Poet",
+        "Magistrate"
+      ],
+      "answer": 2,
+      "explanation": "Poet (noun) — A person who writes poems."
+    },
+    {
+      "id": "pr-q31",
+      "question": "Which word means: \"A person who writes plays.\"?",
+      "options": [
+        "Conductor",
+        "Carpenter",
+        "Accountant",
+        "Playwright"
+      ],
+      "answer": 3,
+      "explanation": "Playwright (noun) — A person who writes plays."
+    },
+    {
+      "id": "pr-q32",
+      "question": "Which word means: \"A person who writes screenplays for films or television.\"?",
+      "options": [
+        "Bartender",
+        "Plumber",
+        "Screenwriter",
+        "Therapist"
+      ],
+      "answer": 2,
+      "explanation": "Screenwriter (noun) — A person who writes screenplays for films or television."
+    },
+    {
+      "id": "pr-q33",
+      "question": "Which word means: \"A person who is in charge of a film, play, or similar production.\"?",
+      "options": [
+        "Bartender",
+        "Director",
+        "Hairdresser",
+        "Therapist"
+      ],
+      "answer": 1,
+      "explanation": "Director (noun) — A person who is in charge of a film, play, or similar production."
+    },
+    {
+      "id": "pr-q34",
+      "question": "Which word means: \"A person responsible for the financial and managerial aspects of making a film or broadcast.\"?",
+      "options": [
+        "Producer",
+        "Journalist",
+        "Carpenter",
+        "Entrepreneur"
+      ],
+      "answer": 0,
+      "explanation": "Producer (noun) — A person responsible for the financial and managerial aspects of making a film or broadcast."
+    },
+    {
+      "id": "pr-q35",
+      "question": "Which word means: \"A person whose profession is acting on the stage, in films, or on television.\"?",
+      "options": [
+        "Chemist",
+        "Actor",
+        "Tailor",
+        "Carpenter"
+      ],
+      "answer": 1,
+      "explanation": "Actor (noun) — A person whose profession is acting on the stage, in films, or on television."
+    },
+    {
+      "id": "pr-q36",
+      "question": "Which word means: \"A person who plays a musical instrument or is musically talented.\"?",
+      "options": [
+        "Musician",
+        "Librarian",
+        "Consultant",
+        "Paramedic"
+      ],
+      "answer": 0,
+      "explanation": "Musician (noun) — A person who plays a musical instrument or is musically talented."
+    },
+    {
+      "id": "pr-q37",
+      "question": "Which word means: \"A person who writes music, especially as a professional occupation.\"?",
+      "options": [
+        "Composer",
+        "Teacher",
+        "Baker",
+        "Therapist"
+      ],
+      "answer": 0,
+      "explanation": "Composer (noun) — A person who writes music, especially as a professional occupation."
+    },
+    {
+      "id": "pr-q38",
+      "question": "Which word means: \"A person who directs the performance of an orchestra or choir.\"?",
+      "options": [
+        "Conductor",
+        "Farmer",
+        "Psychologist",
+        "Librarian"
+      ],
+      "answer": 0,
+      "explanation": "Conductor (noun) — A person who directs the performance of an orchestra or choir."
+    },
+    {
+      "id": "pr-q39",
+      "question": "Which word means: \"A person who sings, especially professionally.\"?",
+      "options": [
+        "Singer",
+        "Physicist",
+        "Screenwriter",
+        "Bartender"
+      ],
+      "answer": 0,
+      "explanation": "Singer (noun) — A person who sings, especially professionally."
+    },
+    {
+      "id": "pr-q40",
+      "question": "Which word means: \"A person who dances or whose profession is dancing.\"?",
+      "options": [
+        "Producer",
+        "Dancer",
+        "Pharmacist",
+        "Conductor"
+      ],
+      "answer": 1,
+      "explanation": "Dancer (noun) — A person who dances or whose profession is dancing."
+    },
+    {
+      "id": "pr-q41",
+      "question": "Which word means: \"A person who creates and arranges dances.\"?",
+      "options": [
+        "Choreographer",
+        "Clerk",
+        "Dancer",
+        "Author"
+      ],
+      "answer": 0,
+      "explanation": "Choreographer (noun) — A person who creates and arranges dances."
+    },
+    {
+      "id": "pr-q42",
+      "question": "Which word means: \"An artist who paints pictures.\"?",
+      "options": [
+        "Solicitor",
+        "Pilot",
+        "Chef",
+        "Painter"
+      ],
+      "answer": 3,
+      "explanation": "Painter (noun) — An artist who paints pictures."
+    },
+    {
+      "id": "pr-q43",
+      "question": "Which word means: \"An artist who makes sculptures.\"?",
+      "options": [
+        "Broker",
+        "Chef",
+        "Sculptor",
+        "Pilot"
+      ],
+      "answer": 2,
+      "explanation": "Sculptor (noun) — An artist who makes sculptures."
+    },
+    {
+      "id": "pr-q44",
+      "question": "Which word means: \"A person who takes photographs, especially as a job.\"?",
+      "options": [
+        "Photographer",
+        "Surgeon",
+        "Chef",
+        "Captain"
+      ],
+      "answer": 0,
+      "explanation": "Photographer (noun) — A person who takes photographs, especially as a job."
+    },
+    {
+      "id": "pr-q45",
+      "question": "Which word means: \"A person who draws or creates pictures for magazines, books, or advertising.\"?",
+      "options": [
+        "Biologist",
+        "Editor",
+        "Illustrator",
+        "Accountant"
+      ],
+      "answer": 2,
+      "explanation": "Illustrator (noun) — A person who draws or creates pictures for magazines, books, or advertising."
+    },
+    {
+      "id": "pr-q46",
+      "question": "Which word means: \"A person who plans the form or structure of something before it is made.\"?",
+      "options": [
+        "Designer",
+        "Pilot",
+        "Veterinarian",
+        "Lecturer"
+      ],
+      "answer": 0,
+      "explanation": "Designer (noun) — A person who plans the form or structure of something before it is made."
+    },
+    {
+      "id": "pr-q47",
+      "question": "Which word means: \"A professional cook, typically the chief cook in a restaurant.\"?",
+      "options": [
+        "Chef",
+        "Sailor",
+        "Butcher",
+        "Singer"
+      ],
+      "answer": 0,
+      "explanation": "Chef (noun) — A professional cook, typically the chief cook in a restaurant."
+    },
+    {
+      "id": "pr-q48",
+      "question": "Which word means: \"A person whose occupation is making and selling bread and cakes.\"?",
+      "options": [
+        "Chemist",
+        "Actor",
+        "Broker",
+        "Baker"
+      ],
+      "answer": 3,
+      "explanation": "Baker (noun) — A person whose occupation is making and selling bread and cakes."
+    },
+    {
+      "id": "pr-q49",
+      "question": "Which word means: \"A person whose trade is preparing and selling meat.\"?",
+      "options": [
+        "Designer",
+        "Teacher",
+        "Tutor",
+        "Butcher"
+      ],
+      "answer": 3,
+      "explanation": "Butcher (noun) — A person whose trade is preparing and selling meat."
+    },
+    {
+      "id": "pr-q50",
+      "question": "Which word means: \"A person who owns or manages a farm.\"?",
+      "options": [
+        "Economist",
+        "Dressmaker",
+        "Farmer",
+        "Editor"
+      ],
+      "answer": 2,
+      "explanation": "Farmer (noun) — A person who owns or manages a farm."
+    },
+    {
+      "id": "pr-q51",
+      "question": "Which word means: \"A person who catches fish for a living or for sport.\"?",
+      "options": [
+        "Sailor",
+        "Fisherman",
+        "Teacher",
+        "Officer"
+      ],
+      "answer": 1,
+      "explanation": "Fisherman (noun) — A person who catches fish for a living or for sport."
+    },
+    {
+      "id": "pr-q52",
+      "question": "Which word means: \"A person who works as a member of a ship's crew.\"?",
+      "options": [
+        "Sailor",
+        "Editor",
+        "Waiter",
+        "Pharmacist"
+      ],
+      "answer": 0,
+      "explanation": "Sailor (noun) — A person who works as a member of a ship's crew."
+    },
+    {
+      "id": "pr-q53",
+      "question": "Which word means: \"The person in command of a ship or aircraft.\"?",
+      "options": [
+        "Veterinarian",
+        "Psychologist",
+        "Captain",
+        "Mathematician"
+      ],
+      "answer": 2,
+      "explanation": "Captain (noun) — The person in command of a ship or aircraft."
+    },
+    {
+      "id": "pr-q54",
+      "question": "Which word means: \"A person who serves in an army.\"?",
+      "options": [
+        "Watchmaker",
+        "Electrician",
+        "Psychiatrist",
+        "Soldier"
+      ],
+      "answer": 3,
+      "explanation": "Soldier (noun) — A person who serves in an army."
+    },
+    {
+      "id": "pr-q55",
+      "question": "Which word means: \"A person holding a position of command or authority in the armed services.\"?",
+      "options": [
+        "Actuary",
+        "Broker",
+        "Officer",
+        "Physician"
+      ],
+      "answer": 2,
+      "explanation": "Officer (noun) — A person holding a position of command or authority in the armed services."
+    },
+    {
+      "id": "pr-q56",
+      "question": "Which word means: \"A member of a police force.\"?",
+      "options": [
+        "Police officer",
+        "Hairdresser",
+        "Playwright",
+        "Miner"
+      ],
+      "answer": 0,
+      "explanation": "Police officer (noun) — A member of a police force."
+    },
+    {
+      "id": "pr-q57",
+      "question": "Which word means: \"A person, especially a police officer, whose occupation is to investigate crimes.\"?",
+      "options": [
+        "Detective",
+        "Electrician",
+        "Analyst",
+        "Officer"
+      ],
+      "answer": 0,
+      "explanation": "Detective (noun) — A person, especially a police officer, whose occupation is to investigate crimes."
+    },
+    {
+      "id": "pr-q58",
+      "question": "Which word means: \"A person whose job is to extinguish fires.\"?",
+      "options": [
+        "Veterinarian",
+        "Firefighter",
+        "Composer",
+        "Conductor"
+      ],
+      "answer": 1,
+      "explanation": "Firefighter (noun) — A person whose job is to extinguish fires."
+    },
+    {
+      "id": "pr-q59",
+      "question": "Which word means: \"A person trained to give emergency medical care.\"?",
+      "options": [
+        "Plumber",
+        "Paramedic",
+        "Manager",
+        "Lecturer"
+      ],
+      "answer": 1,
+      "explanation": "Paramedic (noun) — A person trained to give emergency medical care."
+    },
+    {
+      "id": "pr-q60",
+      "question": "Which word means: \"A person trained to care for the sick or infirm.\"?",
+      "options": [
+        "Miner",
+        "Nurse",
+        "Producer",
+        "Economist"
+      ],
+      "answer": 1,
+      "explanation": "Nurse (noun) — A person trained to care for the sick or infirm."
+    },
+    {
+      "id": "pr-q61",
+      "question": "Which word means: \"A person qualified to treat the diseases and conditions that affect the teeth and gums.\"?",
+      "options": [
+        "Optometrist",
+        "Dentist",
+        "Dressmaker",
+        "Editor"
+      ],
+      "answer": 1,
+      "explanation": "Dentist (noun) — A person qualified to treat the diseases and conditions that affect the teeth and gums."
+    },
+    {
+      "id": "pr-q62",
+      "question": "Which word means: \"A person trained to examine the eyes and prescribe corrective lenses.\"?",
+      "options": [
+        "Optometrist",
+        "Secretary",
+        "Journalist",
+        "Developer"
+      ],
+      "answer": 0,
+      "explanation": "Optometrist (noun) — A person trained to examine the eyes and prescribe corrective lenses."
+    },
+    {
+      "id": "pr-q63",
+      "question": "Which word means: \"A person qualified to prepare and dispense medicinal drugs.\"?",
+      "options": [
+        "Sailor",
+        "Pharmacist",
+        "Actuary",
+        "Engineer"
+      ],
+      "answer": 1,
+      "explanation": "Pharmacist (noun) — A person qualified to prepare and dispense medicinal drugs."
+    },
+    {
+      "id": "pr-q64",
+      "question": "Which word means: \"A person qualified to treat diseased or injured animals.\"?",
+      "options": [
+        "Veterinarian",
+        "Entrepreneur",
+        "Officer",
+        "Physician"
+      ],
+      "answer": 0,
+      "explanation": "Veterinarian (noun) — A person qualified to treat diseased or injured animals."
+    },
+    {
+      "id": "pr-q65",
+      "question": "Which word means: \"An expert or specialist in psychology.\"?",
+      "options": [
+        "Captain",
+        "Butcher",
+        "Psychologist",
+        "Biologist"
+      ],
+      "answer": 2,
+      "explanation": "Psychologist (noun) — An expert or specialist in psychology."
+    },
+    {
+      "id": "pr-q66",
+      "question": "Which word means: \"A medical practitioner specializing in the diagnosis and treatment of mental illness.\"?",
+      "options": [
+        "Officer",
+        "Photographer",
+        "Novelist",
+        "Psychiatrist"
+      ],
+      "answer": 3,
+      "explanation": "Psychiatrist (noun) — A medical practitioner specializing in the diagnosis and treatment of mental illness."
+    },
+    {
+      "id": "pr-q67",
+      "question": "Which word means: \"A person skilled in a particular kind of therapy.\"?",
+      "options": [
+        "Therapist",
+        "Singer",
+        "Barrister",
+        "Clerk"
+      ],
+      "answer": 0,
+      "explanation": "Therapist (noun) — A person skilled in a particular kind of therapy."
+    },
+    {
+      "id": "pr-q68",
+      "question": "Which word means: \"A person who is studying or has expert knowledge of one or more of the sciences.\"?",
+      "options": [
+        "Jeweller",
+        "Illustrator",
+        "Musician",
+        "Scientist"
+      ],
+      "answer": 3,
+      "explanation": "Scientist (noun) — A person who is studying or has expert knowledge of one or more of the sciences."
+    },
+    {
+      "id": "pr-q69",
+      "question": "Which word means: \"A person who studies living organisms.\"?",
+      "options": [
+        "Lawyer",
+        "Curator",
+        "Biologist",
+        "Barrister"
+      ],
+      "answer": 2,
+      "explanation": "Biologist (noun) — A person who studies living organisms."
+    },
+    {
+      "id": "pr-q70",
+      "question": "Which word means: \"A person engaged in chemical research or experiments.\"?",
+      "options": [
+        "Composer",
+        "Author",
+        "Chemist",
+        "Dentist"
+      ],
+      "answer": 2,
+      "explanation": "Chemist (noun) — A person engaged in chemical research or experiments."
+    },
+    {
+      "id": "pr-q71",
+      "question": "Which word means: \"A scientist who specializes in physics.\"?",
+      "options": [
+        "Police officer",
+        "Director",
+        "Curator",
+        "Physicist"
+      ],
+      "answer": 3,
+      "explanation": "Physicist (noun) — A scientist who specializes in physics."
+    },
+    {
+      "id": "pr-q72",
+      "question": "Which word means: \"An expert in or student of mathematics.\"?",
+      "options": [
+        "Economist",
+        "Mathematician",
+        "Banker",
+        "Singer"
+      ],
+      "answer": 1,
+      "explanation": "Mathematician (noun) — An expert in or student of mathematics."
+    },
+    {
+      "id": "pr-q73",
+      "question": "Which word means: \"A scientist who studies celestial bodies and the universe as a whole.\"?",
+      "options": [
+        "Sculptor",
+        "Chef",
+        "Astronomer",
+        "Electrician"
+      ],
+      "answer": 2,
+      "explanation": "Astronomer (noun) — A scientist who studies celestial bodies and the universe as a whole."
+    },
+    {
+      "id": "pr-q74",
+      "question": "Which word means: \"A scientist who studies the solid features of the earth.\"?",
+      "options": [
+        "Playwright",
+        "Geologist",
+        "Musician",
+        "Cashier"
+      ],
+      "answer": 1,
+      "explanation": "Geologist (noun) — A scientist who studies the solid features of the earth."
+    },
+    {
+      "id": "pr-q75",
+      "question": "Which word means: \"A scientist who studies the atmosphere and weather.\"?",
+      "options": [
+        "Broker",
+        "Actuary",
+        "Meteorologist",
+        "Auditor"
+      ],
+      "answer": 2,
+      "explanation": "Meteorologist (noun) — A scientist who studies the atmosphere and weather."
+    },
+    {
+      "id": "pr-q76",
+      "question": "Which word means: \"A person who writes computer programs.\"?",
+      "options": [
+        "Firefighter",
+        "Dressmaker",
+        "Programmer",
+        "Journalist"
+      ],
+      "answer": 2,
+      "explanation": "Programmer (noun) — A person who writes computer programs."
+    },
+    {
+      "id": "pr-q77",
+      "question": "Which word means: \"A person or company that develops software or products.\"?",
+      "options": [
+        "Developer",
+        "Singer",
+        "Dentist",
+        "Watchmaker"
+      ],
+      "answer": 0,
+      "explanation": "Developer (noun) — A person or company that develops software or products."
+    },
+    {
+      "id": "pr-q78",
+      "question": "Which word means: \"A person who analyses data, systems, or performance.\"?",
+      "options": [
+        "Lawyer",
+        "Actuary",
+        "Journalist",
+        "Analyst"
+      ],
+      "answer": 3,
+      "explanation": "Analyst (noun) — A person who analyses data, systems, or performance."
+    },
+    {
+      "id": "pr-q79",
+      "question": "Which word means: \"A person who provides expert advice professionally.\"?",
+      "options": [
+        "Consultant",
+        "Welder",
+        "Mathematician",
+        "Illustrator"
+      ],
+      "answer": 0,
+      "explanation": "Consultant (noun) — A person who provides expert advice professionally."
+    },
+    {
+      "id": "pr-q80",
+      "question": "Which word means: \"A person who sets up a business, taking on financial risks.\"?",
+      "options": [
+        "Judge",
+        "Police officer",
+        "Optometrist",
+        "Entrepreneur"
+      ],
+      "answer": 3,
+      "explanation": "Entrepreneur (noun) — A person who sets up a business, taking on financial risks."
+    },
+    {
+      "id": "pr-q81",
+      "question": "Which word means: \"A person responsible for controlling or administering an organization or group.\"?",
+      "options": [
+        "Musician",
+        "Librarian",
+        "Manager",
+        "Developer"
+      ],
+      "answer": 2,
+      "explanation": "Manager (noun) — A person responsible for controlling or administering an organization or group."
+    },
+    {
+      "id": "pr-q82",
+      "question": "Which word means: \"A person employed to handle correspondence and clerical work for a person or organization.\"?",
+      "options": [
+        "Astronomer",
+        "Secretary",
+        "Barber",
+        "Solicitor"
+      ],
+      "answer": 1,
+      "explanation": "Secretary (noun) — A person employed to handle correspondence and clerical work for a person or organization."
+    },
+    {
+      "id": "pr-q83",
+      "question": "Which word means: \"A person employed in an office or other establishment to answer the telephone and deal with visitors.\"?",
+      "options": [
+        "Biologist",
+        "Hairdresser",
+        "Receptionist",
+        "Veterinarian"
+      ],
+      "answer": 2,
+      "explanation": "Receptionist (noun) — A person employed in an office or other establishment to answer the telephone and deal with visitors."
+    },
+    {
+      "id": "pr-q84",
+      "question": "Which word means: \"A person employed in an office or bank to keep records and undertake other routine administrative duties.\"?",
+      "options": [
+        "Mechanic",
+        "Farmer",
+        "Psychiatrist",
+        "Clerk"
+      ],
+      "answer": 3,
+      "explanation": "Clerk (noun) — A person employed in an office or bank to keep records and undertake other routine administrative duties."
+    },
+    {
+      "id": "pr-q85",
+      "question": "Which word means: \"A person handling payments and receipts in a shop, bank, or business.\"?",
+      "options": [
+        "Cashier",
+        "Reporter",
+        "Pilot",
+        "Curator"
+      ],
+      "answer": 0,
+      "explanation": "Cashier (noun) — A person handling payments and receipts in a shop, bank, or business."
+    },
+    {
+      "id": "pr-q86",
+      "question": "Which word means: \"A person whose job involves selling goods in a shop or directly to customers.\"?",
+      "options": [
+        "Programmer",
+        "Tailor",
+        "Surgeon",
+        "Salesperson"
+      ],
+      "answer": 3,
+      "explanation": "Salesperson (noun) — A person whose job involves selling goods in a shop or directly to customers."
+    },
+    {
+      "id": "pr-q87",
+      "question": "Which word means: \"A person whose job is to serve customers at their tables in a restaurant.\"?",
+      "options": [
+        "Novelist",
+        "Singer",
+        "Waiter",
+        "Conductor"
+      ],
+      "answer": 2,
+      "explanation": "Waiter (noun) — A person whose job is to serve customers at their tables in a restaurant."
+    },
+    {
+      "id": "pr-q88",
+      "question": "Which word means: \"A person who serves drinks at a bar.\"?",
+      "options": [
+        "Lawyer",
+        "Librarian",
+        "Bartender",
+        "Novelist"
+      ],
+      "answer": 2,
+      "explanation": "Bartender (noun) — A person who serves drinks at a bar."
+    },
+    {
+      "id": "pr-q89",
+      "question": "Which word means: \"A person who cuts and styles hair as an occupation.\"?",
+      "options": [
+        "Musician",
+        "Secretary",
+        "Hairdresser",
+        "Professor"
+      ],
+      "answer": 2,
+      "explanation": "Hairdresser (noun) — A person who cuts and styles hair as an occupation."
+    },
+    {
+      "id": "pr-q90",
+      "question": "Which word means: \"A person who cuts men's hair.\"?",
+      "options": [
+        "Reporter",
+        "Screenwriter",
+        "Barber",
+        "Receptionist"
+      ],
+      "answer": 2,
+      "explanation": "Barber (noun) — A person who cuts men's hair."
+    },
+    {
+      "id": "pr-q91",
+      "question": "Which word means: \"A person whose occupation is making fitted clothes such as suits, trousers, and jackets.\"?",
+      "options": [
+        "Tailor",
+        "Analyst",
+        "Manager",
+        "Baker"
+      ],
+      "answer": 0,
+      "explanation": "Tailor (noun) — A person whose occupation is making fitted clothes such as suits, trousers, and jackets."
+    },
+    {
+      "id": "pr-q92",
+      "question": "Which word means: \"A person who makes women's clothes.\"?",
+      "options": [
+        "Dressmaker",
+        "Watchmaker",
+        "Teacher",
+        "Captain"
+      ],
+      "answer": 0,
+      "explanation": "Dressmaker (noun) — A person who makes women's clothes."
+    },
+    {
+      "id": "pr-q93",
+      "question": "Which word means: \"A person who makes or sells jewellery.\"?",
+      "options": [
+        "Manager",
+        "Jeweller",
+        "Designer",
+        "Surgeon"
+      ],
+      "answer": 1,
+      "explanation": "Jeweller (noun) — A person who makes or sells jewellery."
+    },
+    {
+      "id": "pr-q94",
+      "question": "Which word means: \"A person who makes and repairs watches and clocks.\"?",
+      "options": [
+        "Watchmaker",
+        "Director",
+        "Physician",
+        "Archivist"
+      ],
+      "answer": 0,
+      "explanation": "Watchmaker (noun) — A person who makes and repairs watches and clocks."
+    },
+    {
+      "id": "pr-q95",
+      "question": "Which word means: \"A person who fits and repairs the pipes and fittings of water supply and sanitation systems.\"?",
+      "options": [
+        "Manager",
+        "Clerk",
+        "Plumber",
+        "Director"
+      ],
+      "answer": 2,
+      "explanation": "Plumber (noun) — A person who fits and repairs the pipes and fittings of water supply and sanitation systems."
+    },
+    {
+      "id": "pr-q96",
+      "question": "Which word means: \"A person who installs and maintains electrical equipment.\"?",
+      "options": [
+        "Reporter",
+        "Actor",
+        "Painter",
+        "Electrician"
+      ],
+      "answer": 3,
+      "explanation": "Electrician (noun) — A person who installs and maintains electrical equipment."
+    },
+    {
+      "id": "pr-q97",
+      "question": "Which word means: \"A person who makes and repairs wooden objects and structures.\"?",
+      "options": [
+        "Jeweller",
+        "Poet",
+        "Watchmaker",
+        "Carpenter"
+      ],
+      "answer": 3,
+      "explanation": "Carpenter (noun) — A person who makes and repairs wooden objects and structures."
+    },
+    {
+      "id": "pr-q98",
+      "question": "Which word means: \"A person who repairs and maintains machinery.\"?",
+      "options": [
+        "Veterinarian",
+        "Optometrist",
+        "Mechanic",
+        "Auditor"
+      ],
+      "answer": 2,
+      "explanation": "Mechanic (noun) — A person who repairs and maintains machinery."
+    },
+    {
+      "id": "pr-q99",
+      "question": "Which word means: \"A person whose job is to join metal parts by heating and fusing them.\"?",
+      "options": [
+        "Journalist",
+        "Archivist",
+        "Astronomer",
+        "Welder"
+      ],
+      "answer": 3,
+      "explanation": "Welder (noun) — A person whose job is to join metal parts by heating and fusing them."
+    },
+    {
+      "id": "pr-q100",
+      "question": "Which word means: \"A person who works in a mine.\"?",
+      "options": [
+        "Composer",
+        "Miner",
+        "Receptionist",
+        "Physician"
+      ],
+      "answer": 1,
+      "explanation": "Miner (noun) — A person who works in a mine."
+    }
+  ]
+}

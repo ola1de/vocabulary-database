@@ -1,0 +1,1908 @@
+{
+  "category": "animal-habitats",
+  "title": "Where Animals Are Kept",
+  "words": [
+    {
+      "id": "ah-001",
+      "word": "Aviary",
+      "pos": "noun",
+      "definition": "A large cage, building, or enclosure for keeping birds.",
+      "example": "The zoo's aviary housed hundreds of tropical birds."
+    },
+    {
+      "id": "ah-002",
+      "word": "Apiary",
+      "pos": "noun",
+      "definition": "A place where bees are kept; a collection of beehives.",
+      "example": "The beekeeper inspected his apiary at dawn."
+    },
+    {
+      "id": "ah-003",
+      "word": "Stable",
+      "pos": "noun",
+      "definition": "A building in which horses are kept.",
+      "example": "The horses were led back to the stable at dusk."
+    },
+    {
+      "id": "ah-004",
+      "word": "Stall",
+      "pos": "noun",
+      "definition": "An individual compartment for one animal in a stable or shed.",
+      "example": "Each horse had its own stall lined with fresh straw."
+    },
+    {
+      "id": "ah-005",
+      "word": "Kennel",
+      "pos": "noun",
+      "definition": "A shelter for a dog, or a boarding establishment for dogs.",
+      "example": "The puppy curled up in its warm kennel."
+    },
+    {
+      "id": "ah-006",
+      "word": "Cattery",
+      "pos": "noun",
+      "definition": "A boarding place or breeding establishment for cats.",
+      "example": "We left the cat at a cattery during the holidays."
+    },
+    {
+      "id": "ah-007",
+      "word": "Sty",
+      "pos": "noun",
+      "definition": "A pen or enclosure for pigs.",
+      "example": "The farmer cleaned the sty every morning."
+    },
+    {
+      "id": "ah-008",
+      "word": "Pigpen",
+      "pos": "noun",
+      "definition": "An enclosure for pigs; a pigsty.",
+      "example": "The piglets were moved to a larger pigpen."
+    },
+    {
+      "id": "ah-009",
+      "word": "Coop",
+      "pos": "noun",
+      "definition": "A cage or pen for confining poultry, especially chickens.",
+      "example": "She collected fresh eggs from the coop."
+    },
+    {
+      "id": "ah-010",
+      "word": "Hutch",
+      "pos": "noun",
+      "definition": "A box or cage, typically with a wire mesh front, for keeping rabbits or other small animals.",
+      "example": "The rabbits nibbled greens inside their hutch."
+    },
+    {
+      "id": "ah-011",
+      "word": "Warren",
+      "pos": "noun",
+      "definition": "A network of interconnecting rabbit burrows.",
+      "example": "Rabbits darted in and out of the warren."
+    },
+    {
+      "id": "ah-012",
+      "word": "Byre",
+      "pos": "noun",
+      "definition": "A cowshed.",
+      "example": "The cows were driven into the byre for milking."
+    },
+    {
+      "id": "ah-013",
+      "word": "Cowshed",
+      "pos": "noun",
+      "definition": "A building in which cattle are kept and milked.",
+      "example": "Milking took place at first light in the cowshed."
+    },
+    {
+      "id": "ah-014",
+      "word": "Barn",
+      "pos": "noun",
+      "definition": "A large farm building used for storage or for housing livestock.",
+      "example": "The horses sheltered in the old red barn."
+    },
+    {
+      "id": "ah-015",
+      "word": "Corral",
+      "pos": "noun",
+      "definition": "A pen or enclosure for cattle, horses, or other livestock.",
+      "example": "The cowboys drove the herd into the corral."
+    },
+    {
+      "id": "ah-016",
+      "word": "Paddock",
+      "pos": "noun",
+      "definition": "A small field or enclosure where horses are kept or exercised.",
+      "example": "The mare grazed quietly in the paddock."
+    },
+    {
+      "id": "ah-017",
+      "word": "Pasture",
+      "pos": "noun",
+      "definition": "Land covered with grass suitable for the grazing of livestock.",
+      "example": "Sheep dotted the hillside pasture."
+    },
+    {
+      "id": "ah-018",
+      "word": "Meadow",
+      "pos": "noun",
+      "definition": "A piece of grassland, especially one used for hay.",
+      "example": "Cows wandered through the summer meadow."
+    },
+    {
+      "id": "ah-019",
+      "word": "Fold",
+      "pos": "noun",
+      "definition": "A pen or enclosure for sheep.",
+      "example": "At dusk the shepherd drove the flock into the fold."
+    },
+    {
+      "id": "ah-020",
+      "word": "Sheepfold",
+      "pos": "noun",
+      "definition": "A pen or enclosure in which sheep are kept.",
+      "example": "The lambs bleated inside the sheepfold."
+    },
+    {
+      "id": "ah-021",
+      "word": "Pen",
+      "pos": "noun",
+      "definition": "A small enclosure for farm animals.",
+      "example": "The goats were kept in a wooden pen."
+    },
+    {
+      "id": "ah-022",
+      "word": "Roost",
+      "pos": "noun",
+      "definition": "A place where birds regularly settle or congregate to rest at night.",
+      "example": "At sunset the chickens returned to their roost."
+    },
+    {
+      "id": "ah-023",
+      "word": "Perch",
+      "pos": "noun",
+      "definition": "A bar or branch on which a bird rests.",
+      "example": "The parrot swung on its wooden perch."
+    },
+    {
+      "id": "ah-024",
+      "word": "Nest",
+      "pos": "noun",
+      "definition": "A structure or place made or chosen by a bird for laying eggs.",
+      "example": "Swallows built a nest under the eaves."
+    },
+    {
+      "id": "ah-025",
+      "word": "Rookery",
+      "pos": "noun",
+      "definition": "A colony of breeding rooks or, more broadly, seals, penguins, or seabirds.",
+      "example": "The clifftop rookery was noisy with nesting seabirds."
+    },
+    {
+      "id": "ah-026",
+      "word": "Heronry",
+      "pos": "noun",
+      "definition": "A breeding colony of herons.",
+      "example": "A heronry occupied the tall pines by the lake."
+    },
+    {
+      "id": "ah-027",
+      "word": "Eyrie",
+      "pos": "noun",
+      "definition": "A large nest of a bird of prey, especially an eagle, built high in a tree or cliff.",
+      "example": "The eagles returned each spring to the same eyrie."
+    },
+    {
+      "id": "ah-028",
+      "word": "Dovecote",
+      "pos": "noun",
+      "definition": "A shelter with nest holes for domesticated pigeons.",
+      "example": "White doves circled above the dovecote."
+    },
+    {
+      "id": "ah-029",
+      "word": "Pigeonry",
+      "pos": "noun",
+      "definition": "A place where pigeons are kept.",
+      "example": "He tended his pigeonry every evening."
+    },
+    {
+      "id": "ah-030",
+      "word": "Aquarium",
+      "pos": "noun",
+      "definition": "A tank of water in which live fish and other aquatic animals are kept.",
+      "example": "The children pressed their noses to the aquarium glass."
+    },
+    {
+      "id": "ah-031",
+      "word": "Vivarium",
+      "pos": "noun",
+      "definition": "An enclosure for keeping animals under semi-natural conditions for observation or study.",
+      "example": "The lizards basked under a lamp in the vivarium."
+    },
+    {
+      "id": "ah-032",
+      "word": "Terrarium",
+      "pos": "noun",
+      "definition": "A sealed transparent container in which plants or small land animals are kept.",
+      "example": "She kept tree frogs in a leafy terrarium."
+    },
+    {
+      "id": "ah-033",
+      "word": "Insectarium",
+      "pos": "noun",
+      "definition": "A place where insects are kept and exhibited.",
+      "example": "The insectarium featured beetles from every continent."
+    },
+    {
+      "id": "ah-034",
+      "word": "Formicarium",
+      "pos": "noun",
+      "definition": "An enclosure for keeping ants under observation.",
+      "example": "Tunnels wound through the glass formicarium."
+    },
+    {
+      "id": "ah-035",
+      "word": "Menagerie",
+      "pos": "noun",
+      "definition": "A collection of wild animals kept in captivity for exhibition.",
+      "example": "The travelling menagerie drew crowds in every town."
+    },
+    {
+      "id": "ah-036",
+      "word": "Zoo",
+      "pos": "noun",
+      "definition": "An establishment that maintains a collection of wild animals for study, conservation, or display.",
+      "example": "The city zoo opened a new elephant enclosure."
+    },
+    {
+      "id": "ah-037",
+      "word": "Safari park",
+      "pos": "noun",
+      "definition": "A large enclosed area where wild animals roam freely and are viewed by visitors from vehicles.",
+      "example": "We drove slowly through the safari park."
+    },
+    {
+      "id": "ah-038",
+      "word": "Wildlife reserve",
+      "pos": "noun",
+      "definition": "An area of land set aside for the protection of wild animals.",
+      "example": "Rhinos are protected on the wildlife reserve."
+    },
+    {
+      "id": "ah-039",
+      "word": "Sanctuary",
+      "pos": "noun",
+      "definition": "A place of refuge for wildlife where hunting is prohibited.",
+      "example": "The bird sanctuary attracted rare migrants."
+    },
+    {
+      "id": "ah-040",
+      "word": "Enclosure",
+      "pos": "noun",
+      "definition": "An area sealed off with a barrier to confine animals.",
+      "example": "The tigers paced their enclosure."
+    },
+    {
+      "id": "ah-041",
+      "word": "Cage",
+      "pos": "noun",
+      "definition": "A structure of bars or wires in which birds or other animals are confined.",
+      "example": "The canary sang in its brass cage."
+    },
+    {
+      "id": "ah-042",
+      "word": "Birdcage",
+      "pos": "noun",
+      "definition": "A cage for keeping pet birds.",
+      "example": "A finch fluttered inside the birdcage."
+    },
+    {
+      "id": "ah-043",
+      "word": "Chicken run",
+      "pos": "noun",
+      "definition": "A fenced outdoor area in which chickens are allowed to range.",
+      "example": "The hens scratched happily in the chicken run."
+    },
+    {
+      "id": "ah-044",
+      "word": "Fowl house",
+      "pos": "noun",
+      "definition": "A building for housing poultry.",
+      "example": "At dusk the ducks waddled into the fowl house."
+    },
+    {
+      "id": "ah-045",
+      "word": "Duck pond",
+      "pos": "noun",
+      "definition": "A small body of water kept for ducks.",
+      "example": "Ducklings paddled across the duck pond."
+    },
+    {
+      "id": "ah-046",
+      "word": "Fishpond",
+      "pos": "noun",
+      "definition": "An artificial pond stocked with fish.",
+      "example": "Koi glided through the garden fishpond."
+    },
+    {
+      "id": "ah-047",
+      "word": "Fish farm",
+      "pos": "noun",
+      "definition": "A place where fish are bred commercially.",
+      "example": "The salmon were raised on a coastal fish farm."
+    },
+    {
+      "id": "ah-048",
+      "word": "Hatchery",
+      "pos": "noun",
+      "definition": "A place where eggs, especially those of fish or poultry, are hatched under artificial conditions.",
+      "example": "The trout hatchery released young fish into the river."
+    },
+    {
+      "id": "ah-049",
+      "word": "Fishery",
+      "pos": "noun",
+      "definition": "A place where fish are reared for commercial purposes.",
+      "example": "The lake was leased as a private fishery."
+    },
+    {
+      "id": "ah-050",
+      "word": "Piggery",
+      "pos": "noun",
+      "definition": "A farm or enclosure where pigs are kept or bred.",
+      "example": "The piggery supplied pork to the whole district."
+    },
+    {
+      "id": "ah-051",
+      "word": "Rabbitry",
+      "pos": "noun",
+      "definition": "A place where domestic rabbits are kept or bred.",
+      "example": "She showed prize breeds from her rabbitry."
+    },
+    {
+      "id": "ah-052",
+      "word": "Poultry yard",
+      "pos": "noun",
+      "definition": "A yard where domestic fowl are kept.",
+      "example": "Feathers scattered across the poultry yard."
+    },
+    {
+      "id": "ah-053",
+      "word": "Beehive",
+      "pos": "noun",
+      "definition": "A structure in which bees are kept.",
+      "example": "Bees streamed in and out of the beehive."
+    },
+    {
+      "id": "ah-054",
+      "word": "Honeycomb",
+      "pos": "noun",
+      "definition": "A structure of hexagonal wax cells built by bees to store honey and eggs.",
+      "example": "Golden honey dripped from the honeycomb."
+    },
+    {
+      "id": "ah-055",
+      "word": "Hive",
+      "pos": "noun",
+      "definition": "A beehive; a colony of bees living together.",
+      "example": "The hive hummed with activity on the warm afternoon."
+    },
+    {
+      "id": "ah-056",
+      "word": "Anthill",
+      "pos": "noun",
+      "definition": "A mound of earth built by ants over their nest.",
+      "example": "Insects streamed from the anthill at dawn."
+    },
+    {
+      "id": "ah-057",
+      "word": "Termitary",
+      "pos": "noun",
+      "definition": "A termite mound or nest.",
+      "example": "A towering termitary stood on the savannah."
+    },
+    {
+      "id": "ah-058",
+      "word": "Termite mound",
+      "pos": "noun",
+      "definition": "A tall structure of earth built by termites as a nest.",
+      "example": "The termite mound was as tall as a person."
+    },
+    {
+      "id": "ah-059",
+      "word": "Wasp nest",
+      "pos": "noun",
+      "definition": "A papery structure built by wasps to house their colony.",
+      "example": "A wasp nest hung under the roof beam."
+    },
+    {
+      "id": "ah-060",
+      "word": "Cocoon",
+      "pos": "noun",
+      "definition": "A silky case spun by the larvae of many insects for protection as pupae.",
+      "example": "The caterpillar spun a tight cocoon."
+    },
+    {
+      "id": "ah-061",
+      "word": "Chrysalis",
+      "pos": "noun",
+      "definition": "The hard outer case of a butterfly or moth pupa.",
+      "example": "The chrysalis hung from the underside of a leaf."
+    },
+    {
+      "id": "ah-062",
+      "word": "Burrow",
+      "pos": "noun",
+      "definition": "A hole or tunnel dug by a small animal as a dwelling.",
+      "example": "The badger disappeared into its burrow."
+    },
+    {
+      "id": "ah-063",
+      "word": "Sett",
+      "pos": "noun",
+      "definition": "A badger's burrow.",
+      "example": "Generations of badgers had used the same sett."
+    },
+    {
+      "id": "ah-064",
+      "word": "Den",
+      "pos": "noun",
+      "definition": "The lair of a wild animal.",
+      "example": "The wolf cubs stayed close to the den."
+    },
+    {
+      "id": "ah-065",
+      "word": "Lair",
+      "pos": "noun",
+      "definition": "A place where a wild animal lives or hides.",
+      "example": "The lion returned to its lair at dawn."
+    },
+    {
+      "id": "ah-066",
+      "word": "Cave",
+      "pos": "noun",
+      "definition": "A large natural underground chamber, sometimes used as an animal shelter.",
+      "example": "Bears hibernated deep in the mountain cave."
+    },
+    {
+      "id": "ah-067",
+      "word": "Cavern",
+      "pos": "noun",
+      "definition": "A large cave that may shelter wildlife.",
+      "example": "Bats hung from the cavern's ceiling."
+    },
+    {
+      "id": "ah-068",
+      "word": "Roost box",
+      "pos": "noun",
+      "definition": "A box mounted for bats or birds to roost in.",
+      "example": "We nailed a roost box to the garden shed."
+    },
+    {
+      "id": "ah-069",
+      "word": "Bird box",
+      "pos": "noun",
+      "definition": "A small wooden box provided as a nesting site for wild birds.",
+      "example": "Blue tits nested in the garden bird box."
+    },
+    {
+      "id": "ah-070",
+      "word": "Nesting box",
+      "pos": "noun",
+      "definition": "An artificial box provided for birds to nest in.",
+      "example": "She cleaned the nesting boxes each autumn."
+    },
+    {
+      "id": "ah-071",
+      "word": "Squirrel drey",
+      "pos": "noun",
+      "definition": "A squirrel's nest of twigs and leaves built in a tree.",
+      "example": "A drey sat high in the oak's crown."
+    },
+    {
+      "id": "ah-072",
+      "word": "Drey",
+      "pos": "noun",
+      "definition": "A squirrel's tree nest.",
+      "example": "Two dreys were visible from the window."
+    },
+    {
+      "id": "ah-073",
+      "word": "Beaver lodge",
+      "pos": "noun",
+      "definition": "A dome-shaped home built of sticks and mud by beavers.",
+      "example": "The beaver lodge rose from the middle of the pond."
+    },
+    {
+      "id": "ah-074",
+      "word": "Molehill",
+      "pos": "noun",
+      "definition": "A small mound of earth thrown up by a mole burrowing underground.",
+      "example": "Molehills dotted the lawn overnight."
+    },
+    {
+      "id": "ah-075",
+      "word": "Mole tunnel",
+      "pos": "noun",
+      "definition": "A subterranean passage dug by a mole.",
+      "example": "Roots hung down into the mole tunnel."
+    },
+    {
+      "id": "ah-076",
+      "word": "Wallow",
+      "pos": "noun",
+      "definition": "An area of mud or shallow water where animals such as pigs or buffalo roll.",
+      "example": "The buffalo cooled themselves in the wallow."
+    },
+    {
+      "id": "ah-077",
+      "word": "Stockyard",
+      "pos": "noun",
+      "definition": "An enclosure with pens for the temporary keeping of cattle, sheep, pigs, or horses.",
+      "example": "The cattle were unloaded into the stockyard."
+    },
+    {
+      "id": "ah-078",
+      "word": "Feedlot",
+      "pos": "noun",
+      "definition": "A plot of land on which livestock are fattened for market.",
+      "example": "The steers were finished at a large feedlot."
+    },
+    {
+      "id": "ah-079",
+      "word": "Ranch",
+      "pos": "noun",
+      "definition": "A large farm, especially in North America, where cattle or other animals are bred and raised.",
+      "example": "Cowhands rode out from the ranch at sunrise."
+    },
+    {
+      "id": "ah-080",
+      "word": "Homestead",
+      "pos": "noun",
+      "definition": "A house and adjoining land occupied by a family, often with livestock.",
+      "example": "Chickens roamed the fields of the homestead."
+    },
+    {
+      "id": "ah-081",
+      "word": "Loose box",
+      "pos": "noun",
+      "definition": "A stable or stall in which a horse is kept untied.",
+      "example": "Each racehorse had its own loose box."
+    },
+    {
+      "id": "ah-082",
+      "word": "Stud farm",
+      "pos": "noun",
+      "definition": "An establishment where horses are kept for breeding.",
+      "example": "The colt was raised on a famous stud farm."
+    },
+    {
+      "id": "ah-083",
+      "word": "Riding school",
+      "pos": "noun",
+      "definition": "A place where people are taught to ride horses and where horses are stabled.",
+      "example": "She had her first lesson at the local riding school."
+    },
+    {
+      "id": "ah-084",
+      "word": "Equestrian centre",
+      "pos": "noun",
+      "definition": "A facility for the keeping, training, and riding of horses.",
+      "example": "The equestrian centre hosted regional show jumping."
+    },
+    {
+      "id": "ah-085",
+      "word": "Livery yard",
+      "pos": "noun",
+      "definition": "A stable where horses are kept and cared for at their owners' expense.",
+      "example": "Her pony was boarded at a livery yard nearby."
+    },
+    {
+      "id": "ah-086",
+      "word": "Milking parlour",
+      "pos": "noun",
+      "definition": "A room or building in which cows are milked, often by machine.",
+      "example": "The herd filed into the milking parlour twice daily."
+    },
+    {
+      "id": "ah-087",
+      "word": "Dairy",
+      "pos": "noun",
+      "definition": "A building or room where milk and milk products are produced or stored.",
+      "example": "Fresh butter was churned in the farm dairy."
+    },
+    {
+      "id": "ah-088",
+      "word": "Loft",
+      "pos": "noun",
+      "definition": "A room or space directly under the roof of a building, sometimes used to house pigeons.",
+      "example": "He kept racing pigeons in a rooftop loft."
+    },
+    {
+      "id": "ah-089",
+      "word": "Pigeon loft",
+      "pos": "noun",
+      "definition": "A shelter, often on a roof, in which domestic pigeons are kept.",
+      "example": "The birds circled home to the pigeon loft."
+    },
+    {
+      "id": "ah-090",
+      "word": "Falconry mews",
+      "pos": "noun",
+      "definition": "A building where trained hawks or falcons are kept.",
+      "example": "The falcons were housed in a shaded mews."
+    },
+    {
+      "id": "ah-091",
+      "word": "Mews",
+      "pos": "noun",
+      "definition": "A range of stables or buildings where birds of prey were formerly kept.",
+      "example": "The old mews had been converted into cottages."
+    },
+    {
+      "id": "ah-092",
+      "word": "Vole hole",
+      "pos": "noun",
+      "definition": "The small burrow entrance made by a vole.",
+      "example": "A tiny vole hole opened at the base of the hedge."
+    },
+    {
+      "id": "ah-093",
+      "word": "Fox earth",
+      "pos": "noun",
+      "definition": "The den or burrow of a fox.",
+      "example": "The cubs peered from the mouth of the fox earth."
+    },
+    {
+      "id": "ah-094",
+      "word": "Earth",
+      "pos": "noun",
+      "definition": "The underground lair of a fox or badger.",
+      "example": "The hounds marked the earth at the wood's edge."
+    },
+    {
+      "id": "ah-095",
+      "word": "Holt",
+      "pos": "noun",
+      "definition": "The den of an otter.",
+      "example": "Otters slept together in the riverside holt."
+    },
+    {
+      "id": "ah-096",
+      "word": "Hibernaculum",
+      "pos": "noun",
+      "definition": "A shelter in which an animal hibernates.",
+      "example": "Frogs gathered in a damp hibernaculum for winter."
+    },
+    {
+      "id": "ah-097",
+      "word": "Reserve",
+      "pos": "noun",
+      "definition": "An area of land set aside for wildlife protection.",
+      "example": "Elephants roamed freely across the reserve."
+    },
+    {
+      "id": "ah-098",
+      "word": "Zoological garden",
+      "pos": "noun",
+      "definition": "A public park where living animals are kept and exhibited.",
+      "example": "The zoological garden dated from the last century."
+    },
+    {
+      "id": "ah-099",
+      "word": "Petting zoo",
+      "pos": "noun",
+      "definition": "A small zoo where children can safely stroke and feed the animals.",
+      "example": "Toddlers giggled at the goats in the petting zoo."
+    },
+    {
+      "id": "ah-100",
+      "word": "Aquaculture farm",
+      "pos": "noun",
+      "definition": "A facility for cultivating aquatic animals or plants for food.",
+      "example": "Oysters were harvested at the coastal aquaculture farm."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ah-q1",
+      "question": "Which word means: \"A large cage, building, or enclosure for keeping birds.\"?",
+      "options": [
+        "Aviary",
+        "Vivarium",
+        "Falconry mews",
+        "Rabbitry"
+      ],
+      "answer": 0,
+      "explanation": "Aviary (noun) — A large cage, building, or enclosure for keeping birds."
+    },
+    {
+      "id": "ah-q2",
+      "question": "Which word means: \"A place where bees are kept; a collection of beehives.\"?",
+      "options": [
+        "Hutch",
+        "Hive",
+        "Apiary",
+        "Honeycomb"
+      ],
+      "answer": 2,
+      "explanation": "Apiary (noun) — A place where bees are kept; a collection of beehives."
+    },
+    {
+      "id": "ah-q3",
+      "question": "Which word means: \"A building in which horses are kept.\"?",
+      "options": [
+        "Dovecote",
+        "Hive",
+        "Coop",
+        "Stable"
+      ],
+      "answer": 3,
+      "explanation": "Stable (noun) — A building in which horses are kept."
+    },
+    {
+      "id": "ah-q4",
+      "question": "Which word means: \"An individual compartment for one animal in a stable or shed.\"?",
+      "options": [
+        "Piggery",
+        "Mole tunnel",
+        "Petting zoo",
+        "Stall"
+      ],
+      "answer": 3,
+      "explanation": "Stall (noun) — An individual compartment for one animal in a stable or shed."
+    },
+    {
+      "id": "ah-q5",
+      "question": "Which word means: \"A shelter for a dog, or a boarding establishment for dogs.\"?",
+      "options": [
+        "Zoological garden",
+        "Enclosure",
+        "Rabbitry",
+        "Kennel"
+      ],
+      "answer": 3,
+      "explanation": "Kennel (noun) — A shelter for a dog, or a boarding establishment for dogs."
+    },
+    {
+      "id": "ah-q6",
+      "question": "Which word means: \"A boarding place or breeding establishment for cats.\"?",
+      "options": [
+        "Zoo",
+        "Den",
+        "Aquarium",
+        "Cattery"
+      ],
+      "answer": 3,
+      "explanation": "Cattery (noun) — A boarding place or breeding establishment for cats."
+    },
+    {
+      "id": "ah-q7",
+      "question": "Which word means: \"A pen or enclosure for pigs.\"?",
+      "options": [
+        "Duck pond",
+        "Rabbitry",
+        "Dairy",
+        "Sty"
+      ],
+      "answer": 3,
+      "explanation": "Sty (noun) — A pen or enclosure for pigs."
+    },
+    {
+      "id": "ah-q8",
+      "question": "Which word means: \"An enclosure for pigs; a pigsty.\"?",
+      "options": [
+        "Loose box",
+        "Pigpen",
+        "Meadow",
+        "Chrysalis"
+      ],
+      "answer": 1,
+      "explanation": "Pigpen (noun) — An enclosure for pigs; a pigsty."
+    },
+    {
+      "id": "ah-q9",
+      "question": "Which word means: \"A cage or pen for confining poultry, especially chickens.\"?",
+      "options": [
+        "Anthill",
+        "Byre",
+        "Coop",
+        "Equestrian centre"
+      ],
+      "answer": 2,
+      "explanation": "Coop (noun) — A cage or pen for confining poultry, especially chickens."
+    },
+    {
+      "id": "ah-q10",
+      "question": "Which word means: \"A box or cage, typically with a wire mesh front, for keeping rabbits or other small animals.\"?",
+      "options": [
+        "Hutch",
+        "Menagerie",
+        "Sty",
+        "Piggery"
+      ],
+      "answer": 0,
+      "explanation": "Hutch (noun) — A box or cage, typically with a wire mesh front, for keeping rabbits or other small animals."
+    },
+    {
+      "id": "ah-q11",
+      "question": "Which word means: \"A network of interconnecting rabbit burrows.\"?",
+      "options": [
+        "Chicken run",
+        "Petting zoo",
+        "Duck pond",
+        "Warren"
+      ],
+      "answer": 3,
+      "explanation": "Warren (noun) — A network of interconnecting rabbit burrows."
+    },
+    {
+      "id": "ah-q12",
+      "question": "Which word means: \"A cowshed.\"?",
+      "options": [
+        "Warren",
+        "Byre",
+        "Burrow",
+        "Formicarium"
+      ],
+      "answer": 1,
+      "explanation": "Byre (noun) — A cowshed."
+    },
+    {
+      "id": "ah-q13",
+      "question": "Which word means: \"A building in which cattle are kept and milked.\"?",
+      "options": [
+        "Aquarium",
+        "Cowshed",
+        "Livery yard",
+        "Fishpond"
+      ],
+      "answer": 1,
+      "explanation": "Cowshed (noun) — A building in which cattle are kept and milked."
+    },
+    {
+      "id": "ah-q14",
+      "question": "Which word means: \"A large farm building used for storage or for housing livestock.\"?",
+      "options": [
+        "Barn",
+        "Insectarium",
+        "Zoological garden",
+        "Stall"
+      ],
+      "answer": 0,
+      "explanation": "Barn (noun) — A large farm building used for storage or for housing livestock."
+    },
+    {
+      "id": "ah-q15",
+      "question": "Which word means: \"A pen or enclosure for cattle, horses, or other livestock.\"?",
+      "options": [
+        "Meadow",
+        "Corral",
+        "Burrow",
+        "Terrarium"
+      ],
+      "answer": 1,
+      "explanation": "Corral (noun) — A pen or enclosure for cattle, horses, or other livestock."
+    },
+    {
+      "id": "ah-q16",
+      "question": "Which word means: \"A small field or enclosure where horses are kept or exercised.\"?",
+      "options": [
+        "Mews",
+        "Paddock",
+        "Chrysalis",
+        "Formicarium"
+      ],
+      "answer": 1,
+      "explanation": "Paddock (noun) — A small field or enclosure where horses are kept or exercised."
+    },
+    {
+      "id": "ah-q17",
+      "question": "Which word means: \"Land covered with grass suitable for the grazing of livestock.\"?",
+      "options": [
+        "Pasture",
+        "Barn",
+        "Cage",
+        "Roost"
+      ],
+      "answer": 0,
+      "explanation": "Pasture (noun) — Land covered with grass suitable for the grazing of livestock."
+    },
+    {
+      "id": "ah-q18",
+      "question": "Which word means: \"A piece of grassland, especially one used for hay.\"?",
+      "options": [
+        "Fox earth",
+        "Meadow",
+        "Eyrie",
+        "Poultry yard"
+      ],
+      "answer": 1,
+      "explanation": "Meadow (noun) — A piece of grassland, especially one used for hay."
+    },
+    {
+      "id": "ah-q19",
+      "question": "Which word means: \"A pen or enclosure for sheep.\"?",
+      "options": [
+        "Mews",
+        "Barn",
+        "Fold",
+        "Aquaculture farm"
+      ],
+      "answer": 2,
+      "explanation": "Fold (noun) — A pen or enclosure for sheep."
+    },
+    {
+      "id": "ah-q20",
+      "question": "Which word means: \"A pen or enclosure in which sheep are kept.\"?",
+      "options": [
+        "Molehill",
+        "Cattery",
+        "Fishpond",
+        "Sheepfold"
+      ],
+      "answer": 3,
+      "explanation": "Sheepfold (noun) — A pen or enclosure in which sheep are kept."
+    },
+    {
+      "id": "ah-q21",
+      "question": "Which word means: \"A small enclosure for farm animals.\"?",
+      "options": [
+        "Pen",
+        "Cave",
+        "Coop",
+        "Equestrian centre"
+      ],
+      "answer": 0,
+      "explanation": "Pen (noun) — A small enclosure for farm animals."
+    },
+    {
+      "id": "ah-q22",
+      "question": "Which word means: \"A place where birds regularly settle or congregate to rest at night.\"?",
+      "options": [
+        "Den",
+        "Barn",
+        "Roost",
+        "Termitary"
+      ],
+      "answer": 2,
+      "explanation": "Roost (noun) — A place where birds regularly settle or congregate to rest at night."
+    },
+    {
+      "id": "ah-q23",
+      "question": "Which word means: \"A bar or branch on which a bird rests.\"?",
+      "options": [
+        "Vole hole",
+        "Perch",
+        "Termitary",
+        "Sheepfold"
+      ],
+      "answer": 1,
+      "explanation": "Perch (noun) — A bar or branch on which a bird rests."
+    },
+    {
+      "id": "ah-q24",
+      "question": "Which word means: \"A structure or place made or chosen by a bird for laying eggs.\"?",
+      "options": [
+        "Homestead",
+        "Sett",
+        "Nesting box",
+        "Nest"
+      ],
+      "answer": 3,
+      "explanation": "Nest (noun) — A structure or place made or chosen by a bird for laying eggs."
+    },
+    {
+      "id": "ah-q25",
+      "question": "Which word means: \"A colony of breeding rooks or, more broadly, seals, penguins, or seabirds.\"?",
+      "options": [
+        "Rookery",
+        "Chicken run",
+        "Insectarium",
+        "Byre"
+      ],
+      "answer": 0,
+      "explanation": "Rookery (noun) — A colony of breeding rooks or, more broadly, seals, penguins, or seabirds."
+    },
+    {
+      "id": "ah-q26",
+      "question": "Which word means: \"A breeding colony of herons.\"?",
+      "options": [
+        "Molehill",
+        "Zoological garden",
+        "Chrysalis",
+        "Heronry"
+      ],
+      "answer": 3,
+      "explanation": "Heronry (noun) — A breeding colony of herons."
+    },
+    {
+      "id": "ah-q27",
+      "question": "Which word means: \"A large nest of a bird of prey, especially an eagle, built high in a tree or cliff.\"?",
+      "options": [
+        "Nest",
+        "Chicken run",
+        "Lair",
+        "Eyrie"
+      ],
+      "answer": 3,
+      "explanation": "Eyrie (noun) — A large nest of a bird of prey, especially an eagle, built high in a tree or cliff."
+    },
+    {
+      "id": "ah-q28",
+      "question": "Which word means: \"A shelter with nest holes for domesticated pigeons.\"?",
+      "options": [
+        "Duck pond",
+        "Menagerie",
+        "Dovecote",
+        "Safari park"
+      ],
+      "answer": 2,
+      "explanation": "Dovecote (noun) — A shelter with nest holes for domesticated pigeons."
+    },
+    {
+      "id": "ah-q29",
+      "question": "Which word means: \"A place where pigeons are kept.\"?",
+      "options": [
+        "Roost box",
+        "Pigeonry",
+        "Warren",
+        "Rookery"
+      ],
+      "answer": 1,
+      "explanation": "Pigeonry (noun) — A place where pigeons are kept."
+    },
+    {
+      "id": "ah-q30",
+      "question": "Which word means: \"A tank of water in which live fish and other aquatic animals are kept.\"?",
+      "options": [
+        "Den",
+        "Aquarium",
+        "Petting zoo",
+        "Beaver lodge"
+      ],
+      "answer": 1,
+      "explanation": "Aquarium (noun) — A tank of water in which live fish and other aquatic animals are kept."
+    },
+    {
+      "id": "ah-q31",
+      "question": "Which word means: \"An enclosure for keeping animals under semi-natural conditions for observation or study.\"?",
+      "options": [
+        "Fox earth",
+        "Den",
+        "Equestrian centre",
+        "Vivarium"
+      ],
+      "answer": 3,
+      "explanation": "Vivarium (noun) — An enclosure for keeping animals under semi-natural conditions for observation or study."
+    },
+    {
+      "id": "ah-q32",
+      "question": "Which word means: \"A sealed transparent container in which plants or small land animals are kept.\"?",
+      "options": [
+        "Sanctuary",
+        "Beehive",
+        "Terrarium",
+        "Pigeonry"
+      ],
+      "answer": 2,
+      "explanation": "Terrarium (noun) — A sealed transparent container in which plants or small land animals are kept."
+    },
+    {
+      "id": "ah-q33",
+      "question": "Which word means: \"A place where insects are kept and exhibited.\"?",
+      "options": [
+        "Burrow",
+        "Insectarium",
+        "Drey",
+        "Bird box"
+      ],
+      "answer": 1,
+      "explanation": "Insectarium (noun) — A place where insects are kept and exhibited."
+    },
+    {
+      "id": "ah-q34",
+      "question": "Which word means: \"An enclosure for keeping ants under observation.\"?",
+      "options": [
+        "Fish farm",
+        "Formicarium",
+        "Mews",
+        "Cocoon"
+      ],
+      "answer": 1,
+      "explanation": "Formicarium (noun) — An enclosure for keeping ants under observation."
+    },
+    {
+      "id": "ah-q35",
+      "question": "Which word means: \"A collection of wild animals kept in captivity for exhibition.\"?",
+      "options": [
+        "Earth",
+        "Aquarium",
+        "Menagerie",
+        "Paddock"
+      ],
+      "answer": 2,
+      "explanation": "Menagerie (noun) — A collection of wild animals kept in captivity for exhibition."
+    },
+    {
+      "id": "ah-q36",
+      "question": "Which word means: \"An establishment that maintains a collection of wild animals for study, conservation, or display.\"?",
+      "options": [
+        "Zoo",
+        "Petting zoo",
+        "Reserve",
+        "Nesting box"
+      ],
+      "answer": 0,
+      "explanation": "Zoo (noun) — An establishment that maintains a collection of wild animals for study, conservation, or display."
+    },
+    {
+      "id": "ah-q37",
+      "question": "Which word means: \"A large enclosed area where wild animals roam freely and are viewed by visitors from vehicles.\"?",
+      "options": [
+        "Sett",
+        "Safari park",
+        "Hibernaculum",
+        "Zoo"
+      ],
+      "answer": 1,
+      "explanation": "Safari park (noun) — A large enclosed area where wild animals roam freely and are viewed by visitors from vehicles."
+    },
+    {
+      "id": "ah-q38",
+      "question": "Which word means: \"An area of land set aside for the protection of wild animals.\"?",
+      "options": [
+        "Hatchery",
+        "Sanctuary",
+        "Wildlife reserve",
+        "Aquarium"
+      ],
+      "answer": 2,
+      "explanation": "Wildlife reserve (noun) — An area of land set aside for the protection of wild animals."
+    },
+    {
+      "id": "ah-q39",
+      "question": "Which word means: \"A place of refuge for wildlife where hunting is prohibited.\"?",
+      "options": [
+        "Nesting box",
+        "Sanctuary",
+        "Vole hole",
+        "Pasture"
+      ],
+      "answer": 1,
+      "explanation": "Sanctuary (noun) — A place of refuge for wildlife where hunting is prohibited."
+    },
+    {
+      "id": "ah-q40",
+      "question": "Which word means: \"An area sealed off with a barrier to confine animals.\"?",
+      "options": [
+        "Drey",
+        "Enclosure",
+        "Mews",
+        "Wildlife reserve"
+      ],
+      "answer": 1,
+      "explanation": "Enclosure (noun) — An area sealed off with a barrier to confine animals."
+    },
+    {
+      "id": "ah-q41",
+      "question": "Which word means: \"A structure of bars or wires in which birds or other animals are confined.\"?",
+      "options": [
+        "Barn",
+        "Cage",
+        "Apiary",
+        "Mole tunnel"
+      ],
+      "answer": 1,
+      "explanation": "Cage (noun) — A structure of bars or wires in which birds or other animals are confined."
+    },
+    {
+      "id": "ah-q42",
+      "question": "Which word means: \"A cage for keeping pet birds.\"?",
+      "options": [
+        "Birdcage",
+        "Nest",
+        "Duck pond",
+        "Termite mound"
+      ],
+      "answer": 0,
+      "explanation": "Birdcage (noun) — A cage for keeping pet birds."
+    },
+    {
+      "id": "ah-q43",
+      "question": "Which word means: \"A fenced outdoor area in which chickens are allowed to range.\"?",
+      "options": [
+        "Coop",
+        "Beehive",
+        "Corral",
+        "Chicken run"
+      ],
+      "answer": 3,
+      "explanation": "Chicken run (noun) — A fenced outdoor area in which chickens are allowed to range."
+    },
+    {
+      "id": "ah-q44",
+      "question": "Which word means: \"A building for housing poultry.\"?",
+      "options": [
+        "Molehill",
+        "Sanctuary",
+        "Fowl house",
+        "Sheepfold"
+      ],
+      "answer": 2,
+      "explanation": "Fowl house (noun) — A building for housing poultry."
+    },
+    {
+      "id": "ah-q45",
+      "question": "Which word means: \"A small body of water kept for ducks.\"?",
+      "options": [
+        "Beaver lodge",
+        "Duck pond",
+        "Hive",
+        "Petting zoo"
+      ],
+      "answer": 1,
+      "explanation": "Duck pond (noun) — A small body of water kept for ducks."
+    },
+    {
+      "id": "ah-q46",
+      "question": "Which word means: \"An artificial pond stocked with fish.\"?",
+      "options": [
+        "Sanctuary",
+        "Wasp nest",
+        "Termite mound",
+        "Fishpond"
+      ],
+      "answer": 3,
+      "explanation": "Fishpond (noun) — An artificial pond stocked with fish."
+    },
+    {
+      "id": "ah-q47",
+      "question": "Which word means: \"A place where fish are bred commercially.\"?",
+      "options": [
+        "Fish farm",
+        "Homestead",
+        "Cowshed",
+        "Hibernaculum"
+      ],
+      "answer": 0,
+      "explanation": "Fish farm (noun) — A place where fish are bred commercially."
+    },
+    {
+      "id": "ah-q48",
+      "question": "Which word means: \"A place where eggs, especially those of fish or poultry, are hatched under artificial conditions.\"?",
+      "options": [
+        "Hatchery",
+        "Warren",
+        "Formicarium",
+        "Milking parlour"
+      ],
+      "answer": 0,
+      "explanation": "Hatchery (noun) — A place where eggs, especially those of fish or poultry, are hatched under artificial conditions."
+    },
+    {
+      "id": "ah-q49",
+      "question": "Which word means: \"A place where fish are reared for commercial purposes.\"?",
+      "options": [
+        "Fishery",
+        "Pen",
+        "Hutch",
+        "Drey"
+      ],
+      "answer": 0,
+      "explanation": "Fishery (noun) — A place where fish are reared for commercial purposes."
+    },
+    {
+      "id": "ah-q50",
+      "question": "Which word means: \"A farm or enclosure where pigs are kept or bred.\"?",
+      "options": [
+        "Feedlot",
+        "Piggery",
+        "Falconry mews",
+        "Burrow"
+      ],
+      "answer": 1,
+      "explanation": "Piggery (noun) — A farm or enclosure where pigs are kept or bred."
+    },
+    {
+      "id": "ah-q51",
+      "question": "Which word means: \"A place where domestic rabbits are kept or bred.\"?",
+      "options": [
+        "Vole hole",
+        "Mews",
+        "Safari park",
+        "Rabbitry"
+      ],
+      "answer": 3,
+      "explanation": "Rabbitry (noun) — A place where domestic rabbits are kept or bred."
+    },
+    {
+      "id": "ah-q52",
+      "question": "Which word means: \"A yard where domestic fowl are kept.\"?",
+      "options": [
+        "Stockyard",
+        "Formicarium",
+        "Poultry yard",
+        "Stud farm"
+      ],
+      "answer": 2,
+      "explanation": "Poultry yard (noun) — A yard where domestic fowl are kept."
+    },
+    {
+      "id": "ah-q53",
+      "question": "Which word means: \"A structure in which bees are kept.\"?",
+      "options": [
+        "Equestrian centre",
+        "Squirrel drey",
+        "Beehive",
+        "Pigeonry"
+      ],
+      "answer": 2,
+      "explanation": "Beehive (noun) — A structure in which bees are kept."
+    },
+    {
+      "id": "ah-q54",
+      "question": "Which word means: \"A structure of hexagonal wax cells built by bees to store honey and eggs.\"?",
+      "options": [
+        "Hutch",
+        "Pigpen",
+        "Honeycomb",
+        "Roost"
+      ],
+      "answer": 2,
+      "explanation": "Honeycomb (noun) — A structure of hexagonal wax cells built by bees to store honey and eggs."
+    },
+    {
+      "id": "ah-q55",
+      "question": "Which word means: \"A beehive; a colony of bees living together.\"?",
+      "options": [
+        "Termite mound",
+        "Paddock",
+        "Hive",
+        "Chrysalis"
+      ],
+      "answer": 2,
+      "explanation": "Hive (noun) — A beehive; a colony of bees living together."
+    },
+    {
+      "id": "ah-q56",
+      "question": "Which word means: \"A mound of earth built by ants over their nest.\"?",
+      "options": [
+        "Squirrel drey",
+        "Menagerie",
+        "Cave",
+        "Anthill"
+      ],
+      "answer": 3,
+      "explanation": "Anthill (noun) — A mound of earth built by ants over their nest."
+    },
+    {
+      "id": "ah-q57",
+      "question": "Which word means: \"A termite mound or nest.\"?",
+      "options": [
+        "Feedlot",
+        "Cattery",
+        "Termitary",
+        "Anthill"
+      ],
+      "answer": 2,
+      "explanation": "Termitary (noun) — A termite mound or nest."
+    },
+    {
+      "id": "ah-q58",
+      "question": "Which word means: \"A tall structure of earth built by termites as a nest.\"?",
+      "options": [
+        "Termite mound",
+        "Byre",
+        "Aquarium",
+        "Stall"
+      ],
+      "answer": 0,
+      "explanation": "Termite mound (noun) — A tall structure of earth built by termites as a nest."
+    },
+    {
+      "id": "ah-q59",
+      "question": "Which word means: \"A papery structure built by wasps to house their colony.\"?",
+      "options": [
+        "Mole tunnel",
+        "Petting zoo",
+        "Wasp nest",
+        "Cattery"
+      ],
+      "answer": 2,
+      "explanation": "Wasp nest (noun) — A papery structure built by wasps to house their colony."
+    },
+    {
+      "id": "ah-q60",
+      "question": "Which word means: \"A silky case spun by the larvae of many insects for protection as pupae.\"?",
+      "options": [
+        "Zoo",
+        "Nest",
+        "Wallow",
+        "Cocoon"
+      ],
+      "answer": 3,
+      "explanation": "Cocoon (noun) — A silky case spun by the larvae of many insects for protection as pupae."
+    },
+    {
+      "id": "ah-q61",
+      "question": "Which word means: \"The hard outer case of a butterfly or moth pupa.\"?",
+      "options": [
+        "Byre",
+        "Duck pond",
+        "Burrow",
+        "Chrysalis"
+      ],
+      "answer": 3,
+      "explanation": "Chrysalis (noun) — The hard outer case of a butterfly or moth pupa."
+    },
+    {
+      "id": "ah-q62",
+      "question": "Which word means: \"A hole or tunnel dug by a small animal as a dwelling.\"?",
+      "options": [
+        "Dairy",
+        "Burrow",
+        "Barn",
+        "Pen"
+      ],
+      "answer": 1,
+      "explanation": "Burrow (noun) — A hole or tunnel dug by a small animal as a dwelling."
+    },
+    {
+      "id": "ah-q63",
+      "question": "Which word means: \"A badger's burrow.\"?",
+      "options": [
+        "Poultry yard",
+        "Sett",
+        "Milking parlour",
+        "Safari park"
+      ],
+      "answer": 1,
+      "explanation": "Sett (noun) — A badger's burrow."
+    },
+    {
+      "id": "ah-q64",
+      "question": "Which word means: \"The lair of a wild animal.\"?",
+      "options": [
+        "Birdcage",
+        "Den",
+        "Insectarium",
+        "Cage"
+      ],
+      "answer": 1,
+      "explanation": "Den (noun) — The lair of a wild animal."
+    },
+    {
+      "id": "ah-q65",
+      "question": "Which word means: \"A place where a wild animal lives or hides.\"?",
+      "options": [
+        "Squirrel drey",
+        "Cocoon",
+        "Milking parlour",
+        "Lair"
+      ],
+      "answer": 3,
+      "explanation": "Lair (noun) — A place where a wild animal lives or hides."
+    },
+    {
+      "id": "ah-q66",
+      "question": "Which word means: \"A large natural underground chamber, sometimes used as an animal shelter.\"?",
+      "options": [
+        "Roost box",
+        "Fish farm",
+        "Loose box",
+        "Cave"
+      ],
+      "answer": 3,
+      "explanation": "Cave (noun) — A large natural underground chamber, sometimes used as an animal shelter."
+    },
+    {
+      "id": "ah-q67",
+      "question": "Which word means: \"A large cave that may shelter wildlife.\"?",
+      "options": [
+        "Sty",
+        "Petting zoo",
+        "Cavern",
+        "Eyrie"
+      ],
+      "answer": 2,
+      "explanation": "Cavern (noun) — A large cave that may shelter wildlife."
+    },
+    {
+      "id": "ah-q68",
+      "question": "Which word means: \"A box mounted for bats or birds to roost in.\"?",
+      "options": [
+        "Termitary",
+        "Mews",
+        "Safari park",
+        "Roost box"
+      ],
+      "answer": 3,
+      "explanation": "Roost box (noun) — A box mounted for bats or birds to roost in."
+    },
+    {
+      "id": "ah-q69",
+      "question": "Which word means: \"A small wooden box provided as a nesting site for wild birds.\"?",
+      "options": [
+        "Vivarium",
+        "Stud farm",
+        "Bird box",
+        "Ranch"
+      ],
+      "answer": 2,
+      "explanation": "Bird box (noun) — A small wooden box provided as a nesting site for wild birds."
+    },
+    {
+      "id": "ah-q70",
+      "question": "Which word means: \"An artificial box provided for birds to nest in.\"?",
+      "options": [
+        "Byre",
+        "Nesting box",
+        "Drey",
+        "Beehive"
+      ],
+      "answer": 1,
+      "explanation": "Nesting box (noun) — An artificial box provided for birds to nest in."
+    },
+    {
+      "id": "ah-q71",
+      "question": "Which word means: \"A squirrel's nest of twigs and leaves built in a tree.\"?",
+      "options": [
+        "Paddock",
+        "Equestrian centre",
+        "Sheepfold",
+        "Squirrel drey"
+      ],
+      "answer": 3,
+      "explanation": "Squirrel drey (noun) — A squirrel's nest of twigs and leaves built in a tree."
+    },
+    {
+      "id": "ah-q72",
+      "question": "Which word means: \"A squirrel's tree nest.\"?",
+      "options": [
+        "Cave",
+        "Menagerie",
+        "Vole hole",
+        "Drey"
+      ],
+      "answer": 3,
+      "explanation": "Drey (noun) — A squirrel's tree nest."
+    },
+    {
+      "id": "ah-q73",
+      "question": "Which word means: \"A dome-shaped home built of sticks and mud by beavers.\"?",
+      "options": [
+        "Squirrel drey",
+        "Terrarium",
+        "Beaver lodge",
+        "Wasp nest"
+      ],
+      "answer": 2,
+      "explanation": "Beaver lodge (noun) — A dome-shaped home built of sticks and mud by beavers."
+    },
+    {
+      "id": "ah-q74",
+      "question": "Which word means: \"A small mound of earth thrown up by a mole burrowing underground.\"?",
+      "options": [
+        "Reserve",
+        "Molehill",
+        "Feedlot",
+        "Cave"
+      ],
+      "answer": 1,
+      "explanation": "Molehill (noun) — A small mound of earth thrown up by a mole burrowing underground."
+    },
+    {
+      "id": "ah-q75",
+      "question": "Which word means: \"A subterranean passage dug by a mole.\"?",
+      "options": [
+        "Mole tunnel",
+        "Honeycomb",
+        "Aquaculture farm",
+        "Fowl house"
+      ],
+      "answer": 0,
+      "explanation": "Mole tunnel (noun) — A subterranean passage dug by a mole."
+    },
+    {
+      "id": "ah-q76",
+      "question": "Which word means: \"An area of mud or shallow water where animals such as pigs or buffalo roll.\"?",
+      "options": [
+        "Stockyard",
+        "Sanctuary",
+        "Earth",
+        "Wallow"
+      ],
+      "answer": 3,
+      "explanation": "Wallow (noun) — An area of mud or shallow water where animals such as pigs or buffalo roll."
+    },
+    {
+      "id": "ah-q77",
+      "question": "Which word means: \"An enclosure with pens for the temporary keeping of cattle, sheep, pigs, or horses.\"?",
+      "options": [
+        "Bird box",
+        "Burrow",
+        "Stockyard",
+        "Duck pond"
+      ],
+      "answer": 2,
+      "explanation": "Stockyard (noun) — An enclosure with pens for the temporary keeping of cattle, sheep, pigs, or horses."
+    },
+    {
+      "id": "ah-q78",
+      "question": "Which word means: \"A plot of land on which livestock are fattened for market.\"?",
+      "options": [
+        "Wasp nest",
+        "Feedlot",
+        "Rookery",
+        "Birdcage"
+      ],
+      "answer": 1,
+      "explanation": "Feedlot (noun) — A plot of land on which livestock are fattened for market."
+    },
+    {
+      "id": "ah-q79",
+      "question": "Which word means: \"A large farm, especially in North America, where cattle or other animals are bred and raised.\"?",
+      "options": [
+        "Aquarium",
+        "Beehive",
+        "Ranch",
+        "Cattery"
+      ],
+      "answer": 2,
+      "explanation": "Ranch (noun) — A large farm, especially in North America, where cattle or other animals are bred and raised."
+    },
+    {
+      "id": "ah-q80",
+      "question": "Which word means: \"A house and adjoining land occupied by a family, often with livestock.\"?",
+      "options": [
+        "Piggery",
+        "Vole hole",
+        "Homestead",
+        "Fishery"
+      ],
+      "answer": 2,
+      "explanation": "Homestead (noun) — A house and adjoining land occupied by a family, often with livestock."
+    },
+    {
+      "id": "ah-q81",
+      "question": "Which word means: \"A stable or stall in which a horse is kept untied.\"?",
+      "options": [
+        "Loose box",
+        "Lair",
+        "Pasture",
+        "Wallow"
+      ],
+      "answer": 0,
+      "explanation": "Loose box (noun) — A stable or stall in which a horse is kept untied."
+    },
+    {
+      "id": "ah-q82",
+      "question": "Which word means: \"An establishment where horses are kept for breeding.\"?",
+      "options": [
+        "Roost box",
+        "Stud farm",
+        "Wasp nest",
+        "Cowshed"
+      ],
+      "answer": 1,
+      "explanation": "Stud farm (noun) — An establishment where horses are kept for breeding."
+    },
+    {
+      "id": "ah-q83",
+      "question": "Which word means: \"A place where people are taught to ride horses and where horses are stabled.\"?",
+      "options": [
+        "Riding school",
+        "Sheepfold",
+        "Livery yard",
+        "Beehive"
+      ],
+      "answer": 0,
+      "explanation": "Riding school (noun) — A place where people are taught to ride horses and where horses are stabled."
+    },
+    {
+      "id": "ah-q84",
+      "question": "Which word means: \"A facility for the keeping, training, and riding of horses.\"?",
+      "options": [
+        "Homestead",
+        "Fowl house",
+        "Falconry mews",
+        "Equestrian centre"
+      ],
+      "answer": 3,
+      "explanation": "Equestrian centre (noun) — A facility for the keeping, training, and riding of horses."
+    },
+    {
+      "id": "ah-q85",
+      "question": "Which word means: \"A stable where horses are kept and cared for at their owners' expense.\"?",
+      "options": [
+        "Chicken run",
+        "Bird box",
+        "Loft",
+        "Livery yard"
+      ],
+      "answer": 3,
+      "explanation": "Livery yard (noun) — A stable where horses are kept and cared for at their owners' expense."
+    },
+    {
+      "id": "ah-q86",
+      "question": "Which word means: \"A room or building in which cows are milked, often by machine.\"?",
+      "options": [
+        "Homestead",
+        "Kennel",
+        "Milking parlour",
+        "Nesting box"
+      ],
+      "answer": 2,
+      "explanation": "Milking parlour (noun) — A room or building in which cows are milked, often by machine."
+    },
+    {
+      "id": "ah-q87",
+      "question": "Which word means: \"A building or room where milk and milk products are produced or stored.\"?",
+      "options": [
+        "Reserve",
+        "Byre",
+        "Aquarium",
+        "Dairy"
+      ],
+      "answer": 3,
+      "explanation": "Dairy (noun) — A building or room where milk and milk products are produced or stored."
+    },
+    {
+      "id": "ah-q88",
+      "question": "Which word means: \"A room or space directly under the roof of a building, sometimes used to house pigeons.\"?",
+      "options": [
+        "Roost",
+        "Loft",
+        "Termitary",
+        "Falconry mews"
+      ],
+      "answer": 1,
+      "explanation": "Loft (noun) — A room or space directly under the roof of a building, sometimes used to house pigeons."
+    },
+    {
+      "id": "ah-q89",
+      "question": "Which word means: \"A shelter, often on a roof, in which domestic pigeons are kept.\"?",
+      "options": [
+        "Birdcage",
+        "Pigeon loft",
+        "Pigpen",
+        "Wildlife reserve"
+      ],
+      "answer": 1,
+      "explanation": "Pigeon loft (noun) — A shelter, often on a roof, in which domestic pigeons are kept."
+    },
+    {
+      "id": "ah-q90",
+      "question": "Which word means: \"A building where trained hawks or falcons are kept.\"?",
+      "options": [
+        "Terrarium",
+        "Fold",
+        "Roost box",
+        "Falconry mews"
+      ],
+      "answer": 3,
+      "explanation": "Falconry mews (noun) — A building where trained hawks or falcons are kept."
+    },
+    {
+      "id": "ah-q91",
+      "question": "Which word means: \"A range of stables or buildings where birds of prey were formerly kept.\"?",
+      "options": [
+        "Perch",
+        "Roost",
+        "Warren",
+        "Mews"
+      ],
+      "answer": 3,
+      "explanation": "Mews (noun) — A range of stables or buildings where birds of prey were formerly kept."
+    },
+    {
+      "id": "ah-q92",
+      "question": "Which word means: \"The small burrow entrance made by a vole.\"?",
+      "options": [
+        "Den",
+        "Fold",
+        "Vole hole",
+        "Mole tunnel"
+      ],
+      "answer": 2,
+      "explanation": "Vole hole (noun) — The small burrow entrance made by a vole."
+    },
+    {
+      "id": "ah-q93",
+      "question": "Which word means: \"The den or burrow of a fox.\"?",
+      "options": [
+        "Fox earth",
+        "Milking parlour",
+        "Insectarium",
+        "Wasp nest"
+      ],
+      "answer": 0,
+      "explanation": "Fox earth (noun) — The den or burrow of a fox."
+    },
+    {
+      "id": "ah-q94",
+      "question": "Which word means: \"The underground lair of a fox or badger.\"?",
+      "options": [
+        "Earth",
+        "Pen",
+        "Nesting box",
+        "Dairy"
+      ],
+      "answer": 0,
+      "explanation": "Earth (noun) — The underground lair of a fox or badger."
+    },
+    {
+      "id": "ah-q95",
+      "question": "Which word means: \"The den of an otter.\"?",
+      "options": [
+        "Wallow",
+        "Sanctuary",
+        "Stud farm",
+        "Holt"
+      ],
+      "answer": 3,
+      "explanation": "Holt (noun) — The den of an otter."
+    },
+    {
+      "id": "ah-q96",
+      "question": "Which word means: \"A shelter in which an animal hibernates.\"?",
+      "options": [
+        "Heronry",
+        "Wasp nest",
+        "Sanctuary",
+        "Hibernaculum"
+      ],
+      "answer": 3,
+      "explanation": "Hibernaculum (noun) — A shelter in which an animal hibernates."
+    },
+    {
+      "id": "ah-q97",
+      "question": "Which word means: \"An area of land set aside for wildlife protection.\"?",
+      "options": [
+        "Vivarium",
+        "Fishery",
+        "Reserve",
+        "Molehill"
+      ],
+      "answer": 2,
+      "explanation": "Reserve (noun) — An area of land set aside for wildlife protection."
+    },
+    {
+      "id": "ah-q98",
+      "question": "Which word means: \"A public park where living animals are kept and exhibited.\"?",
+      "options": [
+        "Stable",
+        "Falconry mews",
+        "Wildlife reserve",
+        "Zoological garden"
+      ],
+      "answer": 3,
+      "explanation": "Zoological garden (noun) — A public park where living animals are kept and exhibited."
+    },
+    {
+      "id": "ah-q99",
+      "question": "Which word means: \"A small zoo where children can safely stroke and feed the animals.\"?",
+      "options": [
+        "Petting zoo",
+        "Loft",
+        "Hibernaculum",
+        "Beaver lodge"
+      ],
+      "answer": 0,
+      "explanation": "Petting zoo (noun) — A small zoo where children can safely stroke and feed the animals."
+    },
+    {
+      "id": "ah-q100",
+      "question": "Which word means: \"A facility for cultivating aquatic animals or plants for food.\"?",
+      "options": [
+        "Aquarium",
+        "Aquaculture farm",
+        "Safari park",
+        "Feedlot"
+      ],
+      "answer": 1,
+      "explanation": "Aquaculture farm (noun) — A facility for cultivating aquatic animals or plants for food."
+    }
+  ]
+}

@@ -1,0 +1,1908 @@
+{
+  "category": "baby-animals",
+  "title": "Baby Animals",
+  "words": [
+    {
+      "id": "ba-01",
+      "word": "Calf",
+      "pos": "noun",
+      "definition": "A young cow, buffalo, elephant, whale, or several other large animals.",
+      "example": "The calf stayed close to its mother."
+    },
+    {
+      "id": "ba-02",
+      "word": "Cub",
+      "pos": "noun",
+      "definition": "A young bear, lion, tiger, wolf, fox, or similar wild carnivore.",
+      "example": "The lion cub practised its pounce."
+    },
+    {
+      "id": "ba-03",
+      "word": "Foal",
+      "pos": "noun",
+      "definition": "A young horse, especially under one year old.",
+      "example": "The foal took its first uncertain steps."
+    },
+    {
+      "id": "ba-04",
+      "word": "Colt",
+      "pos": "noun",
+      "definition": "A young male horse.",
+      "example": "The colt would grow into a strong stallion."
+    },
+    {
+      "id": "ba-05",
+      "word": "Filly",
+      "pos": "noun",
+      "definition": "A young female horse.",
+      "example": "The filly was entered in a maiden race."
+    },
+    {
+      "id": "ba-06",
+      "word": "Kid",
+      "pos": "noun",
+      "definition": "A young goat.",
+      "example": "The kid nuzzled its mother."
+    },
+    {
+      "id": "ba-07",
+      "word": "Lamb",
+      "pos": "noun",
+      "definition": "A young sheep.",
+      "example": "Spring lambs dotted the hillside."
+    },
+    {
+      "id": "ba-08",
+      "word": "Piglet",
+      "pos": "noun",
+      "definition": "A young pig.",
+      "example": "The piglets rooted in the straw."
+    },
+    {
+      "id": "ba-09",
+      "word": "Chick",
+      "pos": "noun",
+      "definition": "A young chicken or other bird.",
+      "example": "The chicks pecked at the crumbs."
+    },
+    {
+      "id": "ba-10",
+      "word": "Duckling",
+      "pos": "noun",
+      "definition": "A young duck.",
+      "example": "A row of ducklings followed the drake."
+    },
+    {
+      "id": "ba-11",
+      "word": "Gosling",
+      "pos": "noun",
+      "definition": "A young goose.",
+      "example": "The goslings paddled behind their parents."
+    },
+    {
+      "id": "ba-12",
+      "word": "Cygnet",
+      "pos": "noun",
+      "definition": "A young swan.",
+      "example": "Grey cygnets swam alongside the white adults."
+    },
+    {
+      "id": "ba-13",
+      "word": "Eaglet",
+      "pos": "noun",
+      "definition": "A young eagle.",
+      "example": "Eaglets fledged in late summer."
+    },
+    {
+      "id": "ba-14",
+      "word": "Owlet",
+      "pos": "noun",
+      "definition": "A young owl.",
+      "example": "The owlet peered from the hollow trunk."
+    },
+    {
+      "id": "ba-15",
+      "word": "Fledgling",
+      "pos": "noun",
+      "definition": "A young bird that has just developed feathers for flight.",
+      "example": "The fledgling wobbled on its first branch."
+    },
+    {
+      "id": "ba-16",
+      "word": "Hatchling",
+      "pos": "noun",
+      "definition": "A newly hatched young bird, reptile, or fish.",
+      "example": "The turtle hatchlings raced to the sea."
+    },
+    {
+      "id": "ba-17",
+      "word": "Nestling",
+      "pos": "noun",
+      "definition": "A bird too young to leave its nest.",
+      "example": "The nestlings gaped for food."
+    },
+    {
+      "id": "ba-18",
+      "word": "Kitten",
+      "pos": "noun",
+      "definition": "A young cat.",
+      "example": "The kitten batted at a ball of string."
+    },
+    {
+      "id": "ba-19",
+      "word": "Puppy",
+      "pos": "noun",
+      "definition": "A young dog.",
+      "example": "The puppy chewed a slipper."
+    },
+    {
+      "id": "ba-20",
+      "word": "Whelp",
+      "pos": "noun",
+      "definition": "A young dog, wolf, or seal.",
+      "example": "The wolf whelps stayed in the den."
+    },
+    {
+      "id": "ba-21",
+      "word": "Pup",
+      "pos": "noun",
+      "definition": "A young dog, seal, or other small mammal.",
+      "example": "Seal pups basked on the ice."
+    },
+    {
+      "id": "ba-22",
+      "word": "Joey",
+      "pos": "noun",
+      "definition": "A young kangaroo, wallaby, or other marsupial.",
+      "example": "The joey peeked from the pouch."
+    },
+    {
+      "id": "ba-23",
+      "word": "Fawn",
+      "pos": "noun",
+      "definition": "A young deer.",
+      "example": "A fawn stepped cautiously into the clearing."
+    },
+    {
+      "id": "ba-24",
+      "word": "Calf (whale)",
+      "pos": "noun",
+      "definition": "A young whale.",
+      "example": "The whale calf breached beside its mother."
+    },
+    {
+      "id": "ba-25",
+      "word": "Calf (elephant)",
+      "pos": "noun",
+      "definition": "A young elephant.",
+      "example": "The elephant calf followed the matriarch."
+    },
+    {
+      "id": "ba-26",
+      "word": "Kit",
+      "pos": "noun",
+      "definition": "A young fox, ferret, mink, beaver, or rabbit.",
+      "example": "The fox kits tumbled outside the earth."
+    },
+    {
+      "id": "ba-27",
+      "word": "Bunny",
+      "pos": "noun",
+      "definition": "A young or small rabbit (informal).",
+      "example": "A cottontail bunny nibbled the lawn."
+    },
+    {
+      "id": "ba-28",
+      "word": "Leveret",
+      "pos": "noun",
+      "definition": "A young hare in its first year.",
+      "example": "The leveret froze against the stubble."
+    },
+    {
+      "id": "ba-29",
+      "word": "Kitten (rabbit)",
+      "pos": "noun",
+      "definition": "A young rabbit (also called a kit).",
+      "example": "Kittens huddled in the burrow."
+    },
+    {
+      "id": "ba-30",
+      "word": "Piglet (guinea)",
+      "pos": "noun",
+      "definition": "A young guinea pig (a pup).",
+      "example": "The guinea pig pups were born fully furred."
+    },
+    {
+      "id": "ba-31",
+      "word": "Tadpole",
+      "pos": "noun",
+      "definition": "The larval stage of a frog or toad.",
+      "example": "Tadpoles wriggled in the pond."
+    },
+    {
+      "id": "ba-32",
+      "word": "Polliwog",
+      "pos": "noun",
+      "definition": "Another name for a tadpole.",
+      "example": "Polliwogs slowly grew legs."
+    },
+    {
+      "id": "ba-33",
+      "word": "Froglet",
+      "pos": "noun",
+      "definition": "A young frog just past the tadpole stage.",
+      "example": "Tiny froglets crossed the path."
+    },
+    {
+      "id": "ba-34",
+      "word": "Toadlet",
+      "pos": "noun",
+      "definition": "A young toad.",
+      "example": "Toadlets emerged after the rain."
+    },
+    {
+      "id": "ba-35",
+      "word": "Fry",
+      "pos": "noun",
+      "definition": "Very young fish.",
+      "example": "The stream teemed with salmon fry."
+    },
+    {
+      "id": "ba-36",
+      "word": "Fingerling",
+      "pos": "noun",
+      "definition": "A young fish about the size of a finger.",
+      "example": "Trout fingerlings were released into the lake."
+    },
+    {
+      "id": "ba-37",
+      "word": "Elver",
+      "pos": "noun",
+      "definition": "A young eel.",
+      "example": "The elvers migrated upriver."
+    },
+    {
+      "id": "ba-38",
+      "word": "Spat",
+      "pos": "noun",
+      "definition": "A young oyster.",
+      "example": "Spat settled on the ropes suspended in the bay."
+    },
+    {
+      "id": "ba-39",
+      "word": "Crias",
+      "pos": "noun",
+      "definition": "A young llama, alpaca, vicuña, or guanaco.",
+      "example": "The crias were born in the highland pasture."
+    },
+    {
+      "id": "ba-40",
+      "word": "Poult",
+      "pos": "noun",
+      "definition": "A young turkey, pheasant, or other domestic fowl.",
+      "example": "The poults were kept warm under a lamp."
+    },
+    {
+      "id": "ba-41",
+      "word": "Squab",
+      "pos": "noun",
+      "definition": "A young pigeon.",
+      "example": "Squabs are considered a delicacy in some cuisines."
+    },
+    {
+      "id": "ba-42",
+      "word": "Eyas",
+      "pos": "noun",
+      "definition": "A young hawk or falcon taken from the nest for training.",
+      "example": "The falconer raised the eyas by hand."
+    },
+    {
+      "id": "ba-43",
+      "word": "Codling",
+      "pos": "noun",
+      "definition": "A young cod.",
+      "example": "Codlings swam in the shallow bank."
+    },
+    {
+      "id": "ba-44",
+      "word": "Smolt",
+      "pos": "noun",
+      "definition": "A young salmon migrating from freshwater to the sea.",
+      "example": "Smolts descended the river each spring."
+    },
+    {
+      "id": "ba-45",
+      "word": "Parr",
+      "pos": "noun",
+      "definition": "A young salmon between the fry and smolt stages.",
+      "example": "Parr are recognisable by their vertical bars."
+    },
+    {
+      "id": "ba-46",
+      "word": "Cheeper",
+      "pos": "noun",
+      "definition": "A young grouse or partridge.",
+      "example": "Cheepers scattered when the dog approached."
+    },
+    {
+      "id": "ba-47",
+      "word": "Larva",
+      "pos": "noun",
+      "definition": "The active immature form of an insect.",
+      "example": "Butterfly larvae devour their host plant."
+    },
+    {
+      "id": "ba-48",
+      "word": "Nymph",
+      "pos": "noun",
+      "definition": "The immature form of some insects, such as dragonflies.",
+      "example": "Dragonfly nymphs live for years underwater."
+    },
+    {
+      "id": "ba-49",
+      "word": "Caterpillar",
+      "pos": "noun",
+      "definition": "The larva of a butterfly or moth.",
+      "example": "The caterpillar spun its chrysalis."
+    },
+    {
+      "id": "ba-50",
+      "word": "Yearling",
+      "pos": "noun",
+      "definition": "An animal, especially a horse, in its second year.",
+      "example": "The yearling was ready for training."
+    },
+    {
+      "id": "ba-051",
+      "word": "Aleven",
+      "pos": "noun",
+      "definition": "Baby swan (variant).",
+      "example": "The aleven trailed its mother."
+    },
+    {
+      "id": "ba-052",
+      "word": "Antling",
+      "pos": "noun",
+      "definition": "Baby ant.",
+      "example": "Antlings emerged from the nest."
+    },
+    {
+      "id": "ba-053",
+      "word": "Baby beaver",
+      "pos": "noun",
+      "definition": "Kit.",
+      "example": "The baby beaver learned to swim."
+    },
+    {
+      "id": "ba-054",
+      "word": "Baby bear",
+      "pos": "noun",
+      "definition": "Cub.",
+      "example": "The baby bear followed its mother."
+    },
+    {
+      "id": "ba-055",
+      "word": "Baby camel",
+      "pos": "noun",
+      "definition": "Calf.",
+      "example": "The baby camel wobbled on new legs."
+    },
+    {
+      "id": "ba-056",
+      "word": "Baby chimp",
+      "pos": "noun",
+      "definition": "Infant.",
+      "example": "The baby chimp clung to its mother's back."
+    },
+    {
+      "id": "ba-057",
+      "word": "Baby coyote",
+      "pos": "noun",
+      "definition": "Pup.",
+      "example": "The baby coyote peeked from the den."
+    },
+    {
+      "id": "ba-058",
+      "word": "Baby crocodile",
+      "pos": "noun",
+      "definition": "Hatchling.",
+      "example": "The baby crocodile broke free of its shell."
+    },
+    {
+      "id": "ba-059",
+      "word": "Baby dolphin",
+      "pos": "noun",
+      "definition": "Calf.",
+      "example": "The baby dolphin surfaced for air."
+    },
+    {
+      "id": "ba-060",
+      "word": "Baby dove",
+      "pos": "noun",
+      "definition": "Squab.",
+      "example": "The baby dove waited to be fed."
+    },
+    {
+      "id": "ba-061",
+      "word": "Baby eel",
+      "pos": "noun",
+      "definition": "Elver.",
+      "example": "Elvers migrated upriver."
+    },
+    {
+      "id": "ba-062",
+      "word": "Baby ferret",
+      "pos": "noun",
+      "definition": "Kit.",
+      "example": "The baby ferret chased its siblings."
+    },
+    {
+      "id": "ba-063",
+      "word": "Baby fox",
+      "pos": "noun",
+      "definition": "Kit or cub.",
+      "example": "The baby fox tumbled in the grass."
+    },
+    {
+      "id": "ba-064",
+      "word": "Baby giraffe",
+      "pos": "noun",
+      "definition": "Calf.",
+      "example": "The baby giraffe stood within an hour."
+    },
+    {
+      "id": "ba-065",
+      "word": "Baby goat",
+      "pos": "noun",
+      "definition": "Kid.",
+      "example": "The baby goat leaped over stones."
+    },
+    {
+      "id": "ba-066",
+      "word": "Baby gorilla",
+      "pos": "noun",
+      "definition": "Infant.",
+      "example": "The baby gorilla studied its hand."
+    },
+    {
+      "id": "ba-067",
+      "word": "Baby grouse",
+      "pos": "noun",
+      "definition": "Cheeper.",
+      "example": "The cheeper hid in bracken."
+    },
+    {
+      "id": "ba-068",
+      "word": "Baby hare",
+      "pos": "noun",
+      "definition": "Leveret.",
+      "example": "The leveret froze in the grass."
+    },
+    {
+      "id": "ba-069",
+      "word": "Baby hedgehog",
+      "pos": "noun",
+      "definition": "Hoglet.",
+      "example": "The hoglet curled into a ball."
+    },
+    {
+      "id": "ba-070",
+      "word": "Baby heron",
+      "pos": "noun",
+      "definition": "Chick.",
+      "example": "The heron chick opened its beak."
+    },
+    {
+      "id": "ba-071",
+      "word": "Baby hyena",
+      "pos": "noun",
+      "definition": "Cub.",
+      "example": "The hyena cub whined for food."
+    },
+    {
+      "id": "ba-072",
+      "word": "Baby jellyfish",
+      "pos": "noun",
+      "definition": "Ephyra.",
+      "example": "Ephyrae drifted on the tide."
+    },
+    {
+      "id": "ba-073",
+      "word": "Baby kangaroo",
+      "pos": "noun",
+      "definition": "Joey.",
+      "example": "The joey peered from the pouch."
+    },
+    {
+      "id": "ba-074",
+      "word": "Baby koala",
+      "pos": "noun",
+      "definition": "Joey.",
+      "example": "The joey clung to its mother."
+    },
+    {
+      "id": "ba-075",
+      "word": "Baby leopard",
+      "pos": "noun",
+      "definition": "Cub.",
+      "example": "The leopard cub practised pouncing."
+    },
+    {
+      "id": "ba-076",
+      "word": "Baby lion",
+      "pos": "noun",
+      "definition": "Cub.",
+      "example": "The lion cub batted at grass."
+    },
+    {
+      "id": "ba-077",
+      "word": "Baby llama",
+      "pos": "noun",
+      "definition": "Cria.",
+      "example": "The cria bleated for its mother."
+    },
+    {
+      "id": "ba-078",
+      "word": "Baby monkey",
+      "pos": "noun",
+      "definition": "Infant.",
+      "example": "The infant monkey rode on its mother's back."
+    },
+    {
+      "id": "ba-079",
+      "word": "Baby ostrich",
+      "pos": "noun",
+      "definition": "Chick.",
+      "example": "The ostrich chick sprinted after ants."
+    },
+    {
+      "id": "ba-080",
+      "word": "Baby otter",
+      "pos": "noun",
+      "definition": "Pup.",
+      "example": "The otter pup learned to dive."
+    },
+    {
+      "id": "ba-081",
+      "word": "Baby oyster",
+      "pos": "noun",
+      "definition": "Spat.",
+      "example": "Spat settled on the reef."
+    },
+    {
+      "id": "ba-082",
+      "word": "Baby panda",
+      "pos": "noun",
+      "definition": "Cub.",
+      "example": "The panda cub napped in the tree."
+    },
+    {
+      "id": "ba-083",
+      "word": "Baby parrot",
+      "pos": "noun",
+      "definition": "Chick.",
+      "example": "The parrot chick opened its beak."
+    },
+    {
+      "id": "ba-084",
+      "word": "Baby peacock",
+      "pos": "noun",
+      "definition": "Peachick.",
+      "example": "Peachicks followed the hen."
+    },
+    {
+      "id": "ba-085",
+      "word": "Baby penguin",
+      "pos": "noun",
+      "definition": "Chick.",
+      "example": "The penguin chick huddled for warmth."
+    },
+    {
+      "id": "ba-086",
+      "word": "Baby pigeon",
+      "pos": "noun",
+      "definition": "Squab.",
+      "example": "The squab was fed crop milk."
+    },
+    {
+      "id": "ba-087",
+      "word": "Baby platypus",
+      "pos": "noun",
+      "definition": "Puggle.",
+      "example": "The puggle wriggled in the burrow."
+    },
+    {
+      "id": "ba-088",
+      "word": "Baby porcupine",
+      "pos": "noun",
+      "definition": "Porcupette.",
+      "example": "The porcupette's quills were still soft."
+    },
+    {
+      "id": "ba-089",
+      "word": "Baby quail",
+      "pos": "noun",
+      "definition": "Chick.",
+      "example": "The quail chick scampered after its mother."
+    },
+    {
+      "id": "ba-090",
+      "word": "Baby rat",
+      "pos": "noun",
+      "definition": "Pup or kitten.",
+      "example": "The rat pups were pink and blind."
+    },
+    {
+      "id": "ba-091",
+      "word": "Baby reindeer",
+      "pos": "noun",
+      "definition": "Calf.",
+      "example": "The reindeer calf followed the herd."
+    },
+    {
+      "id": "ba-092",
+      "word": "Baby rhinoceros",
+      "pos": "noun",
+      "definition": "Calf.",
+      "example": "The rhino calf stayed close to its mother."
+    },
+    {
+      "id": "ba-093",
+      "word": "Baby seal",
+      "pos": "noun",
+      "definition": "Pup.",
+      "example": "The seal pup basked on the ice."
+    },
+    {
+      "id": "ba-094",
+      "word": "Baby shark",
+      "pos": "noun",
+      "definition": "Pup.",
+      "example": "The shark pup was already a hunter."
+    },
+    {
+      "id": "ba-095",
+      "word": "Baby skunk",
+      "pos": "noun",
+      "definition": "Kit.",
+      "example": "The skunk kit trailed its mother."
+    },
+    {
+      "id": "ba-096",
+      "word": "Baby squirrel",
+      "pos": "noun",
+      "definition": "Kit or kitten.",
+      "example": "The squirrel kit peered from the drey."
+    },
+    {
+      "id": "ba-097",
+      "word": "Baby swan",
+      "pos": "noun",
+      "definition": "Cygnet.",
+      "example": "The cygnet paddled after its parents."
+    },
+    {
+      "id": "ba-098",
+      "word": "Baby tiger",
+      "pos": "noun",
+      "definition": "Cub.",
+      "example": "The tiger cub pounced on a leaf."
+    },
+    {
+      "id": "ba-099",
+      "word": "Baby wolf",
+      "pos": "noun",
+      "definition": "Pup or whelp.",
+      "example": "The wolf pup joined the pack."
+    },
+    {
+      "id": "ba-100",
+      "word": "Baby zebra",
+      "pos": "noun",
+      "definition": "Foal.",
+      "example": "The zebra foal stood within minutes."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "bab-q1",
+      "question": "Which word means: \"A young cow, buffalo, elephant, whale, or several other large animals.\"?",
+      "options": [
+        "Calf",
+        "Baby oyster",
+        "Baby porcupine",
+        "Toadlet"
+      ],
+      "answer": 0,
+      "explanation": "Calf (noun) — A young cow, buffalo, elephant, whale, or several other large animals."
+    },
+    {
+      "id": "bab-q2",
+      "question": "Which word means: \"A young bear, lion, tiger, wolf, fox, or similar wild carnivore.\"?",
+      "options": [
+        "Cub",
+        "Baby panda",
+        "Baby peacock",
+        "Lamb"
+      ],
+      "answer": 0,
+      "explanation": "Cub (noun) — A young bear, lion, tiger, wolf, fox, or similar wild carnivore."
+    },
+    {
+      "id": "bab-q3",
+      "question": "Which word means: \"A young horse, especially under one year old.\"?",
+      "options": [
+        "Baby skunk",
+        "Foal",
+        "Baby lion",
+        "Nymph"
+      ],
+      "answer": 1,
+      "explanation": "Foal (noun) — A young horse, especially under one year old."
+    },
+    {
+      "id": "bab-q4",
+      "question": "Which word means: \"A young male horse.\"?",
+      "options": [
+        "Colt",
+        "Baby camel",
+        "Codling",
+        "Baby swan"
+      ],
+      "answer": 0,
+      "explanation": "Colt (noun) — A young male horse."
+    },
+    {
+      "id": "bab-q5",
+      "question": "Which word means: \"A young female horse.\"?",
+      "options": [
+        "Filly",
+        "Nymph",
+        "Baby hyena",
+        "Baby hedgehog"
+      ],
+      "answer": 0,
+      "explanation": "Filly (noun) — A young female horse."
+    },
+    {
+      "id": "bab-q6",
+      "question": "Which word means: \"A young goat.\"?",
+      "options": [
+        "Kid",
+        "Crias",
+        "Baby fox",
+        "Baby swan"
+      ],
+      "answer": 0,
+      "explanation": "Kid (noun) — A young goat."
+    },
+    {
+      "id": "bab-q7",
+      "question": "Which word means: \"A young sheep.\"?",
+      "options": [
+        "Gosling",
+        "Lamb",
+        "Baby tiger",
+        "Whelp"
+      ],
+      "answer": 1,
+      "explanation": "Lamb (noun) — A young sheep."
+    },
+    {
+      "id": "bab-q8",
+      "question": "Which word means: \"A young pig.\"?",
+      "options": [
+        "Eaglet",
+        "Nymph",
+        "Baby kangaroo",
+        "Piglet"
+      ],
+      "answer": 3,
+      "explanation": "Piglet (noun) — A young pig."
+    },
+    {
+      "id": "bab-q9",
+      "question": "Which word means: \"A young chicken or other bird.\"?",
+      "options": [
+        "Baby heron",
+        "Nestling",
+        "Chick",
+        "Baby dove"
+      ],
+      "answer": 2,
+      "explanation": "Chick (noun) — A young chicken or other bird."
+    },
+    {
+      "id": "bab-q10",
+      "question": "Which word means: \"A young duck.\"?",
+      "options": [
+        "Yearling",
+        "Duckling",
+        "Baby lion",
+        "Baby parrot"
+      ],
+      "answer": 1,
+      "explanation": "Duckling (noun) — A young duck."
+    },
+    {
+      "id": "bab-q11",
+      "question": "Which word means: \"A young goose.\"?",
+      "options": [
+        "Colt",
+        "Baby ferret",
+        "Gosling",
+        "Baby oyster"
+      ],
+      "answer": 2,
+      "explanation": "Gosling (noun) — A young goose."
+    },
+    {
+      "id": "bab-q12",
+      "question": "Which word means: \"A young swan.\"?",
+      "options": [
+        "Baby peacock",
+        "Chick",
+        "Baby parrot",
+        "Cygnet"
+      ],
+      "answer": 3,
+      "explanation": "Cygnet (noun) — A young swan."
+    },
+    {
+      "id": "bab-q13",
+      "question": "Which word means: \"A young eagle.\"?",
+      "options": [
+        "Eaglet",
+        "Hatchling",
+        "Baby penguin",
+        "Baby bear"
+      ],
+      "answer": 0,
+      "explanation": "Eaglet (noun) — A young eagle."
+    },
+    {
+      "id": "bab-q14",
+      "question": "Which word means: \"A young owl.\"?",
+      "options": [
+        "Baby goat",
+        "Hatchling",
+        "Owlet",
+        "Poult"
+      ],
+      "answer": 2,
+      "explanation": "Owlet (noun) — A young owl."
+    },
+    {
+      "id": "bab-q15",
+      "question": "Which word means: \"A young bird that has just developed feathers for flight.\"?",
+      "options": [
+        "Baby dove",
+        "Aleven",
+        "Caterpillar",
+        "Fledgling"
+      ],
+      "answer": 3,
+      "explanation": "Fledgling (noun) — A young bird that has just developed feathers for flight."
+    },
+    {
+      "id": "bab-q16",
+      "question": "Which word means: \"A newly hatched young bird, reptile, or fish.\"?",
+      "options": [
+        "Baby camel",
+        "Baby penguin",
+        "Eaglet",
+        "Hatchling"
+      ],
+      "answer": 3,
+      "explanation": "Hatchling (noun) — A newly hatched young bird, reptile, or fish."
+    },
+    {
+      "id": "bab-q17",
+      "question": "Which word means: \"A bird too young to leave its nest.\"?",
+      "options": [
+        "Nestling",
+        "Filly",
+        "Elver",
+        "Baby rat"
+      ],
+      "answer": 0,
+      "explanation": "Nestling (noun) — A bird too young to leave its nest."
+    },
+    {
+      "id": "bab-q18",
+      "question": "Which word means: \"A young cat.\"?",
+      "options": [
+        "Kitten",
+        "Polliwog",
+        "Nymph",
+        "Baby crocodile"
+      ],
+      "answer": 0,
+      "explanation": "Kitten (noun) — A young cat."
+    },
+    {
+      "id": "bab-q19",
+      "question": "Which word means: \"A young dog.\"?",
+      "options": [
+        "Puppy",
+        "Larva",
+        "Baby peacock",
+        "Baby hyena"
+      ],
+      "answer": 0,
+      "explanation": "Puppy (noun) — A young dog."
+    },
+    {
+      "id": "bab-q20",
+      "question": "Which word means: \"A young dog, wolf, or seal.\"?",
+      "options": [
+        "Hatchling",
+        "Whelp",
+        "Baby dove",
+        "Kit"
+      ],
+      "answer": 1,
+      "explanation": "Whelp (noun) — A young dog, wolf, or seal."
+    },
+    {
+      "id": "bab-q21",
+      "question": "Which word means: \"A young dog, seal, or other small mammal.\"?",
+      "options": [
+        "Baby monkey",
+        "Baby parrot",
+        "Pup",
+        "Baby peacock"
+      ],
+      "answer": 2,
+      "explanation": "Pup (noun) — A young dog, seal, or other small mammal."
+    },
+    {
+      "id": "bab-q22",
+      "question": "Which word means: \"A young kangaroo, wallaby, or other marsupial.\"?",
+      "options": [
+        "Joey",
+        "Baby koala",
+        "Froglet",
+        "Nestling"
+      ],
+      "answer": 0,
+      "explanation": "Joey (noun) — A young kangaroo, wallaby, or other marsupial."
+    },
+    {
+      "id": "bab-q23",
+      "question": "Which word means: \"A young deer.\"?",
+      "options": [
+        "Kitten (rabbit)",
+        "Fawn",
+        "Baby llama",
+        "Tadpole"
+      ],
+      "answer": 1,
+      "explanation": "Fawn (noun) — A young deer."
+    },
+    {
+      "id": "bab-q24",
+      "question": "Which word means: \"A young whale.\"?",
+      "options": [
+        "Puppy",
+        "Calf (whale)",
+        "Elver",
+        "Nestling"
+      ],
+      "answer": 1,
+      "explanation": "Calf (whale) (noun) — A young whale."
+    },
+    {
+      "id": "bab-q25",
+      "question": "Which word means: \"A young elephant.\"?",
+      "options": [
+        "Nestling",
+        "Calf (elephant)",
+        "Colt",
+        "Baby pigeon"
+      ],
+      "answer": 1,
+      "explanation": "Calf (elephant) (noun) — A young elephant."
+    },
+    {
+      "id": "bab-q26",
+      "question": "Which word means: \"A young fox, ferret, mink, beaver, or rabbit.\"?",
+      "options": [
+        "Foal",
+        "Baby llama",
+        "Kit",
+        "Codling"
+      ],
+      "answer": 2,
+      "explanation": "Kit (noun) — A young fox, ferret, mink, beaver, or rabbit."
+    },
+    {
+      "id": "bab-q27",
+      "question": "Which word means: \"A young or small rabbit (informal).\"?",
+      "options": [
+        "Baby squirrel",
+        "Bunny",
+        "Baby camel",
+        "Nestling"
+      ],
+      "answer": 1,
+      "explanation": "Bunny (noun) — A young or small rabbit (informal)."
+    },
+    {
+      "id": "bab-q28",
+      "question": "Which word means: \"A young hare in its first year.\"?",
+      "options": [
+        "Nymph",
+        "Leveret",
+        "Baby dolphin",
+        "Baby ferret"
+      ],
+      "answer": 1,
+      "explanation": "Leveret (noun) — A young hare in its first year."
+    },
+    {
+      "id": "bab-q29",
+      "question": "Which word means: \"A young rabbit (also called a kit).\"?",
+      "options": [
+        "Kitten (rabbit)",
+        "Baby otter",
+        "Kid",
+        "Baby skunk"
+      ],
+      "answer": 0,
+      "explanation": "Kitten (rabbit) (noun) — A young rabbit (also called a kit)."
+    },
+    {
+      "id": "bab-q30",
+      "question": "Which word means: \"A young guinea pig (a pup).\"?",
+      "options": [
+        "Baby fox",
+        "Piglet",
+        "Baby beaver",
+        "Piglet (guinea)"
+      ],
+      "answer": 3,
+      "explanation": "Piglet (guinea) (noun) — A young guinea pig (a pup)."
+    },
+    {
+      "id": "bab-q31",
+      "question": "Which word means: \"The larval stage of a frog or toad.\"?",
+      "options": [
+        "Baby crocodile",
+        "Baby seal",
+        "Tadpole",
+        "Baby giraffe"
+      ],
+      "answer": 2,
+      "explanation": "Tadpole (noun) — The larval stage of a frog or toad."
+    },
+    {
+      "id": "bab-q32",
+      "question": "Which word means: \"Another name for a tadpole.\"?",
+      "options": [
+        "Baby ostrich",
+        "Chick",
+        "Polliwog",
+        "Puppy"
+      ],
+      "answer": 2,
+      "explanation": "Polliwog (noun) — Another name for a tadpole."
+    },
+    {
+      "id": "bab-q33",
+      "question": "Which word means: \"A young frog just past the tadpole stage.\"?",
+      "options": [
+        "Yearling",
+        "Froglet",
+        "Baby monkey",
+        "Baby hedgehog"
+      ],
+      "answer": 1,
+      "explanation": "Froglet (noun) — A young frog just past the tadpole stage."
+    },
+    {
+      "id": "bab-q34",
+      "question": "Which word means: \"A young toad.\"?",
+      "options": [
+        "Eaglet",
+        "Fledgling",
+        "Toadlet",
+        "Baby reindeer"
+      ],
+      "answer": 2,
+      "explanation": "Toadlet (noun) — A young toad."
+    },
+    {
+      "id": "bab-q35",
+      "question": "Which word means: \"Very young fish.\"?",
+      "options": [
+        "Piglet (guinea)",
+        "Parr",
+        "Baby bear",
+        "Fry"
+      ],
+      "answer": 3,
+      "explanation": "Fry (noun) — Very young fish."
+    },
+    {
+      "id": "bab-q36",
+      "question": "Which word means: \"A young fish about the size of a finger.\"?",
+      "options": [
+        "Baby skunk",
+        "Eyas",
+        "Eaglet",
+        "Fingerling"
+      ],
+      "answer": 3,
+      "explanation": "Fingerling (noun) — A young fish about the size of a finger."
+    },
+    {
+      "id": "bab-q37",
+      "question": "Which word means: \"A young eel.\"?",
+      "options": [
+        "Whelp",
+        "Baby quail",
+        "Caterpillar",
+        "Elver"
+      ],
+      "answer": 3,
+      "explanation": "Elver (noun) — A young eel."
+    },
+    {
+      "id": "bab-q38",
+      "question": "Which word means: \"A young oyster.\"?",
+      "options": [
+        "Spat",
+        "Cygnet",
+        "Baby coyote",
+        "Gosling"
+      ],
+      "answer": 0,
+      "explanation": "Spat (noun) — A young oyster."
+    },
+    {
+      "id": "bab-q39",
+      "question": "Which word means: \"A young llama, alpaca, vicuña, or guanaco.\"?",
+      "options": [
+        "Baby kangaroo",
+        "Nestling",
+        "Crias",
+        "Piglet"
+      ],
+      "answer": 2,
+      "explanation": "Crias (noun) — A young llama, alpaca, vicuña, or guanaco."
+    },
+    {
+      "id": "bab-q40",
+      "question": "Which word means: \"A young turkey, pheasant, or other domestic fowl.\"?",
+      "options": [
+        "Larva",
+        "Baby bear",
+        "Baby platypus",
+        "Poult"
+      ],
+      "answer": 3,
+      "explanation": "Poult (noun) — A young turkey, pheasant, or other domestic fowl."
+    },
+    {
+      "id": "bab-q41",
+      "question": "Which word means: \"A young pigeon.\"?",
+      "options": [
+        "Baby monkey",
+        "Squab",
+        "Elver",
+        "Poult"
+      ],
+      "answer": 1,
+      "explanation": "Squab (noun) — A young pigeon."
+    },
+    {
+      "id": "bab-q42",
+      "question": "Which word means: \"A young hawk or falcon taken from the nest for training.\"?",
+      "options": [
+        "Baby fox",
+        "Eyas",
+        "Whelp",
+        "Baby pigeon"
+      ],
+      "answer": 1,
+      "explanation": "Eyas (noun) — A young hawk or falcon taken from the nest for training."
+    },
+    {
+      "id": "bab-q43",
+      "question": "Which word means: \"A young cod.\"?",
+      "options": [
+        "Caterpillar",
+        "Baby kangaroo",
+        "Codling",
+        "Fledgling"
+      ],
+      "answer": 2,
+      "explanation": "Codling (noun) — A young cod."
+    },
+    {
+      "id": "bab-q44",
+      "question": "Which word means: \"A young salmon migrating from freshwater to the sea.\"?",
+      "options": [
+        "Smolt",
+        "Baby kangaroo",
+        "Baby zebra",
+        "Baby chimp"
+      ],
+      "answer": 0,
+      "explanation": "Smolt (noun) — A young salmon migrating from freshwater to the sea."
+    },
+    {
+      "id": "bab-q45",
+      "question": "Which word means: \"A young salmon between the fry and smolt stages.\"?",
+      "options": [
+        "Colt",
+        "Parr",
+        "Calf (whale)",
+        "Fry"
+      ],
+      "answer": 1,
+      "explanation": "Parr (noun) — A young salmon between the fry and smolt stages."
+    },
+    {
+      "id": "bab-q46",
+      "question": "Which word means: \"A young grouse or partridge.\"?",
+      "options": [
+        "Calf (whale)",
+        "Puppy",
+        "Calf",
+        "Cheeper"
+      ],
+      "answer": 3,
+      "explanation": "Cheeper (noun) — A young grouse or partridge."
+    },
+    {
+      "id": "bab-q47",
+      "question": "Which word means: \"The active immature form of an insect.\"?",
+      "options": [
+        "Baby parrot",
+        "Larva",
+        "Colt",
+        "Baby squirrel"
+      ],
+      "answer": 1,
+      "explanation": "Larva (noun) — The active immature form of an insect."
+    },
+    {
+      "id": "bab-q48",
+      "question": "Which word means: \"The immature form of some insects, such as dragonflies.\"?",
+      "options": [
+        "Nymph",
+        "Baby camel",
+        "Yearling",
+        "Baby dove"
+      ],
+      "answer": 0,
+      "explanation": "Nymph (noun) — The immature form of some insects, such as dragonflies."
+    },
+    {
+      "id": "bab-q49",
+      "question": "Which word means: \"The larva of a butterfly or moth.\"?",
+      "options": [
+        "Baby shark",
+        "Eyas",
+        "Caterpillar",
+        "Poult"
+      ],
+      "answer": 2,
+      "explanation": "Caterpillar (noun) — The larva of a butterfly or moth."
+    },
+    {
+      "id": "bab-q50",
+      "question": "Which word means: \"An animal, especially a horse, in its second year.\"?",
+      "options": [
+        "Baby tiger",
+        "Yearling",
+        "Baby oyster",
+        "Pup"
+      ],
+      "answer": 1,
+      "explanation": "Yearling (noun) — An animal, especially a horse, in its second year."
+    },
+    {
+      "id": "bab-q51",
+      "question": "Which word means: \"Baby swan (variant).\"?",
+      "options": [
+        "Fry",
+        "Baby pigeon",
+        "Baby crocodile",
+        "Aleven"
+      ],
+      "answer": 3,
+      "explanation": "Aleven (noun) — Baby swan (variant)."
+    },
+    {
+      "id": "bab-q52",
+      "question": "Which word means: \"Baby ant.\"?",
+      "options": [
+        "Antling",
+        "Leveret",
+        "Fry",
+        "Baby camel"
+      ],
+      "answer": 0,
+      "explanation": "Antling (noun) — Baby ant."
+    },
+    {
+      "id": "bab-q53",
+      "question": "Which word means: \"Kit.\"?",
+      "options": [
+        "Fledgling",
+        "Elver",
+        "Baby porcupine",
+        "Baby beaver"
+      ],
+      "answer": 3,
+      "explanation": "Baby beaver (noun) — Kit."
+    },
+    {
+      "id": "bab-q54",
+      "question": "Which word means: \"Cub.\"?",
+      "options": [
+        "Kitten (rabbit)",
+        "Aleven",
+        "Baby bear",
+        "Kid"
+      ],
+      "answer": 2,
+      "explanation": "Baby bear (noun) — Cub."
+    },
+    {
+      "id": "bab-q55",
+      "question": "Which word means: \"Calf.\"?",
+      "options": [
+        "Crias",
+        "Baby zebra",
+        "Baby camel",
+        "Leveret"
+      ],
+      "answer": 2,
+      "explanation": "Baby camel (noun) — Calf."
+    },
+    {
+      "id": "bab-q56",
+      "question": "Which word means: \"Infant.\"?",
+      "options": [
+        "Eyas",
+        "Hatchling",
+        "Calf",
+        "Baby chimp"
+      ],
+      "answer": 3,
+      "explanation": "Baby chimp (noun) — Infant."
+    },
+    {
+      "id": "bab-q57",
+      "question": "Which word means: \"Pup.\"?",
+      "options": [
+        "Fawn",
+        "Baby coyote",
+        "Caterpillar",
+        "Nestling"
+      ],
+      "answer": 1,
+      "explanation": "Baby coyote (noun) — Pup."
+    },
+    {
+      "id": "bab-q58",
+      "question": "Which word means: \"Hatchling.\"?",
+      "options": [
+        "Baby squirrel",
+        "Baby crocodile",
+        "Aleven",
+        "Duckling"
+      ],
+      "answer": 1,
+      "explanation": "Baby crocodile (noun) — Hatchling."
+    },
+    {
+      "id": "bab-q59",
+      "question": "Which word means: \"Calf.\"?",
+      "options": [
+        "Baby dove",
+        "Duckling",
+        "Squab",
+        "Baby dolphin"
+      ],
+      "answer": 3,
+      "explanation": "Baby dolphin (noun) — Calf."
+    },
+    {
+      "id": "bab-q60",
+      "question": "Which word means: \"Squab.\"?",
+      "options": [
+        "Baby dove",
+        "Baby parrot",
+        "Baby rhinoceros",
+        "Baby bear"
+      ],
+      "answer": 0,
+      "explanation": "Baby dove (noun) — Squab."
+    },
+    {
+      "id": "bab-q61",
+      "question": "Which word means: \"Elver.\"?",
+      "options": [
+        "Foal",
+        "Eyas",
+        "Joey",
+        "Baby eel"
+      ],
+      "answer": 3,
+      "explanation": "Baby eel (noun) — Elver."
+    },
+    {
+      "id": "bab-q62",
+      "question": "Which word means: \"Kit.\"?",
+      "options": [
+        "Cygnet",
+        "Owlet",
+        "Baby ferret",
+        "Baby chimp"
+      ],
+      "answer": 2,
+      "explanation": "Baby ferret (noun) — Kit."
+    },
+    {
+      "id": "bab-q63",
+      "question": "Which word means: \"Kit or cub.\"?",
+      "options": [
+        "Baby hedgehog",
+        "Gosling",
+        "Baby fox",
+        "Aleven"
+      ],
+      "answer": 2,
+      "explanation": "Baby fox (noun) — Kit or cub."
+    },
+    {
+      "id": "bab-q64",
+      "question": "Which word means: \"Calf.\"?",
+      "options": [
+        "Codling",
+        "Baby giraffe",
+        "Joey",
+        "Kitten (rabbit)"
+      ],
+      "answer": 1,
+      "explanation": "Baby giraffe (noun) — Calf."
+    },
+    {
+      "id": "bab-q65",
+      "question": "Which word means: \"Kid.\"?",
+      "options": [
+        "Baby goat",
+        "Baby hedgehog",
+        "Baby grouse",
+        "Calf (elephant)"
+      ],
+      "answer": 0,
+      "explanation": "Baby goat (noun) — Kid."
+    },
+    {
+      "id": "bab-q66",
+      "question": "Which word means: \"Infant.\"?",
+      "options": [
+        "Owlet",
+        "Baby gorilla",
+        "Tadpole",
+        "Puppy"
+      ],
+      "answer": 1,
+      "explanation": "Baby gorilla (noun) — Infant."
+    },
+    {
+      "id": "bab-q67",
+      "question": "Which word means: \"Cheeper.\"?",
+      "options": [
+        "Baby wolf",
+        "Whelp",
+        "Baby grouse",
+        "Baby ostrich"
+      ],
+      "answer": 2,
+      "explanation": "Baby grouse (noun) — Cheeper."
+    },
+    {
+      "id": "bab-q68",
+      "question": "Which word means: \"Leveret.\"?",
+      "options": [
+        "Baby dove",
+        "Baby tiger",
+        "Baby koala",
+        "Baby hare"
+      ],
+      "answer": 3,
+      "explanation": "Baby hare (noun) — Leveret."
+    },
+    {
+      "id": "bab-q69",
+      "question": "Which word means: \"Hoglet.\"?",
+      "options": [
+        "Whelp",
+        "Squab",
+        "Baby panda",
+        "Baby hedgehog"
+      ],
+      "answer": 3,
+      "explanation": "Baby hedgehog (noun) — Hoglet."
+    },
+    {
+      "id": "bab-q70",
+      "question": "Which word means: \"Chick.\"?",
+      "options": [
+        "Baby panda",
+        "Baby coyote",
+        "Baby heron",
+        "Crias"
+      ],
+      "answer": 2,
+      "explanation": "Baby heron (noun) — Chick."
+    },
+    {
+      "id": "bab-q71",
+      "question": "Which word means: \"Cub.\"?",
+      "options": [
+        "Cheeper",
+        "Baby hyena",
+        "Baby goat",
+        "Duckling"
+      ],
+      "answer": 1,
+      "explanation": "Baby hyena (noun) — Cub."
+    },
+    {
+      "id": "bab-q72",
+      "question": "Which word means: \"Ephyra.\"?",
+      "options": [
+        "Piglet",
+        "Baby jellyfish",
+        "Filly",
+        "Nymph"
+      ],
+      "answer": 1,
+      "explanation": "Baby jellyfish (noun) — Ephyra."
+    },
+    {
+      "id": "bab-q73",
+      "question": "Which word means: \"Joey.\"?",
+      "options": [
+        "Baby goat",
+        "Baby otter",
+        "Baby monkey",
+        "Baby kangaroo"
+      ],
+      "answer": 3,
+      "explanation": "Baby kangaroo (noun) — Joey."
+    },
+    {
+      "id": "bab-q74",
+      "question": "Which word means: \"Joey.\"?",
+      "options": [
+        "Baby crocodile",
+        "Baby penguin",
+        "Baby koala",
+        "Baby leopard"
+      ],
+      "answer": 2,
+      "explanation": "Baby koala (noun) — Joey."
+    },
+    {
+      "id": "bab-q75",
+      "question": "Which word means: \"Cub.\"?",
+      "options": [
+        "Piglet",
+        "Whelp",
+        "Baby goat",
+        "Baby leopard"
+      ],
+      "answer": 3,
+      "explanation": "Baby leopard (noun) — Cub."
+    },
+    {
+      "id": "bab-q76",
+      "question": "Which word means: \"Cub.\"?",
+      "options": [
+        "Baby lion",
+        "Baby goat",
+        "Baby seal",
+        "Gosling"
+      ],
+      "answer": 0,
+      "explanation": "Baby lion (noun) — Cub."
+    },
+    {
+      "id": "bab-q77",
+      "question": "Which word means: \"Cria.\"?",
+      "options": [
+        "Baby rhinoceros",
+        "Baby hare",
+        "Baby llama",
+        "Baby coyote"
+      ],
+      "answer": 2,
+      "explanation": "Baby llama (noun) — Cria."
+    },
+    {
+      "id": "bab-q78",
+      "question": "Which word means: \"Infant.\"?",
+      "options": [
+        "Yearling",
+        "Elver",
+        "Baby monkey",
+        "Baby beaver"
+      ],
+      "answer": 2,
+      "explanation": "Baby monkey (noun) — Infant."
+    },
+    {
+      "id": "bab-q79",
+      "question": "Which word means: \"Chick.\"?",
+      "options": [
+        "Codling",
+        "Baby ostrich",
+        "Baby peacock",
+        "Baby panda"
+      ],
+      "answer": 1,
+      "explanation": "Baby ostrich (noun) — Chick."
+    },
+    {
+      "id": "bab-q80",
+      "question": "Which word means: \"Pup.\"?",
+      "options": [
+        "Baby otter",
+        "Baby jellyfish",
+        "Baby porcupine",
+        "Yearling"
+      ],
+      "answer": 0,
+      "explanation": "Baby otter (noun) — Pup."
+    },
+    {
+      "id": "bab-q81",
+      "question": "Which word means: \"Spat.\"?",
+      "options": [
+        "Codling",
+        "Baby leopard",
+        "Baby oyster",
+        "Gosling"
+      ],
+      "answer": 2,
+      "explanation": "Baby oyster (noun) — Spat."
+    },
+    {
+      "id": "bab-q82",
+      "question": "Which word means: \"Cub.\"?",
+      "options": [
+        "Baby reindeer",
+        "Baby pigeon",
+        "Baby penguin",
+        "Baby panda"
+      ],
+      "answer": 3,
+      "explanation": "Baby panda (noun) — Cub."
+    },
+    {
+      "id": "bab-q83",
+      "question": "Which word means: \"Chick.\"?",
+      "options": [
+        "Baby jellyfish",
+        "Baby parrot",
+        "Poult",
+        "Caterpillar"
+      ],
+      "answer": 1,
+      "explanation": "Baby parrot (noun) — Chick."
+    },
+    {
+      "id": "bab-q84",
+      "question": "Which word means: \"Peachick.\"?",
+      "options": [
+        "Baby peacock",
+        "Baby platypus",
+        "Baby parrot",
+        "Baby camel"
+      ],
+      "answer": 0,
+      "explanation": "Baby peacock (noun) — Peachick."
+    },
+    {
+      "id": "bab-q85",
+      "question": "Which word means: \"Chick.\"?",
+      "options": [
+        "Baby penguin",
+        "Poult",
+        "Calf (whale)",
+        "Leveret"
+      ],
+      "answer": 0,
+      "explanation": "Baby penguin (noun) — Chick."
+    },
+    {
+      "id": "bab-q86",
+      "question": "Which word means: \"Squab.\"?",
+      "options": [
+        "Whelp",
+        "Baby pigeon",
+        "Kitten",
+        "Kitten (rabbit)"
+      ],
+      "answer": 1,
+      "explanation": "Baby pigeon (noun) — Squab."
+    },
+    {
+      "id": "bab-q87",
+      "question": "Which word means: \"Puggle.\"?",
+      "options": [
+        "Baby platypus",
+        "Baby zebra",
+        "Baby heron",
+        "Baby goat"
+      ],
+      "answer": 0,
+      "explanation": "Baby platypus (noun) — Puggle."
+    },
+    {
+      "id": "bab-q88",
+      "question": "Which word means: \"Porcupette.\"?",
+      "options": [
+        "Baby otter",
+        "Nestling",
+        "Baby zebra",
+        "Baby porcupine"
+      ],
+      "answer": 3,
+      "explanation": "Baby porcupine (noun) — Porcupette."
+    },
+    {
+      "id": "bab-q89",
+      "question": "Which word means: \"Chick.\"?",
+      "options": [
+        "Calf (whale)",
+        "Baby quail",
+        "Baby zebra",
+        "Baby rat"
+      ],
+      "answer": 1,
+      "explanation": "Baby quail (noun) — Chick."
+    },
+    {
+      "id": "bab-q90",
+      "question": "Which word means: \"Pup or kitten.\"?",
+      "options": [
+        "Kid",
+        "Larva",
+        "Baby rat",
+        "Baby beaver"
+      ],
+      "answer": 2,
+      "explanation": "Baby rat (noun) — Pup or kitten."
+    },
+    {
+      "id": "bab-q91",
+      "question": "Which word means: \"Calf.\"?",
+      "options": [
+        "Baby reindeer",
+        "Baby tiger",
+        "Baby crocodile",
+        "Baby swan"
+      ],
+      "answer": 0,
+      "explanation": "Baby reindeer (noun) — Calf."
+    },
+    {
+      "id": "bab-q92",
+      "question": "Which word means: \"Calf.\"?",
+      "options": [
+        "Poult",
+        "Baby eel",
+        "Baby rhinoceros",
+        "Calf (elephant)"
+      ],
+      "answer": 2,
+      "explanation": "Baby rhinoceros (noun) — Calf."
+    },
+    {
+      "id": "bab-q93",
+      "question": "Which word means: \"Pup.\"?",
+      "options": [
+        "Baby dove",
+        "Baby zebra",
+        "Elver",
+        "Baby seal"
+      ],
+      "answer": 3,
+      "explanation": "Baby seal (noun) — Pup."
+    },
+    {
+      "id": "bab-q94",
+      "question": "Which word means: \"Pup.\"?",
+      "options": [
+        "Baby monkey",
+        "Pup",
+        "Baby shark",
+        "Kit"
+      ],
+      "answer": 2,
+      "explanation": "Baby shark (noun) — Pup."
+    },
+    {
+      "id": "bab-q95",
+      "question": "Which word means: \"Kit.\"?",
+      "options": [
+        "Baby ferret",
+        "Baby skunk",
+        "Nymph",
+        "Baby parrot"
+      ],
+      "answer": 1,
+      "explanation": "Baby skunk (noun) — Kit."
+    },
+    {
+      "id": "bab-q96",
+      "question": "Which word means: \"Kit or kitten.\"?",
+      "options": [
+        "Elver",
+        "Baby wolf",
+        "Baby squirrel",
+        "Gosling"
+      ],
+      "answer": 2,
+      "explanation": "Baby squirrel (noun) — Kit or kitten."
+    },
+    {
+      "id": "bab-q97",
+      "question": "Which word means: \"Cygnet.\"?",
+      "options": [
+        "Baby chimp",
+        "Puppy",
+        "Baby swan",
+        "Baby gorilla"
+      ],
+      "answer": 2,
+      "explanation": "Baby swan (noun) — Cygnet."
+    },
+    {
+      "id": "bab-q98",
+      "question": "Which word means: \"Cub.\"?",
+      "options": [
+        "Baby tiger",
+        "Baby bear",
+        "Colt",
+        "Parr"
+      ],
+      "answer": 0,
+      "explanation": "Baby tiger (noun) — Cub."
+    },
+    {
+      "id": "bab-q99",
+      "question": "Which word means: \"Pup or whelp.\"?",
+      "options": [
+        "Yearling",
+        "Baby wolf",
+        "Tadpole",
+        "Gosling"
+      ],
+      "answer": 1,
+      "explanation": "Baby wolf (noun) — Pup or whelp."
+    },
+    {
+      "id": "bab-q100",
+      "question": "Which word means: \"Foal.\"?",
+      "options": [
+        "Eaglet",
+        "Baby zebra",
+        "Squab",
+        "Baby rhinoceros"
+      ],
+      "answer": 1,
+      "explanation": "Baby zebra (noun) — Foal."
+    }
+  ]
+}

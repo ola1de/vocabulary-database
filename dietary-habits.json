@@ -1,0 +1,1908 @@
+{
+  "category": "dietary-habits",
+  "title": "Dietary Habits",
+  "words": [
+    {
+      "id": "dh-01",
+      "word": "Carnivore",
+      "pos": "noun",
+      "definition": "One who eats meat.",
+      "example": "Lions are obligate carnivores."
+    },
+    {
+      "id": "dh-02",
+      "word": "Herbivore",
+      "pos": "noun",
+      "definition": "One who eats only plants.",
+      "example": "Cows are classic herbivores."
+    },
+    {
+      "id": "dh-03",
+      "word": "Omnivore",
+      "pos": "noun",
+      "definition": "One who eats both plants and animals.",
+      "example": "Humans are natural omnivores."
+    },
+    {
+      "id": "dh-04",
+      "word": "Insectivore",
+      "pos": "noun",
+      "definition": "One who eats insects.",
+      "example": "Anteaters are specialised insectivores."
+    },
+    {
+      "id": "dh-05",
+      "word": "Piscivore",
+      "pos": "noun",
+      "definition": "One who eats fish.",
+      "example": "Ospreys are piscivores."
+    },
+    {
+      "id": "dh-06",
+      "word": "Frugivore",
+      "pos": "noun",
+      "definition": "One who feeds mainly on fruit.",
+      "example": "Fruit bats are frugivores."
+    },
+    {
+      "id": "dh-07",
+      "word": "Granivore",
+      "pos": "noun",
+      "definition": "One who eats grain and seeds.",
+      "example": "Finches are granivores."
+    },
+    {
+      "id": "dh-08",
+      "word": "Nectarivore",
+      "pos": "noun",
+      "definition": "One who feeds on nectar.",
+      "example": "Hummingbirds are nectarivores."
+    },
+    {
+      "id": "dh-09",
+      "word": "Folivore",
+      "pos": "noun",
+      "definition": "One who eats leaves.",
+      "example": "Koalas are strict folivores."
+    },
+    {
+      "id": "dh-10",
+      "word": "Cannibal",
+      "pos": "noun",
+      "definition": "One who eats the flesh of its own species.",
+      "example": "Some fish are cannibals under stress."
+    },
+    {
+      "id": "dh-11",
+      "word": "Vegetarian",
+      "pos": "noun",
+      "definition": "One who abstains from meat.",
+      "example": "She has been a vegetarian since childhood."
+    },
+    {
+      "id": "dh-12",
+      "word": "Vegan",
+      "pos": "noun",
+      "definition": "One who abstains from all animal products.",
+      "example": "Vegans avoid dairy and eggs too."
+    },
+    {
+      "id": "dh-13",
+      "word": "Pescatarian",
+      "pos": "noun",
+      "definition": "One who eats fish but not other meats.",
+      "example": "Many Mediterranean diets are essentially pescatarian."
+    },
+    {
+      "id": "dh-14",
+      "word": "Flexitarian",
+      "pos": "noun",
+      "definition": "One who mostly eats plants but occasionally eats meat.",
+      "example": "Flexitarians cut meat without eliminating it."
+    },
+    {
+      "id": "dh-15",
+      "word": "Lacto-vegetarian",
+      "pos": "noun",
+      "definition": "A vegetarian who consumes dairy but not eggs.",
+      "example": "Many Hindu vegetarians are lacto-vegetarians."
+    },
+    {
+      "id": "dh-16",
+      "word": "Ovo-vegetarian",
+      "pos": "noun",
+      "definition": "A vegetarian who eats eggs but not dairy.",
+      "example": "Ovo-vegetarians avoid milk and cheese."
+    },
+    {
+      "id": "dh-17",
+      "word": "Lacto-ovo-vegetarian",
+      "pos": "noun",
+      "definition": "A vegetarian who eats both eggs and dairy.",
+      "example": "Most Western vegetarians are lacto-ovo-vegetarians."
+    },
+    {
+      "id": "dh-18",
+      "word": "Fruitarian",
+      "pos": "noun",
+      "definition": "One who eats only fruit.",
+      "example": "A strict fruitarian diet risks nutrient deficiency."
+    },
+    {
+      "id": "dh-19",
+      "word": "Locavore",
+      "pos": "noun",
+      "definition": "One who eats only locally produced food.",
+      "example": "Locavores prioritise food from within a hundred miles."
+    },
+    {
+      "id": "dh-20",
+      "word": "Freegan",
+      "pos": "noun",
+      "definition": "One who avoids buying by scavenging discarded food.",
+      "example": "Freegans protest food waste by dumpster-diving."
+    },
+    {
+      "id": "dh-21",
+      "word": "Gourmet",
+      "pos": "noun",
+      "definition": "A connoisseur of fine food and drink.",
+      "example": "The gourmet chose the tasting menu."
+    },
+    {
+      "id": "dh-22",
+      "word": "Gourmand",
+      "pos": "noun",
+      "definition": "A person who enjoys eating, often to excess.",
+      "example": "The gourmand ordered a second dessert."
+    },
+    {
+      "id": "dh-23",
+      "word": "Epicure",
+      "pos": "noun",
+      "definition": "A person with refined taste in food.",
+      "example": "Epicures debated the vintage at length."
+    },
+    {
+      "id": "dh-24",
+      "word": "Glutton",
+      "pos": "noun",
+      "definition": "One who eats to excess.",
+      "example": "Only a glutton would finish that platter alone."
+    },
+    {
+      "id": "dh-25",
+      "word": "Ascetic",
+      "pos": "noun",
+      "definition": "One who practises severe self-denial, often in diet.",
+      "example": "The ascetic broke fast only after sundown."
+    },
+    {
+      "id": "dh-26",
+      "word": "Teetotaller",
+      "pos": "noun",
+      "definition": "One who abstains from alcohol.",
+      "example": "As a teetotaller, he ordered lemonade."
+    },
+    {
+      "id": "dh-27",
+      "word": "Bibulous",
+      "pos": "adj",
+      "definition": "Excessively fond of drinking alcohol.",
+      "example": "His bibulous habits caught up with him."
+    },
+    {
+      "id": "dh-28",
+      "word": "Sommelier",
+      "pos": "noun",
+      "definition": "A wine steward at a restaurant.",
+      "example": "The sommelier paired the lamb with a Malbec."
+    },
+    {
+      "id": "dh-29",
+      "word": "Oenophile",
+      "pos": "noun",
+      "definition": "A lover of wine.",
+      "example": "The oenophile toured a dozen vineyards."
+    },
+    {
+      "id": "dh-30",
+      "word": "Foodie",
+      "pos": "noun",
+      "definition": "A person with a keen interest in food.",
+      "example": "Foodies queued for the new bakery."
+    },
+    {
+      "id": "dh-31",
+      "word": "Aficionado",
+      "pos": "noun",
+      "definition": "A person very knowledgeable about a subject, often food or drink.",
+      "example": "A cheese aficionado hosted the tasting."
+    },
+    {
+      "id": "dh-32",
+      "word": "Coeliac",
+      "pos": "adj/noun",
+      "definition": "A person intolerant to gluten.",
+      "example": "Coeliacs must avoid wheat, rye, and barley."
+    },
+    {
+      "id": "dh-33",
+      "word": "Diabetic",
+      "pos": "adj/noun",
+      "definition": "A person with diabetes, restricted in sugar intake.",
+      "example": "Diabetics monitor their carbohydrate intake."
+    },
+    {
+      "id": "dh-34",
+      "word": "Kosher",
+      "pos": "adj",
+      "definition": "Conforming to Jewish dietary laws.",
+      "example": "The restaurant kitchen is certified kosher."
+    },
+    {
+      "id": "dh-35",
+      "word": "Halal",
+      "pos": "adj",
+      "definition": "Permitted under Islamic dietary law.",
+      "example": "She sought a halal butcher in the new city."
+    },
+    {
+      "id": "dh-36",
+      "word": "Kaufmann",
+      "pos": "noun",
+      "definition": "A person who fasts periodically for religious reasons.",
+      "example": "Kaufmann-style fasting is practised in several traditions."
+    },
+    {
+      "id": "dh-37",
+      "word": "Xerophagy",
+      "pos": "noun",
+      "definition": "The eating of dry food, especially during religious fasts.",
+      "example": "Orthodox Lent traditionally includes xerophagy."
+    },
+    {
+      "id": "dh-38",
+      "word": "Gastronomy",
+      "pos": "noun",
+      "definition": "The practice or art of choosing, cooking, and eating good food.",
+      "example": "French gastronomy is UNESCO-listed heritage."
+    },
+    {
+      "id": "dh-39",
+      "word": "Palate",
+      "pos": "noun",
+      "definition": "A person's sense of taste.",
+      "example": "Her palate detected the faintest saffron."
+    },
+    {
+      "id": "dh-40",
+      "word": "Cuisine",
+      "pos": "noun",
+      "definition": "A style of cooking, especially as characteristic of a region.",
+      "example": "Thai cuisine balances sweet, sour and heat."
+    },
+    {
+      "id": "dh-41",
+      "word": "Ravenous",
+      "pos": "adj",
+      "definition": "Extremely hungry.",
+      "example": "After the hike they were ravenous."
+    },
+    {
+      "id": "dh-42",
+      "word": "Voracious",
+      "pos": "adj",
+      "definition": "Wanting or devouring great quantities of food.",
+      "example": "He had a voracious appetite as a teenager."
+    },
+    {
+      "id": "dh-43",
+      "word": "Insatiable",
+      "pos": "adj",
+      "definition": "Impossible to satisfy.",
+      "example": "His insatiable hunger surprised the waitstaff."
+    },
+    {
+      "id": "dh-44",
+      "word": "Peckish",
+      "pos": "adj",
+      "definition": "Slightly hungry.",
+      "example": "I'm feeling peckish before dinner."
+    },
+    {
+      "id": "dh-45",
+      "word": "Sated",
+      "pos": "adj",
+      "definition": "Fully satisfied, especially with food.",
+      "example": "He pushed the plate away, sated."
+    },
+    {
+      "id": "dh-46",
+      "word": "Fastidious",
+      "pos": "adj",
+      "definition": "Very particular about food and cleanliness.",
+      "example": "She was fastidious about the freshness of ingredients."
+    },
+    {
+      "id": "dh-47",
+      "word": "Picky",
+      "pos": "adj",
+      "definition": "Fussy about what one eats.",
+      "example": "The picky toddler rejected every vegetable."
+    },
+    {
+      "id": "dh-48",
+      "word": "Abstemious",
+      "pos": "adj",
+      "definition": "Sparing in eating and drinking.",
+      "example": "His abstemious lifestyle kept him lean."
+    },
+    {
+      "id": "dh-49",
+      "word": "Gluttonous",
+      "pos": "adj",
+      "definition": "Excessively greedy in eating.",
+      "example": "Gluttonous portions defined the era."
+    },
+    {
+      "id": "dh-50",
+      "word": "Frugivorous",
+      "pos": "adj",
+      "definition": "Fruit-eating in habit.",
+      "example": "Frugivorous species help disperse seeds."
+    },
+    {
+      "id": "dh-051",
+      "word": "Ovivore",
+      "pos": "noun",
+      "definition": "One who eats eggs.",
+      "example": "Some ovivores avoid all meat."
+    },
+    {
+      "id": "dh-052",
+      "word": "Mycophagist",
+      "pos": "noun",
+      "definition": "One who eats fungi.",
+      "example": "The mycophagist knew every safe mushroom."
+    },
+    {
+      "id": "dh-053",
+      "word": "Detritivore",
+      "pos": "noun",
+      "definition": "One who eats decomposing matter.",
+      "example": "Earthworms are detritivores."
+    },
+    {
+      "id": "dh-054",
+      "word": "Xylophagous",
+      "pos": "adj",
+      "definition": "Feeding on wood.",
+      "example": "Termites are xylophagous."
+    },
+    {
+      "id": "dh-055",
+      "word": "Sanguivore",
+      "pos": "noun",
+      "definition": "One who feeds on blood.",
+      "example": "Vampire bats are sanguivores."
+    },
+    {
+      "id": "dh-056",
+      "word": "Necrophagous",
+      "pos": "adj",
+      "definition": "Feeding on the dead.",
+      "example": "Vultures are necrophagous birds."
+    },
+    {
+      "id": "dh-057",
+      "word": "Coprophagous",
+      "pos": "adj",
+      "definition": "Feeding on faeces.",
+      "example": "Some beetles are coprophagous."
+    },
+    {
+      "id": "dh-058",
+      "word": "Palynivore",
+      "pos": "noun",
+      "definition": "One who eats pollen.",
+      "example": "Many bees are palynivores."
+    },
+    {
+      "id": "dh-059",
+      "word": "Nectarivorous",
+      "pos": "adj",
+      "definition": "Feeding on nectar.",
+      "example": "Hummingbirds are nectarivorous."
+    },
+    {
+      "id": "dh-060",
+      "word": "Molluscivore",
+      "pos": "noun",
+      "definition": "One who eats molluscs.",
+      "example": "Otters are noted molluscivores."
+    },
+    {
+      "id": "dh-061",
+      "word": "Ovo-lacto vegetarian",
+      "pos": "noun",
+      "definition": "Vegetarian who eats eggs and dairy.",
+      "example": "Most Western vegetarians are ovo-lacto."
+    },
+    {
+      "id": "dh-062",
+      "word": "Raw foodist",
+      "pos": "noun",
+      "definition": "Eats only uncooked food.",
+      "example": "The raw foodist prepared kale salads."
+    },
+    {
+      "id": "dh-063",
+      "word": "Macrobiotic",
+      "pos": "adj",
+      "definition": "Emphasising whole grains and vegetables.",
+      "example": "She adopted a macrobiotic diet."
+    },
+    {
+      "id": "dh-064",
+      "word": "Paleo",
+      "pos": "adj",
+      "definition": "Emulating Palaeolithic diets.",
+      "example": "He tried a paleo plan for a month."
+    },
+    {
+      "id": "dh-065",
+      "word": "Keto",
+      "pos": "adj",
+      "definition": "Very low-carbohydrate diet.",
+      "example": "Keto shifts the body to burning fat."
+    },
+    {
+      "id": "dh-066",
+      "word": "Intermittent faster",
+      "pos": "noun",
+      "definition": "One who alternates eating windows.",
+      "example": "The intermittent faster ate only midday."
+    },
+    {
+      "id": "dh-067",
+      "word": "Ovo-vegetarian",
+      "pos": "noun",
+      "definition": "Vegetarian who eats eggs but not dairy.",
+      "example": "Ovo-vegetarians avoid milk."
+    },
+    {
+      "id": "dh-068",
+      "word": "Semi-vegetarian",
+      "pos": "noun",
+      "definition": "Occasionally eats meat.",
+      "example": "Semi-vegetarians choose meat sparingly."
+    },
+    {
+      "id": "dh-069",
+      "word": "Pollo-vegetarian",
+      "pos": "noun",
+      "definition": "Vegetarian who eats poultry.",
+      "example": "Pollo-vegetarians exclude red meat."
+    },
+    {
+      "id": "dh-070",
+      "word": "Pollotarian",
+      "pos": "noun",
+      "definition": "Same as pollo-vegetarian.",
+      "example": "She is a pollotarian."
+    },
+    {
+      "id": "dh-071",
+      "word": "Ichthyovore",
+      "pos": "noun",
+      "definition": "Fish eater.",
+      "example": "Coastal peoples are often ichthyovores."
+    },
+    {
+      "id": "dh-072",
+      "word": "Ethical vegan",
+      "pos": "noun",
+      "definition": "Vegan on moral grounds.",
+      "example": "The ethical vegan avoided all leather."
+    },
+    {
+      "id": "dh-073",
+      "word": "Dietary vegan",
+      "pos": "noun",
+      "definition": "Vegan by diet only.",
+      "example": "Dietary vegans may still use wool."
+    },
+    {
+      "id": "dh-074",
+      "word": "Whole-foodist",
+      "pos": "noun",
+      "definition": "Prefers minimally processed foods.",
+      "example": "The whole-foodist shopped only at farmers' markets."
+    },
+    {
+      "id": "dh-075",
+      "word": "Halalist",
+      "pos": "noun",
+      "definition": "Follows halal dietary law.",
+      "example": "Halalists avoid pork."
+    },
+    {
+      "id": "dh-076",
+      "word": "Kashrut",
+      "pos": "noun",
+      "definition": "Jewish dietary code.",
+      "example": "Kashrut governs kosher food."
+    },
+    {
+      "id": "dh-077",
+      "word": "Sattvic",
+      "pos": "adj",
+      "definition": "Pure Yogic diet.",
+      "example": "A sattvic diet excludes onion and garlic."
+    },
+    {
+      "id": "dh-078",
+      "word": "Jain diet",
+      "pos": "noun",
+      "definition": "Excludes root vegetables and honey.",
+      "example": "Jain diet reflects non-violence."
+    },
+    {
+      "id": "dh-079",
+      "word": "Carnivorous",
+      "pos": "adj",
+      "definition": "Meat-eating.",
+      "example": "Lions are carnivorous."
+    },
+    {
+      "id": "dh-080",
+      "word": "Herbivorous",
+      "pos": "adj",
+      "definition": "Plant-eating.",
+      "example": "Cows are herbivorous."
+    },
+    {
+      "id": "dh-081",
+      "word": "Omnivorous",
+      "pos": "adj",
+      "definition": "Eating both plants and meat.",
+      "example": "Humans are omnivorous."
+    },
+    {
+      "id": "dh-082",
+      "word": "Insectivorous",
+      "pos": "adj",
+      "definition": "Insect-eating.",
+      "example": "Bats are largely insectivorous."
+    },
+    {
+      "id": "dh-083",
+      "word": "Piscivorous",
+      "pos": "adj",
+      "definition": "Fish-eating.",
+      "example": "Ospreys are piscivorous."
+    },
+    {
+      "id": "dh-084",
+      "word": "Frugivorous",
+      "pos": "adj",
+      "definition": "Fruit-eating.",
+      "example": "Toucans are frugivorous."
+    },
+    {
+      "id": "dh-085",
+      "word": "Granivorous",
+      "pos": "adj",
+      "definition": "Grain-eating.",
+      "example": "Pigeons are granivorous."
+    },
+    {
+      "id": "dh-086",
+      "word": "Bibulous",
+      "pos": "adj",
+      "definition": "Excessively fond of drinking.",
+      "example": "His bibulous evenings were legendary."
+    },
+    {
+      "id": "dh-087",
+      "word": "Abstemious",
+      "pos": "adj",
+      "definition": "Sparing in eating and drinking.",
+      "example": "She was abstemious at every meal."
+    },
+    {
+      "id": "dh-088",
+      "word": "Peckish",
+      "pos": "adj",
+      "definition": "Slightly hungry.",
+      "example": "I felt peckish before lunch."
+    },
+    {
+      "id": "dh-089",
+      "word": "Voracious",
+      "pos": "adj",
+      "definition": "Wanting large amounts of food.",
+      "example": "He had a voracious appetite."
+    },
+    {
+      "id": "dh-090",
+      "word": "Sated",
+      "pos": "adj",
+      "definition": "Fully satisfied.",
+      "example": "We left the buffet sated."
+    },
+    {
+      "id": "dh-091",
+      "word": "Ravenous",
+      "pos": "adj",
+      "definition": "Extremely hungry.",
+      "example": "After the hike we were ravenous."
+    },
+    {
+      "id": "dh-092",
+      "word": "Gluttonous",
+      "pos": "adj",
+      "definition": "Excessively greedy.",
+      "example": "His gluttonous ways worried his doctor."
+    },
+    {
+      "id": "dh-093",
+      "word": "Picky eater",
+      "pos": "noun",
+      "definition": "One who refuses many foods.",
+      "example": "The picky eater rejected the vegetables."
+    },
+    {
+      "id": "dh-094",
+      "word": "Foodie",
+      "pos": "noun",
+      "definition": "Enthusiast of food and cooking.",
+      "example": "The foodie photographed every dish."
+    },
+    {
+      "id": "dh-095",
+      "word": "Epicurean",
+      "pos": "adj",
+      "definition": "Devoted to sensory pleasure of food.",
+      "example": "He had epicurean tastes."
+    },
+    {
+      "id": "dh-096",
+      "word": "Vegetarianism",
+      "pos": "noun",
+      "definition": "Practice of not eating meat.",
+      "example": "Vegetarianism is growing globally."
+    },
+    {
+      "id": "dh-097",
+      "word": "Veganism",
+      "pos": "noun",
+      "definition": "Practice of avoiding all animal products.",
+      "example": "Veganism excludes dairy and eggs."
+    },
+    {
+      "id": "dh-098",
+      "word": "Fasting",
+      "pos": "noun",
+      "definition": "Abstaining from food.",
+      "example": "Fasting is common in many religions."
+    },
+    {
+      "id": "dh-099",
+      "word": "Feast",
+      "pos": "noun",
+      "definition": "A large ceremonial meal.",
+      "example": "The wedding feast lasted hours."
+    },
+    {
+      "id": "dh-100",
+      "word": "Snacker",
+      "pos": "noun",
+      "definition": "One who eats small amounts often.",
+      "example": "The snacker kept nuts on hand."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "die-q1",
+      "question": "Which word means: \"One who eats meat.\"?",
+      "options": [
+        "Lacto-vegetarian",
+        "Pollo-vegetarian",
+        "Carnivore",
+        "Sommelier"
+      ],
+      "answer": 2,
+      "explanation": "Carnivore (noun) — One who eats meat."
+    },
+    {
+      "id": "die-q2",
+      "question": "Which word means: \"One who eats only plants.\"?",
+      "options": [
+        "Freegan",
+        "Herbivore",
+        "Folivore",
+        "Picky eater"
+      ],
+      "answer": 1,
+      "explanation": "Herbivore (noun) — One who eats only plants."
+    },
+    {
+      "id": "die-q3",
+      "question": "Which word means: \"One who eats both plants and animals.\"?",
+      "options": [
+        "Omnivore",
+        "Aficionado",
+        "Semi-vegetarian",
+        "Xylophagous"
+      ],
+      "answer": 0,
+      "explanation": "Omnivore (noun) — One who eats both plants and animals."
+    },
+    {
+      "id": "die-q4",
+      "question": "Which word means: \"One who eats insects.\"?",
+      "options": [
+        "Kashrut",
+        "Insectivore",
+        "Intermittent faster",
+        "Flexitarian"
+      ],
+      "answer": 1,
+      "explanation": "Insectivore (noun) — One who eats insects."
+    },
+    {
+      "id": "die-q5",
+      "question": "Which word means: \"One who eats fish.\"?",
+      "options": [
+        "Whole-foodist",
+        "Piscivore",
+        "Sattvic",
+        "Vegetarian"
+      ],
+      "answer": 1,
+      "explanation": "Piscivore (noun) — One who eats fish."
+    },
+    {
+      "id": "die-q6",
+      "question": "Which word means: \"One who feeds mainly on fruit.\"?",
+      "options": [
+        "Coeliac",
+        "Frugivore",
+        "Palate",
+        "Halal"
+      ],
+      "answer": 1,
+      "explanation": "Frugivore (noun) — One who feeds mainly on fruit."
+    },
+    {
+      "id": "die-q7",
+      "question": "Which word means: \"One who eats grain and seeds.\"?",
+      "options": [
+        "Granivore",
+        "Kaufmann",
+        "Voracious",
+        "Nectarivorous"
+      ],
+      "answer": 0,
+      "explanation": "Granivore (noun) — One who eats grain and seeds."
+    },
+    {
+      "id": "die-q8",
+      "question": "Which word means: \"One who feeds on nectar.\"?",
+      "options": [
+        "Snacker",
+        "Kashrut",
+        "Nectarivore",
+        "Locavore"
+      ],
+      "answer": 2,
+      "explanation": "Nectarivore (noun) — One who feeds on nectar."
+    },
+    {
+      "id": "die-q9",
+      "question": "Which word means: \"One who eats leaves.\"?",
+      "options": [
+        "Folivore",
+        "Epicure",
+        "Nectarivorous",
+        "Ovo-lacto vegetarian"
+      ],
+      "answer": 0,
+      "explanation": "Folivore (noun) — One who eats leaves."
+    },
+    {
+      "id": "die-q10",
+      "question": "Which word means: \"One who eats the flesh of its own species.\"?",
+      "options": [
+        "Pollotarian",
+        "Snacker",
+        "Cannibal",
+        "Picky"
+      ],
+      "answer": 2,
+      "explanation": "Cannibal (noun) — One who eats the flesh of its own species."
+    },
+    {
+      "id": "die-q11",
+      "question": "Which word means: \"One who abstains from meat.\"?",
+      "options": [
+        "Lacto-ovo-vegetarian",
+        "Halal",
+        "Vegetarian",
+        "Ovo-lacto vegetarian"
+      ],
+      "answer": 2,
+      "explanation": "Vegetarian (noun) — One who abstains from meat."
+    },
+    {
+      "id": "die-q12",
+      "question": "Which word means: \"One who abstains from all animal products.\"?",
+      "options": [
+        "Carnivorous",
+        "Ravenous",
+        "Vegan",
+        "Gluttonous"
+      ],
+      "answer": 2,
+      "explanation": "Vegan (noun) — One who abstains from all animal products."
+    },
+    {
+      "id": "die-q13",
+      "question": "Which word means: \"One who eats fish but not other meats.\"?",
+      "options": [
+        "Freegan",
+        "Picky eater",
+        "Pescatarian",
+        "Vegan"
+      ],
+      "answer": 2,
+      "explanation": "Pescatarian (noun) — One who eats fish but not other meats."
+    },
+    {
+      "id": "die-q14",
+      "question": "Which word means: \"One who mostly eats plants but occasionally eats meat.\"?",
+      "options": [
+        "Flexitarian",
+        "Ovo-vegetarian",
+        "Granivore",
+        "Peckish"
+      ],
+      "answer": 0,
+      "explanation": "Flexitarian (noun) — One who mostly eats plants but occasionally eats meat."
+    },
+    {
+      "id": "die-q15",
+      "question": "Which word means: \"A vegetarian who consumes dairy but not eggs.\"?",
+      "options": [
+        "Nectarivorous",
+        "Lacto-vegetarian",
+        "Insectivore",
+        "Detritivore"
+      ],
+      "answer": 1,
+      "explanation": "Lacto-vegetarian (noun) — A vegetarian who consumes dairy but not eggs."
+    },
+    {
+      "id": "die-q16",
+      "question": "Which word means: \"A vegetarian who eats eggs but not dairy.\"?",
+      "options": [
+        "Locavore",
+        "Lacto-ovo-vegetarian",
+        "Ovo-vegetarian",
+        "Flexitarian"
+      ],
+      "answer": 2,
+      "explanation": "Ovo-vegetarian (noun) — A vegetarian who eats eggs but not dairy."
+    },
+    {
+      "id": "die-q17",
+      "question": "Which word means: \"A vegetarian who eats both eggs and dairy.\"?",
+      "options": [
+        "Bibulous",
+        "Fruitarian",
+        "Lacto-ovo-vegetarian",
+        "Detritivore"
+      ],
+      "answer": 2,
+      "explanation": "Lacto-ovo-vegetarian (noun) — A vegetarian who eats both eggs and dairy."
+    },
+    {
+      "id": "die-q18",
+      "question": "Which word means: \"One who eats only fruit.\"?",
+      "options": [
+        "Sattvic",
+        "Halal",
+        "Fruitarian",
+        "Kashrut"
+      ],
+      "answer": 2,
+      "explanation": "Fruitarian (noun) — One who eats only fruit."
+    },
+    {
+      "id": "die-q19",
+      "question": "Which word means: \"One who eats only locally produced food.\"?",
+      "options": [
+        "Palynivore",
+        "Locavore",
+        "Bibulous",
+        "Frugivorous"
+      ],
+      "answer": 1,
+      "explanation": "Locavore (noun) — One who eats only locally produced food."
+    },
+    {
+      "id": "die-q20",
+      "question": "Which word means: \"One who avoids buying by scavenging discarded food.\"?",
+      "options": [
+        "Ovo-lacto vegetarian",
+        "Frugivore",
+        "Freegan",
+        "Ovo-vegetarian"
+      ],
+      "answer": 2,
+      "explanation": "Freegan (noun) — One who avoids buying by scavenging discarded food."
+    },
+    {
+      "id": "die-q21",
+      "question": "Which word means: \"A connoisseur of fine food and drink.\"?",
+      "options": [
+        "Gourmet",
+        "Keto",
+        "Mycophagist",
+        "Foodie"
+      ],
+      "answer": 0,
+      "explanation": "Gourmet (noun) — A connoisseur of fine food and drink."
+    },
+    {
+      "id": "die-q22",
+      "question": "Which word means: \"A person who enjoys eating, often to excess.\"?",
+      "options": [
+        "Glutton",
+        "Oenophile",
+        "Gourmand",
+        "Picky"
+      ],
+      "answer": 2,
+      "explanation": "Gourmand (noun) — A person who enjoys eating, often to excess."
+    },
+    {
+      "id": "die-q23",
+      "question": "Which word means: \"A person with refined taste in food.\"?",
+      "options": [
+        "Nectarivorous",
+        "Epicure",
+        "Piscivore",
+        "Freegan"
+      ],
+      "answer": 1,
+      "explanation": "Epicure (noun) — A person with refined taste in food."
+    },
+    {
+      "id": "die-q24",
+      "question": "Which word means: \"One who eats to excess.\"?",
+      "options": [
+        "Xylophagous",
+        "Ethical vegan",
+        "Keto",
+        "Glutton"
+      ],
+      "answer": 3,
+      "explanation": "Glutton (noun) — One who eats to excess."
+    },
+    {
+      "id": "die-q25",
+      "question": "Which word means: \"One who practises severe self-denial, often in diet.\"?",
+      "options": [
+        "Ovivore",
+        "Fruitarian",
+        "Xerophagy",
+        "Ascetic"
+      ],
+      "answer": 3,
+      "explanation": "Ascetic (noun) — One who practises severe self-denial, often in diet."
+    },
+    {
+      "id": "die-q26",
+      "question": "Which word means: \"One who abstains from alcohol.\"?",
+      "options": [
+        "Insectivorous",
+        "Ichthyovore",
+        "Omnivore",
+        "Teetotaller"
+      ],
+      "answer": 3,
+      "explanation": "Teetotaller (noun) — One who abstains from alcohol."
+    },
+    {
+      "id": "die-q27",
+      "question": "Which word means: \"Excessively fond of drinking alcohol.\"?",
+      "options": [
+        "Macrobiotic",
+        "Ichthyovore",
+        "Bibulous",
+        "Paleo"
+      ],
+      "answer": 2,
+      "explanation": "Bibulous (adj) — Excessively fond of drinking alcohol."
+    },
+    {
+      "id": "die-q28",
+      "question": "Which word means: \"A wine steward at a restaurant.\"?",
+      "options": [
+        "Glutton",
+        "Sommelier",
+        "Kaufmann",
+        "Ovivore"
+      ],
+      "answer": 1,
+      "explanation": "Sommelier (noun) — A wine steward at a restaurant."
+    },
+    {
+      "id": "die-q29",
+      "question": "Which word means: \"A lover of wine.\"?",
+      "options": [
+        "Insectivore",
+        "Xerophagy",
+        "Nectarivore",
+        "Oenophile"
+      ],
+      "answer": 3,
+      "explanation": "Oenophile (noun) — A lover of wine."
+    },
+    {
+      "id": "die-q30",
+      "question": "Which word means: \"A person with a keen interest in food.\"?",
+      "options": [
+        "Aficionado",
+        "Gourmet",
+        "Foodie",
+        "Kashrut"
+      ],
+      "answer": 2,
+      "explanation": "Foodie (noun) — A person with a keen interest in food."
+    },
+    {
+      "id": "die-q31",
+      "question": "Which word means: \"A person very knowledgeable about a subject, often food or drink.\"?",
+      "options": [
+        "Vegetarianism",
+        "Pollotarian",
+        "Aficionado",
+        "Kaufmann"
+      ],
+      "answer": 2,
+      "explanation": "Aficionado (noun) — A person very knowledgeable about a subject, often food or drink."
+    },
+    {
+      "id": "die-q32",
+      "question": "Which word means: \"A person intolerant to gluten.\"?",
+      "options": [
+        "Picky",
+        "Epicure",
+        "Coeliac",
+        "Aficionado"
+      ],
+      "answer": 2,
+      "explanation": "Coeliac (adj/noun) — A person intolerant to gluten."
+    },
+    {
+      "id": "die-q33",
+      "question": "Which word means: \"A person with diabetes, restricted in sugar intake.\"?",
+      "options": [
+        "Insectivore",
+        "Sattvic",
+        "Diabetic",
+        "Gluttonous"
+      ],
+      "answer": 2,
+      "explanation": "Diabetic (adj/noun) — A person with diabetes, restricted in sugar intake."
+    },
+    {
+      "id": "die-q34",
+      "question": "Which word means: \"Conforming to Jewish dietary laws.\"?",
+      "options": [
+        "Kosher",
+        "Ascetic",
+        "Whole-foodist",
+        "Keto"
+      ],
+      "answer": 0,
+      "explanation": "Kosher (adj) — Conforming to Jewish dietary laws."
+    },
+    {
+      "id": "die-q35",
+      "question": "Which word means: \"Permitted under Islamic dietary law.\"?",
+      "options": [
+        "Halal",
+        "Piscivore",
+        "Nectarivore",
+        "Vegan"
+      ],
+      "answer": 0,
+      "explanation": "Halal (adj) — Permitted under Islamic dietary law."
+    },
+    {
+      "id": "die-q36",
+      "question": "Which word means: \"A person who fasts periodically for religious reasons.\"?",
+      "options": [
+        "Macrobiotic",
+        "Kaufmann",
+        "Pollo-vegetarian",
+        "Omnivore"
+      ],
+      "answer": 1,
+      "explanation": "Kaufmann (noun) — A person who fasts periodically for religious reasons."
+    },
+    {
+      "id": "die-q37",
+      "question": "Which word means: \"The eating of dry food, especially during religious fasts.\"?",
+      "options": [
+        "Picky eater",
+        "Lacto-ovo-vegetarian",
+        "Xerophagy",
+        "Sated"
+      ],
+      "answer": 2,
+      "explanation": "Xerophagy (noun) — The eating of dry food, especially during religious fasts."
+    },
+    {
+      "id": "die-q38",
+      "question": "Which word means: \"The practice or art of choosing, cooking, and eating good food.\"?",
+      "options": [
+        "Sattvic",
+        "Gastronomy",
+        "Omnivore",
+        "Locavore"
+      ],
+      "answer": 1,
+      "explanation": "Gastronomy (noun) — The practice or art of choosing, cooking, and eating good food."
+    },
+    {
+      "id": "die-q39",
+      "question": "Which word means: \"A person's sense of taste.\"?",
+      "options": [
+        "Gluttonous",
+        "Cannibal",
+        "Gluttonous",
+        "Palate"
+      ],
+      "answer": 3,
+      "explanation": "Palate (noun) — A person's sense of taste."
+    },
+    {
+      "id": "die-q40",
+      "question": "Which word means: \"A style of cooking, especially as characteristic of a region.\"?",
+      "options": [
+        "Insatiable",
+        "Cuisine",
+        "Sated",
+        "Palate"
+      ],
+      "answer": 1,
+      "explanation": "Cuisine (noun) — A style of cooking, especially as characteristic of a region."
+    },
+    {
+      "id": "die-q41",
+      "question": "Which word means: \"Extremely hungry.\"?",
+      "options": [
+        "Ravenous",
+        "Paleo",
+        "Piscivorous",
+        "Granivorous"
+      ],
+      "answer": 0,
+      "explanation": "Ravenous (adj) — Extremely hungry."
+    },
+    {
+      "id": "die-q42",
+      "question": "Which word means: \"Wanting or devouring great quantities of food.\"?",
+      "options": [
+        "Oenophile",
+        "Sattvic",
+        "Voracious",
+        "Abstemious"
+      ],
+      "answer": 2,
+      "explanation": "Voracious (adj) — Wanting or devouring great quantities of food."
+    },
+    {
+      "id": "die-q43",
+      "question": "Which word means: \"Impossible to satisfy.\"?",
+      "options": [
+        "Insatiable",
+        "Gastronomy",
+        "Epicurean",
+        "Sated"
+      ],
+      "answer": 0,
+      "explanation": "Insatiable (adj) — Impossible to satisfy."
+    },
+    {
+      "id": "die-q44",
+      "question": "Which word means: \"Slightly hungry.\"?",
+      "options": [
+        "Mycophagist",
+        "Halalist",
+        "Peckish",
+        "Gluttonous"
+      ],
+      "answer": 2,
+      "explanation": "Peckish (adj) — Slightly hungry."
+    },
+    {
+      "id": "die-q45",
+      "question": "Which word means: \"Fully satisfied, especially with food.\"?",
+      "options": [
+        "Piscivorous",
+        "Sated",
+        "Oenophile",
+        "Herbivorous"
+      ],
+      "answer": 1,
+      "explanation": "Sated (adj) — Fully satisfied, especially with food."
+    },
+    {
+      "id": "die-q46",
+      "question": "Which word means: \"Very particular about food and cleanliness.\"?",
+      "options": [
+        "Insatiable",
+        "Cannibal",
+        "Fastidious",
+        "Veganism"
+      ],
+      "answer": 2,
+      "explanation": "Fastidious (adj) — Very particular about food and cleanliness."
+    },
+    {
+      "id": "die-q47",
+      "question": "Which word means: \"Fussy about what one eats.\"?",
+      "options": [
+        "Picky",
+        "Gourmand",
+        "Piscivorous",
+        "Vegan"
+      ],
+      "answer": 0,
+      "explanation": "Picky (adj) — Fussy about what one eats."
+    },
+    {
+      "id": "die-q48",
+      "question": "Which word means: \"Sparing in eating and drinking.\"?",
+      "options": [
+        "Abstemious",
+        "Coeliac",
+        "Bibulous",
+        "Kosher"
+      ],
+      "answer": 0,
+      "explanation": "Abstemious (adj) — Sparing in eating and drinking."
+    },
+    {
+      "id": "die-q49",
+      "question": "Which word means: \"Excessively greedy in eating.\"?",
+      "options": [
+        "Gluttonous",
+        "Carnivore",
+        "Epicurean",
+        "Flexitarian"
+      ],
+      "answer": 0,
+      "explanation": "Gluttonous (adj) — Excessively greedy in eating."
+    },
+    {
+      "id": "die-q50",
+      "question": "Which word means: \"Fruit-eating in habit.\"?",
+      "options": [
+        "Vegetarianism",
+        "Gourmand",
+        "Sanguivore",
+        "Frugivorous"
+      ],
+      "answer": 3,
+      "explanation": "Frugivorous (adj) — Fruit-eating in habit."
+    },
+    {
+      "id": "die-q51",
+      "question": "Which word means: \"One who eats eggs.\"?",
+      "options": [
+        "Gluttonous",
+        "Ovivore",
+        "Ichthyovore",
+        "Sated"
+      ],
+      "answer": 1,
+      "explanation": "Ovivore (noun) — One who eats eggs."
+    },
+    {
+      "id": "die-q52",
+      "question": "Which word means: \"One who eats fungi.\"?",
+      "options": [
+        "Cannibal",
+        "Mycophagist",
+        "Nectarivorous",
+        "Gourmet"
+      ],
+      "answer": 1,
+      "explanation": "Mycophagist (noun) — One who eats fungi."
+    },
+    {
+      "id": "die-q53",
+      "question": "Which word means: \"One who eats decomposing matter.\"?",
+      "options": [
+        "Flexitarian",
+        "Detritivore",
+        "Kosher",
+        "Ravenous"
+      ],
+      "answer": 1,
+      "explanation": "Detritivore (noun) — One who eats decomposing matter."
+    },
+    {
+      "id": "die-q54",
+      "question": "Which word means: \"Feeding on wood.\"?",
+      "options": [
+        "Gourmet",
+        "Xylophagous",
+        "Epicurean",
+        "Gluttonous"
+      ],
+      "answer": 1,
+      "explanation": "Xylophagous (adj) — Feeding on wood."
+    },
+    {
+      "id": "die-q55",
+      "question": "Which word means: \"One who feeds on blood.\"?",
+      "options": [
+        "Jain diet",
+        "Peckish",
+        "Herbivorous",
+        "Sanguivore"
+      ],
+      "answer": 3,
+      "explanation": "Sanguivore (noun) — One who feeds on blood."
+    },
+    {
+      "id": "die-q56",
+      "question": "Which word means: \"Feeding on the dead.\"?",
+      "options": [
+        "Granivorous",
+        "Gourmand",
+        "Coprophagous",
+        "Necrophagous"
+      ],
+      "answer": 3,
+      "explanation": "Necrophagous (adj) — Feeding on the dead."
+    },
+    {
+      "id": "die-q57",
+      "question": "Which word means: \"Feeding on faeces.\"?",
+      "options": [
+        "Pescatarian",
+        "Bibulous",
+        "Coprophagous",
+        "Insatiable"
+      ],
+      "answer": 2,
+      "explanation": "Coprophagous (adj) — Feeding on faeces."
+    },
+    {
+      "id": "die-q58",
+      "question": "Which word means: \"One who eats pollen.\"?",
+      "options": [
+        "Palynivore",
+        "Palate",
+        "Bibulous",
+        "Xerophagy"
+      ],
+      "answer": 0,
+      "explanation": "Palynivore (noun) — One who eats pollen."
+    },
+    {
+      "id": "die-q59",
+      "question": "Which word means: \"Feeding on nectar.\"?",
+      "options": [
+        "Halalist",
+        "Ethical vegan",
+        "Ovivore",
+        "Nectarivorous"
+      ],
+      "answer": 3,
+      "explanation": "Nectarivorous (adj) — Feeding on nectar."
+    },
+    {
+      "id": "die-q60",
+      "question": "Which word means: \"One who eats molluscs.\"?",
+      "options": [
+        "Molluscivore",
+        "Sanguivore",
+        "Carnivore",
+        "Picky"
+      ],
+      "answer": 0,
+      "explanation": "Molluscivore (noun) — One who eats molluscs."
+    },
+    {
+      "id": "die-q61",
+      "question": "Which word means: \"Vegetarian who eats eggs and dairy.\"?",
+      "options": [
+        "Insectivore",
+        "Ovo-lacto vegetarian",
+        "Teetotaller",
+        "Pescatarian"
+      ],
+      "answer": 1,
+      "explanation": "Ovo-lacto vegetarian (noun) — Vegetarian who eats eggs and dairy."
+    },
+    {
+      "id": "die-q62",
+      "question": "Which word means: \"Eats only uncooked food.\"?",
+      "options": [
+        "Vegetarian",
+        "Raw foodist",
+        "Ovo-lacto vegetarian",
+        "Lacto-vegetarian"
+      ],
+      "answer": 1,
+      "explanation": "Raw foodist (noun) — Eats only uncooked food."
+    },
+    {
+      "id": "die-q63",
+      "question": "Which word means: \"Emphasising whole grains and vegetables.\"?",
+      "options": [
+        "Macrobiotic",
+        "Bibulous",
+        "Kosher",
+        "Paleo"
+      ],
+      "answer": 0,
+      "explanation": "Macrobiotic (adj) — Emphasising whole grains and vegetables."
+    },
+    {
+      "id": "die-q64",
+      "question": "Which word means: \"Emulating Palaeolithic diets.\"?",
+      "options": [
+        "Paleo",
+        "Abstemious",
+        "Glutton",
+        "Gluttonous"
+      ],
+      "answer": 0,
+      "explanation": "Paleo (adj) — Emulating Palaeolithic diets."
+    },
+    {
+      "id": "die-q65",
+      "question": "Which word means: \"Very low-carbohydrate diet.\"?",
+      "options": [
+        "Coprophagous",
+        "Frugivore",
+        "Kosher",
+        "Keto"
+      ],
+      "answer": 3,
+      "explanation": "Keto (adj) — Very low-carbohydrate diet."
+    },
+    {
+      "id": "die-q66",
+      "question": "Which word means: \"One who alternates eating windows.\"?",
+      "options": [
+        "Intermittent faster",
+        "Halal",
+        "Nectarivore",
+        "Whole-foodist"
+      ],
+      "answer": 0,
+      "explanation": "Intermittent faster (noun) — One who alternates eating windows."
+    },
+    {
+      "id": "die-q67",
+      "question": "Which word means: \"Vegetarian who eats eggs but not dairy.\"?",
+      "options": [
+        "Peckish",
+        "Vegetarian",
+        "Fastidious",
+        "Ovo-vegetarian"
+      ],
+      "answer": 3,
+      "explanation": "Ovo-vegetarian (noun) — Vegetarian who eats eggs but not dairy."
+    },
+    {
+      "id": "die-q68",
+      "question": "Which word means: \"Occasionally eats meat.\"?",
+      "options": [
+        "Ethical vegan",
+        "Nectarivore",
+        "Frugivorous",
+        "Semi-vegetarian"
+      ],
+      "answer": 3,
+      "explanation": "Semi-vegetarian (noun) — Occasionally eats meat."
+    },
+    {
+      "id": "die-q69",
+      "question": "Which word means: \"Vegetarian who eats poultry.\"?",
+      "options": [
+        "Pollo-vegetarian",
+        "Aficionado",
+        "Halalist",
+        "Ovo-lacto vegetarian"
+      ],
+      "answer": 0,
+      "explanation": "Pollo-vegetarian (noun) — Vegetarian who eats poultry."
+    },
+    {
+      "id": "die-q70",
+      "question": "Which word means: \"Same as pollo-vegetarian.\"?",
+      "options": [
+        "Keto",
+        "Pollotarian",
+        "Picky eater",
+        "Piscivore"
+      ],
+      "answer": 1,
+      "explanation": "Pollotarian (noun) — Same as pollo-vegetarian."
+    },
+    {
+      "id": "die-q71",
+      "question": "Which word means: \"Fish eater.\"?",
+      "options": [
+        "Ichthyovore",
+        "Sommelier",
+        "Epicure",
+        "Gourmand"
+      ],
+      "answer": 0,
+      "explanation": "Ichthyovore (noun) — Fish eater."
+    },
+    {
+      "id": "die-q72",
+      "question": "Which word means: \"Vegan on moral grounds.\"?",
+      "options": [
+        "Vegetarian",
+        "Voracious",
+        "Sanguivore",
+        "Ethical vegan"
+      ],
+      "answer": 3,
+      "explanation": "Ethical vegan (noun) — Vegan on moral grounds."
+    },
+    {
+      "id": "die-q73",
+      "question": "Which word means: \"Vegan by diet only.\"?",
+      "options": [
+        "Ravenous",
+        "Kosher",
+        "Dietary vegan",
+        "Jain diet"
+      ],
+      "answer": 2,
+      "explanation": "Dietary vegan (noun) — Vegan by diet only."
+    },
+    {
+      "id": "die-q74",
+      "question": "Which word means: \"Prefers minimally processed foods.\"?",
+      "options": [
+        "Ethical vegan",
+        "Whole-foodist",
+        "Ovivore",
+        "Ichthyovore"
+      ],
+      "answer": 1,
+      "explanation": "Whole-foodist (noun) — Prefers minimally processed foods."
+    },
+    {
+      "id": "die-q75",
+      "question": "Which word means: \"Follows halal dietary law.\"?",
+      "options": [
+        "Omnivorous",
+        "Ravenous",
+        "Herbivore",
+        "Halalist"
+      ],
+      "answer": 3,
+      "explanation": "Halalist (noun) — Follows halal dietary law."
+    },
+    {
+      "id": "die-q76",
+      "question": "Which word means: \"Jewish dietary code.\"?",
+      "options": [
+        "Locavore",
+        "Dietary vegan",
+        "Kashrut",
+        "Freegan"
+      ],
+      "answer": 2,
+      "explanation": "Kashrut (noun) — Jewish dietary code."
+    },
+    {
+      "id": "die-q77",
+      "question": "Which word means: \"Pure Yogic diet.\"?",
+      "options": [
+        "Xerophagy",
+        "Sated",
+        "Pollo-vegetarian",
+        "Sattvic"
+      ],
+      "answer": 3,
+      "explanation": "Sattvic (adj) — Pure Yogic diet."
+    },
+    {
+      "id": "die-q78",
+      "question": "Which word means: \"Excludes root vegetables and honey.\"?",
+      "options": [
+        "Macrobiotic",
+        "Whole-foodist",
+        "Granivorous",
+        "Jain diet"
+      ],
+      "answer": 3,
+      "explanation": "Jain diet (noun) — Excludes root vegetables and honey."
+    },
+    {
+      "id": "die-q79",
+      "question": "Which word means: \"Meat-eating.\"?",
+      "options": [
+        "Locavore",
+        "Mycophagist",
+        "Kaufmann",
+        "Carnivorous"
+      ],
+      "answer": 3,
+      "explanation": "Carnivorous (adj) — Meat-eating."
+    },
+    {
+      "id": "die-q80",
+      "question": "Which word means: \"Plant-eating.\"?",
+      "options": [
+        "Herbivorous",
+        "Sated",
+        "Aficionado",
+        "Insatiable"
+      ],
+      "answer": 0,
+      "explanation": "Herbivorous (adj) — Plant-eating."
+    },
+    {
+      "id": "die-q81",
+      "question": "Which word means: \"Eating both plants and meat.\"?",
+      "options": [
+        "Halal",
+        "Omnivorous",
+        "Abstemious",
+        "Omnivore"
+      ],
+      "answer": 1,
+      "explanation": "Omnivorous (adj) — Eating both plants and meat."
+    },
+    {
+      "id": "die-q82",
+      "question": "Which word means: \"Insect-eating.\"?",
+      "options": [
+        "Macrobiotic",
+        "Ravenous",
+        "Insectivorous",
+        "Kaufmann"
+      ],
+      "answer": 2,
+      "explanation": "Insectivorous (adj) — Insect-eating."
+    },
+    {
+      "id": "die-q83",
+      "question": "Which word means: \"Fish-eating.\"?",
+      "options": [
+        "Palate",
+        "Piscivorous",
+        "Veganism",
+        "Coprophagous"
+      ],
+      "answer": 1,
+      "explanation": "Piscivorous (adj) — Fish-eating."
+    },
+    {
+      "id": "die-q84",
+      "question": "Which word means: \"Fruit-eating.\"?",
+      "options": [
+        "Vegan",
+        "Carnivorous",
+        "Frugivorous",
+        "Granivorous"
+      ],
+      "answer": 2,
+      "explanation": "Frugivorous (adj) — Fruit-eating."
+    },
+    {
+      "id": "die-q85",
+      "question": "Which word means: \"Grain-eating.\"?",
+      "options": [
+        "Vegetarianism",
+        "Granivorous",
+        "Detritivore",
+        "Macrobiotic"
+      ],
+      "answer": 1,
+      "explanation": "Granivorous (adj) — Grain-eating."
+    },
+    {
+      "id": "die-q86",
+      "question": "Which word means: \"Excessively fond of drinking.\"?",
+      "options": [
+        "Ravenous",
+        "Picky eater",
+        "Folivore",
+        "Bibulous"
+      ],
+      "answer": 3,
+      "explanation": "Bibulous (adj) — Excessively fond of drinking."
+    },
+    {
+      "id": "die-q87",
+      "question": "Which word means: \"Sparing in eating and drinking.\"?",
+      "options": [
+        "Ascetic",
+        "Teetotaller",
+        "Abstemious",
+        "Epicure"
+      ],
+      "answer": 2,
+      "explanation": "Abstemious (adj) — Sparing in eating and drinking."
+    },
+    {
+      "id": "die-q88",
+      "question": "Which word means: \"Slightly hungry.\"?",
+      "options": [
+        "Molluscivore",
+        "Abstemious",
+        "Peckish",
+        "Granivore"
+      ],
+      "answer": 2,
+      "explanation": "Peckish (adj) — Slightly hungry."
+    },
+    {
+      "id": "die-q89",
+      "question": "Which word means: \"Wanting large amounts of food.\"?",
+      "options": [
+        "Intermittent faster",
+        "Voracious",
+        "Mycophagist",
+        "Ovo-lacto vegetarian"
+      ],
+      "answer": 1,
+      "explanation": "Voracious (adj) — Wanting large amounts of food."
+    },
+    {
+      "id": "die-q90",
+      "question": "Which word means: \"Fully satisfied.\"?",
+      "options": [
+        "Paleo",
+        "Gluttonous",
+        "Aficionado",
+        "Sated"
+      ],
+      "answer": 3,
+      "explanation": "Sated (adj) — Fully satisfied."
+    },
+    {
+      "id": "die-q91",
+      "question": "Which word means: \"Extremely hungry.\"?",
+      "options": [
+        "Ravenous",
+        "Ethical vegan",
+        "Sattvic",
+        "Fastidious"
+      ],
+      "answer": 0,
+      "explanation": "Ravenous (adj) — Extremely hungry."
+    },
+    {
+      "id": "die-q92",
+      "question": "Which word means: \"Excessively greedy.\"?",
+      "options": [
+        "Gluttonous",
+        "Sated",
+        "Fasting",
+        "Vegan"
+      ],
+      "answer": 0,
+      "explanation": "Gluttonous (adj) — Excessively greedy."
+    },
+    {
+      "id": "die-q93",
+      "question": "Which word means: \"One who refuses many foods.\"?",
+      "options": [
+        "Picky eater",
+        "Whole-foodist",
+        "Granivore",
+        "Gourmet"
+      ],
+      "answer": 0,
+      "explanation": "Picky eater (noun) — One who refuses many foods."
+    },
+    {
+      "id": "die-q94",
+      "question": "Which word means: \"Enthusiast of food and cooking.\"?",
+      "options": [
+        "Bibulous",
+        "Peckish",
+        "Kaufmann",
+        "Foodie"
+      ],
+      "answer": 3,
+      "explanation": "Foodie (noun) — Enthusiast of food and cooking."
+    },
+    {
+      "id": "die-q95",
+      "question": "Which word means: \"Devoted to sensory pleasure of food.\"?",
+      "options": [
+        "Peckish",
+        "Herbivore",
+        "Snacker",
+        "Epicurean"
+      ],
+      "answer": 3,
+      "explanation": "Epicurean (adj) — Devoted to sensory pleasure of food."
+    },
+    {
+      "id": "die-q96",
+      "question": "Which word means: \"Practice of not eating meat.\"?",
+      "options": [
+        "Sattvic",
+        "Herbivore",
+        "Vegetarianism",
+        "Oenophile"
+      ],
+      "answer": 2,
+      "explanation": "Vegetarianism (noun) — Practice of not eating meat."
+    },
+    {
+      "id": "die-q97",
+      "question": "Which word means: \"Practice of avoiding all animal products.\"?",
+      "options": [
+        "Gluttonous",
+        "Veganism",
+        "Ravenous",
+        "Piscivorous"
+      ],
+      "answer": 1,
+      "explanation": "Veganism (noun) — Practice of avoiding all animal products."
+    },
+    {
+      "id": "die-q98",
+      "question": "Which word means: \"Abstaining from food.\"?",
+      "options": [
+        "Sated",
+        "Diabetic",
+        "Fasting",
+        "Nectarivorous"
+      ],
+      "answer": 2,
+      "explanation": "Fasting (noun) — Abstaining from food."
+    },
+    {
+      "id": "die-q99",
+      "question": "Which word means: \"A large ceremonial meal.\"?",
+      "options": [
+        "Ovo-vegetarian",
+        "Abstemious",
+        "Herbivorous",
+        "Feast"
+      ],
+      "answer": 3,
+      "explanation": "Feast (noun) — A large ceremonial meal."
+    },
+    {
+      "id": "die-q100",
+      "question": "Which word means: \"One who eats small amounts often.\"?",
+      "options": [
+        "Carnivore",
+        "Intermittent faster",
+        "Snacker",
+        "Granivorous"
+      ],
+      "answer": 2,
+      "explanation": "Snacker (noun) — One who eats small amounts often."
+    }
+  ]
+}

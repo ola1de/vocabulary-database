@@ -1,0 +1,1908 @@
+{
+  "category": "words-for-killing",
+  "title": "Words for Killing",
+  "words": [
+    {
+      "id": "kl-01",
+      "word": "Homicide",
+      "pos": "noun",
+      "definition": "The killing of one person by another.",
+      "example": "The homicide detectives sealed the scene."
+    },
+    {
+      "id": "kl-02",
+      "word": "Murder",
+      "pos": "noun",
+      "definition": "The unlawful, premeditated killing of a person.",
+      "example": "He was convicted of murder in the first degree."
+    },
+    {
+      "id": "kl-03",
+      "word": "Manslaughter",
+      "pos": "noun",
+      "definition": "The unlawful killing of a person without malice aforethought.",
+      "example": "The charge was reduced to manslaughter."
+    },
+    {
+      "id": "kl-04",
+      "word": "Assassination",
+      "pos": "noun",
+      "definition": "The murder of a prominent person, often politically motivated.",
+      "example": "The assassination shocked the nation."
+    },
+    {
+      "id": "kl-05",
+      "word": "Suicide",
+      "pos": "noun",
+      "definition": "The intentional killing of oneself.",
+      "example": "Suicide prevention is a public-health priority."
+    },
+    {
+      "id": "kl-06",
+      "word": "Genocide",
+      "pos": "noun",
+      "definition": "The deliberate killing of a large group, especially of a nation or ethnic group.",
+      "example": "Genocide is prosecuted under international law."
+    },
+    {
+      "id": "kl-07",
+      "word": "Infanticide",
+      "pos": "noun",
+      "definition": "The killing of an infant.",
+      "example": "Historical records document tragic cases of infanticide."
+    },
+    {
+      "id": "kl-08",
+      "word": "Fratricide",
+      "pos": "noun",
+      "definition": "The killing of one's brother.",
+      "example": "Cain committed history's archetypal fratricide."
+    },
+    {
+      "id": "kl-09",
+      "word": "Sororicide",
+      "pos": "noun",
+      "definition": "The killing of one's sister.",
+      "example": "Sororicide is fortunately rare."
+    },
+    {
+      "id": "kl-10",
+      "word": "Patricide",
+      "pos": "noun",
+      "definition": "The killing of one's father.",
+      "example": "Oedipus is the most famous patricide."
+    },
+    {
+      "id": "kl-11",
+      "word": "Matricide",
+      "pos": "noun",
+      "definition": "The killing of one's mother.",
+      "example": "Orestes' matricide drove the Furies to torment him."
+    },
+    {
+      "id": "kl-12",
+      "word": "Filicide",
+      "pos": "noun",
+      "definition": "The killing of one's child.",
+      "example": "Medea's filicide is Greek tragedy's darkest turn."
+    },
+    {
+      "id": "kl-13",
+      "word": "Uxoricide",
+      "pos": "noun",
+      "definition": "The killing of one's wife.",
+      "example": "Uxoricide featured in many nineteenth-century sensational trials."
+    },
+    {
+      "id": "kl-14",
+      "word": "Mariticide",
+      "pos": "noun",
+      "definition": "The killing of one's husband.",
+      "example": "Mariticide, though rarer than uxoricide, is documented."
+    },
+    {
+      "id": "kl-15",
+      "word": "Parricide",
+      "pos": "noun",
+      "definition": "The killing of one's parent or close relative.",
+      "example": "Roman law reserved unique punishment for parricide."
+    },
+    {
+      "id": "kl-16",
+      "word": "Regicide",
+      "pos": "noun",
+      "definition": "The killing of a king.",
+      "example": "The regicide of Charles I astonished Europe."
+    },
+    {
+      "id": "kl-17",
+      "word": "Tyrannicide",
+      "pos": "noun",
+      "definition": "The killing of a tyrant.",
+      "example": "Some philosophers defended tyrannicide as a civic duty."
+    },
+    {
+      "id": "kl-18",
+      "word": "Deicide",
+      "pos": "noun",
+      "definition": "The killing of a god.",
+      "example": "Deicide is a recurring theme in mythology."
+    },
+    {
+      "id": "kl-19",
+      "word": "Ecocide",
+      "pos": "noun",
+      "definition": "The destruction of the natural environment.",
+      "example": "Some jurists propose ecocide as an international crime."
+    },
+    {
+      "id": "kl-20",
+      "word": "Biocide",
+      "pos": "noun",
+      "definition": "A substance that destroys living organisms.",
+      "example": "Farmers rotate biocides to slow resistance."
+    },
+    {
+      "id": "kl-21",
+      "word": "Herbicide",
+      "pos": "noun",
+      "definition": "A substance used to destroy plants, especially weeds.",
+      "example": "The herbicide sprayed on the field killed the vines."
+    },
+    {
+      "id": "kl-22",
+      "word": "Insecticide",
+      "pos": "noun",
+      "definition": "A substance used to kill insects.",
+      "example": "Insecticide use has declined with integrated pest management."
+    },
+    {
+      "id": "kl-23",
+      "word": "Pesticide",
+      "pos": "noun",
+      "definition": "A substance used to destroy pests.",
+      "example": "Pesticide residues are monitored on imported produce."
+    },
+    {
+      "id": "kl-24",
+      "word": "Rodenticide",
+      "pos": "noun",
+      "definition": "A substance used to kill rodents.",
+      "example": "Rodenticide is used cautiously near pets."
+    },
+    {
+      "id": "kl-25",
+      "word": "Bactericide",
+      "pos": "noun",
+      "definition": "A substance that kills bacteria.",
+      "example": "Copper surfaces act as a mild bactericide."
+    },
+    {
+      "id": "kl-26",
+      "word": "Fungicide",
+      "pos": "noun",
+      "definition": "A substance that destroys fungi.",
+      "example": "Fungicides protect the harvest from mould."
+    },
+    {
+      "id": "kl-27",
+      "word": "Vermicide",
+      "pos": "noun",
+      "definition": "A substance that kills worms, especially parasitic ones.",
+      "example": "Vermicides treat livestock parasites."
+    },
+    {
+      "id": "kl-28",
+      "word": "Aborticide",
+      "pos": "noun",
+      "definition": "The destruction of a foetus in the womb.",
+      "example": "Aborticide appears mainly in legal contexts."
+    },
+    {
+      "id": "kl-29",
+      "word": "Foeticide",
+      "pos": "noun",
+      "definition": "The killing of a foetus.",
+      "example": "Foeticide is treated distinctly in some legal codes."
+    },
+    {
+      "id": "kl-30",
+      "word": "Gendercide",
+      "pos": "noun",
+      "definition": "The systematic killing of members of a specific gender.",
+      "example": "Historians document gendercide in several conflicts."
+    },
+    {
+      "id": "kl-31",
+      "word": "Democide",
+      "pos": "noun",
+      "definition": "The murder of any person or people by a government.",
+      "example": "Political scientists coined democide for state killing."
+    },
+    {
+      "id": "kl-32",
+      "word": "Politicide",
+      "pos": "noun",
+      "definition": "The killing of a group because of its political stance.",
+      "example": "Politicide targeted the intelligentsia during the purges."
+    },
+    {
+      "id": "kl-33",
+      "word": "Femicide",
+      "pos": "noun",
+      "definition": "The killing of women, especially by men.",
+      "example": "Femicide has become a distinct category in criminology."
+    },
+    {
+      "id": "kl-34",
+      "word": "Euthanasia",
+      "pos": "noun",
+      "definition": "The painless killing of a suffering patient, at their request.",
+      "example": "The parliament debated legalising voluntary euthanasia."
+    },
+    {
+      "id": "kl-35",
+      "word": "Slaughter",
+      "pos": "noun",
+      "definition": "The killing of animals for food, or the mass killing of people.",
+      "example": "The slaughter of cattle is strictly regulated."
+    },
+    {
+      "id": "kl-36",
+      "word": "Massacre",
+      "pos": "noun",
+      "definition": "An indiscriminate killing of many people.",
+      "example": "The massacre drew international condemnation."
+    },
+    {
+      "id": "kl-37",
+      "word": "Carnage",
+      "pos": "noun",
+      "definition": "The killing of many people, especially in war.",
+      "example": "The battlefield was a scene of appalling carnage."
+    },
+    {
+      "id": "kl-38",
+      "word": "Butchery",
+      "pos": "noun",
+      "definition": "Savage killing, especially of many people.",
+      "example": "The war's early days brought unimaginable butchery."
+    },
+    {
+      "id": "kl-39",
+      "word": "Execution",
+      "pos": "noun",
+      "definition": "The carrying out of a death sentence.",
+      "example": "The execution was postponed pending appeal."
+    },
+    {
+      "id": "kl-40",
+      "word": "Lynching",
+      "pos": "noun",
+      "definition": "A killing by mob action without legal sanction.",
+      "example": "Lynching remains a stain on national history."
+    },
+    {
+      "id": "kl-41",
+      "word": "Poisoning",
+      "pos": "noun",
+      "definition": "Killing or harming by administering poison.",
+      "example": "Historical poisoning cases fill early forensic textbooks."
+    },
+    {
+      "id": "kl-42",
+      "word": "Assault",
+      "pos": "noun",
+      "definition": "A physical attack that may or may not cause death.",
+      "example": "The assault was captured on CCTV."
+    },
+    {
+      "id": "kl-43",
+      "word": "Slay",
+      "pos": "verb",
+      "definition": "To kill in a violent way (often literary).",
+      "example": "Legend claims he slew the dragon."
+    },
+    {
+      "id": "kl-44",
+      "word": "Dispatch",
+      "pos": "verb",
+      "definition": "To kill quickly and efficiently.",
+      "example": "The hunter dispatched the wounded animal humanely."
+    },
+    {
+      "id": "kl-45",
+      "word": "Liquidate",
+      "pos": "verb",
+      "definition": "To eliminate or kill, especially in political contexts.",
+      "example": "The regime liquidated its opponents."
+    },
+    {
+      "id": "kl-46",
+      "word": "Purge",
+      "pos": "noun",
+      "definition": "A sudden removal of people considered undesirable, often by killing.",
+      "example": "Stalin's purges killed hundreds of thousands."
+    },
+    {
+      "id": "kl-47",
+      "word": "Culling",
+      "pos": "noun",
+      "definition": "The selective killing of animals to reduce numbers.",
+      "example": "The culling of the deer herd was controversial."
+    },
+    {
+      "id": "kl-48",
+      "word": "Extermination",
+      "pos": "noun",
+      "definition": "The complete destruction of a group.",
+      "example": "The extermination camps epitomised state killing."
+    },
+    {
+      "id": "kl-49",
+      "word": "Bloodshed",
+      "pos": "noun",
+      "definition": "The killing or wounding of people.",
+      "example": "The rally ended without bloodshed."
+    },
+    {
+      "id": "kl-50",
+      "word": "Immolate",
+      "pos": "verb",
+      "definition": "To kill or offer as a sacrifice, especially by fire.",
+      "example": "He immolated himself in protest."
+    },
+    {
+      "id": "wfk-051",
+      "word": "Aviocide",
+      "pos": "noun",
+      "definition": "Killing of birds.",
+      "example": "Wind turbines can cause aviocide."
+    },
+    {
+      "id": "wfk-052",
+      "word": "Ceticide",
+      "pos": "noun",
+      "definition": "Killing of whales.",
+      "example": "Bans limit ceticide worldwide."
+    },
+    {
+      "id": "wfk-053",
+      "word": "Piscicide",
+      "pos": "noun",
+      "definition": "Killing of fish.",
+      "example": "Piscicides clear invasive fish."
+    },
+    {
+      "id": "wfk-054",
+      "word": "Formicide",
+      "pos": "noun",
+      "definition": "Killing of ants.",
+      "example": "The formicide cleared the pantry."
+    },
+    {
+      "id": "wfk-055",
+      "word": "Muscacide",
+      "pos": "noun",
+      "definition": "Killing of flies.",
+      "example": "The muscacide worked overnight."
+    },
+    {
+      "id": "wfk-056",
+      "word": "Pediculicide",
+      "pos": "noun",
+      "definition": "Killing of lice.",
+      "example": "Pediculicide shampoos treat head lice."
+    },
+    {
+      "id": "wfk-057",
+      "word": "Scabicide",
+      "pos": "noun",
+      "definition": "Killing of scabies mites.",
+      "example": "Scabicide cream cleared the rash."
+    },
+    {
+      "id": "wfk-058",
+      "word": "Termiticide",
+      "pos": "noun",
+      "definition": "Killing of termites.",
+      "example": "Termiticide protected the foundation."
+    },
+    {
+      "id": "wfk-059",
+      "word": "Viricide",
+      "pos": "noun",
+      "definition": "Killing of viruses.",
+      "example": "Some detergents act as viricides."
+    },
+    {
+      "id": "wfk-060",
+      "word": "Algicide",
+      "pos": "noun",
+      "definition": "Killing of algae.",
+      "example": "Algicides clean swimming pools."
+    },
+    {
+      "id": "wfk-061",
+      "word": "Molluscicide",
+      "pos": "noun",
+      "definition": "Killing of molluscs.",
+      "example": "Molluscicide baits reduce snails."
+    },
+    {
+      "id": "wfk-062",
+      "word": "Nematicide",
+      "pos": "noun",
+      "definition": "Killing of nematodes.",
+      "example": "Nematicides protect root crops."
+    },
+    {
+      "id": "wfk-063",
+      "word": "Acaricide",
+      "pos": "noun",
+      "definition": "Killing of mites and ticks.",
+      "example": "Acaricides protect livestock."
+    },
+    {
+      "id": "wfk-064",
+      "word": "Larvicide",
+      "pos": "noun",
+      "definition": "Killing of insect larvae.",
+      "example": "Larvicides reduce mosquito breeding."
+    },
+    {
+      "id": "wfk-065",
+      "word": "Ovicide",
+      "pos": "noun",
+      "definition": "Killing of insect eggs.",
+      "example": "Ovicides break the pest cycle."
+    },
+    {
+      "id": "wfk-066",
+      "word": "Silvicide",
+      "pos": "noun",
+      "definition": "Killing of forest trees.",
+      "example": "Silvicides thin unwanted species."
+    },
+    {
+      "id": "wfk-067",
+      "word": "Arboricide",
+      "pos": "noun",
+      "definition": "Killing of trees.",
+      "example": "Arboricide angered the community."
+    },
+    {
+      "id": "wfk-068",
+      "word": "Floricide",
+      "pos": "noun",
+      "definition": "Killing of flowers.",
+      "example": "Floricide is a poetic term."
+    },
+    {
+      "id": "wfk-069",
+      "word": "Populicide",
+      "pos": "noun",
+      "definition": "Slaughter of the people.",
+      "example": "Populicide is another word for massacre."
+    },
+    {
+      "id": "wfk-070",
+      "word": "Vaticide",
+      "pos": "noun",
+      "definition": "Killing of a prophet.",
+      "example": "Vaticide is rare in modern usage."
+    },
+    {
+      "id": "wfk-071",
+      "word": "Nepoticide",
+      "pos": "noun",
+      "definition": "Killing of one's nephew.",
+      "example": "Nepoticide appears in old chronicles."
+    },
+    {
+      "id": "wfk-072",
+      "word": "Amicicide",
+      "pos": "noun",
+      "definition": "Killing of a friend.",
+      "example": "Amicicide shocked the village."
+    },
+    {
+      "id": "wfk-073",
+      "word": "Prolicide",
+      "pos": "noun",
+      "definition": "Killing of one's offspring.",
+      "example": "Prolicide is a legal term."
+    },
+    {
+      "id": "wfk-074",
+      "word": "Neonaticide",
+      "pos": "noun",
+      "definition": "Killing of a newborn.",
+      "example": "Neonaticide is prosecuted separately."
+    },
+    {
+      "id": "wfk-075",
+      "word": "Senicide",
+      "pos": "noun",
+      "definition": "Killing of elderly people.",
+      "example": "Senicide has been recorded historically."
+    },
+    {
+      "id": "wfk-076",
+      "word": "Autocide",
+      "pos": "noun",
+      "definition": "Suicide by intentional car crash.",
+      "example": "Autocide is a modern coinage."
+    },
+    {
+      "id": "wfk-077",
+      "word": "Aborticide",
+      "pos": "noun",
+      "definition": "Killing of a foetus.",
+      "example": "Aborticide is a legal term."
+    },
+    {
+      "id": "wfk-078",
+      "word": "Feoticide",
+      "pos": "noun",
+      "definition": "Alternative spelling of foeticide.",
+      "example": "Feoticide is discussed in ethics."
+    },
+    {
+      "id": "wfk-079",
+      "word": "Sororicide",
+      "pos": "noun",
+      "definition": "Killing of one's sister.",
+      "example": "Sororicide featured in the trial."
+    },
+    {
+      "id": "wfk-080",
+      "word": "Filicide",
+      "pos": "noun",
+      "definition": "Killing of one's child.",
+      "example": "Filicide is the gravest family crime."
+    },
+    {
+      "id": "wfk-081",
+      "word": "Assassin",
+      "pos": "noun",
+      "definition": "One who murders by surprise attack.",
+      "example": "The assassin fled at once."
+    },
+    {
+      "id": "wfk-082",
+      "word": "Manslayer",
+      "pos": "noun",
+      "definition": "One who kills a person.",
+      "example": "Ancient law separated the manslayer from murderer."
+    },
+    {
+      "id": "wfk-083",
+      "word": "Perpetrator",
+      "pos": "noun",
+      "definition": "Committer of a crime.",
+      "example": "Police sought the perpetrator."
+    },
+    {
+      "id": "wfk-084",
+      "word": "Slayer",
+      "pos": "noun",
+      "definition": "One who kills.",
+      "example": "The slayer confessed."
+    },
+    {
+      "id": "wfk-085",
+      "word": "Executioner",
+      "pos": "noun",
+      "definition": "Officer who carries out death penalty.",
+      "example": "The executioner wore black."
+    },
+    {
+      "id": "wfk-086",
+      "word": "Assailant",
+      "pos": "noun",
+      "definition": "Attacker.",
+      "example": "The assailant escaped down the alley."
+    },
+    {
+      "id": "wfk-087",
+      "word": "Hitman",
+      "pos": "noun",
+      "definition": "Contract killer.",
+      "example": "Testimony named the hitman."
+    },
+    {
+      "id": "wfk-088",
+      "word": "Sniper",
+      "pos": "noun",
+      "definition": "Skilled long-range killer.",
+      "example": "The sniper hid on the roof."
+    },
+    {
+      "id": "wfk-089",
+      "word": "Butcher",
+      "pos": "noun",
+      "definition": "One who kills brutally.",
+      "example": "History branded him a butcher."
+    },
+    {
+      "id": "wfk-090",
+      "word": "Cutthroat",
+      "pos": "noun",
+      "definition": "Ruthless killer.",
+      "example": "Cutthroats roamed the port."
+    },
+    {
+      "id": "wfk-091",
+      "word": "Poisoner",
+      "pos": "noun",
+      "definition": "One who kills by poison.",
+      "example": "The poisoner was unmasked."
+    },
+    {
+      "id": "wfk-092",
+      "word": "Strangler",
+      "pos": "noun",
+      "definition": "One who kills by strangulation.",
+      "example": "Detectives hunted the strangler."
+    },
+    {
+      "id": "wfk-093",
+      "word": "Fratricidal",
+      "pos": "adj",
+      "definition": "Involving killing of a brother.",
+      "example": "The fratricidal war divided the nation."
+    },
+    {
+      "id": "wfk-094",
+      "word": "Patricidal",
+      "pos": "adj",
+      "definition": "Involving killing of one's father.",
+      "example": "Patricidal themes fill Greek tragedy."
+    },
+    {
+      "id": "wfk-095",
+      "word": "Regicidal",
+      "pos": "adj",
+      "definition": "Involving killing of a king.",
+      "example": "The regicidal plot failed."
+    },
+    {
+      "id": "wfk-096",
+      "word": "Genocidal",
+      "pos": "adj",
+      "definition": "Involving mass killing of a group.",
+      "example": "The regime's genocidal policy shocked the world."
+    },
+    {
+      "id": "wfk-097",
+      "word": "Suicidal",
+      "pos": "adj",
+      "definition": "Involving self-killing.",
+      "example": "Suicidal thoughts require support."
+    },
+    {
+      "id": "wfk-098",
+      "word": "Homicidal",
+      "pos": "adj",
+      "definition": "Tending to murder.",
+      "example": "His homicidal rage terrified witnesses."
+    },
+    {
+      "id": "wfk-099",
+      "word": "Culling",
+      "pos": "noun",
+      "definition": "Selective killing of animals.",
+      "example": "The badger cull sparked protests."
+    },
+    {
+      "id": "wfk-100",
+      "word": "Purge",
+      "pos": "noun",
+      "definition": "Removal by killing.",
+      "example": "The purge eliminated dissenters."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "wor-q1",
+      "question": "Which word means: \"The killing of one person by another.\"?",
+      "options": [
+        "Homicide",
+        "Bloodshed",
+        "Acaricide",
+        "Viricide"
+      ],
+      "answer": 0,
+      "explanation": "Homicide (noun) — The killing of one person by another."
+    },
+    {
+      "id": "wor-q2",
+      "question": "Which word means: \"The unlawful, premeditated killing of a person.\"?",
+      "options": [
+        "Biocide",
+        "Manslayer",
+        "Murder",
+        "Dispatch"
+      ],
+      "answer": 2,
+      "explanation": "Murder (noun) — The unlawful, premeditated killing of a person."
+    },
+    {
+      "id": "wor-q3",
+      "question": "Which word means: \"The unlawful killing of a person without malice aforethought.\"?",
+      "options": [
+        "Manslaughter",
+        "Aborticide",
+        "Aborticide",
+        "Larvicide"
+      ],
+      "answer": 0,
+      "explanation": "Manslaughter (noun) — The unlawful killing of a person without malice aforethought."
+    },
+    {
+      "id": "wor-q4",
+      "question": "Which word means: \"The murder of a prominent person, often politically motivated.\"?",
+      "options": [
+        "Nematicide",
+        "Assassination",
+        "Piscicide",
+        "Filicide"
+      ],
+      "answer": 1,
+      "explanation": "Assassination (noun) — The murder of a prominent person, often politically motivated."
+    },
+    {
+      "id": "wor-q5",
+      "question": "Which word means: \"The intentional killing of oneself.\"?",
+      "options": [
+        "Formicide",
+        "Suicide",
+        "Euthanasia",
+        "Poisoning"
+      ],
+      "answer": 1,
+      "explanation": "Suicide (noun) — The intentional killing of oneself."
+    },
+    {
+      "id": "wor-q6",
+      "question": "Which word means: \"The deliberate killing of a large group, especially of a nation or ethnic group.\"?",
+      "options": [
+        "Neonaticide",
+        "Cutthroat",
+        "Slay",
+        "Genocide"
+      ],
+      "answer": 3,
+      "explanation": "Genocide (noun) — The deliberate killing of a large group, especially of a nation or ethnic group."
+    },
+    {
+      "id": "wor-q7",
+      "question": "Which word means: \"The killing of an infant.\"?",
+      "options": [
+        "Cutthroat",
+        "Aborticide",
+        "Homicidal",
+        "Infanticide"
+      ],
+      "answer": 3,
+      "explanation": "Infanticide (noun) — The killing of an infant."
+    },
+    {
+      "id": "wor-q8",
+      "question": "Which word means: \"The killing of one's brother.\"?",
+      "options": [
+        "Assault",
+        "Fratricide",
+        "Executioner",
+        "Politicide"
+      ],
+      "answer": 1,
+      "explanation": "Fratricide (noun) — The killing of one's brother."
+    },
+    {
+      "id": "wor-q9",
+      "question": "Which word means: \"The killing of one's sister.\"?",
+      "options": [
+        "Suicidal",
+        "Prolicide",
+        "Sororicide",
+        "Arboricide"
+      ],
+      "answer": 2,
+      "explanation": "Sororicide (noun) — The killing of one's sister."
+    },
+    {
+      "id": "wor-q10",
+      "question": "Which word means: \"The killing of one's father.\"?",
+      "options": [
+        "Patricide",
+        "Immolate",
+        "Poisoner",
+        "Matricide"
+      ],
+      "answer": 0,
+      "explanation": "Patricide (noun) — The killing of one's father."
+    },
+    {
+      "id": "wor-q11",
+      "question": "Which word means: \"The killing of one's mother.\"?",
+      "options": [
+        "Tyrannicide",
+        "Matricide",
+        "Floricide",
+        "Suicidal"
+      ],
+      "answer": 1,
+      "explanation": "Matricide (noun) — The killing of one's mother."
+    },
+    {
+      "id": "wor-q12",
+      "question": "Which word means: \"The killing of one's child.\"?",
+      "options": [
+        "Pediculicide",
+        "Suicide",
+        "Regicide",
+        "Filicide"
+      ],
+      "answer": 3,
+      "explanation": "Filicide (noun) — The killing of one's child."
+    },
+    {
+      "id": "wor-q13",
+      "question": "Which word means: \"The killing of one's wife.\"?",
+      "options": [
+        "Amicicide",
+        "Ecocide",
+        "Suicidal",
+        "Uxoricide"
+      ],
+      "answer": 3,
+      "explanation": "Uxoricide (noun) — The killing of one's wife."
+    },
+    {
+      "id": "wor-q14",
+      "question": "Which word means: \"The killing of one's husband.\"?",
+      "options": [
+        "Execution",
+        "Tyrannicide",
+        "Mariticide",
+        "Scabicide"
+      ],
+      "answer": 2,
+      "explanation": "Mariticide (noun) — The killing of one's husband."
+    },
+    {
+      "id": "wor-q15",
+      "question": "Which word means: \"The killing of one's parent or close relative.\"?",
+      "options": [
+        "Slay",
+        "Floricide",
+        "Parricide",
+        "Filicide"
+      ],
+      "answer": 2,
+      "explanation": "Parricide (noun) — The killing of one's parent or close relative."
+    },
+    {
+      "id": "wor-q16",
+      "question": "Which word means: \"The killing of a king.\"?",
+      "options": [
+        "Biocide",
+        "Regicide",
+        "Floricide",
+        "Execution"
+      ],
+      "answer": 1,
+      "explanation": "Regicide (noun) — The killing of a king."
+    },
+    {
+      "id": "wor-q17",
+      "question": "Which word means: \"The killing of a tyrant.\"?",
+      "options": [
+        "Euthanasia",
+        "Floricide",
+        "Sororicide",
+        "Tyrannicide"
+      ],
+      "answer": 3,
+      "explanation": "Tyrannicide (noun) — The killing of a tyrant."
+    },
+    {
+      "id": "wor-q18",
+      "question": "Which word means: \"The killing of a god.\"?",
+      "options": [
+        "Patricidal",
+        "Deicide",
+        "Dispatch",
+        "Suicidal"
+      ],
+      "answer": 1,
+      "explanation": "Deicide (noun) — The killing of a god."
+    },
+    {
+      "id": "wor-q19",
+      "question": "Which word means: \"The destruction of the natural environment.\"?",
+      "options": [
+        "Muscacide",
+        "Ecocide",
+        "Murder",
+        "Assault"
+      ],
+      "answer": 1,
+      "explanation": "Ecocide (noun) — The destruction of the natural environment."
+    },
+    {
+      "id": "wor-q20",
+      "question": "Which word means: \"A substance that destroys living organisms.\"?",
+      "options": [
+        "Biocide",
+        "Poisoning",
+        "Sororicide",
+        "Homicide"
+      ],
+      "answer": 0,
+      "explanation": "Biocide (noun) — A substance that destroys living organisms."
+    },
+    {
+      "id": "wor-q21",
+      "question": "Which word means: \"A substance used to destroy plants, especially weeds.\"?",
+      "options": [
+        "Dispatch",
+        "Algicide",
+        "Herbicide",
+        "Vaticide"
+      ],
+      "answer": 2,
+      "explanation": "Herbicide (noun) — A substance used to destroy plants, especially weeds."
+    },
+    {
+      "id": "wor-q22",
+      "question": "Which word means: \"A substance used to kill insects.\"?",
+      "options": [
+        "Herbicide",
+        "Feoticide",
+        "Insecticide",
+        "Sororicide"
+      ],
+      "answer": 2,
+      "explanation": "Insecticide (noun) — A substance used to kill insects."
+    },
+    {
+      "id": "wor-q23",
+      "question": "Which word means: \"A substance used to destroy pests.\"?",
+      "options": [
+        "Purge",
+        "Murder",
+        "Pesticide",
+        "Manslayer"
+      ],
+      "answer": 2,
+      "explanation": "Pesticide (noun) — A substance used to destroy pests."
+    },
+    {
+      "id": "wor-q24",
+      "question": "Which word means: \"A substance used to kill rodents.\"?",
+      "options": [
+        "Pediculicide",
+        "Rodenticide",
+        "Autocide",
+        "Regicidal"
+      ],
+      "answer": 1,
+      "explanation": "Rodenticide (noun) — A substance used to kill rodents."
+    },
+    {
+      "id": "wor-q25",
+      "question": "Which word means: \"A substance that kills bacteria.\"?",
+      "options": [
+        "Bactericide",
+        "Nepoticide",
+        "Euthanasia",
+        "Prolicide"
+      ],
+      "answer": 0,
+      "explanation": "Bactericide (noun) — A substance that kills bacteria."
+    },
+    {
+      "id": "wor-q26",
+      "question": "Which word means: \"A substance that destroys fungi.\"?",
+      "options": [
+        "Fungicide",
+        "Regicidal",
+        "Mariticide",
+        "Foeticide"
+      ],
+      "answer": 0,
+      "explanation": "Fungicide (noun) — A substance that destroys fungi."
+    },
+    {
+      "id": "wor-q27",
+      "question": "Which word means: \"A substance that kills worms, especially parasitic ones.\"?",
+      "options": [
+        "Neonaticide",
+        "Tyrannicide",
+        "Mariticide",
+        "Vermicide"
+      ],
+      "answer": 3,
+      "explanation": "Vermicide (noun) — A substance that kills worms, especially parasitic ones."
+    },
+    {
+      "id": "wor-q28",
+      "question": "Which word means: \"The destruction of a foetus in the womb.\"?",
+      "options": [
+        "Assassin",
+        "Sniper",
+        "Suicidal",
+        "Aborticide"
+      ],
+      "answer": 3,
+      "explanation": "Aborticide (noun) — The destruction of a foetus in the womb."
+    },
+    {
+      "id": "wor-q29",
+      "question": "Which word means: \"The killing of a foetus.\"?",
+      "options": [
+        "Democide",
+        "Foeticide",
+        "Aborticide",
+        "Homicide"
+      ],
+      "answer": 1,
+      "explanation": "Foeticide (noun) — The killing of a foetus."
+    },
+    {
+      "id": "wor-q30",
+      "question": "Which word means: \"The systematic killing of members of a specific gender.\"?",
+      "options": [
+        "Nematicide",
+        "Gendercide",
+        "Insecticide",
+        "Ecocide"
+      ],
+      "answer": 1,
+      "explanation": "Gendercide (noun) — The systematic killing of members of a specific gender."
+    },
+    {
+      "id": "wor-q31",
+      "question": "Which word means: \"The murder of any person or people by a government.\"?",
+      "options": [
+        "Infanticide",
+        "Arboricide",
+        "Deicide",
+        "Democide"
+      ],
+      "answer": 3,
+      "explanation": "Democide (noun) — The murder of any person or people by a government."
+    },
+    {
+      "id": "wor-q32",
+      "question": "Which word means: \"The killing of a group because of its political stance.\"?",
+      "options": [
+        "Silvicide",
+        "Lynching",
+        "Politicide",
+        "Slay"
+      ],
+      "answer": 2,
+      "explanation": "Politicide (noun) — The killing of a group because of its political stance."
+    },
+    {
+      "id": "wor-q33",
+      "question": "Which word means: \"The killing of women, especially by men.\"?",
+      "options": [
+        "Immolate",
+        "Strangler",
+        "Aviocide",
+        "Femicide"
+      ],
+      "answer": 3,
+      "explanation": "Femicide (noun) — The killing of women, especially by men."
+    },
+    {
+      "id": "wor-q34",
+      "question": "Which word means: \"The painless killing of a suffering patient, at their request.\"?",
+      "options": [
+        "Assault",
+        "Euthanasia",
+        "Populicide",
+        "Floricide"
+      ],
+      "answer": 1,
+      "explanation": "Euthanasia (noun) — The painless killing of a suffering patient, at their request."
+    },
+    {
+      "id": "wor-q35",
+      "question": "Which word means: \"The killing of animals for food, or the mass killing of people.\"?",
+      "options": [
+        "Insecticide",
+        "Carnage",
+        "Slaughter",
+        "Perpetrator"
+      ],
+      "answer": 2,
+      "explanation": "Slaughter (noun) — The killing of animals for food, or the mass killing of people."
+    },
+    {
+      "id": "wor-q36",
+      "question": "Which word means: \"An indiscriminate killing of many people.\"?",
+      "options": [
+        "Massacre",
+        "Cutthroat",
+        "Femicide",
+        "Larvicide"
+      ],
+      "answer": 0,
+      "explanation": "Massacre (noun) — An indiscriminate killing of many people."
+    },
+    {
+      "id": "wor-q37",
+      "question": "Which word means: \"The killing of many people, especially in war.\"?",
+      "options": [
+        "Carnage",
+        "Pesticide",
+        "Purge",
+        "Executioner"
+      ],
+      "answer": 0,
+      "explanation": "Carnage (noun) — The killing of many people, especially in war."
+    },
+    {
+      "id": "wor-q38",
+      "question": "Which word means: \"Savage killing, especially of many people.\"?",
+      "options": [
+        "Hitman",
+        "Purge",
+        "Purge",
+        "Butchery"
+      ],
+      "answer": 3,
+      "explanation": "Butchery (noun) — Savage killing, especially of many people."
+    },
+    {
+      "id": "wor-q39",
+      "question": "Which word means: \"The carrying out of a death sentence.\"?",
+      "options": [
+        "Pesticide",
+        "Bloodshed",
+        "Execution",
+        "Immolate"
+      ],
+      "answer": 2,
+      "explanation": "Execution (noun) — The carrying out of a death sentence."
+    },
+    {
+      "id": "wor-q40",
+      "question": "Which word means: \"A killing by mob action without legal sanction.\"?",
+      "options": [
+        "Lynching",
+        "Populicide",
+        "Bactericide",
+        "Extermination"
+      ],
+      "answer": 0,
+      "explanation": "Lynching (noun) — A killing by mob action without legal sanction."
+    },
+    {
+      "id": "wor-q41",
+      "question": "Which word means: \"Killing or harming by administering poison.\"?",
+      "options": [
+        "Uxoricide",
+        "Dispatch",
+        "Poisoning",
+        "Bloodshed"
+      ],
+      "answer": 2,
+      "explanation": "Poisoning (noun) — Killing or harming by administering poison."
+    },
+    {
+      "id": "wor-q42",
+      "question": "Which word means: \"A physical attack that may or may not cause death.\"?",
+      "options": [
+        "Sororicide",
+        "Slaughter",
+        "Assault",
+        "Suicide"
+      ],
+      "answer": 2,
+      "explanation": "Assault (noun) — A physical attack that may or may not cause death."
+    },
+    {
+      "id": "wor-q43",
+      "question": "Which word means: \"To kill in a violent way (often literary).\"?",
+      "options": [
+        "Slay",
+        "Ceticide",
+        "Genocide",
+        "Poisoner"
+      ],
+      "answer": 0,
+      "explanation": "Slay (verb) — To kill in a violent way (often literary)."
+    },
+    {
+      "id": "wor-q44",
+      "question": "Which word means: \"To kill quickly and efficiently.\"?",
+      "options": [
+        "Senicide",
+        "Assassination",
+        "Fratricidal",
+        "Dispatch"
+      ],
+      "answer": 3,
+      "explanation": "Dispatch (verb) — To kill quickly and efficiently."
+    },
+    {
+      "id": "wor-q45",
+      "question": "Which word means: \"To eliminate or kill, especially in political contexts.\"?",
+      "options": [
+        "Nematicide",
+        "Pesticide",
+        "Liquidate",
+        "Larvicide"
+      ],
+      "answer": 2,
+      "explanation": "Liquidate (verb) — To eliminate or kill, especially in political contexts."
+    },
+    {
+      "id": "wor-q46",
+      "question": "Which word means: \"A sudden removal of people considered undesirable, often by killing.\"?",
+      "options": [
+        "Purge",
+        "Assassination",
+        "Fratricidal",
+        "Filicide"
+      ],
+      "answer": 0,
+      "explanation": "Purge (noun) — A sudden removal of people considered undesirable, often by killing."
+    },
+    {
+      "id": "wor-q47",
+      "question": "Which word means: \"The selective killing of animals to reduce numbers.\"?",
+      "options": [
+        "Muscacide",
+        "Matricide",
+        "Culling",
+        "Tyrannicide"
+      ],
+      "answer": 2,
+      "explanation": "Culling (noun) — The selective killing of animals to reduce numbers."
+    },
+    {
+      "id": "wor-q48",
+      "question": "Which word means: \"The complete destruction of a group.\"?",
+      "options": [
+        "Extermination",
+        "Strangler",
+        "Perpetrator",
+        "Fratricide"
+      ],
+      "answer": 0,
+      "explanation": "Extermination (noun) — The complete destruction of a group."
+    },
+    {
+      "id": "wor-q49",
+      "question": "Which word means: \"The killing or wounding of people.\"?",
+      "options": [
+        "Bloodshed",
+        "Filicide",
+        "Executioner",
+        "Bactericide"
+      ],
+      "answer": 0,
+      "explanation": "Bloodshed (noun) — The killing or wounding of people."
+    },
+    {
+      "id": "wor-q50",
+      "question": "Which word means: \"To kill or offer as a sacrifice, especially by fire.\"?",
+      "options": [
+        "Insecticide",
+        "Strangler",
+        "Immolate",
+        "Aborticide"
+      ],
+      "answer": 2,
+      "explanation": "Immolate (verb) — To kill or offer as a sacrifice, especially by fire."
+    },
+    {
+      "id": "wor-q51",
+      "question": "Which word means: \"Killing of birds.\"?",
+      "options": [
+        "Piscicide",
+        "Muscacide",
+        "Aviocide",
+        "Hitman"
+      ],
+      "answer": 2,
+      "explanation": "Aviocide (noun) — Killing of birds."
+    },
+    {
+      "id": "wor-q52",
+      "question": "Which word means: \"Killing of whales.\"?",
+      "options": [
+        "Silvicide",
+        "Ceticide",
+        "Culling",
+        "Ecocide"
+      ],
+      "answer": 1,
+      "explanation": "Ceticide (noun) — Killing of whales."
+    },
+    {
+      "id": "wor-q53",
+      "question": "Which word means: \"Killing of fish.\"?",
+      "options": [
+        "Termiticide",
+        "Piscicide",
+        "Massacre",
+        "Genocide"
+      ],
+      "answer": 1,
+      "explanation": "Piscicide (noun) — Killing of fish."
+    },
+    {
+      "id": "wor-q54",
+      "question": "Which word means: \"Killing of ants.\"?",
+      "options": [
+        "Formicide",
+        "Suicidal",
+        "Perpetrator",
+        "Pesticide"
+      ],
+      "answer": 0,
+      "explanation": "Formicide (noun) — Killing of ants."
+    },
+    {
+      "id": "wor-q55",
+      "question": "Which word means: \"Killing of flies.\"?",
+      "options": [
+        "Muscacide",
+        "Prolicide",
+        "Liquidate",
+        "Regicide"
+      ],
+      "answer": 0,
+      "explanation": "Muscacide (noun) — Killing of flies."
+    },
+    {
+      "id": "wor-q56",
+      "question": "Which word means: \"Killing of lice.\"?",
+      "options": [
+        "Molluscicide",
+        "Filicide",
+        "Pediculicide",
+        "Neonaticide"
+      ],
+      "answer": 2,
+      "explanation": "Pediculicide (noun) — Killing of lice."
+    },
+    {
+      "id": "wor-q57",
+      "question": "Which word means: \"Killing of scabies mites.\"?",
+      "options": [
+        "Filicide",
+        "Regicidal",
+        "Scabicide",
+        "Rodenticide"
+      ],
+      "answer": 2,
+      "explanation": "Scabicide (noun) — Killing of scabies mites."
+    },
+    {
+      "id": "wor-q58",
+      "question": "Which word means: \"Killing of termites.\"?",
+      "options": [
+        "Purge",
+        "Termiticide",
+        "Murder",
+        "Insecticide"
+      ],
+      "answer": 1,
+      "explanation": "Termiticide (noun) — Killing of termites."
+    },
+    {
+      "id": "wor-q59",
+      "question": "Which word means: \"Killing of viruses.\"?",
+      "options": [
+        "Patricidal",
+        "Algicide",
+        "Viricide",
+        "Matricide"
+      ],
+      "answer": 2,
+      "explanation": "Viricide (noun) — Killing of viruses."
+    },
+    {
+      "id": "wor-q60",
+      "question": "Which word means: \"Killing of algae.\"?",
+      "options": [
+        "Genocidal",
+        "Suicidal",
+        "Algicide",
+        "Homicidal"
+      ],
+      "answer": 2,
+      "explanation": "Algicide (noun) — Killing of algae."
+    },
+    {
+      "id": "wor-q61",
+      "question": "Which word means: \"Killing of molluscs.\"?",
+      "options": [
+        "Carnage",
+        "Bloodshed",
+        "Molluscicide",
+        "Strangler"
+      ],
+      "answer": 2,
+      "explanation": "Molluscicide (noun) — Killing of molluscs."
+    },
+    {
+      "id": "wor-q62",
+      "question": "Which word means: \"Killing of nematodes.\"?",
+      "options": [
+        "Piscicide",
+        "Nematicide",
+        "Neonaticide",
+        "Poisoning"
+      ],
+      "answer": 1,
+      "explanation": "Nematicide (noun) — Killing of nematodes."
+    },
+    {
+      "id": "wor-q63",
+      "question": "Which word means: \"Killing of mites and ticks.\"?",
+      "options": [
+        "Fungicide",
+        "Pesticide",
+        "Acaricide",
+        "Butchery"
+      ],
+      "answer": 2,
+      "explanation": "Acaricide (noun) — Killing of mites and ticks."
+    },
+    {
+      "id": "wor-q64",
+      "question": "Which word means: \"Killing of insect larvae.\"?",
+      "options": [
+        "Euthanasia",
+        "Filicide",
+        "Larvicide",
+        "Acaricide"
+      ],
+      "answer": 2,
+      "explanation": "Larvicide (noun) — Killing of insect larvae."
+    },
+    {
+      "id": "wor-q65",
+      "question": "Which word means: \"Killing of insect eggs.\"?",
+      "options": [
+        "Purge",
+        "Liquidate",
+        "Slayer",
+        "Ovicide"
+      ],
+      "answer": 3,
+      "explanation": "Ovicide (noun) — Killing of insect eggs."
+    },
+    {
+      "id": "wor-q66",
+      "question": "Which word means: \"Killing of forest trees.\"?",
+      "options": [
+        "Silvicide",
+        "Suicide",
+        "Immolate",
+        "Autocide"
+      ],
+      "answer": 0,
+      "explanation": "Silvicide (noun) — Killing of forest trees."
+    },
+    {
+      "id": "wor-q67",
+      "question": "Which word means: \"Killing of trees.\"?",
+      "options": [
+        "Arboricide",
+        "Pediculicide",
+        "Poisoner",
+        "Liquidate"
+      ],
+      "answer": 0,
+      "explanation": "Arboricide (noun) — Killing of trees."
+    },
+    {
+      "id": "wor-q68",
+      "question": "Which word means: \"Killing of flowers.\"?",
+      "options": [
+        "Ovicide",
+        "Floricide",
+        "Poisoner",
+        "Amicicide"
+      ],
+      "answer": 1,
+      "explanation": "Floricide (noun) — Killing of flowers."
+    },
+    {
+      "id": "wor-q69",
+      "question": "Which word means: \"Slaughter of the people.\"?",
+      "options": [
+        "Aborticide",
+        "Populicide",
+        "Euthanasia",
+        "Algicide"
+      ],
+      "answer": 1,
+      "explanation": "Populicide (noun) — Slaughter of the people."
+    },
+    {
+      "id": "wor-q70",
+      "question": "Which word means: \"Killing of a prophet.\"?",
+      "options": [
+        "Manslayer",
+        "Arboricide",
+        "Vaticide",
+        "Assailant"
+      ],
+      "answer": 2,
+      "explanation": "Vaticide (noun) — Killing of a prophet."
+    },
+    {
+      "id": "wor-q71",
+      "question": "Which word means: \"Killing of one's nephew.\"?",
+      "options": [
+        "Algicide",
+        "Aborticide",
+        "Nepoticide",
+        "Assault"
+      ],
+      "answer": 2,
+      "explanation": "Nepoticide (noun) — Killing of one's nephew."
+    },
+    {
+      "id": "wor-q72",
+      "question": "Which word means: \"Killing of a friend.\"?",
+      "options": [
+        "Aborticide",
+        "Assailant",
+        "Amicicide",
+        "Suicide"
+      ],
+      "answer": 2,
+      "explanation": "Amicicide (noun) — Killing of a friend."
+    },
+    {
+      "id": "wor-q73",
+      "question": "Which word means: \"Killing of one's offspring.\"?",
+      "options": [
+        "Manslayer",
+        "Murder",
+        "Prolicide",
+        "Purge"
+      ],
+      "answer": 2,
+      "explanation": "Prolicide (noun) — Killing of one's offspring."
+    },
+    {
+      "id": "wor-q74",
+      "question": "Which word means: \"Killing of a newborn.\"?",
+      "options": [
+        "Slayer",
+        "Dispatch",
+        "Neonaticide",
+        "Slay"
+      ],
+      "answer": 2,
+      "explanation": "Neonaticide (noun) — Killing of a newborn."
+    },
+    {
+      "id": "wor-q75",
+      "question": "Which word means: \"Killing of elderly people.\"?",
+      "options": [
+        "Algicide",
+        "Senicide",
+        "Lynching",
+        "Herbicide"
+      ],
+      "answer": 1,
+      "explanation": "Senicide (noun) — Killing of elderly people."
+    },
+    {
+      "id": "wor-q76",
+      "question": "Which word means: \"Suicide by intentional car crash.\"?",
+      "options": [
+        "Filicide",
+        "Viricide",
+        "Aborticide",
+        "Autocide"
+      ],
+      "answer": 3,
+      "explanation": "Autocide (noun) — Suicide by intentional car crash."
+    },
+    {
+      "id": "wor-q77",
+      "question": "Which word means: \"Killing of a foetus.\"?",
+      "options": [
+        "Nematicide",
+        "Femicide",
+        "Aborticide",
+        "Euthanasia"
+      ],
+      "answer": 2,
+      "explanation": "Aborticide (noun) — Killing of a foetus."
+    },
+    {
+      "id": "wor-q78",
+      "question": "Which word means: \"Alternative spelling of foeticide.\"?",
+      "options": [
+        "Sniper",
+        "Feoticide",
+        "Nematicide",
+        "Ceticide"
+      ],
+      "answer": 1,
+      "explanation": "Feoticide (noun) — Alternative spelling of foeticide."
+    },
+    {
+      "id": "wor-q79",
+      "question": "Which word means: \"Killing of one's sister.\"?",
+      "options": [
+        "Purge",
+        "Parricide",
+        "Silvicide",
+        "Sororicide"
+      ],
+      "answer": 3,
+      "explanation": "Sororicide (noun) — Killing of one's sister."
+    },
+    {
+      "id": "wor-q80",
+      "question": "Which word means: \"Killing of one's child.\"?",
+      "options": [
+        "Piscicide",
+        "Aborticide",
+        "Filicide",
+        "Senicide"
+      ],
+      "answer": 2,
+      "explanation": "Filicide (noun) — Killing of one's child."
+    },
+    {
+      "id": "wor-q81",
+      "question": "Which word means: \"One who murders by surprise attack.\"?",
+      "options": [
+        "Assassin",
+        "Execution",
+        "Poisoner",
+        "Aborticide"
+      ],
+      "answer": 0,
+      "explanation": "Assassin (noun) — One who murders by surprise attack."
+    },
+    {
+      "id": "wor-q82",
+      "question": "Which word means: \"One who kills a person.\"?",
+      "options": [
+        "Slay",
+        "Assailant",
+        "Manslayer",
+        "Tyrannicide"
+      ],
+      "answer": 2,
+      "explanation": "Manslayer (noun) — One who kills a person."
+    },
+    {
+      "id": "wor-q83",
+      "question": "Which word means: \"Committer of a crime.\"?",
+      "options": [
+        "Liquidate",
+        "Purge",
+        "Ecocide",
+        "Perpetrator"
+      ],
+      "answer": 3,
+      "explanation": "Perpetrator (noun) — Committer of a crime."
+    },
+    {
+      "id": "wor-q84",
+      "question": "Which word means: \"One who kills.\"?",
+      "options": [
+        "Slayer",
+        "Assailant",
+        "Viricide",
+        "Homicide"
+      ],
+      "answer": 0,
+      "explanation": "Slayer (noun) — One who kills."
+    },
+    {
+      "id": "wor-q85",
+      "question": "Which word means: \"Officer who carries out death penalty.\"?",
+      "options": [
+        "Executioner",
+        "Matricide",
+        "Execution",
+        "Lynching"
+      ],
+      "answer": 0,
+      "explanation": "Executioner (noun) — Officer who carries out death penalty."
+    },
+    {
+      "id": "wor-q86",
+      "question": "Which word means: \"Attacker.\"?",
+      "options": [
+        "Patricidal",
+        "Assailant",
+        "Pediculicide",
+        "Filicide"
+      ],
+      "answer": 1,
+      "explanation": "Assailant (noun) — Attacker."
+    },
+    {
+      "id": "wor-q87",
+      "question": "Which word means: \"Contract killer.\"?",
+      "options": [
+        "Hitman",
+        "Nematicide",
+        "Homicide",
+        "Herbicide"
+      ],
+      "answer": 0,
+      "explanation": "Hitman (noun) — Contract killer."
+    },
+    {
+      "id": "wor-q88",
+      "question": "Which word means: \"Skilled long-range killer.\"?",
+      "options": [
+        "Nepoticide",
+        "Aviocide",
+        "Sniper",
+        "Butcher"
+      ],
+      "answer": 2,
+      "explanation": "Sniper (noun) — Skilled long-range killer."
+    },
+    {
+      "id": "wor-q89",
+      "question": "Which word means: \"One who kills brutally.\"?",
+      "options": [
+        "Politicide",
+        "Butcher",
+        "Strangler",
+        "Algicide"
+      ],
+      "answer": 1,
+      "explanation": "Butcher (noun) — One who kills brutally."
+    },
+    {
+      "id": "wor-q90",
+      "question": "Which word means: \"Ruthless killer.\"?",
+      "options": [
+        "Poisoning",
+        "Deicide",
+        "Culling",
+        "Cutthroat"
+      ],
+      "answer": 3,
+      "explanation": "Cutthroat (noun) — Ruthless killer."
+    },
+    {
+      "id": "wor-q91",
+      "question": "Which word means: \"One who kills by poison.\"?",
+      "options": [
+        "Regicidal",
+        "Hitman",
+        "Muscacide",
+        "Poisoner"
+      ],
+      "answer": 3,
+      "explanation": "Poisoner (noun) — One who kills by poison."
+    },
+    {
+      "id": "wor-q92",
+      "question": "Which word means: \"One who kills by strangulation.\"?",
+      "options": [
+        "Acaricide",
+        "Assailant",
+        "Strangler",
+        "Liquidate"
+      ],
+      "answer": 2,
+      "explanation": "Strangler (noun) — One who kills by strangulation."
+    },
+    {
+      "id": "wor-q93",
+      "question": "Which word means: \"Involving killing of a brother.\"?",
+      "options": [
+        "Fratricidal",
+        "Purge",
+        "Democide",
+        "Extermination"
+      ],
+      "answer": 0,
+      "explanation": "Fratricidal (adj) — Involving killing of a brother."
+    },
+    {
+      "id": "wor-q94",
+      "question": "Which word means: \"Involving killing of one's father.\"?",
+      "options": [
+        "Aborticide",
+        "Homicidal",
+        "Sororicide",
+        "Patricidal"
+      ],
+      "answer": 3,
+      "explanation": "Patricidal (adj) — Involving killing of one's father."
+    },
+    {
+      "id": "wor-q95",
+      "question": "Which word means: \"Involving killing of a king.\"?",
+      "options": [
+        "Bactericide",
+        "Larvicide",
+        "Regicidal",
+        "Deicide"
+      ],
+      "answer": 2,
+      "explanation": "Regicidal (adj) — Involving killing of a king."
+    },
+    {
+      "id": "wor-q96",
+      "question": "Which word means: \"Involving mass killing of a group.\"?",
+      "options": [
+        "Filicide",
+        "Pediculicide",
+        "Dispatch",
+        "Genocidal"
+      ],
+      "answer": 3,
+      "explanation": "Genocidal (adj) — Involving mass killing of a group."
+    },
+    {
+      "id": "wor-q97",
+      "question": "Which word means: \"Involving self-killing.\"?",
+      "options": [
+        "Muscacide",
+        "Suicidal",
+        "Biocide",
+        "Carnage"
+      ],
+      "answer": 1,
+      "explanation": "Suicidal (adj) — Involving self-killing."
+    },
+    {
+      "id": "wor-q98",
+      "question": "Which word means: \"Tending to murder.\"?",
+      "options": [
+        "Formicide",
+        "Homicidal",
+        "Suicide",
+        "Euthanasia"
+      ],
+      "answer": 1,
+      "explanation": "Homicidal (adj) — Tending to murder."
+    },
+    {
+      "id": "wor-q99",
+      "question": "Which word means: \"Selective killing of animals.\"?",
+      "options": [
+        "Mariticide",
+        "Floricide",
+        "Butcher",
+        "Culling"
+      ],
+      "answer": 3,
+      "explanation": "Culling (noun) — Selective killing of animals."
+    },
+    {
+      "id": "wor-q100",
+      "question": "Which word means: \"Removal by killing.\"?",
+      "options": [
+        "Regicidal",
+        "Uxoricide",
+        "Butcher",
+        "Purge"
+      ],
+      "answer": 3,
+      "explanation": "Purge (noun) — Removal by killing."
+    }
+  ]
+}

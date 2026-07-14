@@ -1,0 +1,1908 @@
+{
+  "category": "personality-types",
+  "title": "Personality Types",
+  "words": [
+    {
+      "id": "pt-01",
+      "word": "Extrovert",
+      "pos": "noun",
+      "definition": "An outgoing, socially confident person.",
+      "example": "The extrovert livened up every dinner."
+    },
+    {
+      "id": "pt-02",
+      "word": "Introvert",
+      "pos": "noun",
+      "definition": "A shy, reticent person who prefers solitary activities.",
+      "example": "The introvert recharged with a book."
+    },
+    {
+      "id": "pt-03",
+      "word": "Ambivert",
+      "pos": "noun",
+      "definition": "A person whose personality falls between extrovert and introvert.",
+      "example": "Ambiverts adapt easily to different settings."
+    },
+    {
+      "id": "pt-04",
+      "word": "Optimist",
+      "pos": "noun",
+      "definition": "A person who tends to be hopeful about the future.",
+      "example": "The optimist found silver linings everywhere."
+    },
+    {
+      "id": "pt-05",
+      "word": "Pessimist",
+      "pos": "noun",
+      "definition": "A person who tends to see the worst in things.",
+      "example": "The pessimist braced for disappointment."
+    },
+    {
+      "id": "pt-06",
+      "word": "Realist",
+      "pos": "noun",
+      "definition": "A person who accepts things as they are.",
+      "example": "The realist tempered both optimism and pessimism."
+    },
+    {
+      "id": "pt-07",
+      "word": "Idealist",
+      "pos": "noun",
+      "definition": "A person guided by ideals rather than practical considerations.",
+      "example": "The idealist held out for the perfect solution."
+    },
+    {
+      "id": "pt-08",
+      "word": "Cynic",
+      "pos": "noun",
+      "definition": "A person who believes people are motivated purely by self-interest.",
+      "example": "The cynic distrusted every promise."
+    },
+    {
+      "id": "pt-09",
+      "word": "Sceptic",
+      "pos": "noun",
+      "definition": "A person inclined to question or doubt accepted opinions.",
+      "example": "The sceptic wanted evidence, not assurances."
+    },
+    {
+      "id": "pt-10",
+      "word": "Stoic",
+      "pos": "noun",
+      "definition": "A person who endures pain or hardship without complaint.",
+      "example": "The stoic never mentioned his own losses."
+    },
+    {
+      "id": "pt-11",
+      "word": "Hedonist",
+      "pos": "noun",
+      "definition": "A person devoted to the pursuit of pleasure.",
+      "example": "The hedonist saw no virtue in denial."
+    },
+    {
+      "id": "pt-12",
+      "word": "Ascetic",
+      "pos": "noun",
+      "definition": "A person who practises severe self-discipline and abstinence.",
+      "example": "The ascetic slept on a bare board."
+    },
+    {
+      "id": "pt-13",
+      "word": "Puritan",
+      "pos": "noun",
+      "definition": "A person of strict moral or religious principles.",
+      "example": "The puritan disapproved of any indulgence."
+    },
+    {
+      "id": "pt-14",
+      "word": "Bohemian",
+      "pos": "noun",
+      "definition": "A socially unconventional person, especially an artist.",
+      "example": "The bohemian rejected the conventional career path."
+    },
+    {
+      "id": "pt-15",
+      "word": "Perfectionist",
+      "pos": "noun",
+      "definition": "A person who refuses to accept any standard short of perfection.",
+      "example": "The perfectionist reworked every paragraph."
+    },
+    {
+      "id": "pt-16",
+      "word": "Procrastinator",
+      "pos": "noun",
+      "definition": "A person who delays or postpones action.",
+      "example": "The procrastinator crammed the night before."
+    },
+    {
+      "id": "pt-17",
+      "word": "Workaholic",
+      "pos": "noun",
+      "definition": "A person who compulsively works excessive hours.",
+      "example": "The workaholic answered emails at midnight."
+    },
+    {
+      "id": "pt-18",
+      "word": "Sycophant",
+      "pos": "noun",
+      "definition": "A person who flatters those in power to gain advantage.",
+      "example": "The sycophant applauded even the boss's bad jokes."
+    },
+    {
+      "id": "pt-19",
+      "word": "Misanthrope",
+      "pos": "noun",
+      "definition": "A person who dislikes humankind.",
+      "example": "The misanthrope withdrew to a remote cabin."
+    },
+    {
+      "id": "pt-20",
+      "word": "Philanthropist",
+      "pos": "noun",
+      "definition": "A person who seeks to promote the welfare of others.",
+      "example": "The philanthropist funded three hospitals."
+    },
+    {
+      "id": "pt-21",
+      "word": "Altruist",
+      "pos": "noun",
+      "definition": "A person who acts selflessly for others' benefit.",
+      "example": "The altruist volunteered anonymously."
+    },
+    {
+      "id": "pt-22",
+      "word": "Egoist",
+      "pos": "noun",
+      "definition": "A person who is excessively self-centred.",
+      "example": "The egoist steered every topic back to himself."
+    },
+    {
+      "id": "pt-23",
+      "word": "Narcissist",
+      "pos": "noun",
+      "definition": "A person with excessive interest in themselves.",
+      "example": "The narcissist demanded constant admiration."
+    },
+    {
+      "id": "pt-24",
+      "word": "Megalomaniac",
+      "pos": "noun",
+      "definition": "A person obsessed with power and grandiosity.",
+      "example": "The megalomaniac believed no plan too vast."
+    },
+    {
+      "id": "pt-25",
+      "word": "Iconoclast",
+      "pos": "noun",
+      "definition": "A person who attacks cherished beliefs or institutions.",
+      "example": "The iconoclast overturned the discipline's assumptions."
+    },
+    {
+      "id": "pt-26",
+      "word": "Maverick",
+      "pos": "noun",
+      "definition": "An unorthodox or independent-minded person.",
+      "example": "The maverick refused to caucus with either party."
+    },
+    {
+      "id": "pt-27",
+      "word": "Conformist",
+      "pos": "noun",
+      "definition": "A person who follows accepted rules and practices.",
+      "example": "The conformist rarely challenged team decisions."
+    },
+    {
+      "id": "pt-28",
+      "word": "Nonconformist",
+      "pos": "noun",
+      "definition": "A person who does not follow generally accepted beliefs.",
+      "example": "The nonconformist wore red at the funeral."
+    },
+    {
+      "id": "pt-29",
+      "word": "Recluse",
+      "pos": "noun",
+      "definition": "A person who lives in seclusion.",
+      "example": "The recluse hadn't left her house in years."
+    },
+    {
+      "id": "pt-30",
+      "word": "Extremist",
+      "pos": "noun",
+      "definition": "A person who holds extreme political or religious views.",
+      "example": "The extremist admitted no compromise."
+    },
+    {
+      "id": "pt-31",
+      "word": "Moderate",
+      "pos": "noun",
+      "definition": "A person holding centrist views.",
+      "example": "The moderate brokered the compromise."
+    },
+    {
+      "id": "pt-32",
+      "word": "Chauvinist",
+      "pos": "noun",
+      "definition": "A person with excessive loyalty to a cause or group, often to the exclusion of others.",
+      "example": "The chauvinist derided anything foreign."
+    },
+    {
+      "id": "pt-33",
+      "word": "Xenophobe",
+      "pos": "noun",
+      "definition": "A person who fears or hates foreigners.",
+      "example": "The xenophobe agitated against immigration."
+    },
+    {
+      "id": "pt-34",
+      "word": "Bigot",
+      "pos": "noun",
+      "definition": "A person intolerant of others' opinions or beliefs.",
+      "example": "The bigot dismissed dissent as heresy."
+    },
+    {
+      "id": "pt-35",
+      "word": "Zealot",
+      "pos": "noun",
+      "definition": "A person who is fanatical in pursuit of ideals.",
+      "example": "The zealot brooked no doubt."
+    },
+    {
+      "id": "pt-36",
+      "word": "Pacifist",
+      "pos": "noun",
+      "definition": "A person opposed to war or violence.",
+      "example": "The pacifist argued for negotiation."
+    },
+    {
+      "id": "pt-37",
+      "word": "Militant",
+      "pos": "noun",
+      "definition": "A person actively supporting a political cause, often through aggression.",
+      "example": "The militant led the picket line."
+    },
+    {
+      "id": "pt-38",
+      "word": "Empath",
+      "pos": "noun",
+      "definition": "A person with the ability to feel others' emotions strongly.",
+      "example": "The empath sensed the tension in the room."
+    },
+    {
+      "id": "pt-39",
+      "word": "Loner",
+      "pos": "noun",
+      "definition": "A person who prefers not to associate with others.",
+      "example": "The loner ate lunch at his desk."
+    },
+    {
+      "id": "pt-40",
+      "word": "Socialite",
+      "pos": "noun",
+      "definition": "A person who is well known in fashionable society.",
+      "example": "The socialite hosted the season's finest gala."
+    },
+    {
+      "id": "pt-41",
+      "word": "Charismatic",
+      "pos": "adj",
+      "definition": "Exercising a compelling charm that inspires devotion.",
+      "example": "The charismatic leader drew crowds effortlessly."
+    },
+    {
+      "id": "pt-42",
+      "word": "Charming",
+      "pos": "adj",
+      "definition": "Pleasant and attractive.",
+      "example": "His charming manner won over the interviewers."
+    },
+    {
+      "id": "pt-43",
+      "word": "Diligent",
+      "pos": "adj",
+      "definition": "Showing care and effort in one's work.",
+      "example": "The diligent student turned in every draft."
+    },
+    {
+      "id": "pt-44",
+      "word": "Meticulous",
+      "pos": "adj",
+      "definition": "Showing great attention to detail.",
+      "example": "Her meticulous notes saved the project."
+    },
+    {
+      "id": "pt-45",
+      "word": "Nonchalant",
+      "pos": "adj",
+      "definition": "Casually calm and relaxed.",
+      "example": "He was nonchalant even under pressure."
+    },
+    {
+      "id": "pt-46",
+      "word": "Reticent",
+      "pos": "adj",
+      "definition": "Reserved; not revealing one's thoughts.",
+      "example": "The reticent witness gave brief answers."
+    },
+    {
+      "id": "pt-47",
+      "word": "Gregarious",
+      "pos": "adj",
+      "definition": "Fond of company; sociable.",
+      "example": "The gregarious host mingled all night."
+    },
+    {
+      "id": "pt-48",
+      "word": "Choleric",
+      "pos": "adj",
+      "definition": "Bad-tempered or irritable.",
+      "example": "His choleric outbursts frightened junior staff."
+    },
+    {
+      "id": "pt-49",
+      "word": "Sanguine",
+      "pos": "adj",
+      "definition": "Optimistic and cheerful.",
+      "example": "She remained sanguine despite the setback."
+    },
+    {
+      "id": "pt-50",
+      "word": "Melancholic",
+      "pos": "adj",
+      "definition": "Feeling or expressing pensive sadness.",
+      "example": "A melancholic mood coloured his letters."
+    },
+    {
+      "id": "pt-051",
+      "word": "Adventurer",
+      "pos": "noun",
+      "definition": "One who seeks new experiences.",
+      "example": "The adventurer traveled solo across Asia."
+    },
+    {
+      "id": "pt-052",
+      "word": "Agitator",
+      "pos": "noun",
+      "definition": "One who stirs public feeling.",
+      "example": "The agitator rallied the crowd."
+    },
+    {
+      "id": "pt-053",
+      "word": "Amiable",
+      "pos": "adj",
+      "definition": "Friendly and pleasant.",
+      "example": "Her amiable manner made friends quickly."
+    },
+    {
+      "id": "pt-054",
+      "word": "Analytical",
+      "pos": "adj",
+      "definition": "Given to systematic reasoning.",
+      "example": "His analytical mind cracked the code."
+    },
+    {
+      "id": "pt-055",
+      "word": "Apathetic",
+      "pos": "adj",
+      "definition": "Showing no interest or emotion.",
+      "example": "He remained apathetic during the debate."
+    },
+    {
+      "id": "pt-056",
+      "word": "Arrogant",
+      "pos": "adj",
+      "definition": "Having exaggerated self-importance.",
+      "example": "His arrogant tone offended clients."
+    },
+    {
+      "id": "pt-057",
+      "word": "Assertive",
+      "pos": "adj",
+      "definition": "Confident and forceful.",
+      "example": "She was assertive in negotiations."
+    },
+    {
+      "id": "pt-058",
+      "word": "Boastful",
+      "pos": "adj",
+      "definition": "Given to bragging.",
+      "example": "His boastful stories tired the guests."
+    },
+    {
+      "id": "pt-059",
+      "word": "Candid",
+      "pos": "adj",
+      "definition": "Truthful and straightforward.",
+      "example": "Her candid review helped the writer."
+    },
+    {
+      "id": "pt-060",
+      "word": "Capricious",
+      "pos": "adj",
+      "definition": "Given to sudden changes.",
+      "example": "His capricious moods puzzled staff."
+    },
+    {
+      "id": "pt-061",
+      "word": "Cheerful",
+      "pos": "adj",
+      "definition": "Noticeably happy.",
+      "example": "She kept a cheerful outlook."
+    },
+    {
+      "id": "pt-062",
+      "word": "Cordial",
+      "pos": "adj",
+      "definition": "Warm and friendly.",
+      "example": "He offered a cordial welcome."
+    },
+    {
+      "id": "pt-063",
+      "word": "Courteous",
+      "pos": "adj",
+      "definition": "Polite and respectful.",
+      "example": "She was courteous with every guest."
+    },
+    {
+      "id": "pt-064",
+      "word": "Creative",
+      "pos": "adj",
+      "definition": "Inventive and imaginative.",
+      "example": "Her creative solutions won the prize."
+    },
+    {
+      "id": "pt-065",
+      "word": "Curious",
+      "pos": "adj",
+      "definition": "Eager to know.",
+      "example": "He remained curious throughout life."
+    },
+    {
+      "id": "pt-066",
+      "word": "Daring",
+      "pos": "adj",
+      "definition": "Willing to take risks.",
+      "example": "Her daring plan paid off."
+    },
+    {
+      "id": "pt-067",
+      "word": "Diligent",
+      "pos": "adj",
+      "definition": "Careful and hardworking.",
+      "example": "He was diligent in his studies."
+    },
+    {
+      "id": "pt-068",
+      "word": "Discreet",
+      "pos": "adj",
+      "definition": "Careful with sensitive matters.",
+      "example": "Her discreet advice was invaluable."
+    },
+    {
+      "id": "pt-069",
+      "word": "Dogmatic",
+      "pos": "adj",
+      "definition": "Asserting opinions as truth.",
+      "example": "His dogmatic tone stifled debate."
+    },
+    {
+      "id": "pt-070",
+      "word": "Dynamic",
+      "pos": "adj",
+      "definition": "Full of energy and new ideas.",
+      "example": "She led a dynamic team."
+    },
+    {
+      "id": "pt-071",
+      "word": "Eccentric",
+      "pos": "adj",
+      "definition": "Unconventional and slightly strange.",
+      "example": "His eccentric wardrobe drew stares."
+    },
+    {
+      "id": "pt-072",
+      "word": "Empathetic",
+      "pos": "adj",
+      "definition": "Able to share others' feelings.",
+      "example": "The empathetic nurse comforted the family."
+    },
+    {
+      "id": "pt-073",
+      "word": "Enthusiastic",
+      "pos": "adj",
+      "definition": "Showing eager interest.",
+      "example": "Her enthusiastic reply lifted the room."
+    },
+    {
+      "id": "pt-074",
+      "word": "Extroverted",
+      "pos": "adj",
+      "definition": "Outgoing and sociable.",
+      "example": "He was extroverted at every party."
+    },
+    {
+      "id": "pt-075",
+      "word": "Fickle",
+      "pos": "adj",
+      "definition": "Changing frequently.",
+      "example": "Her fickle preferences confused staff."
+    },
+    {
+      "id": "pt-076",
+      "word": "Flamboyant",
+      "pos": "adj",
+      "definition": "Confidently ostentatious.",
+      "example": "His flamboyant style stood out."
+    },
+    {
+      "id": "pt-077",
+      "word": "Frank",
+      "pos": "adj",
+      "definition": "Straightforward.",
+      "example": "She was frank about her doubts."
+    },
+    {
+      "id": "pt-078",
+      "word": "Genial",
+      "pos": "adj",
+      "definition": "Friendly and cheerful.",
+      "example": "The genial host greeted each arrival."
+    },
+    {
+      "id": "pt-079",
+      "word": "Genuine",
+      "pos": "adj",
+      "definition": "Sincere and real.",
+      "example": "His genuine praise moved her."
+    },
+    {
+      "id": "pt-080",
+      "word": "Gullible",
+      "pos": "adj",
+      "definition": "Easily persuaded to believe.",
+      "example": "The gullible investor lost money."
+    },
+    {
+      "id": "pt-081",
+      "word": "Humble",
+      "pos": "adj",
+      "definition": "Modest in estimation.",
+      "example": "She remained humble despite the fame."
+    },
+    {
+      "id": "pt-082",
+      "word": "Imaginative",
+      "pos": "adj",
+      "definition": "Full of creative ideas.",
+      "example": "The imaginative child invented stories."
+    },
+    {
+      "id": "pt-083",
+      "word": "Impulsive",
+      "pos": "adj",
+      "definition": "Acting without forethought.",
+      "example": "His impulsive purchase surprised everyone."
+    },
+    {
+      "id": "pt-084",
+      "word": "Independent",
+      "pos": "adj",
+      "definition": "Self-reliant.",
+      "example": "She was fiercely independent."
+    },
+    {
+      "id": "pt-085",
+      "word": "Industrious",
+      "pos": "adj",
+      "definition": "Diligent and hardworking.",
+      "example": "The industrious student topped the class."
+    },
+    {
+      "id": "pt-086",
+      "word": "Judgmental",
+      "pos": "adj",
+      "definition": "Quick to form critical opinions.",
+      "example": "His judgmental remarks alienated peers."
+    },
+    {
+      "id": "pt-087",
+      "word": "Kind-hearted",
+      "pos": "adj",
+      "definition": "Sympathetic and generous.",
+      "example": "The kind-hearted volunteer stayed late."
+    },
+    {
+      "id": "pt-088",
+      "word": "Loyal",
+      "pos": "adj",
+      "definition": "Faithful to allegiances.",
+      "example": "She was loyal to her friends."
+    },
+    {
+      "id": "pt-089",
+      "word": "Manipulative",
+      "pos": "adj",
+      "definition": "Skilful at controlling others.",
+      "example": "His manipulative tactics were exposed."
+    },
+    {
+      "id": "pt-090",
+      "word": "Melancholy",
+      "pos": "adj",
+      "definition": "Sad and pensive.",
+      "example": "A melancholy mood settled over him."
+    },
+    {
+      "id": "pt-091",
+      "word": "Modest",
+      "pos": "adj",
+      "definition": "Not boastful.",
+      "example": "Her modest achievements were quiet."
+    },
+    {
+      "id": "pt-092",
+      "word": "Nurturing",
+      "pos": "adj",
+      "definition": "Caring and supportive.",
+      "example": "The nurturing coach built confidence."
+    },
+    {
+      "id": "pt-093",
+      "word": "Observant",
+      "pos": "adj",
+      "definition": "Quick to notice.",
+      "example": "The observant guard spotted the flaw."
+    },
+    {
+      "id": "pt-094",
+      "word": "Obstinate",
+      "pos": "adj",
+      "definition": "Stubbornly refusing to change.",
+      "example": "His obstinate refusal blocked progress."
+    },
+    {
+      "id": "pt-095",
+      "word": "Passionate",
+      "pos": "adj",
+      "definition": "Having intense feelings.",
+      "example": "She was passionate about music."
+    },
+    {
+      "id": "pt-096",
+      "word": "Patient",
+      "pos": "adj",
+      "definition": "Able to endure delay.",
+      "example": "The patient teacher explained again."
+    },
+    {
+      "id": "pt-097",
+      "word": "Perceptive",
+      "pos": "adj",
+      "definition": "Having keen insight.",
+      "example": "Her perceptive question surprised the panel."
+    },
+    {
+      "id": "pt-098",
+      "word": "Prudent",
+      "pos": "adj",
+      "definition": "Wise in practical affairs.",
+      "example": "A prudent investor sought advice."
+    },
+    {
+      "id": "pt-099",
+      "word": "Reserved",
+      "pos": "adj",
+      "definition": "Slow to reveal emotion.",
+      "example": "He was reserved at first meetings."
+    },
+    {
+      "id": "pt-100",
+      "word": "Resilient",
+      "pos": "adj",
+      "definition": "Recovering quickly from setbacks.",
+      "example": "The resilient athlete returned to sport."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "per-q1",
+      "question": "Which word means: \"An outgoing, socially confident person.\"?",
+      "options": [
+        "Ambivert",
+        "Resilient",
+        "Extrovert",
+        "Philanthropist"
+      ],
+      "answer": 2,
+      "explanation": "Extrovert (noun) — An outgoing, socially confident person."
+    },
+    {
+      "id": "per-q2",
+      "question": "Which word means: \"A shy, reticent person who prefers solitary activities.\"?",
+      "options": [
+        "Resilient",
+        "Charming",
+        "Introvert",
+        "Amiable"
+      ],
+      "answer": 2,
+      "explanation": "Introvert (noun) — A shy, reticent person who prefers solitary activities."
+    },
+    {
+      "id": "per-q3",
+      "question": "Which word means: \"A person whose personality falls between extrovert and introvert.\"?",
+      "options": [
+        "Ambivert",
+        "Agitator",
+        "Realist",
+        "Reserved"
+      ],
+      "answer": 0,
+      "explanation": "Ambivert (noun) — A person whose personality falls between extrovert and introvert."
+    },
+    {
+      "id": "per-q4",
+      "question": "Which word means: \"A person who tends to be hopeful about the future.\"?",
+      "options": [
+        "Imaginative",
+        "Optimist",
+        "Observant",
+        "Judgmental"
+      ],
+      "answer": 1,
+      "explanation": "Optimist (noun) — A person who tends to be hopeful about the future."
+    },
+    {
+      "id": "per-q5",
+      "question": "Which word means: \"A person who tends to see the worst in things.\"?",
+      "options": [
+        "Manipulative",
+        "Modest",
+        "Pessimist",
+        "Empathetic"
+      ],
+      "answer": 2,
+      "explanation": "Pessimist (noun) — A person who tends to see the worst in things."
+    },
+    {
+      "id": "per-q6",
+      "question": "Which word means: \"A person who accepts things as they are.\"?",
+      "options": [
+        "Reticent",
+        "Realist",
+        "Militant",
+        "Introvert"
+      ],
+      "answer": 1,
+      "explanation": "Realist (noun) — A person who accepts things as they are."
+    },
+    {
+      "id": "per-q7",
+      "question": "Which word means: \"A person guided by ideals rather than practical considerations.\"?",
+      "options": [
+        "Candid",
+        "Independent",
+        "Nonconformist",
+        "Idealist"
+      ],
+      "answer": 3,
+      "explanation": "Idealist (noun) — A person guided by ideals rather than practical considerations."
+    },
+    {
+      "id": "per-q8",
+      "question": "Which word means: \"A person who believes people are motivated purely by self-interest.\"?",
+      "options": [
+        "Amiable",
+        "Cynic",
+        "Industrious",
+        "Conformist"
+      ],
+      "answer": 1,
+      "explanation": "Cynic (noun) — A person who believes people are motivated purely by self-interest."
+    },
+    {
+      "id": "per-q9",
+      "question": "Which word means: \"A person inclined to question or doubt accepted opinions.\"?",
+      "options": [
+        "Dynamic",
+        "Sceptic",
+        "Adventurer",
+        "Meticulous"
+      ],
+      "answer": 1,
+      "explanation": "Sceptic (noun) — A person inclined to question or doubt accepted opinions."
+    },
+    {
+      "id": "per-q10",
+      "question": "Which word means: \"A person who endures pain or hardship without complaint.\"?",
+      "options": [
+        "Recluse",
+        "Puritan",
+        "Stoic",
+        "Diligent"
+      ],
+      "answer": 2,
+      "explanation": "Stoic (noun) — A person who endures pain or hardship without complaint."
+    },
+    {
+      "id": "per-q11",
+      "question": "Which word means: \"A person devoted to the pursuit of pleasure.\"?",
+      "options": [
+        "Egoist",
+        "Impulsive",
+        "Hedonist",
+        "Prudent"
+      ],
+      "answer": 2,
+      "explanation": "Hedonist (noun) — A person devoted to the pursuit of pleasure."
+    },
+    {
+      "id": "per-q12",
+      "question": "Which word means: \"A person who practises severe self-discipline and abstinence.\"?",
+      "options": [
+        "Socialite",
+        "Chauvinist",
+        "Obstinate",
+        "Ascetic"
+      ],
+      "answer": 3,
+      "explanation": "Ascetic (noun) — A person who practises severe self-discipline and abstinence."
+    },
+    {
+      "id": "per-q13",
+      "question": "Which word means: \"A person of strict moral or religious principles.\"?",
+      "options": [
+        "Passionate",
+        "Cynic",
+        "Puritan",
+        "Sanguine"
+      ],
+      "answer": 2,
+      "explanation": "Puritan (noun) — A person of strict moral or religious principles."
+    },
+    {
+      "id": "per-q14",
+      "question": "Which word means: \"A socially unconventional person, especially an artist.\"?",
+      "options": [
+        "Bohemian",
+        "Prudent",
+        "Idealist",
+        "Workaholic"
+      ],
+      "answer": 0,
+      "explanation": "Bohemian (noun) — A socially unconventional person, especially an artist."
+    },
+    {
+      "id": "per-q15",
+      "question": "Which word means: \"A person who refuses to accept any standard short of perfection.\"?",
+      "options": [
+        "Extrovert",
+        "Fickle",
+        "Patient",
+        "Perfectionist"
+      ],
+      "answer": 3,
+      "explanation": "Perfectionist (noun) — A person who refuses to accept any standard short of perfection."
+    },
+    {
+      "id": "per-q16",
+      "question": "Which word means: \"A person who delays or postpones action.\"?",
+      "options": [
+        "Perceptive",
+        "Extroverted",
+        "Procrastinator",
+        "Flamboyant"
+      ],
+      "answer": 2,
+      "explanation": "Procrastinator (noun) — A person who delays or postpones action."
+    },
+    {
+      "id": "per-q17",
+      "question": "Which word means: \"A person who compulsively works excessive hours.\"?",
+      "options": [
+        "Empath",
+        "Workaholic",
+        "Observant",
+        "Kind-hearted"
+      ],
+      "answer": 1,
+      "explanation": "Workaholic (noun) — A person who compulsively works excessive hours."
+    },
+    {
+      "id": "per-q18",
+      "question": "Which word means: \"A person who flatters those in power to gain advantage.\"?",
+      "options": [
+        "Xenophobe",
+        "Sycophant",
+        "Patient",
+        "Discreet"
+      ],
+      "answer": 1,
+      "explanation": "Sycophant (noun) — A person who flatters those in power to gain advantage."
+    },
+    {
+      "id": "per-q19",
+      "question": "Which word means: \"A person who dislikes humankind.\"?",
+      "options": [
+        "Choleric",
+        "Misanthrope",
+        "Puritan",
+        "Capricious"
+      ],
+      "answer": 1,
+      "explanation": "Misanthrope (noun) — A person who dislikes humankind."
+    },
+    {
+      "id": "per-q20",
+      "question": "Which word means: \"A person who seeks to promote the welfare of others.\"?",
+      "options": [
+        "Ascetic",
+        "Philanthropist",
+        "Hedonist",
+        "Analytical"
+      ],
+      "answer": 1,
+      "explanation": "Philanthropist (noun) — A person who seeks to promote the welfare of others."
+    },
+    {
+      "id": "per-q21",
+      "question": "Which word means: \"A person who acts selflessly for others' benefit.\"?",
+      "options": [
+        "Altruist",
+        "Candid",
+        "Recluse",
+        "Cordial"
+      ],
+      "answer": 0,
+      "explanation": "Altruist (noun) — A person who acts selflessly for others' benefit."
+    },
+    {
+      "id": "per-q22",
+      "question": "Which word means: \"A person who is excessively self-centred.\"?",
+      "options": [
+        "Frank",
+        "Discreet",
+        "Enthusiastic",
+        "Egoist"
+      ],
+      "answer": 3,
+      "explanation": "Egoist (noun) — A person who is excessively self-centred."
+    },
+    {
+      "id": "per-q23",
+      "question": "Which word means: \"A person with excessive interest in themselves.\"?",
+      "options": [
+        "Impulsive",
+        "Arrogant",
+        "Boastful",
+        "Narcissist"
+      ],
+      "answer": 3,
+      "explanation": "Narcissist (noun) — A person with excessive interest in themselves."
+    },
+    {
+      "id": "per-q24",
+      "question": "Which word means: \"A person obsessed with power and grandiosity.\"?",
+      "options": [
+        "Altruist",
+        "Daring",
+        "Megalomaniac",
+        "Misanthrope"
+      ],
+      "answer": 2,
+      "explanation": "Megalomaniac (noun) — A person obsessed with power and grandiosity."
+    },
+    {
+      "id": "per-q25",
+      "question": "Which word means: \"A person who attacks cherished beliefs or institutions.\"?",
+      "options": [
+        "Nurturing",
+        "Iconoclast",
+        "Diligent",
+        "Workaholic"
+      ],
+      "answer": 1,
+      "explanation": "Iconoclast (noun) — A person who attacks cherished beliefs or institutions."
+    },
+    {
+      "id": "per-q26",
+      "question": "Which word means: \"An unorthodox or independent-minded person.\"?",
+      "options": [
+        "Capricious",
+        "Maverick",
+        "Pessimist",
+        "Cordial"
+      ],
+      "answer": 1,
+      "explanation": "Maverick (noun) — An unorthodox or independent-minded person."
+    },
+    {
+      "id": "per-q27",
+      "question": "Which word means: \"A person who follows accepted rules and practices.\"?",
+      "options": [
+        "Analytical",
+        "Genuine",
+        "Conformist",
+        "Procrastinator"
+      ],
+      "answer": 2,
+      "explanation": "Conformist (noun) — A person who follows accepted rules and practices."
+    },
+    {
+      "id": "per-q28",
+      "question": "Which word means: \"A person who does not follow generally accepted beliefs.\"?",
+      "options": [
+        "Realist",
+        "Nonconformist",
+        "Fickle",
+        "Loner"
+      ],
+      "answer": 1,
+      "explanation": "Nonconformist (noun) — A person who does not follow generally accepted beliefs."
+    },
+    {
+      "id": "per-q29",
+      "question": "Which word means: \"A person who lives in seclusion.\"?",
+      "options": [
+        "Recluse",
+        "Charismatic",
+        "Sanguine",
+        "Socialite"
+      ],
+      "answer": 0,
+      "explanation": "Recluse (noun) — A person who lives in seclusion."
+    },
+    {
+      "id": "per-q30",
+      "question": "Which word means: \"A person who holds extreme political or religious views.\"?",
+      "options": [
+        "Extremist",
+        "Apathetic",
+        "Frank",
+        "Misanthrope"
+      ],
+      "answer": 0,
+      "explanation": "Extremist (noun) — A person who holds extreme political or religious views."
+    },
+    {
+      "id": "per-q31",
+      "question": "Which word means: \"A person holding centrist views.\"?",
+      "options": [
+        "Megalomaniac",
+        "Patient",
+        "Nonconformist",
+        "Moderate"
+      ],
+      "answer": 3,
+      "explanation": "Moderate (noun) — A person holding centrist views."
+    },
+    {
+      "id": "per-q32",
+      "question": "Which word means: \"A person with excessive loyalty to a cause or group, often to the exclusion of others.\"?",
+      "options": [
+        "Chauvinist",
+        "Sceptic",
+        "Reticent",
+        "Empathetic"
+      ],
+      "answer": 0,
+      "explanation": "Chauvinist (noun) — A person with excessive loyalty to a cause or group, often to the exclusion of others."
+    },
+    {
+      "id": "per-q33",
+      "question": "Which word means: \"A person who fears or hates foreigners.\"?",
+      "options": [
+        "Fickle",
+        "Extroverted",
+        "Charismatic",
+        "Xenophobe"
+      ],
+      "answer": 3,
+      "explanation": "Xenophobe (noun) — A person who fears or hates foreigners."
+    },
+    {
+      "id": "per-q34",
+      "question": "Which word means: \"A person intolerant of others' opinions or beliefs.\"?",
+      "options": [
+        "Genuine",
+        "Bigot",
+        "Cordial",
+        "Obstinate"
+      ],
+      "answer": 1,
+      "explanation": "Bigot (noun) — A person intolerant of others' opinions or beliefs."
+    },
+    {
+      "id": "per-q35",
+      "question": "Which word means: \"A person who is fanatical in pursuit of ideals.\"?",
+      "options": [
+        "Kind-hearted",
+        "Candid",
+        "Reserved",
+        "Zealot"
+      ],
+      "answer": 3,
+      "explanation": "Zealot (noun) — A person who is fanatical in pursuit of ideals."
+    },
+    {
+      "id": "per-q36",
+      "question": "Which word means: \"A person opposed to war or violence.\"?",
+      "options": [
+        "Kind-hearted",
+        "Ascetic",
+        "Humble",
+        "Pacifist"
+      ],
+      "answer": 3,
+      "explanation": "Pacifist (noun) — A person opposed to war or violence."
+    },
+    {
+      "id": "per-q37",
+      "question": "Which word means: \"A person actively supporting a political cause, often through aggression.\"?",
+      "options": [
+        "Militant",
+        "Nonchalant",
+        "Eccentric",
+        "Agitator"
+      ],
+      "answer": 0,
+      "explanation": "Militant (noun) — A person actively supporting a political cause, often through aggression."
+    },
+    {
+      "id": "per-q38",
+      "question": "Which word means: \"A person with the ability to feel others' emotions strongly.\"?",
+      "options": [
+        "Pacifist",
+        "Independent",
+        "Empath",
+        "Patient"
+      ],
+      "answer": 2,
+      "explanation": "Empath (noun) — A person with the ability to feel others' emotions strongly."
+    },
+    {
+      "id": "per-q39",
+      "question": "Which word means: \"A person who prefers not to associate with others.\"?",
+      "options": [
+        "Imaginative",
+        "Fickle",
+        "Loner",
+        "Resilient"
+      ],
+      "answer": 2,
+      "explanation": "Loner (noun) — A person who prefers not to associate with others."
+    },
+    {
+      "id": "per-q40",
+      "question": "Which word means: \"A person who is well known in fashionable society.\"?",
+      "options": [
+        "Socialite",
+        "Independent",
+        "Hedonist",
+        "Enthusiastic"
+      ],
+      "answer": 0,
+      "explanation": "Socialite (noun) — A person who is well known in fashionable society."
+    },
+    {
+      "id": "per-q41",
+      "question": "Which word means: \"Exercising a compelling charm that inspires devotion.\"?",
+      "options": [
+        "Discreet",
+        "Extroverted",
+        "Iconoclast",
+        "Charismatic"
+      ],
+      "answer": 3,
+      "explanation": "Charismatic (adj) — Exercising a compelling charm that inspires devotion."
+    },
+    {
+      "id": "per-q42",
+      "question": "Which word means: \"Pleasant and attractive.\"?",
+      "options": [
+        "Dynamic",
+        "Charming",
+        "Procrastinator",
+        "Judgmental"
+      ],
+      "answer": 1,
+      "explanation": "Charming (adj) — Pleasant and attractive."
+    },
+    {
+      "id": "per-q43",
+      "question": "Which word means: \"Showing care and effort in one's work.\"?",
+      "options": [
+        "Observant",
+        "Chauvinist",
+        "Conformist",
+        "Diligent"
+      ],
+      "answer": 3,
+      "explanation": "Diligent (adj) — Showing care and effort in one's work."
+    },
+    {
+      "id": "per-q44",
+      "question": "Which word means: \"Showing great attention to detail.\"?",
+      "options": [
+        "Realist",
+        "Frank",
+        "Amiable",
+        "Meticulous"
+      ],
+      "answer": 3,
+      "explanation": "Meticulous (adj) — Showing great attention to detail."
+    },
+    {
+      "id": "per-q45",
+      "question": "Which word means: \"Casually calm and relaxed.\"?",
+      "options": [
+        "Nonchalant",
+        "Megalomaniac",
+        "Apathetic",
+        "Assertive"
+      ],
+      "answer": 0,
+      "explanation": "Nonchalant (adj) — Casually calm and relaxed."
+    },
+    {
+      "id": "per-q46",
+      "question": "Which word means: \"Reserved; not revealing one's thoughts.\"?",
+      "options": [
+        "Xenophobe",
+        "Ascetic",
+        "Reticent",
+        "Melancholic"
+      ],
+      "answer": 2,
+      "explanation": "Reticent (adj) — Reserved; not revealing one's thoughts."
+    },
+    {
+      "id": "per-q47",
+      "question": "Which word means: \"Fond of company; sociable.\"?",
+      "options": [
+        "Misanthrope",
+        "Gregarious",
+        "Militant",
+        "Megalomaniac"
+      ],
+      "answer": 1,
+      "explanation": "Gregarious (adj) — Fond of company; sociable."
+    },
+    {
+      "id": "per-q48",
+      "question": "Which word means: \"Bad-tempered or irritable.\"?",
+      "options": [
+        "Loyal",
+        "Choleric",
+        "Socialite",
+        "Analytical"
+      ],
+      "answer": 1,
+      "explanation": "Choleric (adj) — Bad-tempered or irritable."
+    },
+    {
+      "id": "per-q49",
+      "question": "Which word means: \"Optimistic and cheerful.\"?",
+      "options": [
+        "Sanguine",
+        "Observant",
+        "Optimist",
+        "Megalomaniac"
+      ],
+      "answer": 0,
+      "explanation": "Sanguine (adj) — Optimistic and cheerful."
+    },
+    {
+      "id": "per-q50",
+      "question": "Which word means: \"Feeling or expressing pensive sadness.\"?",
+      "options": [
+        "Puritan",
+        "Misanthrope",
+        "Charismatic",
+        "Melancholic"
+      ],
+      "answer": 3,
+      "explanation": "Melancholic (adj) — Feeling or expressing pensive sadness."
+    },
+    {
+      "id": "per-q51",
+      "question": "Which word means: \"One who seeks new experiences.\"?",
+      "options": [
+        "Adventurer",
+        "Idealist",
+        "Sanguine",
+        "Procrastinator"
+      ],
+      "answer": 0,
+      "explanation": "Adventurer (noun) — One who seeks new experiences."
+    },
+    {
+      "id": "per-q52",
+      "question": "Which word means: \"One who stirs public feeling.\"?",
+      "options": [
+        "Prudent",
+        "Diligent",
+        "Curious",
+        "Agitator"
+      ],
+      "answer": 3,
+      "explanation": "Agitator (noun) — One who stirs public feeling."
+    },
+    {
+      "id": "per-q53",
+      "question": "Which word means: \"Friendly and pleasant.\"?",
+      "options": [
+        "Cheerful",
+        "Charismatic",
+        "Cynic",
+        "Amiable"
+      ],
+      "answer": 3,
+      "explanation": "Amiable (adj) — Friendly and pleasant."
+    },
+    {
+      "id": "per-q54",
+      "question": "Which word means: \"Given to systematic reasoning.\"?",
+      "options": [
+        "Impulsive",
+        "Analytical",
+        "Optimist",
+        "Amiable"
+      ],
+      "answer": 1,
+      "explanation": "Analytical (adj) — Given to systematic reasoning."
+    },
+    {
+      "id": "per-q55",
+      "question": "Which word means: \"Showing no interest or emotion.\"?",
+      "options": [
+        "Frank",
+        "Loyal",
+        "Apathetic",
+        "Empathetic"
+      ],
+      "answer": 2,
+      "explanation": "Apathetic (adj) — Showing no interest or emotion."
+    },
+    {
+      "id": "per-q56",
+      "question": "Which word means: \"Having exaggerated self-importance.\"?",
+      "options": [
+        "Extroverted",
+        "Amiable",
+        "Loner",
+        "Arrogant"
+      ],
+      "answer": 3,
+      "explanation": "Arrogant (adj) — Having exaggerated self-importance."
+    },
+    {
+      "id": "per-q57",
+      "question": "Which word means: \"Confident and forceful.\"?",
+      "options": [
+        "Eccentric",
+        "Assertive",
+        "Misanthrope",
+        "Choleric"
+      ],
+      "answer": 1,
+      "explanation": "Assertive (adj) — Confident and forceful."
+    },
+    {
+      "id": "per-q58",
+      "question": "Which word means: \"Given to bragging.\"?",
+      "options": [
+        "Boastful",
+        "Realist",
+        "Candid",
+        "Enthusiastic"
+      ],
+      "answer": 0,
+      "explanation": "Boastful (adj) — Given to bragging."
+    },
+    {
+      "id": "per-q59",
+      "question": "Which word means: \"Truthful and straightforward.\"?",
+      "options": [
+        "Candid",
+        "Extrovert",
+        "Egoist",
+        "Industrious"
+      ],
+      "answer": 0,
+      "explanation": "Candid (adj) — Truthful and straightforward."
+    },
+    {
+      "id": "per-q60",
+      "question": "Which word means: \"Given to sudden changes.\"?",
+      "options": [
+        "Manipulative",
+        "Genial",
+        "Xenophobe",
+        "Capricious"
+      ],
+      "answer": 3,
+      "explanation": "Capricious (adj) — Given to sudden changes."
+    },
+    {
+      "id": "per-q61",
+      "question": "Which word means: \"Noticeably happy.\"?",
+      "options": [
+        "Diligent",
+        "Militant",
+        "Cheerful",
+        "Flamboyant"
+      ],
+      "answer": 2,
+      "explanation": "Cheerful (adj) — Noticeably happy."
+    },
+    {
+      "id": "per-q62",
+      "question": "Which word means: \"Warm and friendly.\"?",
+      "options": [
+        "Adventurer",
+        "Ascetic",
+        "Cordial",
+        "Loner"
+      ],
+      "answer": 2,
+      "explanation": "Cordial (adj) — Warm and friendly."
+    },
+    {
+      "id": "per-q63",
+      "question": "Which word means: \"Polite and respectful.\"?",
+      "options": [
+        "Arrogant",
+        "Conformist",
+        "Courteous",
+        "Gullible"
+      ],
+      "answer": 2,
+      "explanation": "Courteous (adj) — Polite and respectful."
+    },
+    {
+      "id": "per-q64",
+      "question": "Which word means: \"Inventive and imaginative.\"?",
+      "options": [
+        "Prudent",
+        "Impulsive",
+        "Bigot",
+        "Creative"
+      ],
+      "answer": 3,
+      "explanation": "Creative (adj) — Inventive and imaginative."
+    },
+    {
+      "id": "per-q65",
+      "question": "Which word means: \"Eager to know.\"?",
+      "options": [
+        "Judgmental",
+        "Meticulous",
+        "Curious",
+        "Charming"
+      ],
+      "answer": 2,
+      "explanation": "Curious (adj) — Eager to know."
+    },
+    {
+      "id": "per-q66",
+      "question": "Which word means: \"Willing to take risks.\"?",
+      "options": [
+        "Daring",
+        "Melancholy",
+        "Sycophant",
+        "Ambivert"
+      ],
+      "answer": 0,
+      "explanation": "Daring (adj) — Willing to take risks."
+    },
+    {
+      "id": "per-q67",
+      "question": "Which word means: \"Careful and hardworking.\"?",
+      "options": [
+        "Extrovert",
+        "Manipulative",
+        "Diligent",
+        "Introvert"
+      ],
+      "answer": 2,
+      "explanation": "Diligent (adj) — Careful and hardworking."
+    },
+    {
+      "id": "per-q68",
+      "question": "Which word means: \"Careful with sensitive matters.\"?",
+      "options": [
+        "Adventurer",
+        "Discreet",
+        "Dynamic",
+        "Reserved"
+      ],
+      "answer": 1,
+      "explanation": "Discreet (adj) — Careful with sensitive matters."
+    },
+    {
+      "id": "per-q69",
+      "question": "Which word means: \"Asserting opinions as truth.\"?",
+      "options": [
+        "Optimist",
+        "Dynamic",
+        "Kind-hearted",
+        "Dogmatic"
+      ],
+      "answer": 3,
+      "explanation": "Dogmatic (adj) — Asserting opinions as truth."
+    },
+    {
+      "id": "per-q70",
+      "question": "Which word means: \"Full of energy and new ideas.\"?",
+      "options": [
+        "Dynamic",
+        "Reticent",
+        "Sanguine",
+        "Genial"
+      ],
+      "answer": 0,
+      "explanation": "Dynamic (adj) — Full of energy and new ideas."
+    },
+    {
+      "id": "per-q71",
+      "question": "Which word means: \"Unconventional and slightly strange.\"?",
+      "options": [
+        "Eccentric",
+        "Introvert",
+        "Modest",
+        "Resilient"
+      ],
+      "answer": 0,
+      "explanation": "Eccentric (adj) — Unconventional and slightly strange."
+    },
+    {
+      "id": "per-q72",
+      "question": "Which word means: \"Able to share others' feelings.\"?",
+      "options": [
+        "Empathetic",
+        "Iconoclast",
+        "Introvert",
+        "Assertive"
+      ],
+      "answer": 0,
+      "explanation": "Empathetic (adj) — Able to share others' feelings."
+    },
+    {
+      "id": "per-q73",
+      "question": "Which word means: \"Showing eager interest.\"?",
+      "options": [
+        "Pacifist",
+        "Enthusiastic",
+        "Reserved",
+        "Manipulative"
+      ],
+      "answer": 1,
+      "explanation": "Enthusiastic (adj) — Showing eager interest."
+    },
+    {
+      "id": "per-q74",
+      "question": "Which word means: \"Outgoing and sociable.\"?",
+      "options": [
+        "Loner",
+        "Extroverted",
+        "Gullible",
+        "Imaginative"
+      ],
+      "answer": 1,
+      "explanation": "Extroverted (adj) — Outgoing and sociable."
+    },
+    {
+      "id": "per-q75",
+      "question": "Which word means: \"Changing frequently.\"?",
+      "options": [
+        "Pessimist",
+        "Gregarious",
+        "Pacifist",
+        "Fickle"
+      ],
+      "answer": 3,
+      "explanation": "Fickle (adj) — Changing frequently."
+    },
+    {
+      "id": "per-q76",
+      "question": "Which word means: \"Confidently ostentatious.\"?",
+      "options": [
+        "Impulsive",
+        "Maverick",
+        "Extrovert",
+        "Flamboyant"
+      ],
+      "answer": 3,
+      "explanation": "Flamboyant (adj) — Confidently ostentatious."
+    },
+    {
+      "id": "per-q77",
+      "question": "Which word means: \"Straightforward.\"?",
+      "options": [
+        "Frank",
+        "Enthusiastic",
+        "Creative",
+        "Curious"
+      ],
+      "answer": 0,
+      "explanation": "Frank (adj) — Straightforward."
+    },
+    {
+      "id": "per-q78",
+      "question": "Which word means: \"Friendly and cheerful.\"?",
+      "options": [
+        "Genial",
+        "Enthusiastic",
+        "Judgmental",
+        "Patient"
+      ],
+      "answer": 0,
+      "explanation": "Genial (adj) — Friendly and cheerful."
+    },
+    {
+      "id": "per-q79",
+      "question": "Which word means: \"Sincere and real.\"?",
+      "options": [
+        "Sceptic",
+        "Perceptive",
+        "Genuine",
+        "Workaholic"
+      ],
+      "answer": 2,
+      "explanation": "Genuine (adj) — Sincere and real."
+    },
+    {
+      "id": "per-q80",
+      "question": "Which word means: \"Easily persuaded to believe.\"?",
+      "options": [
+        "Gullible",
+        "Diligent",
+        "Pacifist",
+        "Passionate"
+      ],
+      "answer": 0,
+      "explanation": "Gullible (adj) — Easily persuaded to believe."
+    },
+    {
+      "id": "per-q81",
+      "question": "Which word means: \"Modest in estimation.\"?",
+      "options": [
+        "Melancholy",
+        "Loyal",
+        "Humble",
+        "Dogmatic"
+      ],
+      "answer": 2,
+      "explanation": "Humble (adj) — Modest in estimation."
+    },
+    {
+      "id": "per-q82",
+      "question": "Which word means: \"Full of creative ideas.\"?",
+      "options": [
+        "Imaginative",
+        "Independent",
+        "Apathetic",
+        "Extrovert"
+      ],
+      "answer": 0,
+      "explanation": "Imaginative (adj) — Full of creative ideas."
+    },
+    {
+      "id": "per-q83",
+      "question": "Which word means: \"Acting without forethought.\"?",
+      "options": [
+        "Amiable",
+        "Procrastinator",
+        "Pacifist",
+        "Impulsive"
+      ],
+      "answer": 3,
+      "explanation": "Impulsive (adj) — Acting without forethought."
+    },
+    {
+      "id": "per-q84",
+      "question": "Which word means: \"Self-reliant.\"?",
+      "options": [
+        "Realist",
+        "Independent",
+        "Diligent",
+        "Reserved"
+      ],
+      "answer": 1,
+      "explanation": "Independent (adj) — Self-reliant."
+    },
+    {
+      "id": "per-q85",
+      "question": "Which word means: \"Diligent and hardworking.\"?",
+      "options": [
+        "Industrious",
+        "Dogmatic",
+        "Analytical",
+        "Boastful"
+      ],
+      "answer": 0,
+      "explanation": "Industrious (adj) — Diligent and hardworking."
+    },
+    {
+      "id": "per-q86",
+      "question": "Which word means: \"Quick to form critical opinions.\"?",
+      "options": [
+        "Diligent",
+        "Judgmental",
+        "Hedonist",
+        "Iconoclast"
+      ],
+      "answer": 1,
+      "explanation": "Judgmental (adj) — Quick to form critical opinions."
+    },
+    {
+      "id": "per-q87",
+      "question": "Which word means: \"Sympathetic and generous.\"?",
+      "options": [
+        "Kind-hearted",
+        "Stoic",
+        "Melancholy",
+        "Apathetic"
+      ],
+      "answer": 0,
+      "explanation": "Kind-hearted (adj) — Sympathetic and generous."
+    },
+    {
+      "id": "per-q88",
+      "question": "Which word means: \"Faithful to allegiances.\"?",
+      "options": [
+        "Sceptic",
+        "Socialite",
+        "Loyal",
+        "Diligent"
+      ],
+      "answer": 2,
+      "explanation": "Loyal (adj) — Faithful to allegiances."
+    },
+    {
+      "id": "per-q89",
+      "question": "Which word means: \"Skilful at controlling others.\"?",
+      "options": [
+        "Manipulative",
+        "Arrogant",
+        "Optimist",
+        "Flamboyant"
+      ],
+      "answer": 0,
+      "explanation": "Manipulative (adj) — Skilful at controlling others."
+    },
+    {
+      "id": "per-q90",
+      "question": "Which word means: \"Sad and pensive.\"?",
+      "options": [
+        "Melancholy",
+        "Cheerful",
+        "Bohemian",
+        "Moderate"
+      ],
+      "answer": 0,
+      "explanation": "Melancholy (adj) — Sad and pensive."
+    },
+    {
+      "id": "per-q91",
+      "question": "Which word means: \"Not boastful.\"?",
+      "options": [
+        "Stoic",
+        "Moderate",
+        "Diligent",
+        "Modest"
+      ],
+      "answer": 3,
+      "explanation": "Modest (adj) — Not boastful."
+    },
+    {
+      "id": "per-q92",
+      "question": "Which word means: \"Caring and supportive.\"?",
+      "options": [
+        "Hedonist",
+        "Procrastinator",
+        "Nurturing",
+        "Fickle"
+      ],
+      "answer": 2,
+      "explanation": "Nurturing (adj) — Caring and supportive."
+    },
+    {
+      "id": "per-q93",
+      "question": "Which word means: \"Quick to notice.\"?",
+      "options": [
+        "Sceptic",
+        "Observant",
+        "Charismatic",
+        "Manipulative"
+      ],
+      "answer": 1,
+      "explanation": "Observant (adj) — Quick to notice."
+    },
+    {
+      "id": "per-q94",
+      "question": "Which word means: \"Stubbornly refusing to change.\"?",
+      "options": [
+        "Loner",
+        "Genuine",
+        "Cynic",
+        "Obstinate"
+      ],
+      "answer": 3,
+      "explanation": "Obstinate (adj) — Stubbornly refusing to change."
+    },
+    {
+      "id": "per-q95",
+      "question": "Which word means: \"Having intense feelings.\"?",
+      "options": [
+        "Passionate",
+        "Empathetic",
+        "Cynic",
+        "Kind-hearted"
+      ],
+      "answer": 0,
+      "explanation": "Passionate (adj) — Having intense feelings."
+    },
+    {
+      "id": "per-q96",
+      "question": "Which word means: \"Able to endure delay.\"?",
+      "options": [
+        "Puritan",
+        "Gullible",
+        "Agitator",
+        "Patient"
+      ],
+      "answer": 3,
+      "explanation": "Patient (adj) — Able to endure delay."
+    },
+    {
+      "id": "per-q97",
+      "question": "Which word means: \"Having keen insight.\"?",
+      "options": [
+        "Melancholic",
+        "Candid",
+        "Capricious",
+        "Perceptive"
+      ],
+      "answer": 3,
+      "explanation": "Perceptive (adj) — Having keen insight."
+    },
+    {
+      "id": "per-q98",
+      "question": "Which word means: \"Wise in practical affairs.\"?",
+      "options": [
+        "Prudent",
+        "Kind-hearted",
+        "Independent",
+        "Meticulous"
+      ],
+      "answer": 0,
+      "explanation": "Prudent (adj) — Wise in practical affairs."
+    },
+    {
+      "id": "per-q99",
+      "question": "Which word means: \"Slow to reveal emotion.\"?",
+      "options": [
+        "Iconoclast",
+        "Bohemian",
+        "Reserved",
+        "Flamboyant"
+      ],
+      "answer": 2,
+      "explanation": "Reserved (adj) — Slow to reveal emotion."
+    },
+    {
+      "id": "per-q100",
+      "question": "Which word means: \"Recovering quickly from setbacks.\"?",
+      "options": [
+        "Flamboyant",
+        "Resilient",
+        "Extroverted",
+        "Iconoclast"
+      ],
+      "answer": 1,
+      "explanation": "Resilient (adj) — Recovering quickly from setbacks."
+    }
+  ]
+}

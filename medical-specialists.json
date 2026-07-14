@@ -1,0 +1,1908 @@
+{
+  "category": "medical-specialists",
+  "title": "Medical Specialists",
+  "words": [
+    {
+      "id": "md-01",
+      "word": "Cardiologist",
+      "pos": "noun",
+      "definition": "A physician who specialises in disorders of the heart.",
+      "example": "The cardiologist ordered an angiogram after reviewing the ECG."
+    },
+    {
+      "id": "md-02",
+      "word": "Dermatologist",
+      "pos": "noun",
+      "definition": "A doctor who specialises in the skin and its diseases.",
+      "example": "The dermatologist prescribed a course of topical retinoids."
+    },
+    {
+      "id": "md-03",
+      "word": "Endocrinologist",
+      "pos": "noun",
+      "definition": "A specialist in disorders of the endocrine glands and hormones.",
+      "example": "An endocrinologist manages complex diabetes and thyroid cases."
+    },
+    {
+      "id": "md-04",
+      "word": "Gastroenterologist",
+      "pos": "noun",
+      "definition": "A doctor concerned with the stomach and intestines.",
+      "example": "The gastroenterologist recommended an endoscopy."
+    },
+    {
+      "id": "md-05",
+      "word": "Gynaecologist",
+      "pos": "noun",
+      "definition": "A physician specialising in the female reproductive system.",
+      "example": "She saw a gynaecologist for her annual check-up."
+    },
+    {
+      "id": "md-06",
+      "word": "Haematologist",
+      "pos": "noun",
+      "definition": "A specialist in the blood and blood-forming organs.",
+      "example": "The haematologist reviewed the bone-marrow biopsy."
+    },
+    {
+      "id": "md-07",
+      "word": "Hepatologist",
+      "pos": "noun",
+      "definition": "A doctor who studies and treats diseases of the liver.",
+      "example": "A hepatologist should monitor patients with chronic hepatitis."
+    },
+    {
+      "id": "md-08",
+      "word": "Nephrologist",
+      "pos": "noun",
+      "definition": "A doctor who specialises in the kidneys.",
+      "example": "The nephrologist adjusted his dialysis schedule."
+    },
+    {
+      "id": "md-09",
+      "word": "Neurologist",
+      "pos": "noun",
+      "definition": "A physician who diagnoses disorders of the nervous system.",
+      "example": "The neurologist ordered an MRI of the brain."
+    },
+    {
+      "id": "md-10",
+      "word": "Obstetrician",
+      "pos": "noun",
+      "definition": "A doctor qualified to care for pregnant women and deliver babies.",
+      "example": "Her obstetrician scheduled a routine ultrasound."
+    },
+    {
+      "id": "md-11",
+      "word": "Oncologist",
+      "pos": "noun",
+      "definition": "A doctor who specialises in cancer.",
+      "example": "The oncologist explained the chemotherapy regimen in detail."
+    },
+    {
+      "id": "md-12",
+      "word": "Ophthalmologist",
+      "pos": "noun",
+      "definition": "A medical doctor who diagnoses and treats disorders of the eye.",
+      "example": "The ophthalmologist performed cataract surgery."
+    },
+    {
+      "id": "md-13",
+      "word": "Optometrist",
+      "pos": "noun",
+      "definition": "A professional who examines eyes for vision problems and prescribes lenses.",
+      "example": "An optometrist tested her sight and prescribed new spectacles."
+    },
+    {
+      "id": "md-14",
+      "word": "Orthopaedist",
+      "pos": "noun",
+      "definition": "A surgeon who treats disorders of the bones, joints, and muscles.",
+      "example": "An orthopaedist reset the fractured femur."
+    },
+    {
+      "id": "md-15",
+      "word": "Otolaryngologist",
+      "pos": "noun",
+      "definition": "A specialist in the ear, nose, and throat.",
+      "example": "The otolaryngologist recommended a tonsillectomy."
+    },
+    {
+      "id": "md-16",
+      "word": "Paediatrician",
+      "pos": "noun",
+      "definition": "A doctor who treats infants and children.",
+      "example": "The paediatrician monitored the infant's growth curve."
+    },
+    {
+      "id": "md-17",
+      "word": "Pathologist",
+      "pos": "noun",
+      "definition": "A doctor who studies the causes and effects of disease, especially via tissue examination.",
+      "example": "The pathologist confirmed the tumour was benign."
+    },
+    {
+      "id": "md-18",
+      "word": "Podiatrist",
+      "pos": "noun",
+      "definition": "A specialist in the feet and their disorders.",
+      "example": "The podiatrist fitted him with orthotic insoles."
+    },
+    {
+      "id": "md-19",
+      "word": "Psychiatrist",
+      "pos": "noun",
+      "definition": "A medical doctor who treats mental illness.",
+      "example": "A psychiatrist can prescribe medication in addition to therapy."
+    },
+    {
+      "id": "md-20",
+      "word": "Pulmonologist",
+      "pos": "noun",
+      "definition": "A doctor who specialises in the lungs.",
+      "example": "The pulmonologist ordered pulmonary function tests."
+    },
+    {
+      "id": "md-21",
+      "word": "Radiologist",
+      "pos": "noun",
+      "definition": "A physician who uses medical imaging to diagnose disease.",
+      "example": "The radiologist flagged a suspicious shadow on the X-ray."
+    },
+    {
+      "id": "md-22",
+      "word": "Rheumatologist",
+      "pos": "noun",
+      "definition": "A specialist in joint, muscle, and autoimmune disorders.",
+      "example": "A rheumatologist coordinated her lupus treatment."
+    },
+    {
+      "id": "md-23",
+      "word": "Surgeon",
+      "pos": "noun",
+      "definition": "A doctor who performs surgery.",
+      "example": "The surgeon scrubbed for a six-hour operation."
+    },
+    {
+      "id": "md-24",
+      "word": "Urologist",
+      "pos": "noun",
+      "definition": "A specialist in the urinary tract and male reproductive system.",
+      "example": "The urologist scheduled a cystoscopy."
+    },
+    {
+      "id": "md-25",
+      "word": "Allergist",
+      "pos": "noun",
+      "definition": "A doctor who diagnoses and treats allergies.",
+      "example": "The allergist ran a panel of skin-prick tests."
+    },
+    {
+      "id": "md-26",
+      "word": "Anaesthesiologist",
+      "pos": "noun",
+      "definition": "A physician who administers anaesthesia during surgery.",
+      "example": "The anaesthesiologist reviewed her airway before induction."
+    },
+    {
+      "id": "md-27",
+      "word": "Andrologist",
+      "pos": "noun",
+      "definition": "A doctor specialising in male reproductive health.",
+      "example": "An andrologist investigated the cause of infertility."
+    },
+    {
+      "id": "md-28",
+      "word": "Bariatric surgeon",
+      "pos": "noun",
+      "definition": "A surgeon who performs weight-loss surgery.",
+      "example": "The bariatric surgeon explained the risks of gastric bypass."
+    },
+    {
+      "id": "md-29",
+      "word": "Cardiothoracic surgeon",
+      "pos": "noun",
+      "definition": "A surgeon of the heart, lungs, and chest.",
+      "example": "The cardiothoracic surgeon led the transplant team."
+    },
+    {
+      "id": "md-30",
+      "word": "Colorectal surgeon",
+      "pos": "noun",
+      "definition": "A surgeon who treats disorders of the colon and rectum.",
+      "example": "The colorectal surgeon removed the polyps."
+    },
+    {
+      "id": "md-31",
+      "word": "Cytologist",
+      "pos": "noun",
+      "definition": "A specialist in the study of cells.",
+      "example": "The cytologist reviewed the Pap smear slides."
+    },
+    {
+      "id": "md-32",
+      "word": "Dietitian",
+      "pos": "noun",
+      "definition": "A specialist in food and nutrition.",
+      "example": "The dietitian designed a low-sodium meal plan."
+    },
+    {
+      "id": "md-33",
+      "word": "Embryologist",
+      "pos": "noun",
+      "definition": "A specialist in embryos and their development.",
+      "example": "The embryologist selected the healthiest blastocysts for transfer."
+    },
+    {
+      "id": "md-34",
+      "word": "Epidemiologist",
+      "pos": "noun",
+      "definition": "A scientist who studies the distribution and control of disease.",
+      "example": "The epidemiologist traced the outbreak to a single wedding."
+    },
+    {
+      "id": "md-35",
+      "word": "Forensic pathologist",
+      "pos": "noun",
+      "definition": "A doctor who performs autopsies to determine cause of death.",
+      "example": "The forensic pathologist concluded the death was accidental."
+    },
+    {
+      "id": "md-36",
+      "word": "Geneticist",
+      "pos": "noun",
+      "definition": "A specialist in heredity and gene disorders.",
+      "example": "A geneticist counselled the couple about carrier status."
+    },
+    {
+      "id": "md-37",
+      "word": "Geriatrician",
+      "pos": "noun",
+      "definition": "A doctor specialising in the health care of elderly people.",
+      "example": "The geriatrician simplified her medication list."
+    },
+    {
+      "id": "md-38",
+      "word": "Immunologist",
+      "pos": "noun",
+      "definition": "A specialist in the immune system.",
+      "example": "The immunologist investigated the recurrent infections."
+    },
+    {
+      "id": "md-39",
+      "word": "Intensivist",
+      "pos": "noun",
+      "definition": "A doctor who specialises in intensive-care medicine.",
+      "example": "The intensivist managed the ventilator settings overnight."
+    },
+    {
+      "id": "md-40",
+      "word": "Neonatologist",
+      "pos": "noun",
+      "definition": "A doctor who cares for newborn infants, especially premature or ill babies.",
+      "example": "The neonatologist stabilised the premature twin."
+    },
+    {
+      "id": "md-41",
+      "word": "Neurosurgeon",
+      "pos": "noun",
+      "definition": "A surgeon of the brain, spine, and nervous system.",
+      "example": "The neurosurgeon removed the glioma successfully."
+    },
+    {
+      "id": "md-42",
+      "word": "Nutritionist",
+      "pos": "noun",
+      "definition": "A person who advises on matters of food and nutrition.",
+      "example": "A nutritionist explained macronutrient balance."
+    },
+    {
+      "id": "md-43",
+      "word": "Orthodontist",
+      "pos": "noun",
+      "definition": "A dentist who corrects irregularities of the teeth and jaw.",
+      "example": "The orthodontist fitted her with braces."
+    },
+    {
+      "id": "md-44",
+      "word": "Osteopath",
+      "pos": "noun",
+      "definition": "A practitioner of osteopathy, focusing on muscles and bones.",
+      "example": "The osteopath eased his lower-back pain."
+    },
+    {
+      "id": "md-45",
+      "word": "Otologist",
+      "pos": "noun",
+      "definition": "A doctor who specialises in the ear.",
+      "example": "The otologist explored the cause of chronic vertigo."
+    },
+    {
+      "id": "md-46",
+      "word": "Perinatologist",
+      "pos": "noun",
+      "definition": "An obstetrician for high-risk pregnancies.",
+      "example": "The perinatologist monitored the twin pregnancy weekly."
+    },
+    {
+      "id": "md-47",
+      "word": "Physiatrist",
+      "pos": "noun",
+      "definition": "A specialist in physical medicine and rehabilitation.",
+      "example": "The physiatrist coordinated his stroke rehabilitation."
+    },
+    {
+      "id": "md-48",
+      "word": "Plastic surgeon",
+      "pos": "noun",
+      "definition": "A surgeon who restores or alters the form of the body.",
+      "example": "The plastic surgeon rebuilt the burn-damaged tissue."
+    },
+    {
+      "id": "md-49",
+      "word": "Toxicologist",
+      "pos": "noun",
+      "definition": "A specialist in the effects of poisons.",
+      "example": "The toxicologist identified the unknown compound."
+    },
+    {
+      "id": "md-50",
+      "word": "Vascular surgeon",
+      "pos": "noun",
+      "definition": "A surgeon who treats disorders of arteries and veins.",
+      "example": "The vascular surgeon repaired the aneurysm."
+    },
+    {
+      "id": "ms-051",
+      "word": "Angiologist",
+      "pos": "noun",
+      "definition": "Specialist in blood vessels.",
+      "example": "The angiologist treated her varicose veins."
+    },
+    {
+      "id": "ms-052",
+      "word": "Audiologist",
+      "pos": "noun",
+      "definition": "Specialist in hearing.",
+      "example": "The audiologist fitted new hearing aids."
+    },
+    {
+      "id": "ms-053",
+      "word": "Cardiac electrophysiologist",
+      "pos": "noun",
+      "definition": "Specialist in heart rhythm.",
+      "example": "The electrophysiologist implanted a pacemaker."
+    },
+    {
+      "id": "ms-054",
+      "word": "Chiropractor",
+      "pos": "noun",
+      "definition": "Practitioner treating spinal issues.",
+      "example": "The chiropractor adjusted his back."
+    },
+    {
+      "id": "ms-055",
+      "word": "Clinical psychologist",
+      "pos": "noun",
+      "definition": "Specialist in mental disorders.",
+      "example": "The clinical psychologist ran the assessment."
+    },
+    {
+      "id": "ms-056",
+      "word": "Coloproctologist",
+      "pos": "noun",
+      "definition": "Specialist in colon and rectum.",
+      "example": "The coloproctologist performed the colonoscopy."
+    },
+    {
+      "id": "ms-057",
+      "word": "Cosmetologist",
+      "pos": "noun",
+      "definition": "Specialist in beauty treatments.",
+      "example": "The cosmetologist advised on skincare."
+    },
+    {
+      "id": "ms-058",
+      "word": "Cytotechnologist",
+      "pos": "noun",
+      "definition": "Specialist analysing cell samples.",
+      "example": "The cytotechnologist screened the smear."
+    },
+    {
+      "id": "ms-059",
+      "word": "Dental surgeon",
+      "pos": "noun",
+      "definition": "Surgeon specialising in teeth.",
+      "example": "The dental surgeon extracted the molar."
+    },
+    {
+      "id": "ms-060",
+      "word": "Diabetologist",
+      "pos": "noun",
+      "definition": "Specialist in diabetes.",
+      "example": "The diabetologist adjusted her insulin."
+    },
+    {
+      "id": "ms-061",
+      "word": "ENT surgeon",
+      "pos": "noun",
+      "definition": "Ear-nose-throat surgeon.",
+      "example": "The ENT surgeon removed the polyp."
+    },
+    {
+      "id": "ms-062",
+      "word": "Family physician",
+      "pos": "noun",
+      "definition": "General practitioner treating families.",
+      "example": "Our family physician handles routine care."
+    },
+    {
+      "id": "ms-063",
+      "word": "Fetal medicine specialist",
+      "pos": "noun",
+      "definition": "Specialist in unborn babies.",
+      "example": "The fetal medicine specialist monitored the twins."
+    },
+    {
+      "id": "ms-064",
+      "word": "Gastroenterological surgeon",
+      "pos": "noun",
+      "definition": "Surgeon of the digestive tract.",
+      "example": "The GI surgeon operated on the stomach."
+    },
+    {
+      "id": "ms-065",
+      "word": "General practitioner",
+      "pos": "noun",
+      "definition": "Community-based generalist.",
+      "example": "See your GP for a referral."
+    },
+    {
+      "id": "ms-066",
+      "word": "Geneticist (medical)",
+      "pos": "noun",
+      "definition": "Specialist in genetic disorders.",
+      "example": "The medical geneticist counselled the family."
+    },
+    {
+      "id": "ms-067",
+      "word": "Gynaecological oncologist",
+      "pos": "noun",
+      "definition": "Cancer specialist for women.",
+      "example": "The gynae-oncologist led the treatment."
+    },
+    {
+      "id": "ms-068",
+      "word": "Hand surgeon",
+      "pos": "noun",
+      "definition": "Surgeon of the hand and wrist.",
+      "example": "The hand surgeon repaired the tendon."
+    },
+    {
+      "id": "ms-069",
+      "word": "Hepatobiliary surgeon",
+      "pos": "noun",
+      "definition": "Liver and bile duct surgeon.",
+      "example": "The hepatobiliary surgeon removed the tumor."
+    },
+    {
+      "id": "ms-070",
+      "word": "Hospitalist",
+      "pos": "noun",
+      "definition": "Doctor caring for inpatients.",
+      "example": "The hospitalist rounded each morning."
+    },
+    {
+      "id": "ms-071",
+      "word": "Interventional radiologist",
+      "pos": "noun",
+      "definition": "Radiologist doing minimally invasive procedures.",
+      "example": "The interventional radiologist placed the stent."
+    },
+    {
+      "id": "ms-072",
+      "word": "Laryngologist",
+      "pos": "noun",
+      "definition": "Specialist of the larynx.",
+      "example": "The laryngologist scoped her throat."
+    },
+    {
+      "id": "ms-073",
+      "word": "Maxillofacial surgeon",
+      "pos": "noun",
+      "definition": "Surgeon of the face and jaw.",
+      "example": "The maxillofacial surgeon reset the jaw."
+    },
+    {
+      "id": "ms-074",
+      "word": "Microbiologist",
+      "pos": "noun",
+      "definition": "Specialist in microorganisms.",
+      "example": "The microbiologist cultured the swab."
+    },
+    {
+      "id": "ms-075",
+      "word": "Midwife",
+      "pos": "noun",
+      "definition": "Trained assistant at childbirth.",
+      "example": "The midwife delivered the baby."
+    },
+    {
+      "id": "ms-076",
+      "word": "Neuropsychologist",
+      "pos": "noun",
+      "definition": "Specialist in brain-behaviour links.",
+      "example": "The neuropsychologist tested memory."
+    },
+    {
+      "id": "ms-077",
+      "word": "Nuclear medicine physician",
+      "pos": "noun",
+      "definition": "Uses radioisotopes for diagnosis.",
+      "example": "The nuclear medicine physician read the PET scan."
+    },
+    {
+      "id": "ms-078",
+      "word": "Occupational therapist",
+      "pos": "noun",
+      "definition": "Helps patients regain daily-life skills.",
+      "example": "The occupational therapist redesigned his workspace."
+    },
+    {
+      "id": "ms-079",
+      "word": "Occupational physician",
+      "pos": "noun",
+      "definition": "Specialist in workplace health.",
+      "example": "The occupational physician cleared him for duty."
+    },
+    {
+      "id": "ms-080",
+      "word": "Oncology surgeon",
+      "pos": "noun",
+      "definition": "Surgeon specialising in cancer.",
+      "example": "The oncology surgeon removed the mass."
+    },
+    {
+      "id": "ms-081",
+      "word": "Oral surgeon",
+      "pos": "noun",
+      "definition": "Surgeon of mouth and jaw.",
+      "example": "The oral surgeon extracted the wisdom teeth."
+    },
+    {
+      "id": "ms-082",
+      "word": "Orthopaedic surgeon",
+      "pos": "noun",
+      "definition": "Bone and joint surgeon.",
+      "example": "The orthopaedic surgeon replaced the hip."
+    },
+    {
+      "id": "ms-083",
+      "word": "Palliative care specialist",
+      "pos": "noun",
+      "definition": "Focus on comfort in serious illness.",
+      "example": "The palliative care specialist managed pain."
+    },
+    {
+      "id": "ms-084",
+      "word": "Paediatric surgeon",
+      "pos": "noun",
+      "definition": "Surgeon for children.",
+      "example": "The paediatric surgeon repaired the hernia."
+    },
+    {
+      "id": "ms-085",
+      "word": "Periodontist",
+      "pos": "noun",
+      "definition": "Specialist in gum disease.",
+      "example": "The periodontist treated her gingivitis."
+    },
+    {
+      "id": "ms-086",
+      "word": "Pharmacologist",
+      "pos": "noun",
+      "definition": "Specialist in drug action.",
+      "example": "The pharmacologist reviewed side effects."
+    },
+    {
+      "id": "ms-087",
+      "word": "Phlebotomist",
+      "pos": "noun",
+      "definition": "Specialist in drawing blood.",
+      "example": "The phlebotomist filled the tubes."
+    },
+    {
+      "id": "ms-088",
+      "word": "Physiotherapist",
+      "pos": "noun",
+      "definition": "Specialist in physical rehabilitation.",
+      "example": "The physiotherapist prescribed exercises."
+    },
+    {
+      "id": "ms-089",
+      "word": "Prosthodontist",
+      "pos": "noun",
+      "definition": "Dentist specialising in prostheses.",
+      "example": "The prosthodontist fitted the crown."
+    },
+    {
+      "id": "ms-090",
+      "word": "Psychotherapist",
+      "pos": "noun",
+      "definition": "Treats mental disorders through therapy.",
+      "example": "The psychotherapist offered weekly sessions."
+    },
+    {
+      "id": "ms-091",
+      "word": "Reproductive endocrinologist",
+      "pos": "noun",
+      "definition": "Specialist in fertility hormones.",
+      "example": "The RE specialist began IVF."
+    },
+    {
+      "id": "ms-092",
+      "word": "Respiratory therapist",
+      "pos": "noun",
+      "definition": "Specialist in breathing therapies.",
+      "example": "The respiratory therapist adjusted the ventilator."
+    },
+    {
+      "id": "ms-093",
+      "word": "Sleep specialist",
+      "pos": "noun",
+      "definition": "Doctor treating sleep disorders.",
+      "example": "The sleep specialist ordered a study."
+    },
+    {
+      "id": "ms-094",
+      "word": "Speech-language pathologist",
+      "pos": "noun",
+      "definition": "Treats speech and swallowing problems.",
+      "example": "The SLP began stroke rehab."
+    },
+    {
+      "id": "ms-095",
+      "word": "Sports medicine physician",
+      "pos": "noun",
+      "definition": "Cares for athletic injuries.",
+      "example": "The sports medicine doctor cleared him to play."
+    },
+    {
+      "id": "ms-096",
+      "word": "Thoracic surgeon",
+      "pos": "noun",
+      "definition": "Chest cavity surgeon.",
+      "example": "The thoracic surgeon removed the lung nodule."
+    },
+    {
+      "id": "ms-097",
+      "word": "Transplant surgeon",
+      "pos": "noun",
+      "definition": "Performs organ transplants.",
+      "example": "The transplant surgeon led the kidney case."
+    },
+    {
+      "id": "ms-098",
+      "word": "Trauma surgeon",
+      "pos": "noun",
+      "definition": "Emergency surgery for injuries.",
+      "example": "The trauma surgeon operated through the night."
+    },
+    {
+      "id": "ms-099",
+      "word": "Venereologist",
+      "pos": "noun",
+      "definition": "Specialist in STDs.",
+      "example": "The venereologist confirmed the diagnosis."
+    },
+    {
+      "id": "ms-100",
+      "word": "Vitreoretinal surgeon",
+      "pos": "noun",
+      "definition": "Eye surgeon for the retina.",
+      "example": "The vitreoretinal surgeon repaired the detachment."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "med-q1",
+      "question": "Which word means: \"A physician who specialises in disorders of the heart.\"?",
+      "options": [
+        "Optometrist",
+        "Chiropractor",
+        "Geneticist",
+        "Cardiologist"
+      ],
+      "answer": 3,
+      "explanation": "Cardiologist (noun) — A physician who specialises in disorders of the heart."
+    },
+    {
+      "id": "med-q2",
+      "question": "Which word means: \"A doctor who specialises in the skin and its diseases.\"?",
+      "options": [
+        "Neonatologist",
+        "Dermatologist",
+        "Dental surgeon",
+        "Cardiothoracic surgeon"
+      ],
+      "answer": 1,
+      "explanation": "Dermatologist (noun) — A doctor who specialises in the skin and its diseases."
+    },
+    {
+      "id": "med-q3",
+      "question": "Which word means: \"A specialist in disorders of the endocrine glands and hormones.\"?",
+      "options": [
+        "Andrologist",
+        "Endocrinologist",
+        "Haematologist",
+        "Toxicologist"
+      ],
+      "answer": 1,
+      "explanation": "Endocrinologist (noun) — A specialist in disorders of the endocrine glands and hormones."
+    },
+    {
+      "id": "med-q4",
+      "question": "Which word means: \"A doctor concerned with the stomach and intestines.\"?",
+      "options": [
+        "Fetal medicine specialist",
+        "Radiologist",
+        "Gastroenterologist",
+        "Geneticist (medical)"
+      ],
+      "answer": 2,
+      "explanation": "Gastroenterologist (noun) — A doctor concerned with the stomach and intestines."
+    },
+    {
+      "id": "med-q5",
+      "question": "Which word means: \"A physician specialising in the female reproductive system.\"?",
+      "options": [
+        "Hepatobiliary surgeon",
+        "Gynaecologist",
+        "Sports medicine physician",
+        "Neurosurgeon"
+      ],
+      "answer": 1,
+      "explanation": "Gynaecologist (noun) — A physician specialising in the female reproductive system."
+    },
+    {
+      "id": "med-q6",
+      "question": "Which word means: \"A specialist in the blood and blood-forming organs.\"?",
+      "options": [
+        "Haematologist",
+        "Hand surgeon",
+        "Podiatrist",
+        "Physiotherapist"
+      ],
+      "answer": 0,
+      "explanation": "Haematologist (noun) — A specialist in the blood and blood-forming organs."
+    },
+    {
+      "id": "med-q7",
+      "question": "Which word means: \"A doctor who studies and treats diseases of the liver.\"?",
+      "options": [
+        "Sleep specialist",
+        "Angiologist",
+        "Hepatologist",
+        "Diabetologist"
+      ],
+      "answer": 2,
+      "explanation": "Hepatologist (noun) — A doctor who studies and treats diseases of the liver."
+    },
+    {
+      "id": "med-q8",
+      "question": "Which word means: \"A doctor who specialises in the kidneys.\"?",
+      "options": [
+        "Nephrologist",
+        "Occupational therapist",
+        "Prosthodontist",
+        "Haematologist"
+      ],
+      "answer": 0,
+      "explanation": "Nephrologist (noun) — A doctor who specialises in the kidneys."
+    },
+    {
+      "id": "med-q9",
+      "question": "Which word means: \"A physician who diagnoses disorders of the nervous system.\"?",
+      "options": [
+        "Neurologist",
+        "Otolaryngologist",
+        "Haematologist",
+        "Hand surgeon"
+      ],
+      "answer": 0,
+      "explanation": "Neurologist (noun) — A physician who diagnoses disorders of the nervous system."
+    },
+    {
+      "id": "med-q10",
+      "question": "Which word means: \"A doctor qualified to care for pregnant women and deliver babies.\"?",
+      "options": [
+        "Orthodontist",
+        "Obstetrician",
+        "Palliative care specialist",
+        "Bariatric surgeon"
+      ],
+      "answer": 1,
+      "explanation": "Obstetrician (noun) — A doctor qualified to care for pregnant women and deliver babies."
+    },
+    {
+      "id": "med-q11",
+      "question": "Which word means: \"A doctor who specialises in cancer.\"?",
+      "options": [
+        "Hospitalist",
+        "Geriatrician",
+        "Nutritionist",
+        "Oncologist"
+      ],
+      "answer": 3,
+      "explanation": "Oncologist (noun) — A doctor who specialises in cancer."
+    },
+    {
+      "id": "med-q12",
+      "question": "Which word means: \"A medical doctor who diagnoses and treats disorders of the eye.\"?",
+      "options": [
+        "Radiologist",
+        "Ophthalmologist",
+        "Geneticist",
+        "Rheumatologist"
+      ],
+      "answer": 1,
+      "explanation": "Ophthalmologist (noun) — A medical doctor who diagnoses and treats disorders of the eye."
+    },
+    {
+      "id": "med-q13",
+      "question": "Which word means: \"A professional who examines eyes for vision problems and prescribes lenses.\"?",
+      "options": [
+        "Gynaecological oncologist",
+        "Maxillofacial surgeon",
+        "Optometrist",
+        "Oral surgeon"
+      ],
+      "answer": 2,
+      "explanation": "Optometrist (noun) — A professional who examines eyes for vision problems and prescribes lenses."
+    },
+    {
+      "id": "med-q14",
+      "question": "Which word means: \"A surgeon who treats disorders of the bones, joints, and muscles.\"?",
+      "options": [
+        "Laryngologist",
+        "Orthopaedist",
+        "Geneticist",
+        "Nutritionist"
+      ],
+      "answer": 1,
+      "explanation": "Orthopaedist (noun) — A surgeon who treats disorders of the bones, joints, and muscles."
+    },
+    {
+      "id": "med-q15",
+      "question": "Which word means: \"A specialist in the ear, nose, and throat.\"?",
+      "options": [
+        "Otolaryngologist",
+        "Surgeon",
+        "Embryologist",
+        "Midwife"
+      ],
+      "answer": 0,
+      "explanation": "Otolaryngologist (noun) — A specialist in the ear, nose, and throat."
+    },
+    {
+      "id": "med-q16",
+      "question": "Which word means: \"A doctor who treats infants and children.\"?",
+      "options": [
+        "Hepatologist",
+        "Paediatrician",
+        "Interventional radiologist",
+        "Cytotechnologist"
+      ],
+      "answer": 1,
+      "explanation": "Paediatrician (noun) — A doctor who treats infants and children."
+    },
+    {
+      "id": "med-q17",
+      "question": "Which word means: \"A doctor who studies the causes and effects of disease, especially via tissue examination.\"?",
+      "options": [
+        "Hepatologist",
+        "Orthopaedist",
+        "Physiotherapist",
+        "Pathologist"
+      ],
+      "answer": 3,
+      "explanation": "Pathologist (noun) — A doctor who studies the causes and effects of disease, especially via tissue examination."
+    },
+    {
+      "id": "med-q18",
+      "question": "Which word means: \"A specialist in the feet and their disorders.\"?",
+      "options": [
+        "Coloproctologist",
+        "Audiologist",
+        "Urologist",
+        "Podiatrist"
+      ],
+      "answer": 3,
+      "explanation": "Podiatrist (noun) — A specialist in the feet and their disorders."
+    },
+    {
+      "id": "med-q19",
+      "question": "Which word means: \"A medical doctor who treats mental illness.\"?",
+      "options": [
+        "Andrologist",
+        "Psychiatrist",
+        "Osteopath",
+        "Neurosurgeon"
+      ],
+      "answer": 1,
+      "explanation": "Psychiatrist (noun) — A medical doctor who treats mental illness."
+    },
+    {
+      "id": "med-q20",
+      "question": "Which word means: \"A doctor who specialises in the lungs.\"?",
+      "options": [
+        "Pulmonologist",
+        "ENT surgeon",
+        "Reproductive endocrinologist",
+        "Ophthalmologist"
+      ],
+      "answer": 0,
+      "explanation": "Pulmonologist (noun) — A doctor who specialises in the lungs."
+    },
+    {
+      "id": "med-q21",
+      "question": "Which word means: \"A physician who uses medical imaging to diagnose disease.\"?",
+      "options": [
+        "Respiratory therapist",
+        "Prosthodontist",
+        "Paediatric surgeon",
+        "Radiologist"
+      ],
+      "answer": 3,
+      "explanation": "Radiologist (noun) — A physician who uses medical imaging to diagnose disease."
+    },
+    {
+      "id": "med-q22",
+      "question": "Which word means: \"A specialist in joint, muscle, and autoimmune disorders.\"?",
+      "options": [
+        "Colorectal surgeon",
+        "Rheumatologist",
+        "Psychiatrist",
+        "Oncology surgeon"
+      ],
+      "answer": 1,
+      "explanation": "Rheumatologist (noun) — A specialist in joint, muscle, and autoimmune disorders."
+    },
+    {
+      "id": "med-q23",
+      "question": "Which word means: \"A doctor who performs surgery.\"?",
+      "options": [
+        "Allergist",
+        "Surgeon",
+        "Reproductive endocrinologist",
+        "Phlebotomist"
+      ],
+      "answer": 1,
+      "explanation": "Surgeon (noun) — A doctor who performs surgery."
+    },
+    {
+      "id": "med-q24",
+      "question": "Which word means: \"A specialist in the urinary tract and male reproductive system.\"?",
+      "options": [
+        "Neurologist",
+        "Gastroenterologist",
+        "Gastroenterological surgeon",
+        "Urologist"
+      ],
+      "answer": 3,
+      "explanation": "Urologist (noun) — A specialist in the urinary tract and male reproductive system."
+    },
+    {
+      "id": "med-q25",
+      "question": "Which word means: \"A doctor who diagnoses and treats allergies.\"?",
+      "options": [
+        "Allergist",
+        "Fetal medicine specialist",
+        "ENT surgeon",
+        "Rheumatologist"
+      ],
+      "answer": 0,
+      "explanation": "Allergist (noun) — A doctor who diagnoses and treats allergies."
+    },
+    {
+      "id": "med-q26",
+      "question": "Which word means: \"A physician who administers anaesthesia during surgery.\"?",
+      "options": [
+        "Cardiac electrophysiologist",
+        "Anaesthesiologist",
+        "Orthopaedist",
+        "Gynaecological oncologist"
+      ],
+      "answer": 1,
+      "explanation": "Anaesthesiologist (noun) — A physician who administers anaesthesia during surgery."
+    },
+    {
+      "id": "med-q27",
+      "question": "Which word means: \"A doctor specialising in male reproductive health.\"?",
+      "options": [
+        "Neonatologist",
+        "Hospitalist",
+        "ENT surgeon",
+        "Andrologist"
+      ],
+      "answer": 3,
+      "explanation": "Andrologist (noun) — A doctor specialising in male reproductive health."
+    },
+    {
+      "id": "med-q28",
+      "question": "Which word means: \"A surgeon who performs weight-loss surgery.\"?",
+      "options": [
+        "Dietitian",
+        "Embryologist",
+        "Bariatric surgeon",
+        "Oral surgeon"
+      ],
+      "answer": 2,
+      "explanation": "Bariatric surgeon (noun) — A surgeon who performs weight-loss surgery."
+    },
+    {
+      "id": "med-q29",
+      "question": "Which word means: \"A surgeon of the heart, lungs, and chest.\"?",
+      "options": [
+        "Neurologist",
+        "Andrologist",
+        "Otologist",
+        "Cardiothoracic surgeon"
+      ],
+      "answer": 3,
+      "explanation": "Cardiothoracic surgeon (noun) — A surgeon of the heart, lungs, and chest."
+    },
+    {
+      "id": "med-q30",
+      "question": "Which word means: \"A surgeon who treats disorders of the colon and rectum.\"?",
+      "options": [
+        "Colorectal surgeon",
+        "Interventional radiologist",
+        "Dietitian",
+        "Psychotherapist"
+      ],
+      "answer": 0,
+      "explanation": "Colorectal surgeon (noun) — A surgeon who treats disorders of the colon and rectum."
+    },
+    {
+      "id": "med-q31",
+      "question": "Which word means: \"A specialist in the study of cells.\"?",
+      "options": [
+        "Midwife",
+        "Sleep specialist",
+        "Thoracic surgeon",
+        "Cytologist"
+      ],
+      "answer": 3,
+      "explanation": "Cytologist (noun) — A specialist in the study of cells."
+    },
+    {
+      "id": "med-q32",
+      "question": "Which word means: \"A specialist in food and nutrition.\"?",
+      "options": [
+        "Optometrist",
+        "Maxillofacial surgeon",
+        "Orthodontist",
+        "Dietitian"
+      ],
+      "answer": 3,
+      "explanation": "Dietitian (noun) — A specialist in food and nutrition."
+    },
+    {
+      "id": "med-q33",
+      "question": "Which word means: \"A specialist in embryos and their development.\"?",
+      "options": [
+        "Embryologist",
+        "Neurologist",
+        "Occupational therapist",
+        "Cardiac electrophysiologist"
+      ],
+      "answer": 0,
+      "explanation": "Embryologist (noun) — A specialist in embryos and their development."
+    },
+    {
+      "id": "med-q34",
+      "question": "Which word means: \"A scientist who studies the distribution and control of disease.\"?",
+      "options": [
+        "General practitioner",
+        "Paediatric surgeon",
+        "Epidemiologist",
+        "Orthodontist"
+      ],
+      "answer": 2,
+      "explanation": "Epidemiologist (noun) — A scientist who studies the distribution and control of disease."
+    },
+    {
+      "id": "med-q35",
+      "question": "Which word means: \"A doctor who performs autopsies to determine cause of death.\"?",
+      "options": [
+        "Neuropsychologist",
+        "Trauma surgeon",
+        "Forensic pathologist",
+        "Podiatrist"
+      ],
+      "answer": 2,
+      "explanation": "Forensic pathologist (noun) — A doctor who performs autopsies to determine cause of death."
+    },
+    {
+      "id": "med-q36",
+      "question": "Which word means: \"A specialist in heredity and gene disorders.\"?",
+      "options": [
+        "Dental surgeon",
+        "Hospitalist",
+        "Intensivist",
+        "Geneticist"
+      ],
+      "answer": 3,
+      "explanation": "Geneticist (noun) — A specialist in heredity and gene disorders."
+    },
+    {
+      "id": "med-q37",
+      "question": "Which word means: \"A doctor specialising in the health care of elderly people.\"?",
+      "options": [
+        "Anaesthesiologist",
+        "Geriatrician",
+        "Andrologist",
+        "Prosthodontist"
+      ],
+      "answer": 1,
+      "explanation": "Geriatrician (noun) — A doctor specialising in the health care of elderly people."
+    },
+    {
+      "id": "med-q38",
+      "question": "Which word means: \"A specialist in the immune system.\"?",
+      "options": [
+        "Sleep specialist",
+        "Immunologist",
+        "Perinatologist",
+        "Cosmetologist"
+      ],
+      "answer": 1,
+      "explanation": "Immunologist (noun) — A specialist in the immune system."
+    },
+    {
+      "id": "med-q39",
+      "question": "Which word means: \"A doctor who specialises in intensive-care medicine.\"?",
+      "options": [
+        "Cardiac electrophysiologist",
+        "Oncology surgeon",
+        "Intensivist",
+        "Gynaecological oncologist"
+      ],
+      "answer": 2,
+      "explanation": "Intensivist (noun) — A doctor who specialises in intensive-care medicine."
+    },
+    {
+      "id": "med-q40",
+      "question": "Which word means: \"A doctor who cares for newborn infants, especially premature or ill babies.\"?",
+      "options": [
+        "Neonatologist",
+        "Laryngologist",
+        "Hepatologist",
+        "Toxicologist"
+      ],
+      "answer": 0,
+      "explanation": "Neonatologist (noun) — A doctor who cares for newborn infants, especially premature or ill babies."
+    },
+    {
+      "id": "med-q41",
+      "question": "Which word means: \"A surgeon of the brain, spine, and nervous system.\"?",
+      "options": [
+        "Otolaryngologist",
+        "Gastroenterologist",
+        "Neurosurgeon",
+        "Geriatrician"
+      ],
+      "answer": 2,
+      "explanation": "Neurosurgeon (noun) — A surgeon of the brain, spine, and nervous system."
+    },
+    {
+      "id": "med-q42",
+      "question": "Which word means: \"A person who advises on matters of food and nutrition.\"?",
+      "options": [
+        "Orthopaedic surgeon",
+        "Sleep specialist",
+        "Neurosurgeon",
+        "Nutritionist"
+      ],
+      "answer": 3,
+      "explanation": "Nutritionist (noun) — A person who advises on matters of food and nutrition."
+    },
+    {
+      "id": "med-q43",
+      "question": "Which word means: \"A dentist who corrects irregularities of the teeth and jaw.\"?",
+      "options": [
+        "Bariatric surgeon",
+        "Cosmetologist",
+        "Orthodontist",
+        "Interventional radiologist"
+      ],
+      "answer": 2,
+      "explanation": "Orthodontist (noun) — A dentist who corrects irregularities of the teeth and jaw."
+    },
+    {
+      "id": "med-q44",
+      "question": "Which word means: \"A practitioner of osteopathy, focusing on muscles and bones.\"?",
+      "options": [
+        "Osteopath",
+        "Allergist",
+        "Maxillofacial surgeon",
+        "Angiologist"
+      ],
+      "answer": 0,
+      "explanation": "Osteopath (noun) — A practitioner of osteopathy, focusing on muscles and bones."
+    },
+    {
+      "id": "med-q45",
+      "question": "Which word means: \"A doctor who specialises in the ear.\"?",
+      "options": [
+        "Otologist",
+        "Pathologist",
+        "Geriatrician",
+        "Phlebotomist"
+      ],
+      "answer": 0,
+      "explanation": "Otologist (noun) — A doctor who specialises in the ear."
+    },
+    {
+      "id": "med-q46",
+      "question": "Which word means: \"An obstetrician for high-risk pregnancies.\"?",
+      "options": [
+        "Paediatric surgeon",
+        "Endocrinologist",
+        "Psychiatrist",
+        "Perinatologist"
+      ],
+      "answer": 3,
+      "explanation": "Perinatologist (noun) — An obstetrician for high-risk pregnancies."
+    },
+    {
+      "id": "med-q47",
+      "question": "Which word means: \"A specialist in physical medicine and rehabilitation.\"?",
+      "options": [
+        "Podiatrist",
+        "Paediatric surgeon",
+        "Oncologist",
+        "Physiatrist"
+      ],
+      "answer": 3,
+      "explanation": "Physiatrist (noun) — A specialist in physical medicine and rehabilitation."
+    },
+    {
+      "id": "med-q48",
+      "question": "Which word means: \"A surgeon who restores or alters the form of the body.\"?",
+      "options": [
+        "Oral surgeon",
+        "Urologist",
+        "Diabetologist",
+        "Plastic surgeon"
+      ],
+      "answer": 3,
+      "explanation": "Plastic surgeon (noun) — A surgeon who restores or alters the form of the body."
+    },
+    {
+      "id": "med-q49",
+      "question": "Which word means: \"A specialist in the effects of poisons.\"?",
+      "options": [
+        "Cardiothoracic surgeon",
+        "Angiologist",
+        "Toxicologist",
+        "Perinatologist"
+      ],
+      "answer": 2,
+      "explanation": "Toxicologist (noun) — A specialist in the effects of poisons."
+    },
+    {
+      "id": "med-q50",
+      "question": "Which word means: \"A surgeon who treats disorders of arteries and veins.\"?",
+      "options": [
+        "Midwife",
+        "Vascular surgeon",
+        "Sports medicine physician",
+        "General practitioner"
+      ],
+      "answer": 1,
+      "explanation": "Vascular surgeon (noun) — A surgeon who treats disorders of arteries and veins."
+    },
+    {
+      "id": "med-q51",
+      "question": "Which word means: \"Specialist in blood vessels.\"?",
+      "options": [
+        "Interventional radiologist",
+        "Angiologist",
+        "Chiropractor",
+        "Midwife"
+      ],
+      "answer": 1,
+      "explanation": "Angiologist (noun) — Specialist in blood vessels."
+    },
+    {
+      "id": "med-q52",
+      "question": "Which word means: \"Specialist in hearing.\"?",
+      "options": [
+        "Audiologist",
+        "Fetal medicine specialist",
+        "Microbiologist",
+        "Respiratory therapist"
+      ],
+      "answer": 0,
+      "explanation": "Audiologist (noun) — Specialist in hearing."
+    },
+    {
+      "id": "med-q53",
+      "question": "Which word means: \"Specialist in heart rhythm.\"?",
+      "options": [
+        "Cardiac electrophysiologist",
+        "Psychotherapist",
+        "Oncologist",
+        "Psychiatrist"
+      ],
+      "answer": 0,
+      "explanation": "Cardiac electrophysiologist (noun) — Specialist in heart rhythm."
+    },
+    {
+      "id": "med-q54",
+      "question": "Which word means: \"Practitioner treating spinal issues.\"?",
+      "options": [
+        "Ophthalmologist",
+        "Hand surgeon",
+        "Chiropractor",
+        "Oncology surgeon"
+      ],
+      "answer": 2,
+      "explanation": "Chiropractor (noun) — Practitioner treating spinal issues."
+    },
+    {
+      "id": "med-q55",
+      "question": "Which word means: \"Specialist in mental disorders.\"?",
+      "options": [
+        "Palliative care specialist",
+        "Prosthodontist",
+        "Clinical psychologist",
+        "Interventional radiologist"
+      ],
+      "answer": 2,
+      "explanation": "Clinical psychologist (noun) — Specialist in mental disorders."
+    },
+    {
+      "id": "med-q56",
+      "question": "Which word means: \"Specialist in colon and rectum.\"?",
+      "options": [
+        "Osteopath",
+        "Dermatologist",
+        "Hospitalist",
+        "Coloproctologist"
+      ],
+      "answer": 3,
+      "explanation": "Coloproctologist (noun) — Specialist in colon and rectum."
+    },
+    {
+      "id": "med-q57",
+      "question": "Which word means: \"Specialist in beauty treatments.\"?",
+      "options": [
+        "Midwife",
+        "Orthodontist",
+        "Sports medicine physician",
+        "Cosmetologist"
+      ],
+      "answer": 3,
+      "explanation": "Cosmetologist (noun) — Specialist in beauty treatments."
+    },
+    {
+      "id": "med-q58",
+      "question": "Which word means: \"Specialist analysing cell samples.\"?",
+      "options": [
+        "Immunologist",
+        "Rheumatologist",
+        "Cytotechnologist",
+        "Gynaecologist"
+      ],
+      "answer": 2,
+      "explanation": "Cytotechnologist (noun) — Specialist analysing cell samples."
+    },
+    {
+      "id": "med-q59",
+      "question": "Which word means: \"Surgeon specialising in teeth.\"?",
+      "options": [
+        "Dental surgeon",
+        "Nephrologist",
+        "Family physician",
+        "Orthopaedic surgeon"
+      ],
+      "answer": 0,
+      "explanation": "Dental surgeon (noun) — Surgeon specialising in teeth."
+    },
+    {
+      "id": "med-q60",
+      "question": "Which word means: \"Specialist in diabetes.\"?",
+      "options": [
+        "Diabetologist",
+        "Thoracic surgeon",
+        "Immunologist",
+        "Pharmacologist"
+      ],
+      "answer": 0,
+      "explanation": "Diabetologist (noun) — Specialist in diabetes."
+    },
+    {
+      "id": "med-q61",
+      "question": "Which word means: \"Ear-nose-throat surgeon.\"?",
+      "options": [
+        "ENT surgeon",
+        "Geneticist (medical)",
+        "Pathologist",
+        "Oncologist"
+      ],
+      "answer": 0,
+      "explanation": "ENT surgeon (noun) — Ear-nose-throat surgeon."
+    },
+    {
+      "id": "med-q62",
+      "question": "Which word means: \"General practitioner treating families.\"?",
+      "options": [
+        "Family physician",
+        "Pathologist",
+        "Oncology surgeon",
+        "Geneticist"
+      ],
+      "answer": 0,
+      "explanation": "Family physician (noun) — General practitioner treating families."
+    },
+    {
+      "id": "med-q63",
+      "question": "Which word means: \"Specialist in unborn babies.\"?",
+      "options": [
+        "Fetal medicine specialist",
+        "Thoracic surgeon",
+        "Occupational physician",
+        "Otolaryngologist"
+      ],
+      "answer": 0,
+      "explanation": "Fetal medicine specialist (noun) — Specialist in unborn babies."
+    },
+    {
+      "id": "med-q64",
+      "question": "Which word means: \"Surgeon of the digestive tract.\"?",
+      "options": [
+        "Plastic surgeon",
+        "Pharmacologist",
+        "Gastroenterological surgeon",
+        "Cytotechnologist"
+      ],
+      "answer": 2,
+      "explanation": "Gastroenterological surgeon (noun) — Surgeon of the digestive tract."
+    },
+    {
+      "id": "med-q65",
+      "question": "Which word means: \"Community-based generalist.\"?",
+      "options": [
+        "Hepatobiliary surgeon",
+        "General practitioner",
+        "Urologist",
+        "Fetal medicine specialist"
+      ],
+      "answer": 1,
+      "explanation": "General practitioner (noun) — Community-based generalist."
+    },
+    {
+      "id": "med-q66",
+      "question": "Which word means: \"Specialist in genetic disorders.\"?",
+      "options": [
+        "Psychiatrist",
+        "Pulmonologist",
+        "Occupational therapist",
+        "Geneticist (medical)"
+      ],
+      "answer": 3,
+      "explanation": "Geneticist (medical) (noun) — Specialist in genetic disorders."
+    },
+    {
+      "id": "med-q67",
+      "question": "Which word means: \"Cancer specialist for women.\"?",
+      "options": [
+        "Cosmetologist",
+        "Gynaecological oncologist",
+        "Cytologist",
+        "Pharmacologist"
+      ],
+      "answer": 1,
+      "explanation": "Gynaecological oncologist (noun) — Cancer specialist for women."
+    },
+    {
+      "id": "med-q68",
+      "question": "Which word means: \"Surgeon of the hand and wrist.\"?",
+      "options": [
+        "Paediatric surgeon",
+        "Epidemiologist",
+        "Hand surgeon",
+        "Hepatologist"
+      ],
+      "answer": 2,
+      "explanation": "Hand surgeon (noun) — Surgeon of the hand and wrist."
+    },
+    {
+      "id": "med-q69",
+      "question": "Which word means: \"Liver and bile duct surgeon.\"?",
+      "options": [
+        "Hepatobiliary surgeon",
+        "Diabetologist",
+        "Audiologist",
+        "ENT surgeon"
+      ],
+      "answer": 0,
+      "explanation": "Hepatobiliary surgeon (noun) — Liver and bile duct surgeon."
+    },
+    {
+      "id": "med-q70",
+      "question": "Which word means: \"Doctor caring for inpatients.\"?",
+      "options": [
+        "Toxicologist",
+        "Respiratory therapist",
+        "Prosthodontist",
+        "Hospitalist"
+      ],
+      "answer": 3,
+      "explanation": "Hospitalist (noun) — Doctor caring for inpatients."
+    },
+    {
+      "id": "med-q71",
+      "question": "Which word means: \"Radiologist doing minimally invasive procedures.\"?",
+      "options": [
+        "Interventional radiologist",
+        "Coloproctologist",
+        "Hand surgeon",
+        "Psychiatrist"
+      ],
+      "answer": 0,
+      "explanation": "Interventional radiologist (noun) — Radiologist doing minimally invasive procedures."
+    },
+    {
+      "id": "med-q72",
+      "question": "Which word means: \"Specialist of the larynx.\"?",
+      "options": [
+        "Neurosurgeon",
+        "Physiotherapist",
+        "Laryngologist",
+        "Toxicologist"
+      ],
+      "answer": 2,
+      "explanation": "Laryngologist (noun) — Specialist of the larynx."
+    },
+    {
+      "id": "med-q73",
+      "question": "Which word means: \"Surgeon of the face and jaw.\"?",
+      "options": [
+        "Coloproctologist",
+        "Maxillofacial surgeon",
+        "Oncology surgeon",
+        "Periodontist"
+      ],
+      "answer": 1,
+      "explanation": "Maxillofacial surgeon (noun) — Surgeon of the face and jaw."
+    },
+    {
+      "id": "med-q74",
+      "question": "Which word means: \"Specialist in microorganisms.\"?",
+      "options": [
+        "Embryologist",
+        "Forensic pathologist",
+        "Optometrist",
+        "Microbiologist"
+      ],
+      "answer": 3,
+      "explanation": "Microbiologist (noun) — Specialist in microorganisms."
+    },
+    {
+      "id": "med-q75",
+      "question": "Which word means: \"Trained assistant at childbirth.\"?",
+      "options": [
+        "Sports medicine physician",
+        "Midwife",
+        "Nuclear medicine physician",
+        "Physiotherapist"
+      ],
+      "answer": 1,
+      "explanation": "Midwife (noun) — Trained assistant at childbirth."
+    },
+    {
+      "id": "med-q76",
+      "question": "Which word means: \"Specialist in brain-behaviour links.\"?",
+      "options": [
+        "Psychotherapist",
+        "Physiotherapist",
+        "Neuropsychologist",
+        "Urologist"
+      ],
+      "answer": 2,
+      "explanation": "Neuropsychologist (noun) — Specialist in brain-behaviour links."
+    },
+    {
+      "id": "med-q77",
+      "question": "Which word means: \"Uses radioisotopes for diagnosis.\"?",
+      "options": [
+        "Neurologist",
+        "Nuclear medicine physician",
+        "Dermatologist",
+        "Physiotherapist"
+      ],
+      "answer": 1,
+      "explanation": "Nuclear medicine physician (noun) — Uses radioisotopes for diagnosis."
+    },
+    {
+      "id": "med-q78",
+      "question": "Which word means: \"Helps patients regain daily-life skills.\"?",
+      "options": [
+        "Prosthodontist",
+        "Hand surgeon",
+        "Orthopaedist",
+        "Occupational therapist"
+      ],
+      "answer": 3,
+      "explanation": "Occupational therapist (noun) — Helps patients regain daily-life skills."
+    },
+    {
+      "id": "med-q79",
+      "question": "Which word means: \"Specialist in workplace health.\"?",
+      "options": [
+        "Occupational physician",
+        "Embryologist",
+        "Speech-language pathologist",
+        "Geriatrician"
+      ],
+      "answer": 0,
+      "explanation": "Occupational physician (noun) — Specialist in workplace health."
+    },
+    {
+      "id": "med-q80",
+      "question": "Which word means: \"Surgeon specialising in cancer.\"?",
+      "options": [
+        "Oncology surgeon",
+        "Oral surgeon",
+        "Nephrologist",
+        "Ophthalmologist"
+      ],
+      "answer": 0,
+      "explanation": "Oncology surgeon (noun) — Surgeon specialising in cancer."
+    },
+    {
+      "id": "med-q81",
+      "question": "Which word means: \"Surgeon of mouth and jaw.\"?",
+      "options": [
+        "Ophthalmologist",
+        "Respiratory therapist",
+        "Oral surgeon",
+        "Paediatrician"
+      ],
+      "answer": 2,
+      "explanation": "Oral surgeon (noun) — Surgeon of mouth and jaw."
+    },
+    {
+      "id": "med-q82",
+      "question": "Which word means: \"Bone and joint surgeon.\"?",
+      "options": [
+        "Otolaryngologist",
+        "Orthopaedic surgeon",
+        "Reproductive endocrinologist",
+        "Urologist"
+      ],
+      "answer": 1,
+      "explanation": "Orthopaedic surgeon (noun) — Bone and joint surgeon."
+    },
+    {
+      "id": "med-q83",
+      "question": "Which word means: \"Focus on comfort in serious illness.\"?",
+      "options": [
+        "Pharmacologist",
+        "Orthopaedic surgeon",
+        "Obstetrician",
+        "Palliative care specialist"
+      ],
+      "answer": 3,
+      "explanation": "Palliative care specialist (noun) — Focus on comfort in serious illness."
+    },
+    {
+      "id": "med-q84",
+      "question": "Which word means: \"Surgeon for children.\"?",
+      "options": [
+        "Paediatric surgeon",
+        "Psychotherapist",
+        "Phlebotomist",
+        "Vitreoretinal surgeon"
+      ],
+      "answer": 0,
+      "explanation": "Paediatric surgeon (noun) — Surgeon for children."
+    },
+    {
+      "id": "med-q85",
+      "question": "Which word means: \"Specialist in gum disease.\"?",
+      "options": [
+        "Obstetrician",
+        "Nephrologist",
+        "Geneticist",
+        "Periodontist"
+      ],
+      "answer": 3,
+      "explanation": "Periodontist (noun) — Specialist in gum disease."
+    },
+    {
+      "id": "med-q86",
+      "question": "Which word means: \"Specialist in drug action.\"?",
+      "options": [
+        "Surgeon",
+        "Epidemiologist",
+        "Nephrologist",
+        "Pharmacologist"
+      ],
+      "answer": 3,
+      "explanation": "Pharmacologist (noun) — Specialist in drug action."
+    },
+    {
+      "id": "med-q87",
+      "question": "Which word means: \"Specialist in drawing blood.\"?",
+      "options": [
+        "Anaesthesiologist",
+        "Phlebotomist",
+        "Angiologist",
+        "Occupational physician"
+      ],
+      "answer": 1,
+      "explanation": "Phlebotomist (noun) — Specialist in drawing blood."
+    },
+    {
+      "id": "med-q88",
+      "question": "Which word means: \"Specialist in physical rehabilitation.\"?",
+      "options": [
+        "Psychiatrist",
+        "Hospitalist",
+        "Orthopaedist",
+        "Physiotherapist"
+      ],
+      "answer": 3,
+      "explanation": "Physiotherapist (noun) — Specialist in physical rehabilitation."
+    },
+    {
+      "id": "med-q89",
+      "question": "Which word means: \"Dentist specialising in prostheses.\"?",
+      "options": [
+        "Sleep specialist",
+        "Epidemiologist",
+        "Prosthodontist",
+        "Cosmetologist"
+      ],
+      "answer": 2,
+      "explanation": "Prosthodontist (noun) — Dentist specialising in prostheses."
+    },
+    {
+      "id": "med-q90",
+      "question": "Which word means: \"Treats mental disorders through therapy.\"?",
+      "options": [
+        "Psychotherapist",
+        "Obstetrician",
+        "Microbiologist",
+        "Sports medicine physician"
+      ],
+      "answer": 0,
+      "explanation": "Psychotherapist (noun) — Treats mental disorders through therapy."
+    },
+    {
+      "id": "med-q91",
+      "question": "Which word means: \"Specialist in fertility hormones.\"?",
+      "options": [
+        "Paediatric surgeon",
+        "Pulmonologist",
+        "Reproductive endocrinologist",
+        "Gastroenterological surgeon"
+      ],
+      "answer": 2,
+      "explanation": "Reproductive endocrinologist (noun) — Specialist in fertility hormones."
+    },
+    {
+      "id": "med-q92",
+      "question": "Which word means: \"Specialist in breathing therapies.\"?",
+      "options": [
+        "Respiratory therapist",
+        "Forensic pathologist",
+        "Pulmonologist",
+        "Psychotherapist"
+      ],
+      "answer": 0,
+      "explanation": "Respiratory therapist (noun) — Specialist in breathing therapies."
+    },
+    {
+      "id": "med-q93",
+      "question": "Which word means: \"Doctor treating sleep disorders.\"?",
+      "options": [
+        "Geneticist (medical)",
+        "Vitreoretinal surgeon",
+        "Reproductive endocrinologist",
+        "Sleep specialist"
+      ],
+      "answer": 3,
+      "explanation": "Sleep specialist (noun) — Doctor treating sleep disorders."
+    },
+    {
+      "id": "med-q94",
+      "question": "Which word means: \"Treats speech and swallowing problems.\"?",
+      "options": [
+        "Neurologist",
+        "Speech-language pathologist",
+        "Audiologist",
+        "Sports medicine physician"
+      ],
+      "answer": 1,
+      "explanation": "Speech-language pathologist (noun) — Treats speech and swallowing problems."
+    },
+    {
+      "id": "med-q95",
+      "question": "Which word means: \"Cares for athletic injuries.\"?",
+      "options": [
+        "Prosthodontist",
+        "Sports medicine physician",
+        "Family physician",
+        "Paediatrician"
+      ],
+      "answer": 1,
+      "explanation": "Sports medicine physician (noun) — Cares for athletic injuries."
+    },
+    {
+      "id": "med-q96",
+      "question": "Which word means: \"Chest cavity surgeon.\"?",
+      "options": [
+        "Thoracic surgeon",
+        "Oral surgeon",
+        "Nephrologist",
+        "Audiologist"
+      ],
+      "answer": 0,
+      "explanation": "Thoracic surgeon (noun) — Chest cavity surgeon."
+    },
+    {
+      "id": "med-q97",
+      "question": "Which word means: \"Performs organ transplants.\"?",
+      "options": [
+        "Dental surgeon",
+        "Oncologist",
+        "Transplant surgeon",
+        "Venereologist"
+      ],
+      "answer": 2,
+      "explanation": "Transplant surgeon (noun) — Performs organ transplants."
+    },
+    {
+      "id": "med-q98",
+      "question": "Which word means: \"Emergency surgery for injuries.\"?",
+      "options": [
+        "Interventional radiologist",
+        "Surgeon",
+        "Haematologist",
+        "Trauma surgeon"
+      ],
+      "answer": 3,
+      "explanation": "Trauma surgeon (noun) — Emergency surgery for injuries."
+    },
+    {
+      "id": "med-q99",
+      "question": "Which word means: \"Specialist in STDs.\"?",
+      "options": [
+        "Venereologist",
+        "Psychotherapist",
+        "Vascular surgeon",
+        "Intensivist"
+      ],
+      "answer": 0,
+      "explanation": "Venereologist (noun) — Specialist in STDs."
+    },
+    {
+      "id": "med-q100",
+      "question": "Which word means: \"Eye surgeon for the retina.\"?",
+      "options": [
+        "Oncologist",
+        "Fetal medicine specialist",
+        "Oral surgeon",
+        "Vitreoretinal surgeon"
+      ],
+      "answer": 3,
+      "explanation": "Vitreoretinal surgeon (noun) — Eye surgeon for the retina."
+    }
+  ]
+}

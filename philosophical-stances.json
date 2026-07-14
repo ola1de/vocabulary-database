@@ -1,0 +1,1908 @@
+{
+  "category": "philosophical-stances",
+  "title": "Philosophical Stances",
+  "words": [
+    {
+      "id": "ph-01",
+      "word": "Theism",
+      "pos": "noun",
+      "definition": "Belief in the existence of a god or gods.",
+      "example": "Theism takes many culturally distinct forms."
+    },
+    {
+      "id": "ph-02",
+      "word": "Atheism",
+      "pos": "noun",
+      "definition": "Disbelief in the existence of God.",
+      "example": "Atheism is not the same as anti-theism."
+    },
+    {
+      "id": "ph-03",
+      "word": "Agnosticism",
+      "pos": "noun",
+      "definition": "The view that the existence of God is unknown or unknowable.",
+      "example": "Agnosticism is a position on knowledge, not belief."
+    },
+    {
+      "id": "ph-04",
+      "word": "Monotheism",
+      "pos": "noun",
+      "definition": "Belief in one god.",
+      "example": "Judaism, Christianity, and Islam are monotheisms."
+    },
+    {
+      "id": "ph-05",
+      "word": "Polytheism",
+      "pos": "noun",
+      "definition": "Belief in many gods.",
+      "example": "Ancient Greek religion was polytheistic."
+    },
+    {
+      "id": "ph-06",
+      "word": "Pantheism",
+      "pos": "noun",
+      "definition": "The doctrine that God is identical with the universe.",
+      "example": "Spinoza is often called a pantheist."
+    },
+    {
+      "id": "ph-07",
+      "word": "Panentheism",
+      "pos": "noun",
+      "definition": "The belief that God interpenetrates the universe but also transcends it.",
+      "example": "Panentheism distinguishes itself from pantheism by transcendence."
+    },
+    {
+      "id": "ph-08",
+      "word": "Deism",
+      "pos": "noun",
+      "definition": "The belief in a creator who does not intervene in the universe.",
+      "example": "Deism was influential among Enlightenment thinkers."
+    },
+    {
+      "id": "ph-09",
+      "word": "Humanism",
+      "pos": "noun",
+      "definition": "A rationalist outlook attaching prime importance to human matters.",
+      "example": "Renaissance humanism revived classical learning."
+    },
+    {
+      "id": "ph-10",
+      "word": "Rationalism",
+      "pos": "noun",
+      "definition": "The view that reason is the chief source of knowledge.",
+      "example": "Rationalism contrasts with empiricism."
+    },
+    {
+      "id": "ph-11",
+      "word": "Empiricism",
+      "pos": "noun",
+      "definition": "The view that knowledge comes primarily from sensory experience.",
+      "example": "Empiricism underpins the scientific method."
+    },
+    {
+      "id": "ph-12",
+      "word": "Idealism",
+      "pos": "noun",
+      "definition": "The view that reality is fundamentally mental or spiritual.",
+      "example": "Berkeley's idealism denied unperceived matter."
+    },
+    {
+      "id": "ph-13",
+      "word": "Materialism",
+      "pos": "noun",
+      "definition": "The view that nothing exists except matter and its interactions.",
+      "example": "Modern science largely presumes materialism."
+    },
+    {
+      "id": "ph-14",
+      "word": "Dualism",
+      "pos": "noun",
+      "definition": "The view that mind and matter are fundamentally distinct.",
+      "example": "Cartesian dualism separates the mental from the physical."
+    },
+    {
+      "id": "ph-15",
+      "word": "Monism",
+      "pos": "noun",
+      "definition": "The view that reality is a single substance.",
+      "example": "Monism opposes dualism."
+    },
+    {
+      "id": "ph-16",
+      "word": "Pluralism",
+      "pos": "noun",
+      "definition": "The view that reality consists of many kinds of substances.",
+      "example": "William James defended a philosophical pluralism."
+    },
+    {
+      "id": "ph-17",
+      "word": "Existentialism",
+      "pos": "noun",
+      "definition": "A philosophy emphasising individual existence, freedom, and choice.",
+      "example": "Existentialism holds that we create meaning through action."
+    },
+    {
+      "id": "ph-18",
+      "word": "Nihilism",
+      "pos": "noun",
+      "definition": "The rejection of all religious and moral principles.",
+      "example": "Nihilism denies any inherent meaning to life."
+    },
+    {
+      "id": "ph-19",
+      "word": "Absurdism",
+      "pos": "noun",
+      "definition": "The belief that the search for meaning is futile in a meaningless universe.",
+      "example": "Camus's absurdism confronts life without appeal to hope."
+    },
+    {
+      "id": "ph-20",
+      "word": "Stoicism",
+      "pos": "noun",
+      "definition": "An ancient school teaching endurance and virtue as the highest good.",
+      "example": "Stoicism has enjoyed a modern revival."
+    },
+    {
+      "id": "ph-21",
+      "word": "Epicureanism",
+      "pos": "noun",
+      "definition": "The philosophy that pleasure, especially mental tranquillity, is the highest good.",
+      "example": "Epicureanism is often misread as mere hedonism."
+    },
+    {
+      "id": "ph-22",
+      "word": "Cynicism",
+      "pos": "noun",
+      "definition": "An ancient school valuing virtue and self-sufficiency over convention.",
+      "example": "Diogenes epitomised classical cynicism."
+    },
+    {
+      "id": "ph-23",
+      "word": "Skepticism",
+      "pos": "noun",
+      "definition": "The philosophical position that certain knowledge is impossible.",
+      "example": "Ancient skepticism suspended judgement on all matters."
+    },
+    {
+      "id": "ph-24",
+      "word": "Utilitarianism",
+      "pos": "noun",
+      "definition": "The doctrine that actions are right in proportion to their promotion of happiness.",
+      "example": "Utilitarianism weighs consequences for the greatest number."
+    },
+    {
+      "id": "ph-25",
+      "word": "Deontology",
+      "pos": "noun",
+      "definition": "Ethics based on adherence to rules or duties.",
+      "example": "Kantian deontology grounds morality in universal duties."
+    },
+    {
+      "id": "ph-26",
+      "word": "Consequentialism",
+      "pos": "noun",
+      "definition": "The view that the morality of an action depends on its outcomes.",
+      "example": "Consequentialism includes utilitarianism as its main branch."
+    },
+    {
+      "id": "ph-27",
+      "word": "Virtue ethics",
+      "pos": "noun",
+      "definition": "An approach emphasising character and virtue over rules or consequences.",
+      "example": "Aristotelian virtue ethics has been widely revived."
+    },
+    {
+      "id": "ph-28",
+      "word": "Relativism",
+      "pos": "noun",
+      "definition": "The view that truth or morality is relative to individuals or cultures.",
+      "example": "Moral relativism denies universal standards."
+    },
+    {
+      "id": "ph-29",
+      "word": "Absolutism",
+      "pos": "noun",
+      "definition": "The view that certain truths or values are universal and unchanging.",
+      "example": "Moral absolutism opposes relativism."
+    },
+    {
+      "id": "ph-30",
+      "word": "Determinism",
+      "pos": "noun",
+      "definition": "The doctrine that all events are determined by prior causes.",
+      "example": "Hard determinism denies free will."
+    },
+    {
+      "id": "ph-31",
+      "word": "Free will",
+      "pos": "noun",
+      "definition": "The doctrine that human agents can choose independently of prior causes.",
+      "example": "Debates over free will span philosophy and neuroscience."
+    },
+    {
+      "id": "ph-32",
+      "word": "Compatibilism",
+      "pos": "noun",
+      "definition": "The view that free will and determinism are compatible.",
+      "example": "Compatibilism reconciles moral responsibility with causal determinism."
+    },
+    {
+      "id": "ph-33",
+      "word": "Solipsism",
+      "pos": "noun",
+      "definition": "The view that only one's own mind is certain to exist.",
+      "example": "Solipsism is difficult to argue against on its own terms."
+    },
+    {
+      "id": "ph-34",
+      "word": "Phenomenology",
+      "pos": "noun",
+      "definition": "The philosophical study of the structures of experience.",
+      "example": "Husserlian phenomenology brackets the natural attitude."
+    },
+    {
+      "id": "ph-35",
+      "word": "Positivism",
+      "pos": "noun",
+      "definition": "The view that only scientific knowledge is authentic.",
+      "example": "Logical positivism dominated early twentieth-century philosophy."
+    },
+    {
+      "id": "ph-36",
+      "word": "Pragmatism",
+      "pos": "noun",
+      "definition": "The philosophy that judges truth by practical consequences.",
+      "example": "American pragmatism emphasises what beliefs do for us."
+    },
+    {
+      "id": "ph-37",
+      "word": "Structuralism",
+      "pos": "noun",
+      "definition": "A method of analysing culture by relations within a system.",
+      "example": "Structuralism shaped twentieth-century linguistics and anthropology."
+    },
+    {
+      "id": "ph-38",
+      "word": "Post-structuralism",
+      "pos": "noun",
+      "definition": "A movement challenging the assumptions of structuralism.",
+      "example": "Post-structuralism questions stable meanings."
+    },
+    {
+      "id": "ph-39",
+      "word": "Postmodernism",
+      "pos": "noun",
+      "definition": "A late-twentieth-century movement skeptical of grand narratives.",
+      "example": "Postmodernism blurs high and low culture."
+    },
+    {
+      "id": "ph-40",
+      "word": "Marxism",
+      "pos": "noun",
+      "definition": "A social and economic philosophy based on the writings of Karl Marx.",
+      "example": "Marxism analyses history through class struggle."
+    },
+    {
+      "id": "ph-41",
+      "word": "Capitalism",
+      "pos": "noun",
+      "definition": "An economic system based on private ownership of production.",
+      "example": "Capitalism drives innovation and inequality alike."
+    },
+    {
+      "id": "ph-42",
+      "word": "Socialism",
+      "pos": "noun",
+      "definition": "A political and economic theory of collective ownership.",
+      "example": "Democratic socialism defends welfare within a market."
+    },
+    {
+      "id": "ph-43",
+      "word": "Anarchism",
+      "pos": "noun",
+      "definition": "A political philosophy opposing all coerced authority.",
+      "example": "Anarchism advocates voluntary cooperation."
+    },
+    {
+      "id": "ph-44",
+      "word": "Libertarianism",
+      "pos": "noun",
+      "definition": "A political philosophy prioritising individual liberty.",
+      "example": "Libertarianism resists most state intervention."
+    },
+    {
+      "id": "ph-45",
+      "word": "Conservatism",
+      "pos": "noun",
+      "definition": "A political philosophy valuing tradition and gradual change.",
+      "example": "Conservatism suspects abrupt reform."
+    },
+    {
+      "id": "ph-46",
+      "word": "Liberalism",
+      "pos": "noun",
+      "definition": "A political philosophy valuing liberty and equality.",
+      "example": "Classical liberalism emphasised civil freedoms."
+    },
+    {
+      "id": "ph-47",
+      "word": "Feminism",
+      "pos": "noun",
+      "definition": "A movement advocating women's rights and gender equality.",
+      "example": "Feminism has produced several distinct waves."
+    },
+    {
+      "id": "ph-48",
+      "word": "Cosmopolitanism",
+      "pos": "noun",
+      "definition": "The view that all humans belong to a single moral community.",
+      "example": "Cosmopolitanism has ancient Stoic roots."
+    },
+    {
+      "id": "ph-49",
+      "word": "Naturalism",
+      "pos": "noun",
+      "definition": "The view that only natural laws operate in the world.",
+      "example": "Naturalism excludes supernatural causes."
+    },
+    {
+      "id": "ph-50",
+      "word": "Fatalism",
+      "pos": "noun",
+      "definition": "The belief that all events are predetermined and inevitable.",
+      "example": "Fatalism can conflict with even a soft determinism."
+    },
+    {
+      "id": "ps-051",
+      "word": "Absurdism",
+      "pos": "noun",
+      "definition": "Life has no inherent meaning; humans seek it anyway.",
+      "example": "Camus is central to absurdism."
+    },
+    {
+      "id": "ps-052",
+      "word": "Aestheticism",
+      "pos": "noun",
+      "definition": "Priority of beauty over other values.",
+      "example": "Aestheticism inspired the Victorians."
+    },
+    {
+      "id": "ps-053",
+      "word": "Agnostic theism",
+      "pos": "noun",
+      "definition": "Believes in a deity while unsure it can be known.",
+      "example": "Agnostic theism blends faith and doubt."
+    },
+    {
+      "id": "ps-054",
+      "word": "Altruism",
+      "pos": "noun",
+      "definition": "Regard for the well-being of others.",
+      "example": "Altruism motivates volunteers."
+    },
+    {
+      "id": "ps-055",
+      "word": "Anarcho-capitalism",
+      "pos": "noun",
+      "definition": "Stateless society with market anarchy.",
+      "example": "Anarcho-capitalism defends private courts."
+    },
+    {
+      "id": "ps-056",
+      "word": "Anarcho-syndicalism",
+      "pos": "noun",
+      "definition": "Workers' unions replace state.",
+      "example": "Anarcho-syndicalism arose in early 1900s."
+    },
+    {
+      "id": "ps-057",
+      "word": "Antirealism",
+      "pos": "noun",
+      "definition": "Denies mind-independent reality.",
+      "example": "Antirealism debates knowledge."
+    },
+    {
+      "id": "ps-058",
+      "word": "Aristotelianism",
+      "pos": "noun",
+      "definition": "Aristotle-based philosophy.",
+      "example": "Aristotelianism informs virtue ethics."
+    },
+    {
+      "id": "ps-059",
+      "word": "Behaviorism",
+      "pos": "noun",
+      "definition": "Focus on observable behaviour.",
+      "example": "Behaviorism shaped psychology."
+    },
+    {
+      "id": "ps-060",
+      "word": "Buddhism (philosophy)",
+      "pos": "noun",
+      "definition": "Teachings on suffering and non-self.",
+      "example": "Buddhist philosophy explores emptiness."
+    },
+    {
+      "id": "ps-061",
+      "word": "Cartesianism",
+      "pos": "noun",
+      "definition": "Descartes' mind-body dualism.",
+      "example": "Cartesianism divided mind from matter."
+    },
+    {
+      "id": "ps-062",
+      "word": "Confucianism",
+      "pos": "noun",
+      "definition": "Ethical system of Confucius.",
+      "example": "Confucianism stresses harmony."
+    },
+    {
+      "id": "ps-063",
+      "word": "Constructivism",
+      "pos": "noun",
+      "definition": "Knowledge is socially constructed.",
+      "example": "Constructivism shapes pedagogy."
+    },
+    {
+      "id": "ps-064",
+      "word": "Contractarianism",
+      "pos": "noun",
+      "definition": "Morality from hypothetical contract.",
+      "example": "Contractarianism grounds Rawls' work."
+    },
+    {
+      "id": "ps-065",
+      "word": "Cynicism (classical)",
+      "pos": "noun",
+      "definition": "Rejection of conventional desires.",
+      "example": "Diogenes exemplified classical cynicism."
+    },
+    {
+      "id": "ps-066",
+      "word": "Daoism",
+      "pos": "noun",
+      "definition": "Way of Dao; harmony with nature.",
+      "example": "Daoism inspires Chinese art."
+    },
+    {
+      "id": "ps-067",
+      "word": "Deconstruction",
+      "pos": "noun",
+      "definition": "Unravelling of textual meaning.",
+      "example": "Derrida developed deconstruction."
+    },
+    {
+      "id": "ps-068",
+      "word": "Determinism (soft)",
+      "pos": "noun",
+      "definition": "Compatibilist free will.",
+      "example": "Soft determinism seeks a middle path."
+    },
+    {
+      "id": "ps-069",
+      "word": "Divine command theory",
+      "pos": "noun",
+      "definition": "Morality from divine command.",
+      "example": "Divine command theory grounds many religions."
+    },
+    {
+      "id": "ps-070",
+      "word": "Egalitarianism",
+      "pos": "noun",
+      "definition": "All persons deserve equal rights.",
+      "example": "Egalitarianism drives civil movements."
+    },
+    {
+      "id": "ps-071",
+      "word": "Egoism (psychological)",
+      "pos": "noun",
+      "definition": "People always act from self-interest.",
+      "example": "Psychological egoism is contested."
+    },
+    {
+      "id": "ps-072",
+      "word": "Egoism (ethical)",
+      "pos": "noun",
+      "definition": "Self-interest is morally right.",
+      "example": "Ethical egoism defends selfishness."
+    },
+    {
+      "id": "ps-073",
+      "word": "Emergentism",
+      "pos": "noun",
+      "definition": "New properties arise from complexity.",
+      "example": "Emergentism explains consciousness."
+    },
+    {
+      "id": "ps-074",
+      "word": "Empirical realism",
+      "pos": "noun",
+      "definition": "External world is knowable through senses.",
+      "example": "Empirical realism grounds science."
+    },
+    {
+      "id": "ps-075",
+      "word": "Environmentalism",
+      "pos": "noun",
+      "definition": "Ethical concern for nature.",
+      "example": "Environmentalism fuels policy."
+    },
+    {
+      "id": "ps-076",
+      "word": "Epiphenomenalism",
+      "pos": "noun",
+      "definition": "Mind is a by-product of brain.",
+      "example": "Epiphenomenalism denies mental causation."
+    },
+    {
+      "id": "ps-077",
+      "word": "Epistemic relativism",
+      "pos": "noun",
+      "definition": "Truth varies by framework.",
+      "example": "Epistemic relativism worries realists."
+    },
+    {
+      "id": "ps-078",
+      "word": "Essentialism",
+      "pos": "noun",
+      "definition": "Things have essential natures.",
+      "example": "Essentialism shapes classification."
+    },
+    {
+      "id": "ps-079",
+      "word": "Externalism",
+      "pos": "noun",
+      "definition": "Meaning depends on external world.",
+      "example": "Externalism debated in mind philosophy."
+    },
+    {
+      "id": "ps-080",
+      "word": "Foundationalism",
+      "pos": "noun",
+      "definition": "Knowledge rests on basic beliefs.",
+      "example": "Foundationalism structures classical epistemology."
+    },
+    {
+      "id": "ps-081",
+      "word": "Hedonism (ethical)",
+      "pos": "noun",
+      "definition": "Pleasure is the highest good.",
+      "example": "Ethical hedonism justifies pleasure."
+    },
+    {
+      "id": "ps-082",
+      "word": "Hegelianism",
+      "pos": "noun",
+      "definition": "Hegel's dialectical idealism.",
+      "example": "Hegelianism influenced Marx."
+    },
+    {
+      "id": "ps-083",
+      "word": "Historicism",
+      "pos": "noun",
+      "definition": "History determines meaning.",
+      "example": "Historicism challenges universal claims."
+    },
+    {
+      "id": "ps-084",
+      "word": "Holism",
+      "pos": "noun",
+      "definition": "Wholes exceed sum of parts.",
+      "example": "Holism informs ecology."
+    },
+    {
+      "id": "ps-085",
+      "word": "Humanism (secular)",
+      "pos": "noun",
+      "definition": "Ethics without deity.",
+      "example": "Secular humanism guides many freethinkers."
+    },
+    {
+      "id": "ps-086",
+      "word": "Immanentism",
+      "pos": "noun",
+      "definition": "Divinity is within the world.",
+      "example": "Immanentism opposes strict transcendence."
+    },
+    {
+      "id": "ps-087",
+      "word": "Instrumentalism",
+      "pos": "noun",
+      "definition": "Theories are tools, not truths.",
+      "example": "Instrumentalism serves engineering."
+    },
+    {
+      "id": "ps-088",
+      "word": "Internalism",
+      "pos": "noun",
+      "definition": "Meaning is in the mind.",
+      "example": "Internalism opposes externalism."
+    },
+    {
+      "id": "ps-089",
+      "word": "Intuitionism",
+      "pos": "noun",
+      "definition": "Moral truths grasped by intuition.",
+      "example": "Intuitionism guides ethical decision-making."
+    },
+    {
+      "id": "ps-090",
+      "word": "Kantianism",
+      "pos": "noun",
+      "definition": "Kant's duty-based ethics.",
+      "example": "Kantianism grounds many rights theories."
+    },
+    {
+      "id": "ps-091",
+      "word": "Legal positivism",
+      "pos": "noun",
+      "definition": "Law separated from morality.",
+      "example": "Legal positivism guides jurisprudence."
+    },
+    {
+      "id": "ps-092",
+      "word": "Logical positivism",
+      "pos": "noun",
+      "definition": "Only verifiable claims meaningful.",
+      "example": "Logical positivism shaped 20th-century thought."
+    },
+    {
+      "id": "ps-093",
+      "word": "Machiavellianism",
+      "pos": "noun",
+      "definition": "Ruthless political realism.",
+      "example": "Machiavellianism advises the ends over the means."
+    },
+    {
+      "id": "ps-094",
+      "word": "Moral realism",
+      "pos": "noun",
+      "definition": "Objective moral facts exist.",
+      "example": "Moral realism debated in ethics."
+    },
+    {
+      "id": "ps-095",
+      "word": "Neoplatonism",
+      "pos": "noun",
+      "definition": "Revival of Plato's ideas.",
+      "example": "Neoplatonism influenced early Christianity."
+    },
+    {
+      "id": "ps-096",
+      "word": "Objectivism",
+      "pos": "noun",
+      "definition": "Rand's rational self-interest ethics.",
+      "example": "Objectivism spread in the US."
+    },
+    {
+      "id": "ps-097",
+      "word": "Perennialism",
+      "pos": "noun",
+      "definition": "All religions share timeless truths.",
+      "example": "Perennialism appears in comparative religion."
+    },
+    {
+      "id": "ps-098",
+      "word": "Pluralism (ethical)",
+      "pos": "noun",
+      "definition": "Multiple valid moral values.",
+      "example": "Ethical pluralism recognises complexity."
+    },
+    {
+      "id": "ps-099",
+      "word": "Reductionism",
+      "pos": "noun",
+      "definition": "Complex things reduce to simple parts.",
+      "example": "Reductionism drives molecular biology."
+    },
+    {
+      "id": "ps-100",
+      "word": "Utilitarianism (rule)",
+      "pos": "noun",
+      "definition": "Judge rules by overall utility.",
+      "example": "Rule utilitarianism refines Bentham."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "phi-q1",
+      "question": "Which word means: \"Belief in the existence of a god or gods.\"?",
+      "options": [
+        "Anarcho-capitalism",
+        "Constructivism",
+        "Feminism",
+        "Theism"
+      ],
+      "answer": 3,
+      "explanation": "Theism (noun) — Belief in the existence of a god or gods."
+    },
+    {
+      "id": "phi-q2",
+      "question": "Which word means: \"Disbelief in the existence of God.\"?",
+      "options": [
+        "Absurdism",
+        "Humanism",
+        "Atheism",
+        "Panentheism"
+      ],
+      "answer": 2,
+      "explanation": "Atheism (noun) — Disbelief in the existence of God."
+    },
+    {
+      "id": "phi-q3",
+      "question": "Which word means: \"The view that the existence of God is unknown or unknowable.\"?",
+      "options": [
+        "Agnosticism",
+        "Deconstruction",
+        "Humanism (secular)",
+        "Pluralism (ethical)"
+      ],
+      "answer": 0,
+      "explanation": "Agnosticism (noun) — The view that the existence of God is unknown or unknowable."
+    },
+    {
+      "id": "phi-q4",
+      "question": "Which word means: \"Belief in one god.\"?",
+      "options": [
+        "Stoicism",
+        "Monotheism",
+        "Confucianism",
+        "Capitalism"
+      ],
+      "answer": 1,
+      "explanation": "Monotheism (noun) — Belief in one god."
+    },
+    {
+      "id": "phi-q5",
+      "question": "Which word means: \"Belief in many gods.\"?",
+      "options": [
+        "Polytheism",
+        "Epistemic relativism",
+        "Atheism",
+        "Determinism (soft)"
+      ],
+      "answer": 0,
+      "explanation": "Polytheism (noun) — Belief in many gods."
+    },
+    {
+      "id": "phi-q6",
+      "question": "Which word means: \"The doctrine that God is identical with the universe.\"?",
+      "options": [
+        "Deism",
+        "Daoism",
+        "Emergentism",
+        "Pantheism"
+      ],
+      "answer": 3,
+      "explanation": "Pantheism (noun) — The doctrine that God is identical with the universe."
+    },
+    {
+      "id": "phi-q7",
+      "question": "Which word means: \"The belief that God interpenetrates the universe but also transcends it.\"?",
+      "options": [
+        "Panentheism",
+        "Historicism",
+        "Virtue ethics",
+        "Rationalism"
+      ],
+      "answer": 0,
+      "explanation": "Panentheism (noun) — The belief that God interpenetrates the universe but also transcends it."
+    },
+    {
+      "id": "phi-q8",
+      "question": "Which word means: \"The belief in a creator who does not intervene in the universe.\"?",
+      "options": [
+        "Kantianism",
+        "Cartesianism",
+        "Deism",
+        "Essentialism"
+      ],
+      "answer": 2,
+      "explanation": "Deism (noun) — The belief in a creator who does not intervene in the universe."
+    },
+    {
+      "id": "phi-q9",
+      "question": "Which word means: \"A rationalist outlook attaching prime importance to human matters.\"?",
+      "options": [
+        "Marxism",
+        "Humanism",
+        "Foundationalism",
+        "Anarcho-capitalism"
+      ],
+      "answer": 1,
+      "explanation": "Humanism (noun) — A rationalist outlook attaching prime importance to human matters."
+    },
+    {
+      "id": "phi-q10",
+      "question": "Which word means: \"The view that reason is the chief source of knowledge.\"?",
+      "options": [
+        "Rationalism",
+        "Cynicism (classical)",
+        "Buddhism (philosophy)",
+        "Pantheism"
+      ],
+      "answer": 0,
+      "explanation": "Rationalism (noun) — The view that reason is the chief source of knowledge."
+    },
+    {
+      "id": "phi-q11",
+      "question": "Which word means: \"The view that knowledge comes primarily from sensory experience.\"?",
+      "options": [
+        "Cartesianism",
+        "Empiricism",
+        "Kantianism",
+        "Free will"
+      ],
+      "answer": 1,
+      "explanation": "Empiricism (noun) — The view that knowledge comes primarily from sensory experience."
+    },
+    {
+      "id": "phi-q12",
+      "question": "Which word means: \"The view that reality is fundamentally mental or spiritual.\"?",
+      "options": [
+        "Libertarianism",
+        "Utilitarianism (rule)",
+        "Objectivism",
+        "Idealism"
+      ],
+      "answer": 3,
+      "explanation": "Idealism (noun) — The view that reality is fundamentally mental or spiritual."
+    },
+    {
+      "id": "phi-q13",
+      "question": "Which word means: \"The view that nothing exists except matter and its interactions.\"?",
+      "options": [
+        "Cosmopolitanism",
+        "Theism",
+        "Materialism",
+        "Deontology"
+      ],
+      "answer": 2,
+      "explanation": "Materialism (noun) — The view that nothing exists except matter and its interactions."
+    },
+    {
+      "id": "phi-q14",
+      "question": "Which word means: \"The view that mind and matter are fundamentally distinct.\"?",
+      "options": [
+        "Monotheism",
+        "Pluralism",
+        "Dualism",
+        "Emergentism"
+      ],
+      "answer": 2,
+      "explanation": "Dualism (noun) — The view that mind and matter are fundamentally distinct."
+    },
+    {
+      "id": "phi-q15",
+      "question": "Which word means: \"The view that reality is a single substance.\"?",
+      "options": [
+        "Hegelianism",
+        "Monism",
+        "Consequentialism",
+        "Epiphenomenalism"
+      ],
+      "answer": 1,
+      "explanation": "Monism (noun) — The view that reality is a single substance."
+    },
+    {
+      "id": "phi-q16",
+      "question": "Which word means: \"The view that reality consists of many kinds of substances.\"?",
+      "options": [
+        "Utilitarianism",
+        "Virtue ethics",
+        "Pluralism",
+        "Post-structuralism"
+      ],
+      "answer": 2,
+      "explanation": "Pluralism (noun) — The view that reality consists of many kinds of substances."
+    },
+    {
+      "id": "phi-q17",
+      "question": "Which word means: \"A philosophy emphasising individual existence, freedom, and choice.\"?",
+      "options": [
+        "Existentialism",
+        "Solipsism",
+        "Conservatism",
+        "Egoism (ethical)"
+      ],
+      "answer": 0,
+      "explanation": "Existentialism (noun) — A philosophy emphasising individual existence, freedom, and choice."
+    },
+    {
+      "id": "phi-q18",
+      "question": "Which word means: \"The rejection of all religious and moral principles.\"?",
+      "options": [
+        "Positivism",
+        "Nihilism",
+        "Materialism",
+        "Utilitarianism"
+      ],
+      "answer": 1,
+      "explanation": "Nihilism (noun) — The rejection of all religious and moral principles."
+    },
+    {
+      "id": "phi-q19",
+      "question": "Which word means: \"The belief that the search for meaning is futile in a meaningless universe.\"?",
+      "options": [
+        "Absurdism",
+        "Immanentism",
+        "Fatalism",
+        "Monism"
+      ],
+      "answer": 0,
+      "explanation": "Absurdism (noun) — The belief that the search for meaning is futile in a meaningless universe."
+    },
+    {
+      "id": "phi-q20",
+      "question": "Which word means: \"An ancient school teaching endurance and virtue as the highest good.\"?",
+      "options": [
+        "Compatibilism",
+        "Buddhism (philosophy)",
+        "Stoicism",
+        "Naturalism"
+      ],
+      "answer": 2,
+      "explanation": "Stoicism (noun) — An ancient school teaching endurance and virtue as the highest good."
+    },
+    {
+      "id": "phi-q21",
+      "question": "Which word means: \"The philosophy that pleasure, especially mental tranquillity, is the highest good.\"?",
+      "options": [
+        "Hedonism (ethical)",
+        "Antirealism",
+        "Epicureanism",
+        "Divine command theory"
+      ],
+      "answer": 2,
+      "explanation": "Epicureanism (noun) — The philosophy that pleasure, especially mental tranquillity, is the highest good."
+    },
+    {
+      "id": "phi-q22",
+      "question": "Which word means: \"An ancient school valuing virtue and self-sufficiency over convention.\"?",
+      "options": [
+        "Existentialism",
+        "Consequentialism",
+        "Egalitarianism",
+        "Cynicism"
+      ],
+      "answer": 3,
+      "explanation": "Cynicism (noun) — An ancient school valuing virtue and self-sufficiency over convention."
+    },
+    {
+      "id": "phi-q23",
+      "question": "Which word means: \"The philosophical position that certain knowledge is impossible.\"?",
+      "options": [
+        "Skepticism",
+        "Anarcho-syndicalism",
+        "Socialism",
+        "Essentialism"
+      ],
+      "answer": 0,
+      "explanation": "Skepticism (noun) — The philosophical position that certain knowledge is impossible."
+    },
+    {
+      "id": "phi-q24",
+      "question": "Which word means: \"The doctrine that actions are right in proportion to their promotion of happiness.\"?",
+      "options": [
+        "Postmodernism",
+        "Utilitarianism",
+        "Egalitarianism",
+        "Stoicism"
+      ],
+      "answer": 1,
+      "explanation": "Utilitarianism (noun) — The doctrine that actions are right in proportion to their promotion of happiness."
+    },
+    {
+      "id": "phi-q25",
+      "question": "Which word means: \"Ethics based on adherence to rules or duties.\"?",
+      "options": [
+        "Structuralism",
+        "Existentialism",
+        "Hegelianism",
+        "Deontology"
+      ],
+      "answer": 3,
+      "explanation": "Deontology (noun) — Ethics based on adherence to rules or duties."
+    },
+    {
+      "id": "phi-q26",
+      "question": "Which word means: \"The view that the morality of an action depends on its outcomes.\"?",
+      "options": [
+        "Foundationalism",
+        "Immanentism",
+        "Consequentialism",
+        "Confucianism"
+      ],
+      "answer": 2,
+      "explanation": "Consequentialism (noun) — The view that the morality of an action depends on its outcomes."
+    },
+    {
+      "id": "phi-q27",
+      "question": "Which word means: \"An approach emphasising character and virtue over rules or consequences.\"?",
+      "options": [
+        "Pluralism (ethical)",
+        "Virtue ethics",
+        "Holism",
+        "Deconstruction"
+      ],
+      "answer": 1,
+      "explanation": "Virtue ethics (noun) — An approach emphasising character and virtue over rules or consequences."
+    },
+    {
+      "id": "phi-q28",
+      "question": "Which word means: \"The view that truth or morality is relative to individuals or cultures.\"?",
+      "options": [
+        "Skepticism",
+        "Anarchism",
+        "Relativism",
+        "Machiavellianism"
+      ],
+      "answer": 2,
+      "explanation": "Relativism (noun) — The view that truth or morality is relative to individuals or cultures."
+    },
+    {
+      "id": "phi-q29",
+      "question": "Which word means: \"The view that certain truths or values are universal and unchanging.\"?",
+      "options": [
+        "Machiavellianism",
+        "Cynicism (classical)",
+        "Absolutism",
+        "Confucianism"
+      ],
+      "answer": 2,
+      "explanation": "Absolutism (noun) — The view that certain truths or values are universal and unchanging."
+    },
+    {
+      "id": "phi-q30",
+      "question": "Which word means: \"The doctrine that all events are determined by prior causes.\"?",
+      "options": [
+        "Epiphenomenalism",
+        "Humanism (secular)",
+        "Determinism",
+        "Historicism"
+      ],
+      "answer": 2,
+      "explanation": "Determinism (noun) — The doctrine that all events are determined by prior causes."
+    },
+    {
+      "id": "phi-q31",
+      "question": "Which word means: \"The doctrine that human agents can choose independently of prior causes.\"?",
+      "options": [
+        "Compatibilism",
+        "Behaviorism",
+        "Consequentialism",
+        "Free will"
+      ],
+      "answer": 3,
+      "explanation": "Free will (noun) — The doctrine that human agents can choose independently of prior causes."
+    },
+    {
+      "id": "phi-q32",
+      "question": "Which word means: \"The view that free will and determinism are compatible.\"?",
+      "options": [
+        "Anarcho-syndicalism",
+        "Environmentalism",
+        "Compatibilism",
+        "Fatalism"
+      ],
+      "answer": 2,
+      "explanation": "Compatibilism (noun) — The view that free will and determinism are compatible."
+    },
+    {
+      "id": "phi-q33",
+      "question": "Which word means: \"The view that only one's own mind is certain to exist.\"?",
+      "options": [
+        "Solipsism",
+        "Nihilism",
+        "Empiricism",
+        "Egoism (ethical)"
+      ],
+      "answer": 0,
+      "explanation": "Solipsism (noun) — The view that only one's own mind is certain to exist."
+    },
+    {
+      "id": "phi-q34",
+      "question": "Which word means: \"The philosophical study of the structures of experience.\"?",
+      "options": [
+        "Phenomenology",
+        "Determinism",
+        "Feminism",
+        "Determinism (soft)"
+      ],
+      "answer": 0,
+      "explanation": "Phenomenology (noun) — The philosophical study of the structures of experience."
+    },
+    {
+      "id": "phi-q35",
+      "question": "Which word means: \"The view that only scientific knowledge is authentic.\"?",
+      "options": [
+        "Anarcho-syndicalism",
+        "Cartesianism",
+        "Behaviorism",
+        "Positivism"
+      ],
+      "answer": 3,
+      "explanation": "Positivism (noun) — The view that only scientific knowledge is authentic."
+    },
+    {
+      "id": "phi-q36",
+      "question": "Which word means: \"The philosophy that judges truth by practical consequences.\"?",
+      "options": [
+        "Socialism",
+        "Positivism",
+        "Cynicism (classical)",
+        "Pragmatism"
+      ],
+      "answer": 3,
+      "explanation": "Pragmatism (noun) — The philosophy that judges truth by practical consequences."
+    },
+    {
+      "id": "phi-q37",
+      "question": "Which word means: \"A method of analysing culture by relations within a system.\"?",
+      "options": [
+        "Phenomenology",
+        "Structuralism",
+        "Determinism",
+        "Aristotelianism"
+      ],
+      "answer": 1,
+      "explanation": "Structuralism (noun) — A method of analysing culture by relations within a system."
+    },
+    {
+      "id": "phi-q38",
+      "question": "Which word means: \"A movement challenging the assumptions of structuralism.\"?",
+      "options": [
+        "Deconstruction",
+        "Post-structuralism",
+        "Daoism",
+        "Postmodernism"
+      ],
+      "answer": 1,
+      "explanation": "Post-structuralism (noun) — A movement challenging the assumptions of structuralism."
+    },
+    {
+      "id": "phi-q39",
+      "question": "Which word means: \"A late-twentieth-century movement skeptical of grand narratives.\"?",
+      "options": [
+        "Pluralism",
+        "Postmodernism",
+        "Materialism",
+        "Rationalism"
+      ],
+      "answer": 1,
+      "explanation": "Postmodernism (noun) — A late-twentieth-century movement skeptical of grand narratives."
+    },
+    {
+      "id": "phi-q40",
+      "question": "Which word means: \"A social and economic philosophy based on the writings of Karl Marx.\"?",
+      "options": [
+        "Libertarianism",
+        "Marxism",
+        "Consequentialism",
+        "Internalism"
+      ],
+      "answer": 1,
+      "explanation": "Marxism (noun) — A social and economic philosophy based on the writings of Karl Marx."
+    },
+    {
+      "id": "phi-q41",
+      "question": "Which word means: \"An economic system based on private ownership of production.\"?",
+      "options": [
+        "Utilitarianism (rule)",
+        "Capitalism",
+        "Perennialism",
+        "Intuitionism"
+      ],
+      "answer": 1,
+      "explanation": "Capitalism (noun) — An economic system based on private ownership of production."
+    },
+    {
+      "id": "phi-q42",
+      "question": "Which word means: \"A political and economic theory of collective ownership.\"?",
+      "options": [
+        "Socialism",
+        "Machiavellianism",
+        "Pluralism (ethical)",
+        "Objectivism"
+      ],
+      "answer": 0,
+      "explanation": "Socialism (noun) — A political and economic theory of collective ownership."
+    },
+    {
+      "id": "phi-q43",
+      "question": "Which word means: \"A political philosophy opposing all coerced authority.\"?",
+      "options": [
+        "Liberalism",
+        "Structuralism",
+        "Agnostic theism",
+        "Anarchism"
+      ],
+      "answer": 3,
+      "explanation": "Anarchism (noun) — A political philosophy opposing all coerced authority."
+    },
+    {
+      "id": "phi-q44",
+      "question": "Which word means: \"A political philosophy prioritising individual liberty.\"?",
+      "options": [
+        "Deconstruction",
+        "Confucianism",
+        "Libertarianism",
+        "Humanism (secular)"
+      ],
+      "answer": 2,
+      "explanation": "Libertarianism (noun) — A political philosophy prioritising individual liberty."
+    },
+    {
+      "id": "phi-q45",
+      "question": "Which word means: \"A political philosophy valuing tradition and gradual change.\"?",
+      "options": [
+        "Perennialism",
+        "Determinism",
+        "Conservatism",
+        "Moral realism"
+      ],
+      "answer": 2,
+      "explanation": "Conservatism (noun) — A political philosophy valuing tradition and gradual change."
+    },
+    {
+      "id": "phi-q46",
+      "question": "Which word means: \"A political philosophy valuing liberty and equality.\"?",
+      "options": [
+        "Determinism (soft)",
+        "Epistemic relativism",
+        "Egoism (ethical)",
+        "Liberalism"
+      ],
+      "answer": 3,
+      "explanation": "Liberalism (noun) — A political philosophy valuing liberty and equality."
+    },
+    {
+      "id": "phi-q47",
+      "question": "Which word means: \"A movement advocating women's rights and gender equality.\"?",
+      "options": [
+        "Libertarianism",
+        "Capitalism",
+        "Feminism",
+        "Empiricism"
+      ],
+      "answer": 2,
+      "explanation": "Feminism (noun) — A movement advocating women's rights and gender equality."
+    },
+    {
+      "id": "phi-q48",
+      "question": "Which word means: \"The view that all humans belong to a single moral community.\"?",
+      "options": [
+        "Behaviorism",
+        "Cosmopolitanism",
+        "Aristotelianism",
+        "Virtue ethics"
+      ],
+      "answer": 1,
+      "explanation": "Cosmopolitanism (noun) — The view that all humans belong to a single moral community."
+    },
+    {
+      "id": "phi-q49",
+      "question": "Which word means: \"The view that only natural laws operate in the world.\"?",
+      "options": [
+        "Naturalism",
+        "Marxism",
+        "Existentialism",
+        "Environmentalism"
+      ],
+      "answer": 0,
+      "explanation": "Naturalism (noun) — The view that only natural laws operate in the world."
+    },
+    {
+      "id": "phi-q50",
+      "question": "Which word means: \"The belief that all events are predetermined and inevitable.\"?",
+      "options": [
+        "Libertarianism",
+        "Absolutism",
+        "Anarcho-capitalism",
+        "Fatalism"
+      ],
+      "answer": 3,
+      "explanation": "Fatalism (noun) — The belief that all events are predetermined and inevitable."
+    },
+    {
+      "id": "phi-q51",
+      "question": "Which word means: \"Life has no inherent meaning; humans seek it anyway.\"?",
+      "options": [
+        "Absurdism",
+        "Utilitarianism (rule)",
+        "Legal positivism",
+        "Egoism (psychological)"
+      ],
+      "answer": 0,
+      "explanation": "Absurdism (noun) — Life has no inherent meaning; humans seek it anyway."
+    },
+    {
+      "id": "phi-q52",
+      "question": "Which word means: \"Priority of beauty over other values.\"?",
+      "options": [
+        "Empirical realism",
+        "Nihilism",
+        "Aestheticism",
+        "Polytheism"
+      ],
+      "answer": 2,
+      "explanation": "Aestheticism (noun) — Priority of beauty over other values."
+    },
+    {
+      "id": "phi-q53",
+      "question": "Which word means: \"Believes in a deity while unsure it can be known.\"?",
+      "options": [
+        "Agnostic theism",
+        "Virtue ethics",
+        "Absurdism",
+        "Naturalism"
+      ],
+      "answer": 0,
+      "explanation": "Agnostic theism (noun) — Believes in a deity while unsure it can be known."
+    },
+    {
+      "id": "phi-q54",
+      "question": "Which word means: \"Regard for the well-being of others.\"?",
+      "options": [
+        "Deontology",
+        "Confucianism",
+        "Altruism",
+        "Dualism"
+      ],
+      "answer": 2,
+      "explanation": "Altruism (noun) — Regard for the well-being of others."
+    },
+    {
+      "id": "phi-q55",
+      "question": "Which word means: \"Stateless society with market anarchy.\"?",
+      "options": [
+        "Anarcho-capitalism",
+        "Idealism",
+        "Historicism",
+        "Postmodernism"
+      ],
+      "answer": 0,
+      "explanation": "Anarcho-capitalism (noun) — Stateless society with market anarchy."
+    },
+    {
+      "id": "phi-q56",
+      "question": "Which word means: \"Workers' unions replace state.\"?",
+      "options": [
+        "Kantianism",
+        "Externalism",
+        "Polytheism",
+        "Anarcho-syndicalism"
+      ],
+      "answer": 3,
+      "explanation": "Anarcho-syndicalism (noun) — Workers' unions replace state."
+    },
+    {
+      "id": "phi-q57",
+      "question": "Which word means: \"Denies mind-independent reality.\"?",
+      "options": [
+        "Humanism",
+        "Antirealism",
+        "Consequentialism",
+        "Fatalism"
+      ],
+      "answer": 1,
+      "explanation": "Antirealism (noun) — Denies mind-independent reality."
+    },
+    {
+      "id": "phi-q58",
+      "question": "Which word means: \"Aristotle-based philosophy.\"?",
+      "options": [
+        "Divine command theory",
+        "Aristotelianism",
+        "Immanentism",
+        "Post-structuralism"
+      ],
+      "answer": 1,
+      "explanation": "Aristotelianism (noun) — Aristotle-based philosophy."
+    },
+    {
+      "id": "phi-q59",
+      "question": "Which word means: \"Focus on observable behaviour.\"?",
+      "options": [
+        "Cosmopolitanism",
+        "Atheism",
+        "Behaviorism",
+        "Determinism (soft)"
+      ],
+      "answer": 2,
+      "explanation": "Behaviorism (noun) — Focus on observable behaviour."
+    },
+    {
+      "id": "phi-q60",
+      "question": "Which word means: \"Teachings on suffering and non-self.\"?",
+      "options": [
+        "Absurdism",
+        "Buddhism (philosophy)",
+        "Monism",
+        "Epicureanism"
+      ],
+      "answer": 1,
+      "explanation": "Buddhism (philosophy) (noun) — Teachings on suffering and non-self."
+    },
+    {
+      "id": "phi-q61",
+      "question": "Which word means: \"Descartes' mind-body dualism.\"?",
+      "options": [
+        "Perennialism",
+        "Humanism",
+        "Constructivism",
+        "Cartesianism"
+      ],
+      "answer": 3,
+      "explanation": "Cartesianism (noun) — Descartes' mind-body dualism."
+    },
+    {
+      "id": "phi-q62",
+      "question": "Which word means: \"Ethical system of Confucius.\"?",
+      "options": [
+        "Anarcho-syndicalism",
+        "Marxism",
+        "Virtue ethics",
+        "Confucianism"
+      ],
+      "answer": 3,
+      "explanation": "Confucianism (noun) — Ethical system of Confucius."
+    },
+    {
+      "id": "phi-q63",
+      "question": "Which word means: \"Knowledge is socially constructed.\"?",
+      "options": [
+        "Daoism",
+        "Epistemic relativism",
+        "Consequentialism",
+        "Constructivism"
+      ],
+      "answer": 3,
+      "explanation": "Constructivism (noun) — Knowledge is socially constructed."
+    },
+    {
+      "id": "phi-q64",
+      "question": "Which word means: \"Morality from hypothetical contract.\"?",
+      "options": [
+        "Aristotelianism",
+        "Contractarianism",
+        "Absurdism",
+        "Theism"
+      ],
+      "answer": 1,
+      "explanation": "Contractarianism (noun) — Morality from hypothetical contract."
+    },
+    {
+      "id": "phi-q65",
+      "question": "Which word means: \"Rejection of conventional desires.\"?",
+      "options": [
+        "Divine command theory",
+        "Empirical realism",
+        "Anarchism",
+        "Cynicism (classical)"
+      ],
+      "answer": 3,
+      "explanation": "Cynicism (classical) (noun) — Rejection of conventional desires."
+    },
+    {
+      "id": "phi-q66",
+      "question": "Which word means: \"Way of Dao; harmony with nature.\"?",
+      "options": [
+        "Daoism",
+        "Objectivism",
+        "Pantheism",
+        "Environmentalism"
+      ],
+      "answer": 0,
+      "explanation": "Daoism (noun) — Way of Dao; harmony with nature."
+    },
+    {
+      "id": "phi-q67",
+      "question": "Which word means: \"Unravelling of textual meaning.\"?",
+      "options": [
+        "Deconstruction",
+        "Conservatism",
+        "Legal positivism",
+        "Machiavellianism"
+      ],
+      "answer": 0,
+      "explanation": "Deconstruction (noun) — Unravelling of textual meaning."
+    },
+    {
+      "id": "phi-q68",
+      "question": "Which word means: \"Compatibilist free will.\"?",
+      "options": [
+        "Altruism",
+        "Skepticism",
+        "Compatibilism",
+        "Determinism (soft)"
+      ],
+      "answer": 3,
+      "explanation": "Determinism (soft) (noun) — Compatibilist free will."
+    },
+    {
+      "id": "phi-q69",
+      "question": "Which word means: \"Morality from divine command.\"?",
+      "options": [
+        "Legal positivism",
+        "Divine command theory",
+        "Utilitarianism",
+        "Immanentism"
+      ],
+      "answer": 1,
+      "explanation": "Divine command theory (noun) — Morality from divine command."
+    },
+    {
+      "id": "phi-q70",
+      "question": "Which word means: \"All persons deserve equal rights.\"?",
+      "options": [
+        "Epicureanism",
+        "Free will",
+        "Egalitarianism",
+        "Pragmatism"
+      ],
+      "answer": 2,
+      "explanation": "Egalitarianism (noun) — All persons deserve equal rights."
+    },
+    {
+      "id": "phi-q71",
+      "question": "Which word means: \"People always act from self-interest.\"?",
+      "options": [
+        "Relativism",
+        "Legal positivism",
+        "Moral realism",
+        "Egoism (psychological)"
+      ],
+      "answer": 3,
+      "explanation": "Egoism (psychological) (noun) — People always act from self-interest."
+    },
+    {
+      "id": "phi-q72",
+      "question": "Which word means: \"Self-interest is morally right.\"?",
+      "options": [
+        "Egoism (ethical)",
+        "Rationalism",
+        "Pluralism (ethical)",
+        "Cosmopolitanism"
+      ],
+      "answer": 0,
+      "explanation": "Egoism (ethical) (noun) — Self-interest is morally right."
+    },
+    {
+      "id": "phi-q73",
+      "question": "Which word means: \"New properties arise from complexity.\"?",
+      "options": [
+        "Aristotelianism",
+        "Emergentism",
+        "Agnostic theism",
+        "Cynicism"
+      ],
+      "answer": 1,
+      "explanation": "Emergentism (noun) — New properties arise from complexity."
+    },
+    {
+      "id": "phi-q74",
+      "question": "Which word means: \"External world is knowable through senses.\"?",
+      "options": [
+        "Buddhism (philosophy)",
+        "Rationalism",
+        "Monotheism",
+        "Empirical realism"
+      ],
+      "answer": 3,
+      "explanation": "Empirical realism (noun) — External world is knowable through senses."
+    },
+    {
+      "id": "phi-q75",
+      "question": "Which word means: \"Ethical concern for nature.\"?",
+      "options": [
+        "Aestheticism",
+        "Deontology",
+        "Perennialism",
+        "Environmentalism"
+      ],
+      "answer": 3,
+      "explanation": "Environmentalism (noun) — Ethical concern for nature."
+    },
+    {
+      "id": "phi-q76",
+      "question": "Which word means: \"Mind is a by-product of brain.\"?",
+      "options": [
+        "Solipsism",
+        "Logical positivism",
+        "Epiphenomenalism",
+        "Monism"
+      ],
+      "answer": 2,
+      "explanation": "Epiphenomenalism (noun) — Mind is a by-product of brain."
+    },
+    {
+      "id": "phi-q77",
+      "question": "Which word means: \"Truth varies by framework.\"?",
+      "options": [
+        "Buddhism (philosophy)",
+        "Epistemic relativism",
+        "Humanism",
+        "Constructivism"
+      ],
+      "answer": 1,
+      "explanation": "Epistemic relativism (noun) — Truth varies by framework."
+    },
+    {
+      "id": "phi-q78",
+      "question": "Which word means: \"Things have essential natures.\"?",
+      "options": [
+        "Nihilism",
+        "Machiavellianism",
+        "Antirealism",
+        "Essentialism"
+      ],
+      "answer": 3,
+      "explanation": "Essentialism (noun) — Things have essential natures."
+    },
+    {
+      "id": "phi-q79",
+      "question": "Which word means: \"Meaning depends on external world.\"?",
+      "options": [
+        "Essentialism",
+        "Agnosticism",
+        "Externalism",
+        "Cynicism"
+      ],
+      "answer": 2,
+      "explanation": "Externalism (noun) — Meaning depends on external world."
+    },
+    {
+      "id": "phi-q80",
+      "question": "Which word means: \"Knowledge rests on basic beliefs.\"?",
+      "options": [
+        "Divine command theory",
+        "Objectivism",
+        "Pluralism",
+        "Foundationalism"
+      ],
+      "answer": 3,
+      "explanation": "Foundationalism (noun) — Knowledge rests on basic beliefs."
+    },
+    {
+      "id": "phi-q81",
+      "question": "Which word means: \"Pleasure is the highest good.\"?",
+      "options": [
+        "Hedonism (ethical)",
+        "Reductionism",
+        "Instrumentalism",
+        "Atheism"
+      ],
+      "answer": 0,
+      "explanation": "Hedonism (ethical) (noun) — Pleasure is the highest good."
+    },
+    {
+      "id": "phi-q82",
+      "question": "Which word means: \"Hegel's dialectical idealism.\"?",
+      "options": [
+        "Skepticism",
+        "Hegelianism",
+        "Relativism",
+        "Liberalism"
+      ],
+      "answer": 1,
+      "explanation": "Hegelianism (noun) — Hegel's dialectical idealism."
+    },
+    {
+      "id": "phi-q83",
+      "question": "Which word means: \"History determines meaning.\"?",
+      "options": [
+        "Historicism",
+        "Panentheism",
+        "Legal positivism",
+        "Antirealism"
+      ],
+      "answer": 0,
+      "explanation": "Historicism (noun) — History determines meaning."
+    },
+    {
+      "id": "phi-q84",
+      "question": "Which word means: \"Wholes exceed sum of parts.\"?",
+      "options": [
+        "Epistemic relativism",
+        "Panentheism",
+        "Holism",
+        "Antirealism"
+      ],
+      "answer": 2,
+      "explanation": "Holism (noun) — Wholes exceed sum of parts."
+    },
+    {
+      "id": "phi-q85",
+      "question": "Which word means: \"Ethics without deity.\"?",
+      "options": [
+        "Consequentialism",
+        "Humanism (secular)",
+        "Utilitarianism (rule)",
+        "Compatibilism"
+      ],
+      "answer": 1,
+      "explanation": "Humanism (secular) (noun) — Ethics without deity."
+    },
+    {
+      "id": "phi-q86",
+      "question": "Which word means: \"Divinity is within the world.\"?",
+      "options": [
+        "Altruism",
+        "Agnosticism",
+        "Immanentism",
+        "Idealism"
+      ],
+      "answer": 2,
+      "explanation": "Immanentism (noun) — Divinity is within the world."
+    },
+    {
+      "id": "phi-q87",
+      "question": "Which word means: \"Theories are tools, not truths.\"?",
+      "options": [
+        "Intuitionism",
+        "Immanentism",
+        "Instrumentalism",
+        "Deontology"
+      ],
+      "answer": 2,
+      "explanation": "Instrumentalism (noun) — Theories are tools, not truths."
+    },
+    {
+      "id": "phi-q88",
+      "question": "Which word means: \"Meaning is in the mind.\"?",
+      "options": [
+        "Moral realism",
+        "Internalism",
+        "Immanentism",
+        "Cynicism"
+      ],
+      "answer": 1,
+      "explanation": "Internalism (noun) — Meaning is in the mind."
+    },
+    {
+      "id": "phi-q89",
+      "question": "Which word means: \"Moral truths grasped by intuition.\"?",
+      "options": [
+        "Dualism",
+        "Daoism",
+        "Intuitionism",
+        "Socialism"
+      ],
+      "answer": 2,
+      "explanation": "Intuitionism (noun) — Moral truths grasped by intuition."
+    },
+    {
+      "id": "phi-q90",
+      "question": "Which word means: \"Kant's duty-based ethics.\"?",
+      "options": [
+        "Egalitarianism",
+        "Foundationalism",
+        "Virtue ethics",
+        "Kantianism"
+      ],
+      "answer": 3,
+      "explanation": "Kantianism (noun) — Kant's duty-based ethics."
+    },
+    {
+      "id": "phi-q91",
+      "question": "Which word means: \"Law separated from morality.\"?",
+      "options": [
+        "Legal positivism",
+        "Determinism",
+        "Relativism",
+        "Dualism"
+      ],
+      "answer": 0,
+      "explanation": "Legal positivism (noun) — Law separated from morality."
+    },
+    {
+      "id": "phi-q92",
+      "question": "Which word means: \"Only verifiable claims meaningful.\"?",
+      "options": [
+        "Logical positivism",
+        "Aestheticism",
+        "Atheism",
+        "Holism"
+      ],
+      "answer": 0,
+      "explanation": "Logical positivism (noun) — Only verifiable claims meaningful."
+    },
+    {
+      "id": "phi-q93",
+      "question": "Which word means: \"Ruthless political realism.\"?",
+      "options": [
+        "Machiavellianism",
+        "Behaviorism",
+        "Absolutism",
+        "Relativism"
+      ],
+      "answer": 0,
+      "explanation": "Machiavellianism (noun) — Ruthless political realism."
+    },
+    {
+      "id": "phi-q94",
+      "question": "Which word means: \"Objective moral facts exist.\"?",
+      "options": [
+        "Foundationalism",
+        "Cosmopolitanism",
+        "Moral realism",
+        "Holism"
+      ],
+      "answer": 2,
+      "explanation": "Moral realism (noun) — Objective moral facts exist."
+    },
+    {
+      "id": "phi-q95",
+      "question": "Which word means: \"Revival of Plato's ideas.\"?",
+      "options": [
+        "Postmodernism",
+        "Utilitarianism (rule)",
+        "Agnostic theism",
+        "Neoplatonism"
+      ],
+      "answer": 3,
+      "explanation": "Neoplatonism (noun) — Revival of Plato's ideas."
+    },
+    {
+      "id": "phi-q96",
+      "question": "Which word means: \"Rand's rational self-interest ethics.\"?",
+      "options": [
+        "Solipsism",
+        "Materialism",
+        "Objectivism",
+        "Epistemic relativism"
+      ],
+      "answer": 2,
+      "explanation": "Objectivism (noun) — Rand's rational self-interest ethics."
+    },
+    {
+      "id": "phi-q97",
+      "question": "Which word means: \"All religions share timeless truths.\"?",
+      "options": [
+        "Intuitionism",
+        "Instrumentalism",
+        "Perennialism",
+        "Utilitarianism (rule)"
+      ],
+      "answer": 2,
+      "explanation": "Perennialism (noun) — All religions share timeless truths."
+    },
+    {
+      "id": "phi-q98",
+      "question": "Which word means: \"Multiple valid moral values.\"?",
+      "options": [
+        "Hegelianism",
+        "Reductionism",
+        "Pluralism (ethical)",
+        "Intuitionism"
+      ],
+      "answer": 2,
+      "explanation": "Pluralism (ethical) (noun) — Multiple valid moral values."
+    },
+    {
+      "id": "phi-q99",
+      "question": "Which word means: \"Complex things reduce to simple parts.\"?",
+      "options": [
+        "Agnosticism",
+        "Humanism",
+        "Anarchism",
+        "Reductionism"
+      ],
+      "answer": 3,
+      "explanation": "Reductionism (noun) — Complex things reduce to simple parts."
+    },
+    {
+      "id": "phi-q100",
+      "question": "Which word means: \"Judge rules by overall utility.\"?",
+      "options": [
+        "Epiphenomenalism",
+        "Legal positivism",
+        "Utilitarianism (rule)",
+        "Cynicism (classical)"
+      ],
+      "answer": 2,
+      "explanation": "Utilitarianism (rule) (noun) — Judge rules by overall utility."
+    }
+  ]
+}

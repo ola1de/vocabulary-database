@@ -1,0 +1,1908 @@
+{
+  "category": "time-and-frequency",
+  "title": "Time and Frequency",
+  "words": [
+    {
+      "id": "tf-01",
+      "word": "Diurnal",
+      "pos": "adj",
+      "definition": "Occurring or active during the daytime.",
+      "example": "Diurnal birds hunt by sight."
+    },
+    {
+      "id": "tf-02",
+      "word": "Nocturnal",
+      "pos": "adj",
+      "definition": "Occurring or active during the night.",
+      "example": "Owls are nocturnal predators."
+    },
+    {
+      "id": "tf-03",
+      "word": "Crepuscular",
+      "pos": "adj",
+      "definition": "Active during twilight (dawn and dusk).",
+      "example": "Deer are largely crepuscular."
+    },
+    {
+      "id": "tf-04",
+      "word": "Matutinal",
+      "pos": "adj",
+      "definition": "Relating to or occurring in the morning.",
+      "example": "She kept to a matutinal routine of tea and reading."
+    },
+    {
+      "id": "tf-05",
+      "word": "Vespertine",
+      "pos": "adj",
+      "definition": "Relating to or occurring in the evening.",
+      "example": "Vespertine walks became a habit."
+    },
+    {
+      "id": "tf-06",
+      "word": "Ephemeral",
+      "pos": "adj",
+      "definition": "Lasting for a very short time.",
+      "example": "Fame in this industry is ephemeral."
+    },
+    {
+      "id": "tf-07",
+      "word": "Perennial",
+      "pos": "adj",
+      "definition": "Lasting or existing for a long or infinite time.",
+      "example": "Traffic is a perennial complaint."
+    },
+    {
+      "id": "tf-08",
+      "word": "Perpetual",
+      "pos": "adj",
+      "definition": "Continuing indefinitely or without interruption.",
+      "example": "The engine emitted a perpetual hum."
+    },
+    {
+      "id": "tf-09",
+      "word": "Eternal",
+      "pos": "adj",
+      "definition": "Lasting or existing forever.",
+      "example": "Some rocks feel practically eternal."
+    },
+    {
+      "id": "tf-10",
+      "word": "Momentary",
+      "pos": "adj",
+      "definition": "Lasting for a very brief time.",
+      "example": "The blackout was momentary."
+    },
+    {
+      "id": "tf-11",
+      "word": "Transient",
+      "pos": "adj",
+      "definition": "Lasting only for a short time.",
+      "example": "The euphoria was transient."
+    },
+    {
+      "id": "tf-12",
+      "word": "Transitory",
+      "pos": "adj",
+      "definition": "Not permanent.",
+      "example": "Youth is transitory."
+    },
+    {
+      "id": "tf-13",
+      "word": "Fleeting",
+      "pos": "adj",
+      "definition": "Lasting for a very short time.",
+      "example": "A fleeting smile crossed his face."
+    },
+    {
+      "id": "tf-14",
+      "word": "Interim",
+      "pos": "adj",
+      "definition": "In or for the intervening period.",
+      "example": "An interim manager was appointed."
+    },
+    {
+      "id": "tf-15",
+      "word": "Contemporary",
+      "pos": "adj",
+      "definition": "Living or occurring at the same time.",
+      "example": "She admired her contemporary poets."
+    },
+    {
+      "id": "tf-16",
+      "word": "Anachronism",
+      "pos": "noun",
+      "definition": "Something out of its proper historical time.",
+      "example": "A wristwatch on a Roman soldier is an anachronism."
+    },
+    {
+      "id": "tf-17",
+      "word": "Antediluvian",
+      "pos": "adj",
+      "definition": "Of or belonging to the time before the biblical Flood; extremely old.",
+      "example": "His antediluvian attitudes shocked the interns."
+    },
+    {
+      "id": "tf-18",
+      "word": "Archaic",
+      "pos": "adj",
+      "definition": "Very old or old-fashioned.",
+      "example": "Archaic legal phrases confuse most citizens."
+    },
+    {
+      "id": "tf-19",
+      "word": "Obsolete",
+      "pos": "adj",
+      "definition": "No longer produced or used; out of date.",
+      "example": "Fax machines are now largely obsolete."
+    },
+    {
+      "id": "tf-20",
+      "word": "Prehistoric",
+      "pos": "adj",
+      "definition": "Belonging to the period before written records.",
+      "example": "Prehistoric cave paintings survive across Europe."
+    },
+    {
+      "id": "tf-21",
+      "word": "Antique",
+      "pos": "adj/noun",
+      "definition": "Belonging to ancient times; a valued old object.",
+      "example": "She dealt in eighteenth-century antiques."
+    },
+    {
+      "id": "tf-22",
+      "word": "Vintage",
+      "pos": "adj/noun",
+      "definition": "From a period in the past and of high quality.",
+      "example": "A vintage bicycle stood in the corner."
+    },
+    {
+      "id": "tf-23",
+      "word": "Modern",
+      "pos": "adj",
+      "definition": "Relating to the present or recent times.",
+      "example": "Modern architecture prizes light and simplicity."
+    },
+    {
+      "id": "tf-24",
+      "word": "Contemporaneous",
+      "pos": "adj",
+      "definition": "Existing or occurring at the same time.",
+      "example": "The two revolutions were contemporaneous."
+    },
+    {
+      "id": "tf-25",
+      "word": "Concurrent",
+      "pos": "adj",
+      "definition": "Existing or happening at the same time.",
+      "example": "The sentences run concurrent, not consecutive."
+    },
+    {
+      "id": "tf-26",
+      "word": "Simultaneous",
+      "pos": "adj",
+      "definition": "Occurring or operating at the same time.",
+      "example": "The two explosions were simultaneous."
+    },
+    {
+      "id": "tf-27",
+      "word": "Consecutive",
+      "pos": "adj",
+      "definition": "Following continuously in unbroken sequence.",
+      "example": "He won five consecutive matches."
+    },
+    {
+      "id": "tf-28",
+      "word": "Successive",
+      "pos": "adj",
+      "definition": "Following one after the other in a series.",
+      "example": "Three successive attempts failed."
+    },
+    {
+      "id": "tf-29",
+      "word": "Sporadic",
+      "pos": "adj",
+      "definition": "Occurring at irregular intervals.",
+      "example": "Sporadic gunfire lasted through the night."
+    },
+    {
+      "id": "tf-30",
+      "word": "Intermittent",
+      "pos": "adj",
+      "definition": "Occurring at irregular intervals; not continuous.",
+      "example": "The rain was intermittent all afternoon."
+    },
+    {
+      "id": "tf-31",
+      "word": "Periodic",
+      "pos": "adj",
+      "definition": "Occurring at regular intervals.",
+      "example": "Periodic reviews are built into the contract."
+    },
+    {
+      "id": "tf-32",
+      "word": "Perennial",
+      "pos": "adj",
+      "definition": "Constantly recurring.",
+      "example": "Corruption is a perennial subject of debate."
+    },
+    {
+      "id": "tf-33",
+      "word": "Ceaseless",
+      "pos": "adj",
+      "definition": "Constant and unending.",
+      "example": "The ceaseless traffic wore her down."
+    },
+    {
+      "id": "tf-34",
+      "word": "Incessant",
+      "pos": "adj",
+      "definition": "Continuing without pause or interruption.",
+      "example": "The incessant beeping was maddening."
+    },
+    {
+      "id": "tf-35",
+      "word": "Continual",
+      "pos": "adj",
+      "definition": "Frequently recurring.",
+      "example": "Continual interruptions ruined the flow."
+    },
+    {
+      "id": "tf-36",
+      "word": "Continuous",
+      "pos": "adj",
+      "definition": "Without interruption in time.",
+      "example": "She required continuous oxygen support."
+    },
+    {
+      "id": "tf-37",
+      "word": "Sempiternal",
+      "pos": "adj",
+      "definition": "Everlasting; eternal.",
+      "example": "He wrote of the sempiternal stars."
+    },
+    {
+      "id": "tf-38",
+      "word": "Immemorial",
+      "pos": "adj",
+      "definition": "Originating in the distant past; very old.",
+      "example": "Custom held from time immemorial."
+    },
+    {
+      "id": "tf-39",
+      "word": "Aeon",
+      "pos": "noun",
+      "definition": "An indefinite and very long period of time.",
+      "example": "Aeons of erosion carved the canyon."
+    },
+    {
+      "id": "tf-40",
+      "word": "Epoch",
+      "pos": "noun",
+      "definition": "A particular period of time in history.",
+      "example": "The Victorian epoch reshaped British life."
+    },
+    {
+      "id": "tf-41",
+      "word": "Era",
+      "pos": "noun",
+      "definition": "A long and distinct period of history.",
+      "example": "The digital era transformed retail."
+    },
+    {
+      "id": "tf-42",
+      "word": "Interval",
+      "pos": "noun",
+      "definition": "An intervening time or space.",
+      "example": "The interval between acts was ten minutes."
+    },
+    {
+      "id": "tf-43",
+      "word": "Hiatus",
+      "pos": "noun",
+      "definition": "A pause or gap in a sequence.",
+      "example": "The band went on hiatus."
+    },
+    {
+      "id": "tf-44",
+      "word": "Sabbatical",
+      "pos": "noun",
+      "definition": "A period of paid leave granted for study or travel.",
+      "example": "She took a year-long sabbatical."
+    },
+    {
+      "id": "tf-45",
+      "word": "Solstice",
+      "pos": "noun",
+      "definition": "Either of the two times when the sun is furthest from the equator.",
+      "example": "The summer solstice fell on 21 June."
+    },
+    {
+      "id": "tf-46",
+      "word": "Equinox",
+      "pos": "noun",
+      "definition": "One of the two times a year when day and night are of equal length.",
+      "example": "The autumn equinox marked the harvest."
+    },
+    {
+      "id": "tf-47",
+      "word": "Fortnight",
+      "pos": "noun",
+      "definition": "A period of two weeks.",
+      "example": "We meet every fortnight."
+    },
+    {
+      "id": "tf-48",
+      "word": "Decade",
+      "pos": "noun",
+      "definition": "A period of ten years.",
+      "example": "The decade saw huge scientific advance."
+    },
+    {
+      "id": "tf-49",
+      "word": "Millennium",
+      "pos": "noun",
+      "definition": "A period of a thousand years.",
+      "example": "The new millennium began with fanfare."
+    },
+    {
+      "id": "tf-50",
+      "word": "Instantaneous",
+      "pos": "adj",
+      "definition": "Occurring or done in an instant.",
+      "example": "The response was instantaneous."
+    },
+    {
+      "id": "taf-051",
+      "word": "Biennial",
+      "pos": "adj",
+      "definition": "Occurring every two years.",
+      "example": "The biennial festival returns next summer."
+    },
+    {
+      "id": "taf-052",
+      "word": "Biannual",
+      "pos": "adj",
+      "definition": "Occurring twice a year.",
+      "example": "We hold biannual reviews."
+    },
+    {
+      "id": "taf-053",
+      "word": "Triennial",
+      "pos": "adj",
+      "definition": "Occurring every three years.",
+      "example": "The triennial conference draws thousands."
+    },
+    {
+      "id": "taf-054",
+      "word": "Quadrennial",
+      "pos": "adj",
+      "definition": "Occurring every four years.",
+      "example": "The Olympics are quadrennial."
+    },
+    {
+      "id": "taf-055",
+      "word": "Quinquennial",
+      "pos": "adj",
+      "definition": "Occurring every five years.",
+      "example": "A quinquennial audit is due."
+    },
+    {
+      "id": "taf-056",
+      "word": "Sexennial",
+      "pos": "adj",
+      "definition": "Occurring every six years.",
+      "example": "The sexennial review restarts the cycle."
+    },
+    {
+      "id": "taf-057",
+      "word": "Septennial",
+      "pos": "adj",
+      "definition": "Occurring every seven years.",
+      "example": "A septennial harvest ritual was observed."
+    },
+    {
+      "id": "taf-058",
+      "word": "Octennial",
+      "pos": "adj",
+      "definition": "Occurring every eight years.",
+      "example": "Octennial elections punctuated the era."
+    },
+    {
+      "id": "taf-059",
+      "word": "Novennial",
+      "pos": "adj",
+      "definition": "Occurring every nine years.",
+      "example": "The novennial rite ended the cycle."
+    },
+    {
+      "id": "taf-060",
+      "word": "Decennial",
+      "pos": "adj",
+      "definition": "Occurring every ten years.",
+      "example": "The decennial census closed last month."
+    },
+    {
+      "id": "taf-061",
+      "word": "Semiannual",
+      "pos": "adj",
+      "definition": "Occurring twice a year.",
+      "example": "Semiannual meetings track progress."
+    },
+    {
+      "id": "taf-062",
+      "word": "Semimonthly",
+      "pos": "adj",
+      "definition": "Occurring twice a month.",
+      "example": "Wages are paid semimonthly."
+    },
+    {
+      "id": "taf-063",
+      "word": "Semiweekly",
+      "pos": "adj",
+      "definition": "Occurring twice a week.",
+      "example": "The paper is semiweekly."
+    },
+    {
+      "id": "taf-064",
+      "word": "Bimonthly",
+      "pos": "adj",
+      "definition": "Every two months or twice a month.",
+      "example": "Bimonthly issues arrive in the post."
+    },
+    {
+      "id": "taf-065",
+      "word": "Biweekly",
+      "pos": "adj",
+      "definition": "Every two weeks or twice a week.",
+      "example": "Our biweekly stand-up is on Monday."
+    },
+    {
+      "id": "taf-066",
+      "word": "Sesquicentennial",
+      "pos": "noun",
+      "definition": "150th anniversary.",
+      "example": "The city marked its sesquicentennial."
+    },
+    {
+      "id": "taf-067",
+      "word": "Centennial",
+      "pos": "noun",
+      "definition": "100th anniversary.",
+      "example": "The centennial parade began at dawn."
+    },
+    {
+      "id": "taf-068",
+      "word": "Bicentennial",
+      "pos": "noun",
+      "definition": "200th anniversary.",
+      "example": "The bicentennial celebrations lasted weeks."
+    },
+    {
+      "id": "taf-069",
+      "word": "Tricentennial",
+      "pos": "noun",
+      "definition": "300th anniversary.",
+      "example": "The tricentennial issue was commemorative."
+    },
+    {
+      "id": "taf-070",
+      "word": "Millennial",
+      "pos": "adj",
+      "definition": "Relating to a thousand years.",
+      "example": "The millennial change closed one age."
+    },
+    {
+      "id": "taf-071",
+      "word": "Diurnal cycle",
+      "pos": "noun",
+      "definition": "Daily cycle.",
+      "example": "Body temperature follows a diurnal cycle."
+    },
+    {
+      "id": "taf-072",
+      "word": "Circadian",
+      "pos": "adj",
+      "definition": "Following a 24-hour cycle.",
+      "example": "Circadian rhythms govern sleep."
+    },
+    {
+      "id": "taf-073",
+      "word": "Ultradian",
+      "pos": "adj",
+      "definition": "Cycles shorter than a day.",
+      "example": "Ultradian rhythms shape attention."
+    },
+    {
+      "id": "taf-074",
+      "word": "Infradian",
+      "pos": "adj",
+      "definition": "Cycles longer than a day.",
+      "example": "Menstrual cycles are infradian."
+    },
+    {
+      "id": "taf-075",
+      "word": "Nychthemeron",
+      "pos": "noun",
+      "definition": "A period of 24 hours.",
+      "example": "One nychthemeron equals a day and night."
+    },
+    {
+      "id": "taf-076",
+      "word": "Chronic",
+      "pos": "adj",
+      "definition": "Persisting for a long time.",
+      "example": "Chronic pain requires long-term care."
+    },
+    {
+      "id": "taf-077",
+      "word": "Acute",
+      "pos": "adj",
+      "definition": "Of short duration and severe.",
+      "example": "Acute illness resolved quickly."
+    },
+    {
+      "id": "taf-078",
+      "word": "Subacute",
+      "pos": "adj",
+      "definition": "Between acute and chronic.",
+      "example": "Subacute cases need monitoring."
+    },
+    {
+      "id": "taf-079",
+      "word": "Recurrent",
+      "pos": "adj",
+      "definition": "Occurring often or repeatedly.",
+      "example": "Recurrent infections require workup."
+    },
+    {
+      "id": "taf-080",
+      "word": "Occasional",
+      "pos": "adj",
+      "definition": "Occurring sometimes.",
+      "example": "Occasional lapses were forgiven."
+    },
+    {
+      "id": "taf-081",
+      "word": "Frequent",
+      "pos": "adj",
+      "definition": "Happening often.",
+      "example": "Frequent flyers use the lounge."
+    },
+    {
+      "id": "taf-082",
+      "word": "Infrequent",
+      "pos": "adj",
+      "definition": "Not happening often.",
+      "example": "Rain is infrequent here."
+    },
+    {
+      "id": "taf-083",
+      "word": "Rare",
+      "pos": "adj",
+      "definition": "Happening very seldom.",
+      "example": "Rare events shape careers."
+    },
+    {
+      "id": "taf-084",
+      "word": "Constant",
+      "pos": "adj",
+      "definition": "Occurring continuously.",
+      "example": "Constant vigilance kept the fire out."
+    },
+    {
+      "id": "taf-085",
+      "word": "Repetitive",
+      "pos": "adj",
+      "definition": "Involving repetition.",
+      "example": "Repetitive tasks tire the eyes."
+    },
+    {
+      "id": "taf-086",
+      "word": "Alternate",
+      "pos": "adj",
+      "definition": "Occurring by turns.",
+      "example": "Alternate days are for cardio."
+    },
+    {
+      "id": "taf-087",
+      "word": "Rotating",
+      "pos": "adj",
+      "definition": "Taking turns.",
+      "example": "Rotating shifts affect sleep."
+    },
+    {
+      "id": "taf-088",
+      "word": "Cyclic",
+      "pos": "adj",
+      "definition": "Occurring in cycles.",
+      "example": "Cyclic patterns emerged in the data."
+    },
+    {
+      "id": "taf-089",
+      "word": "Seasonal",
+      "pos": "adj",
+      "definition": "Occurring with the seasons.",
+      "example": "Seasonal produce is best."
+    },
+    {
+      "id": "taf-090",
+      "word": "Annual",
+      "pos": "adj",
+      "definition": "Occurring yearly.",
+      "example": "The annual audit begins in January."
+    },
+    {
+      "id": "taf-091",
+      "word": "Monthly",
+      "pos": "adj",
+      "definition": "Occurring each month.",
+      "example": "Monthly reports are due Friday."
+    },
+    {
+      "id": "taf-092",
+      "word": "Weekly",
+      "pos": "adj",
+      "definition": "Occurring each week.",
+      "example": "We hold weekly reviews."
+    },
+    {
+      "id": "taf-093",
+      "word": "Daily",
+      "pos": "adj",
+      "definition": "Occurring each day.",
+      "example": "Daily practice builds skill."
+    },
+    {
+      "id": "taf-094",
+      "word": "Hourly",
+      "pos": "adj",
+      "definition": "Occurring each hour.",
+      "example": "Hourly checks were logged."
+    },
+    {
+      "id": "taf-095",
+      "word": "Perennial (frequent)",
+      "pos": "adj",
+      "definition": "Continuing endlessly.",
+      "example": "Traffic is a perennial issue."
+    },
+    {
+      "id": "taf-096",
+      "word": "Ephemeral (short)",
+      "pos": "adj",
+      "definition": "Lasting a very short time.",
+      "example": "Social trends can be ephemeral."
+    },
+    {
+      "id": "taf-097",
+      "word": "Age-old",
+      "pos": "adj",
+      "definition": "Existing for a very long time.",
+      "example": "The recipe is age-old."
+    },
+    {
+      "id": "taf-098",
+      "word": "Time-honoured",
+      "pos": "adj",
+      "definition": "Respected by long tradition.",
+      "example": "A time-honoured practice endures."
+    },
+    {
+      "id": "taf-099",
+      "word": "Bygone",
+      "pos": "adj",
+      "definition": "Belonging to an earlier time.",
+      "example": "Bygone eras haunt the museum."
+    },
+    {
+      "id": "taf-100",
+      "word": "Yesteryear",
+      "pos": "noun",
+      "definition": "The recent past.",
+      "example": "Yesteryear's fashions come back."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "tim-q1",
+      "question": "Which word means: \"Occurring or active during the daytime.\"?",
+      "options": [
+        "Ephemeral (short)",
+        "Ceaseless",
+        "Nychthemeron",
+        "Diurnal"
+      ],
+      "answer": 3,
+      "explanation": "Diurnal (adj) — Occurring or active during the daytime."
+    },
+    {
+      "id": "tim-q2",
+      "question": "Which word means: \"Occurring or active during the night.\"?",
+      "options": [
+        "Fleeting",
+        "Age-old",
+        "Simultaneous",
+        "Nocturnal"
+      ],
+      "answer": 3,
+      "explanation": "Nocturnal (adj) — Occurring or active during the night."
+    },
+    {
+      "id": "tim-q3",
+      "question": "Which word means: \"Active during twilight (dawn and dusk).\"?",
+      "options": [
+        "Infrequent",
+        "Sempiternal",
+        "Cyclic",
+        "Crepuscular"
+      ],
+      "answer": 3,
+      "explanation": "Crepuscular (adj) — Active during twilight (dawn and dusk)."
+    },
+    {
+      "id": "tim-q4",
+      "question": "Which word means: \"Relating to or occurring in the morning.\"?",
+      "options": [
+        "Continual",
+        "Matutinal",
+        "Cyclic",
+        "Equinox"
+      ],
+      "answer": 1,
+      "explanation": "Matutinal (adj) — Relating to or occurring in the morning."
+    },
+    {
+      "id": "tim-q5",
+      "question": "Which word means: \"Relating to or occurring in the evening.\"?",
+      "options": [
+        "Vespertine",
+        "Era",
+        "Simultaneous",
+        "Sempiternal"
+      ],
+      "answer": 0,
+      "explanation": "Vespertine (adj) — Relating to or occurring in the evening."
+    },
+    {
+      "id": "tim-q6",
+      "question": "Which word means: \"Lasting for a very short time.\"?",
+      "options": [
+        "Occasional",
+        "Antediluvian",
+        "Septennial",
+        "Ephemeral"
+      ],
+      "answer": 3,
+      "explanation": "Ephemeral (adj) — Lasting for a very short time."
+    },
+    {
+      "id": "tim-q7",
+      "question": "Which word means: \"Lasting or existing for a long or infinite time.\"?",
+      "options": [
+        "Anachronism",
+        "Aeon",
+        "Nocturnal",
+        "Perennial"
+      ],
+      "answer": 3,
+      "explanation": "Perennial (adj) — Lasting or existing for a long or infinite time."
+    },
+    {
+      "id": "tim-q8",
+      "question": "Which word means: \"Continuing indefinitely or without interruption.\"?",
+      "options": [
+        "Seasonal",
+        "Semiannual",
+        "Perpetual",
+        "Antique"
+      ],
+      "answer": 2,
+      "explanation": "Perpetual (adj) — Continuing indefinitely or without interruption."
+    },
+    {
+      "id": "tim-q9",
+      "question": "Which word means: \"Lasting or existing forever.\"?",
+      "options": [
+        "Immemorial",
+        "Eternal",
+        "Bimonthly",
+        "Epoch"
+      ],
+      "answer": 1,
+      "explanation": "Eternal (adj) — Lasting or existing forever."
+    },
+    {
+      "id": "tim-q10",
+      "question": "Which word means: \"Lasting for a very brief time.\"?",
+      "options": [
+        "Ephemeral",
+        "Decennial",
+        "Momentary",
+        "Sporadic"
+      ],
+      "answer": 2,
+      "explanation": "Momentary (adj) — Lasting for a very brief time."
+    },
+    {
+      "id": "tim-q11",
+      "question": "Which word means: \"Lasting only for a short time.\"?",
+      "options": [
+        "Transient",
+        "Era",
+        "Bimonthly",
+        "Perennial"
+      ],
+      "answer": 0,
+      "explanation": "Transient (adj) — Lasting only for a short time."
+    },
+    {
+      "id": "tim-q12",
+      "question": "Which word means: \"Not permanent.\"?",
+      "options": [
+        "Transitory",
+        "Diurnal",
+        "Alternate",
+        "Perennial"
+      ],
+      "answer": 0,
+      "explanation": "Transitory (adj) — Not permanent."
+    },
+    {
+      "id": "tim-q13",
+      "question": "Which word means: \"Lasting for a very short time.\"?",
+      "options": [
+        "Rotating",
+        "Fleeting",
+        "Immemorial",
+        "Sesquicentennial"
+      ],
+      "answer": 1,
+      "explanation": "Fleeting (adj) — Lasting for a very short time."
+    },
+    {
+      "id": "tim-q14",
+      "question": "Which word means: \"In or for the intervening period.\"?",
+      "options": [
+        "Perennial (frequent)",
+        "Prehistoric",
+        "Consecutive",
+        "Interim"
+      ],
+      "answer": 3,
+      "explanation": "Interim (adj) — In or for the intervening period."
+    },
+    {
+      "id": "tim-q15",
+      "question": "Which word means: \"Living or occurring at the same time.\"?",
+      "options": [
+        "Vespertine",
+        "Aeon",
+        "Intermittent",
+        "Contemporary"
+      ],
+      "answer": 3,
+      "explanation": "Contemporary (adj) — Living or occurring at the same time."
+    },
+    {
+      "id": "tim-q16",
+      "question": "Which word means: \"Something out of its proper historical time.\"?",
+      "options": [
+        "Biennial",
+        "Cyclic",
+        "Rare",
+        "Anachronism"
+      ],
+      "answer": 3,
+      "explanation": "Anachronism (noun) — Something out of its proper historical time."
+    },
+    {
+      "id": "tim-q17",
+      "question": "Which word means: \"Of or belonging to the time before the biblical Flood; extremely old.\"?",
+      "options": [
+        "Antediluvian",
+        "Epoch",
+        "Continual",
+        "Subacute"
+      ],
+      "answer": 0,
+      "explanation": "Antediluvian (adj) — Of or belonging to the time before the biblical Flood; extremely old."
+    },
+    {
+      "id": "tim-q18",
+      "question": "Which word means: \"Very old or old-fashioned.\"?",
+      "options": [
+        "Archaic",
+        "Cyclic",
+        "Chronic",
+        "Hiatus"
+      ],
+      "answer": 0,
+      "explanation": "Archaic (adj) — Very old or old-fashioned."
+    },
+    {
+      "id": "tim-q19",
+      "question": "Which word means: \"No longer produced or used; out of date.\"?",
+      "options": [
+        "Incessant",
+        "Quinquennial",
+        "Obsolete",
+        "Archaic"
+      ],
+      "answer": 2,
+      "explanation": "Obsolete (adj) — No longer produced or used; out of date."
+    },
+    {
+      "id": "tim-q20",
+      "question": "Which word means: \"Belonging to the period before written records.\"?",
+      "options": [
+        "Epoch",
+        "Transient",
+        "Infradian",
+        "Prehistoric"
+      ],
+      "answer": 3,
+      "explanation": "Prehistoric (adj) — Belonging to the period before written records."
+    },
+    {
+      "id": "tim-q21",
+      "question": "Which word means: \"Belonging to ancient times; a valued old object.\"?",
+      "options": [
+        "Instantaneous",
+        "Antique",
+        "Fleeting",
+        "Septennial"
+      ],
+      "answer": 1,
+      "explanation": "Antique (adj/noun) — Belonging to ancient times; a valued old object."
+    },
+    {
+      "id": "tim-q22",
+      "question": "Which word means: \"From a period in the past and of high quality.\"?",
+      "options": [
+        "Annual",
+        "Vintage",
+        "Interval",
+        "Sesquicentennial"
+      ],
+      "answer": 1,
+      "explanation": "Vintage (adj/noun) — From a period in the past and of high quality."
+    },
+    {
+      "id": "tim-q23",
+      "question": "Which word means: \"Relating to the present or recent times.\"?",
+      "options": [
+        "Quinquennial",
+        "Sexennial",
+        "Semiannual",
+        "Modern"
+      ],
+      "answer": 3,
+      "explanation": "Modern (adj) — Relating to the present or recent times."
+    },
+    {
+      "id": "tim-q24",
+      "question": "Which word means: \"Existing or occurring at the same time.\"?",
+      "options": [
+        "Matutinal",
+        "Yesteryear",
+        "Ultradian",
+        "Contemporaneous"
+      ],
+      "answer": 3,
+      "explanation": "Contemporaneous (adj) — Existing or occurring at the same time."
+    },
+    {
+      "id": "tim-q25",
+      "question": "Which word means: \"Existing or happening at the same time.\"?",
+      "options": [
+        "Concurrent",
+        "Epoch",
+        "Occasional",
+        "Ceaseless"
+      ],
+      "answer": 0,
+      "explanation": "Concurrent (adj) — Existing or happening at the same time."
+    },
+    {
+      "id": "tim-q26",
+      "question": "Which word means: \"Occurring or operating at the same time.\"?",
+      "options": [
+        "Biannual",
+        "Perennial",
+        "Simultaneous",
+        "Time-honoured"
+      ],
+      "answer": 2,
+      "explanation": "Simultaneous (adj) — Occurring or operating at the same time."
+    },
+    {
+      "id": "tim-q27",
+      "question": "Which word means: \"Following continuously in unbroken sequence.\"?",
+      "options": [
+        "Bygone",
+        "Bicentennial",
+        "Semiannual",
+        "Consecutive"
+      ],
+      "answer": 3,
+      "explanation": "Consecutive (adj) — Following continuously in unbroken sequence."
+    },
+    {
+      "id": "tim-q28",
+      "question": "Which word means: \"Following one after the other in a series.\"?",
+      "options": [
+        "Repetitive",
+        "Successive",
+        "Continuous",
+        "Perpetual"
+      ],
+      "answer": 1,
+      "explanation": "Successive (adj) — Following one after the other in a series."
+    },
+    {
+      "id": "tim-q29",
+      "question": "Which word means: \"Occurring at irregular intervals.\"?",
+      "options": [
+        "Infradian",
+        "Sporadic",
+        "Aeon",
+        "Semiweekly"
+      ],
+      "answer": 1,
+      "explanation": "Sporadic (adj) — Occurring at irregular intervals."
+    },
+    {
+      "id": "tim-q30",
+      "question": "Which word means: \"Occurring at irregular intervals; not continuous.\"?",
+      "options": [
+        "Chronic",
+        "Intermittent",
+        "Cyclic",
+        "Ephemeral (short)"
+      ],
+      "answer": 1,
+      "explanation": "Intermittent (adj) — Occurring at irregular intervals; not continuous."
+    },
+    {
+      "id": "tim-q31",
+      "question": "Which word means: \"Occurring at regular intervals.\"?",
+      "options": [
+        "Obsolete",
+        "Ultradian",
+        "Bicentennial",
+        "Periodic"
+      ],
+      "answer": 3,
+      "explanation": "Periodic (adj) — Occurring at regular intervals."
+    },
+    {
+      "id": "tim-q32",
+      "question": "Which word means: \"Constantly recurring.\"?",
+      "options": [
+        "Seasonal",
+        "Constant",
+        "Perennial",
+        "Antique"
+      ],
+      "answer": 2,
+      "explanation": "Perennial (adj) — Constantly recurring."
+    },
+    {
+      "id": "tim-q33",
+      "question": "Which word means: \"Constant and unending.\"?",
+      "options": [
+        "Ceaseless",
+        "Bimonthly",
+        "Hourly",
+        "Diurnal"
+      ],
+      "answer": 0,
+      "explanation": "Ceaseless (adj) — Constant and unending."
+    },
+    {
+      "id": "tim-q34",
+      "question": "Which word means: \"Continuing without pause or interruption.\"?",
+      "options": [
+        "Prehistoric",
+        "Incessant",
+        "Recurrent",
+        "Diurnal"
+      ],
+      "answer": 1,
+      "explanation": "Incessant (adj) — Continuing without pause or interruption."
+    },
+    {
+      "id": "tim-q35",
+      "question": "Which word means: \"Frequently recurring.\"?",
+      "options": [
+        "Interim",
+        "Consecutive",
+        "Perennial",
+        "Continual"
+      ],
+      "answer": 3,
+      "explanation": "Continual (adj) — Frequently recurring."
+    },
+    {
+      "id": "tim-q36",
+      "question": "Which word means: \"Without interruption in time.\"?",
+      "options": [
+        "Biannual",
+        "Continuous",
+        "Perpetual",
+        "Anachronism"
+      ],
+      "answer": 1,
+      "explanation": "Continuous (adj) — Without interruption in time."
+    },
+    {
+      "id": "tim-q37",
+      "question": "Which word means: \"Everlasting; eternal.\"?",
+      "options": [
+        "Contemporaneous",
+        "Periodic",
+        "Sempiternal",
+        "Diurnal cycle"
+      ],
+      "answer": 2,
+      "explanation": "Sempiternal (adj) — Everlasting; eternal."
+    },
+    {
+      "id": "tim-q38",
+      "question": "Which word means: \"Originating in the distant past; very old.\"?",
+      "options": [
+        "Occasional",
+        "Anachronism",
+        "Alternate",
+        "Immemorial"
+      ],
+      "answer": 3,
+      "explanation": "Immemorial (adj) — Originating in the distant past; very old."
+    },
+    {
+      "id": "tim-q39",
+      "question": "Which word means: \"An indefinite and very long period of time.\"?",
+      "options": [
+        "Aeon",
+        "Age-old",
+        "Contemporaneous",
+        "Obsolete"
+      ],
+      "answer": 0,
+      "explanation": "Aeon (noun) — An indefinite and very long period of time."
+    },
+    {
+      "id": "tim-q40",
+      "question": "Which word means: \"A particular period of time in history.\"?",
+      "options": [
+        "Semiweekly",
+        "Semimonthly",
+        "Epoch",
+        "Immemorial"
+      ],
+      "answer": 2,
+      "explanation": "Epoch (noun) — A particular period of time in history."
+    },
+    {
+      "id": "tim-q41",
+      "question": "Which word means: \"A long and distinct period of history.\"?",
+      "options": [
+        "Acute",
+        "Era",
+        "Biweekly",
+        "Millennium"
+      ],
+      "answer": 1,
+      "explanation": "Era (noun) — A long and distinct period of history."
+    },
+    {
+      "id": "tim-q42",
+      "question": "Which word means: \"An intervening time or space.\"?",
+      "options": [
+        "Semiannual",
+        "Monthly",
+        "Interim",
+        "Interval"
+      ],
+      "answer": 3,
+      "explanation": "Interval (noun) — An intervening time or space."
+    },
+    {
+      "id": "tim-q43",
+      "question": "Which word means: \"A pause or gap in a sequence.\"?",
+      "options": [
+        "Hiatus",
+        "Sempiternal",
+        "Decennial",
+        "Matutinal"
+      ],
+      "answer": 0,
+      "explanation": "Hiatus (noun) — A pause or gap in a sequence."
+    },
+    {
+      "id": "tim-q44",
+      "question": "Which word means: \"A period of paid leave granted for study or travel.\"?",
+      "options": [
+        "Sabbatical",
+        "Chronic",
+        "Aeon",
+        "Nocturnal"
+      ],
+      "answer": 0,
+      "explanation": "Sabbatical (noun) — A period of paid leave granted for study or travel."
+    },
+    {
+      "id": "tim-q45",
+      "question": "Which word means: \"Either of the two times when the sun is furthest from the equator.\"?",
+      "options": [
+        "Ephemeral",
+        "Fortnight",
+        "Archaic",
+        "Solstice"
+      ],
+      "answer": 3,
+      "explanation": "Solstice (noun) — Either of the two times when the sun is furthest from the equator."
+    },
+    {
+      "id": "tim-q46",
+      "question": "Which word means: \"One of the two times a year when day and night are of equal length.\"?",
+      "options": [
+        "Nocturnal",
+        "Continuous",
+        "Equinox",
+        "Antique"
+      ],
+      "answer": 2,
+      "explanation": "Equinox (noun) — One of the two times a year when day and night are of equal length."
+    },
+    {
+      "id": "tim-q47",
+      "question": "Which word means: \"A period of two weeks.\"?",
+      "options": [
+        "Weekly",
+        "Solstice",
+        "Tricentennial",
+        "Fortnight"
+      ],
+      "answer": 3,
+      "explanation": "Fortnight (noun) — A period of two weeks."
+    },
+    {
+      "id": "tim-q48",
+      "question": "Which word means: \"A period of ten years.\"?",
+      "options": [
+        "Modern",
+        "Repetitive",
+        "Decade",
+        "Prehistoric"
+      ],
+      "answer": 2,
+      "explanation": "Decade (noun) — A period of ten years."
+    },
+    {
+      "id": "tim-q49",
+      "question": "Which word means: \"A period of a thousand years.\"?",
+      "options": [
+        "Decennial",
+        "Daily",
+        "Millennium",
+        "Archaic"
+      ],
+      "answer": 2,
+      "explanation": "Millennium (noun) — A period of a thousand years."
+    },
+    {
+      "id": "tim-q50",
+      "question": "Which word means: \"Occurring or done in an instant.\"?",
+      "options": [
+        "Biannual",
+        "Constant",
+        "Eternal",
+        "Instantaneous"
+      ],
+      "answer": 3,
+      "explanation": "Instantaneous (adj) — Occurring or done in an instant."
+    },
+    {
+      "id": "tim-q51",
+      "question": "Which word means: \"Occurring every two years.\"?",
+      "options": [
+        "Biennial",
+        "Alternate",
+        "Recurrent",
+        "Contemporaneous"
+      ],
+      "answer": 0,
+      "explanation": "Biennial (adj) — Occurring every two years."
+    },
+    {
+      "id": "tim-q52",
+      "question": "Which word means: \"Occurring twice a year.\"?",
+      "options": [
+        "Chronic",
+        "Solstice",
+        "Acute",
+        "Biannual"
+      ],
+      "answer": 3,
+      "explanation": "Biannual (adj) — Occurring twice a year."
+    },
+    {
+      "id": "tim-q53",
+      "question": "Which word means: \"Occurring every three years.\"?",
+      "options": [
+        "Triennial",
+        "Antique",
+        "Matutinal",
+        "Perennial (frequent)"
+      ],
+      "answer": 0,
+      "explanation": "Triennial (adj) — Occurring every three years."
+    },
+    {
+      "id": "tim-q54",
+      "question": "Which word means: \"Occurring every four years.\"?",
+      "options": [
+        "Cyclic",
+        "Quadrennial",
+        "Biweekly",
+        "Semimonthly"
+      ],
+      "answer": 1,
+      "explanation": "Quadrennial (adj) — Occurring every four years."
+    },
+    {
+      "id": "tim-q55",
+      "question": "Which word means: \"Occurring every five years.\"?",
+      "options": [
+        "Perennial (frequent)",
+        "Interim",
+        "Modern",
+        "Quinquennial"
+      ],
+      "answer": 3,
+      "explanation": "Quinquennial (adj) — Occurring every five years."
+    },
+    {
+      "id": "tim-q56",
+      "question": "Which word means: \"Occurring every six years.\"?",
+      "options": [
+        "Occasional",
+        "Ceaseless",
+        "Sexennial",
+        "Perpetual"
+      ],
+      "answer": 2,
+      "explanation": "Sexennial (adj) — Occurring every six years."
+    },
+    {
+      "id": "tim-q57",
+      "question": "Which word means: \"Occurring every seven years.\"?",
+      "options": [
+        "Decade",
+        "Bygone",
+        "Septennial",
+        "Octennial"
+      ],
+      "answer": 2,
+      "explanation": "Septennial (adj) — Occurring every seven years."
+    },
+    {
+      "id": "tim-q58",
+      "question": "Which word means: \"Occurring every eight years.\"?",
+      "options": [
+        "Monthly",
+        "Novennial",
+        "Interim",
+        "Octennial"
+      ],
+      "answer": 3,
+      "explanation": "Octennial (adj) — Occurring every eight years."
+    },
+    {
+      "id": "tim-q59",
+      "question": "Which word means: \"Occurring every nine years.\"?",
+      "options": [
+        "Simultaneous",
+        "Ceaseless",
+        "Bimonthly",
+        "Novennial"
+      ],
+      "answer": 3,
+      "explanation": "Novennial (adj) — Occurring every nine years."
+    },
+    {
+      "id": "tim-q60",
+      "question": "Which word means: \"Occurring every ten years.\"?",
+      "options": [
+        "Ephemeral (short)",
+        "Sporadic",
+        "Decennial",
+        "Simultaneous"
+      ],
+      "answer": 2,
+      "explanation": "Decennial (adj) — Occurring every ten years."
+    },
+    {
+      "id": "tim-q61",
+      "question": "Which word means: \"Occurring twice a year.\"?",
+      "options": [
+        "Chronic",
+        "Matutinal",
+        "Semiannual",
+        "Transitory"
+      ],
+      "answer": 2,
+      "explanation": "Semiannual (adj) — Occurring twice a year."
+    },
+    {
+      "id": "tim-q62",
+      "question": "Which word means: \"Occurring twice a month.\"?",
+      "options": [
+        "Diurnal",
+        "Archaic",
+        "Fortnight",
+        "Semimonthly"
+      ],
+      "answer": 3,
+      "explanation": "Semimonthly (adj) — Occurring twice a month."
+    },
+    {
+      "id": "tim-q63",
+      "question": "Which word means: \"Occurring twice a week.\"?",
+      "options": [
+        "Contemporaneous",
+        "Seasonal",
+        "Sabbatical",
+        "Semiweekly"
+      ],
+      "answer": 3,
+      "explanation": "Semiweekly (adj) — Occurring twice a week."
+    },
+    {
+      "id": "tim-q64",
+      "question": "Which word means: \"Every two months or twice a month.\"?",
+      "options": [
+        "Bimonthly",
+        "Nychthemeron",
+        "Semiannual",
+        "Sesquicentennial"
+      ],
+      "answer": 0,
+      "explanation": "Bimonthly (adj) — Every two months or twice a month."
+    },
+    {
+      "id": "tim-q65",
+      "question": "Which word means: \"Every two weeks or twice a week.\"?",
+      "options": [
+        "Septennial",
+        "Quinquennial",
+        "Eternal",
+        "Biweekly"
+      ],
+      "answer": 3,
+      "explanation": "Biweekly (adj) — Every two weeks or twice a week."
+    },
+    {
+      "id": "tim-q66",
+      "question": "Which word means: \"150th anniversary.\"?",
+      "options": [
+        "Aeon",
+        "Bicentennial",
+        "Sesquicentennial",
+        "Antediluvian"
+      ],
+      "answer": 2,
+      "explanation": "Sesquicentennial (noun) — 150th anniversary."
+    },
+    {
+      "id": "tim-q67",
+      "question": "Which word means: \"100th anniversary.\"?",
+      "options": [
+        "Perennial",
+        "Centennial",
+        "Intermittent",
+        "Subacute"
+      ],
+      "answer": 1,
+      "explanation": "Centennial (noun) — 100th anniversary."
+    },
+    {
+      "id": "tim-q68",
+      "question": "Which word means: \"200th anniversary.\"?",
+      "options": [
+        "Ceaseless",
+        "Bicentennial",
+        "Immemorial",
+        "Instantaneous"
+      ],
+      "answer": 1,
+      "explanation": "Bicentennial (noun) — 200th anniversary."
+    },
+    {
+      "id": "tim-q69",
+      "question": "Which word means: \"300th anniversary.\"?",
+      "options": [
+        "Sempiternal",
+        "Tricentennial",
+        "Millennial",
+        "Momentary"
+      ],
+      "answer": 1,
+      "explanation": "Tricentennial (noun) — 300th anniversary."
+    },
+    {
+      "id": "tim-q70",
+      "question": "Which word means: \"Relating to a thousand years.\"?",
+      "options": [
+        "Millennial",
+        "Frequent",
+        "Perpetual",
+        "Biannual"
+      ],
+      "answer": 0,
+      "explanation": "Millennial (adj) — Relating to a thousand years."
+    },
+    {
+      "id": "tim-q71",
+      "question": "Which word means: \"Daily cycle.\"?",
+      "options": [
+        "Diurnal cycle",
+        "Matutinal",
+        "Repetitive",
+        "Incessant"
+      ],
+      "answer": 0,
+      "explanation": "Diurnal cycle (noun) — Daily cycle."
+    },
+    {
+      "id": "tim-q72",
+      "question": "Which word means: \"Following a 24-hour cycle.\"?",
+      "options": [
+        "Simultaneous",
+        "Hiatus",
+        "Circadian",
+        "Incessant"
+      ],
+      "answer": 2,
+      "explanation": "Circadian (adj) — Following a 24-hour cycle."
+    },
+    {
+      "id": "tim-q73",
+      "question": "Which word means: \"Cycles shorter than a day.\"?",
+      "options": [
+        "Hiatus",
+        "Perennial (frequent)",
+        "Ultradian",
+        "Diurnal cycle"
+      ],
+      "answer": 2,
+      "explanation": "Ultradian (adj) — Cycles shorter than a day."
+    },
+    {
+      "id": "tim-q74",
+      "question": "Which word means: \"Cycles longer than a day.\"?",
+      "options": [
+        "Occasional",
+        "Infradian",
+        "Ultradian",
+        "Momentary"
+      ],
+      "answer": 1,
+      "explanation": "Infradian (adj) — Cycles longer than a day."
+    },
+    {
+      "id": "tim-q75",
+      "question": "Which word means: \"A period of 24 hours.\"?",
+      "options": [
+        "Nychthemeron",
+        "Subacute",
+        "Ephemeral (short)",
+        "Quadrennial"
+      ],
+      "answer": 0,
+      "explanation": "Nychthemeron (noun) — A period of 24 hours."
+    },
+    {
+      "id": "tim-q76",
+      "question": "Which word means: \"Persisting for a long time.\"?",
+      "options": [
+        "Continual",
+        "Hourly",
+        "Chronic",
+        "Antediluvian"
+      ],
+      "answer": 2,
+      "explanation": "Chronic (adj) — Persisting for a long time."
+    },
+    {
+      "id": "tim-q77",
+      "question": "Which word means: \"Of short duration and severe.\"?",
+      "options": [
+        "Bimonthly",
+        "Acute",
+        "Biweekly",
+        "Sporadic"
+      ],
+      "answer": 1,
+      "explanation": "Acute (adj) — Of short duration and severe."
+    },
+    {
+      "id": "tim-q78",
+      "question": "Which word means: \"Between acute and chronic.\"?",
+      "options": [
+        "Intermittent",
+        "Crepuscular",
+        "Subacute",
+        "Aeon"
+      ],
+      "answer": 2,
+      "explanation": "Subacute (adj) — Between acute and chronic."
+    },
+    {
+      "id": "tim-q79",
+      "question": "Which word means: \"Occurring often or repeatedly.\"?",
+      "options": [
+        "Recurrent",
+        "Subacute",
+        "Millennium",
+        "Tricentennial"
+      ],
+      "answer": 0,
+      "explanation": "Recurrent (adj) — Occurring often or repeatedly."
+    },
+    {
+      "id": "tim-q80",
+      "question": "Which word means: \"Occurring sometimes.\"?",
+      "options": [
+        "Instantaneous",
+        "Perennial",
+        "Yesteryear",
+        "Occasional"
+      ],
+      "answer": 3,
+      "explanation": "Occasional (adj) — Occurring sometimes."
+    },
+    {
+      "id": "tim-q81",
+      "question": "Which word means: \"Happening often.\"?",
+      "options": [
+        "Quinquennial",
+        "Frequent",
+        "Sexennial",
+        "Monthly"
+      ],
+      "answer": 1,
+      "explanation": "Frequent (adj) — Happening often."
+    },
+    {
+      "id": "tim-q82",
+      "question": "Which word means: \"Not happening often.\"?",
+      "options": [
+        "Infrequent",
+        "Recurrent",
+        "Anachronism",
+        "Decade"
+      ],
+      "answer": 0,
+      "explanation": "Infrequent (adj) — Not happening often."
+    },
+    {
+      "id": "tim-q83",
+      "question": "Which word means: \"Happening very seldom.\"?",
+      "options": [
+        "Rare",
+        "Periodic",
+        "Sexennial",
+        "Perpetual"
+      ],
+      "answer": 0,
+      "explanation": "Rare (adj) — Happening very seldom."
+    },
+    {
+      "id": "tim-q84",
+      "question": "Which word means: \"Occurring continuously.\"?",
+      "options": [
+        "Triennial",
+        "Age-old",
+        "Constant",
+        "Intermittent"
+      ],
+      "answer": 2,
+      "explanation": "Constant (adj) — Occurring continuously."
+    },
+    {
+      "id": "tim-q85",
+      "question": "Which word means: \"Involving repetition.\"?",
+      "options": [
+        "Antediluvian",
+        "Momentary",
+        "Perpetual",
+        "Repetitive"
+      ],
+      "answer": 3,
+      "explanation": "Repetitive (adj) — Involving repetition."
+    },
+    {
+      "id": "tim-q86",
+      "question": "Which word means: \"Occurring by turns.\"?",
+      "options": [
+        "Solstice",
+        "Ephemeral",
+        "Alternate",
+        "Era"
+      ],
+      "answer": 2,
+      "explanation": "Alternate (adj) — Occurring by turns."
+    },
+    {
+      "id": "tim-q87",
+      "question": "Which word means: \"Taking turns.\"?",
+      "options": [
+        "Biennial",
+        "Rotating",
+        "Semimonthly",
+        "Subacute"
+      ],
+      "answer": 1,
+      "explanation": "Rotating (adj) — Taking turns."
+    },
+    {
+      "id": "tim-q88",
+      "question": "Which word means: \"Occurring in cycles.\"?",
+      "options": [
+        "Momentary",
+        "Millennial",
+        "Cyclic",
+        "Ceaseless"
+      ],
+      "answer": 2,
+      "explanation": "Cyclic (adj) — Occurring in cycles."
+    },
+    {
+      "id": "tim-q89",
+      "question": "Which word means: \"Occurring with the seasons.\"?",
+      "options": [
+        "Sporadic",
+        "Seasonal",
+        "Septennial",
+        "Daily"
+      ],
+      "answer": 1,
+      "explanation": "Seasonal (adj) — Occurring with the seasons."
+    },
+    {
+      "id": "tim-q90",
+      "question": "Which word means: \"Occurring yearly.\"?",
+      "options": [
+        "Annual",
+        "Constant",
+        "Perennial",
+        "Bicentennial"
+      ],
+      "answer": 0,
+      "explanation": "Annual (adj) — Occurring yearly."
+    },
+    {
+      "id": "tim-q91",
+      "question": "Which word means: \"Occurring each month.\"?",
+      "options": [
+        "Triennial",
+        "Perennial",
+        "Solstice",
+        "Monthly"
+      ],
+      "answer": 3,
+      "explanation": "Monthly (adj) — Occurring each month."
+    },
+    {
+      "id": "tim-q92",
+      "question": "Which word means: \"Occurring each week.\"?",
+      "options": [
+        "Centennial",
+        "Consecutive",
+        "Weekly",
+        "Archaic"
+      ],
+      "answer": 2,
+      "explanation": "Weekly (adj) — Occurring each week."
+    },
+    {
+      "id": "tim-q93",
+      "question": "Which word means: \"Occurring each day.\"?",
+      "options": [
+        "Daily",
+        "Hourly",
+        "Anachronism",
+        "Decade"
+      ],
+      "answer": 0,
+      "explanation": "Daily (adj) — Occurring each day."
+    },
+    {
+      "id": "tim-q94",
+      "question": "Which word means: \"Occurring each hour.\"?",
+      "options": [
+        "Septennial",
+        "Constant",
+        "Annual",
+        "Hourly"
+      ],
+      "answer": 3,
+      "explanation": "Hourly (adj) — Occurring each hour."
+    },
+    {
+      "id": "tim-q95",
+      "question": "Which word means: \"Continuing endlessly.\"?",
+      "options": [
+        "Bimonthly",
+        "Vespertine",
+        "Perennial (frequent)",
+        "Continual"
+      ],
+      "answer": 2,
+      "explanation": "Perennial (frequent) (adj) — Continuing endlessly."
+    },
+    {
+      "id": "tim-q96",
+      "question": "Which word means: \"Lasting a very short time.\"?",
+      "options": [
+        "Aeon",
+        "Transient",
+        "Ephemeral (short)",
+        "Perpetual"
+      ],
+      "answer": 2,
+      "explanation": "Ephemeral (short) (adj) — Lasting a very short time."
+    },
+    {
+      "id": "tim-q97",
+      "question": "Which word means: \"Existing for a very long time.\"?",
+      "options": [
+        "Millennium",
+        "Bimonthly",
+        "Crepuscular",
+        "Age-old"
+      ],
+      "answer": 3,
+      "explanation": "Age-old (adj) — Existing for a very long time."
+    },
+    {
+      "id": "tim-q98",
+      "question": "Which word means: \"Respected by long tradition.\"?",
+      "options": [
+        "Sporadic",
+        "Time-honoured",
+        "Millennium",
+        "Consecutive"
+      ],
+      "answer": 1,
+      "explanation": "Time-honoured (adj) — Respected by long tradition."
+    },
+    {
+      "id": "tim-q99",
+      "question": "Which word means: \"Belonging to an earlier time.\"?",
+      "options": [
+        "Bygone",
+        "Perennial",
+        "Tricentennial",
+        "Repetitive"
+      ],
+      "answer": 0,
+      "explanation": "Bygone (adj) — Belonging to an earlier time."
+    },
+    {
+      "id": "tim-q100",
+      "question": "Which word means: \"The recent past.\"?",
+      "options": [
+        "Yesteryear",
+        "Matutinal",
+        "Subacute",
+        "Age-old"
+      ],
+      "answer": 0,
+      "explanation": "Yesteryear (noun) — The recent past."
+    }
+  ]
+}

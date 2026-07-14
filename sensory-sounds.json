@@ -1,0 +1,1908 @@
+{
+  "category": "sensory-sounds",
+  "title": "Sensory Sounds",
+  "words": [
+    {
+      "id": "ss-001",
+      "word": "Susurration",
+      "pos": "noun",
+      "definition": "A soft, whispering or rustling sound.",
+      "example": "The susurration of leaves calmed her."
+    },
+    {
+      "id": "ss-002",
+      "word": "Onomatopoeia",
+      "pos": "noun",
+      "definition": "The formation of a word from a sound associated with what is named.",
+      "example": "'Buzz' is a classic example of onomatopoeia."
+    },
+    {
+      "id": "ss-003",
+      "word": "Cacophony",
+      "pos": "noun",
+      "definition": "A harsh, discordant mixture of sounds.",
+      "example": "A cacophony of horns filled the street."
+    },
+    {
+      "id": "ss-004",
+      "word": "Euphony",
+      "pos": "noun",
+      "definition": "A pleasing, harmonious combination of sounds.",
+      "example": "The choir produced perfect euphony."
+    },
+    {
+      "id": "ss-005",
+      "word": "Din",
+      "pos": "noun",
+      "definition": "A loud, unpleasant and prolonged noise.",
+      "example": "The din of the factory was deafening."
+    },
+    {
+      "id": "ss-006",
+      "word": "Clamor",
+      "pos": "noun",
+      "definition": "A loud, confused noise, especially of people shouting.",
+      "example": "A clamor rose from the crowd."
+    },
+    {
+      "id": "ss-007",
+      "word": "Whir",
+      "pos": "noun",
+      "definition": "A low, continuous, regular sound like that of a machine.",
+      "example": "The whir of the ceiling fan lulled him."
+    },
+    {
+      "id": "ss-008",
+      "word": "Hum",
+      "pos": "noun",
+      "definition": "A low, steady continuous sound.",
+      "example": "The refrigerator's hum broke the silence."
+    },
+    {
+      "id": "ss-009",
+      "word": "Buzz",
+      "pos": "noun",
+      "definition": "A low, continuous humming or murmuring sound made by insects or machines.",
+      "example": "A bee's buzz drifted through the window."
+    },
+    {
+      "id": "ss-010",
+      "word": "Drone",
+      "pos": "noun",
+      "definition": "A continuous low humming sound.",
+      "example": "The drone of the engine put her to sleep."
+    },
+    {
+      "id": "ss-011",
+      "word": "Chime",
+      "pos": "noun",
+      "definition": "A ringing, musical sound made by a bell or bells.",
+      "example": "The doorbell gave a soft chime."
+    },
+    {
+      "id": "ss-012",
+      "word": "Peal",
+      "pos": "noun",
+      "definition": "A loud, prolonged ringing of bells.",
+      "example": "A peal of church bells welcomed the couple."
+    },
+    {
+      "id": "ss-013",
+      "word": "Toll",
+      "pos": "noun",
+      "definition": "The slow, ringing sound of a large bell.",
+      "example": "The toll of the bell marked the funeral."
+    },
+    {
+      "id": "ss-014",
+      "word": "Knell",
+      "pos": "noun",
+      "definition": "The mournful sound of a bell rung for a death.",
+      "example": "The knell echoed across the village."
+    },
+    {
+      "id": "ss-015",
+      "word": "Rustle",
+      "pos": "noun",
+      "definition": "A soft, muffled crackling sound, as of leaves or paper.",
+      "example": "She heard the rustle of a snake in the grass."
+    },
+    {
+      "id": "ss-016",
+      "word": "Whisper",
+      "pos": "noun",
+      "definition": "A soft, hushed way of speaking.",
+      "example": "He answered in a nervous whisper."
+    },
+    {
+      "id": "ss-017",
+      "word": "Murmur",
+      "pos": "noun",
+      "definition": "A low, continuous sound, as of voices heard from a distance.",
+      "example": "A murmur ran through the audience."
+    },
+    {
+      "id": "ss-018",
+      "word": "Babble",
+      "pos": "noun",
+      "definition": "A confused mixture of sounds or voices; also the gurgling of a stream.",
+      "example": "The children's babble filled the playground."
+    },
+    {
+      "id": "ss-019",
+      "word": "Prattle",
+      "pos": "noun",
+      "definition": "Foolish or inconsequential talk.",
+      "example": "She dozed to the prattle of the toddlers."
+    },
+    {
+      "id": "ss-020",
+      "word": "Chatter",
+      "pos": "noun",
+      "definition": "Rapid, continuous, informal talk or animal sound.",
+      "example": "The chatter of monkeys came from the trees."
+    },
+    {
+      "id": "ss-021",
+      "word": "Warble",
+      "pos": "noun",
+      "definition": "A sound made by a bird that trembles and changes pitch.",
+      "example": "The lark's warble filled the sky."
+    },
+    {
+      "id": "ss-022",
+      "word": "Trill",
+      "pos": "noun",
+      "definition": "A quavering or vibratory sound, especially of a bird's voice.",
+      "example": "A canary let out a joyful trill."
+    },
+    {
+      "id": "ss-023",
+      "word": "Chirp",
+      "pos": "noun",
+      "definition": "A short, sharp sound made by a small bird or insect.",
+      "example": "Crickets began their evening chirp."
+    },
+    {
+      "id": "ss-024",
+      "word": "Tweet",
+      "pos": "noun",
+      "definition": "A short high-pitched sound made by a small bird.",
+      "example": "A sparrow gave a cheerful tweet."
+    },
+    {
+      "id": "ss-025",
+      "word": "Caw",
+      "pos": "noun",
+      "definition": "The harsh cry of a crow or rook.",
+      "example": "A crow's caw echoed from the roof."
+    },
+    {
+      "id": "ss-026",
+      "word": "Croak",
+      "pos": "noun",
+      "definition": "The deep, hoarse cry of a frog or raven.",
+      "example": "Frogs began to croak at dusk."
+    },
+    {
+      "id": "ss-027",
+      "word": "Hoot",
+      "pos": "noun",
+      "definition": "The long, deep cry of an owl.",
+      "example": "The hoot of an owl broke the quiet."
+    },
+    {
+      "id": "ss-028",
+      "word": "Bark",
+      "pos": "noun",
+      "definition": "The sharp, explosive cry of a dog.",
+      "example": "A dog's bark warned of the visitor."
+    },
+    {
+      "id": "ss-029",
+      "word": "Bay",
+      "pos": "noun",
+      "definition": "The prolonged howling cry of hounds when hunting.",
+      "example": "The hounds began to bay."
+    },
+    {
+      "id": "ss-030",
+      "word": "Howl",
+      "pos": "noun",
+      "definition": "A long, loud, doleful cry of a wolf or dog.",
+      "example": "A wolf's howl rose from the woods."
+    },
+    {
+      "id": "ss-031",
+      "word": "Growl",
+      "pos": "noun",
+      "definition": "A low, guttural sound of anger from an animal.",
+      "example": "The dog gave a menacing growl."
+    },
+    {
+      "id": "ss-032",
+      "word": "Snarl",
+      "pos": "noun",
+      "definition": "An angry growl with the teeth bared.",
+      "example": "The tiger let out a fierce snarl."
+    },
+    {
+      "id": "ss-033",
+      "word": "Hiss",
+      "pos": "noun",
+      "definition": "A sharp sibilant sound like a prolonged 's'.",
+      "example": "The cat's hiss startled the child."
+    },
+    {
+      "id": "ss-034",
+      "word": "Purr",
+      "pos": "noun",
+      "definition": "A low, continuous vibratory sound made by a contented cat.",
+      "example": "She smiled at her cat's purr."
+    },
+    {
+      "id": "ss-035",
+      "word": "Meow",
+      "pos": "noun",
+      "definition": "The characteristic sound made by a cat.",
+      "example": "The kitten's meow was tiny and pleading."
+    },
+    {
+      "id": "ss-036",
+      "word": "Bleat",
+      "pos": "noun",
+      "definition": "The wavering cry of a sheep or goat.",
+      "example": "Lambs' bleats filled the meadow."
+    },
+    {
+      "id": "ss-037",
+      "word": "Neigh",
+      "pos": "noun",
+      "definition": "The long, loud cry of a horse.",
+      "example": "A neigh drifted from the paddock."
+    },
+    {
+      "id": "ss-038",
+      "word": "Whinny",
+      "pos": "noun",
+      "definition": "A gentle, high-pitched neigh of a horse.",
+      "example": "The colt gave a soft whinny."
+    },
+    {
+      "id": "ss-039",
+      "word": "Bellow",
+      "pos": "noun",
+      "definition": "A deep, loud roar, especially from a large animal or an angry person.",
+      "example": "The bull's bellow shook the barn."
+    },
+    {
+      "id": "ss-040",
+      "word": "Roar",
+      "pos": "noun",
+      "definition": "A loud, deep, prolonged cry, as of a lion.",
+      "example": "The lion's roar carried for miles."
+    },
+    {
+      "id": "ss-041",
+      "word": "Squeal",
+      "pos": "noun",
+      "definition": "A long, high-pitched cry or sound.",
+      "example": "Children gave a squeal of delight."
+    },
+    {
+      "id": "ss-042",
+      "word": "Grunt",
+      "pos": "noun",
+      "definition": "A low, short guttural sound from a person or animal.",
+      "example": "He answered with a grunt."
+    },
+    {
+      "id": "ss-043",
+      "word": "Cluck",
+      "pos": "noun",
+      "definition": "The short, throaty sound made by a hen.",
+      "example": "The hen's cluck signalled a fresh egg."
+    },
+    {
+      "id": "ss-044",
+      "word": "Crow",
+      "pos": "noun",
+      "definition": "The loud cry of a rooster.",
+      "example": "The rooster's crow woke the farm."
+    },
+    {
+      "id": "ss-045",
+      "word": "Quack",
+      "pos": "noun",
+      "definition": "The characteristic harsh sound of a duck.",
+      "example": "Ducks quacked at the pond's edge."
+    },
+    {
+      "id": "ss-046",
+      "word": "Honk",
+      "pos": "noun",
+      "definition": "The loud, harsh cry of a goose or the sound of a car horn.",
+      "example": "A goose honked overhead."
+    },
+    {
+      "id": "ss-047",
+      "word": "Screech",
+      "pos": "noun",
+      "definition": "A loud, harsh, piercing cry or sound.",
+      "example": "Tires gave a sudden screech."
+    },
+    {
+      "id": "ss-048",
+      "word": "Squawk",
+      "pos": "noun",
+      "definition": "A loud, harsh cry, especially from a bird.",
+      "example": "The parrot let out an angry squawk."
+    },
+    {
+      "id": "ss-049",
+      "word": "Squeak",
+      "pos": "noun",
+      "definition": "A short, high-pitched sound or cry.",
+      "example": "The door hinge gave a small squeak."
+    },
+    {
+      "id": "ss-050",
+      "word": "Creak",
+      "pos": "noun",
+      "definition": "A harsh, high-pitched sound, as of unoiled hinges.",
+      "example": "Every stair let out a creak."
+    },
+    {
+      "id": "ss-051",
+      "word": "Groan",
+      "pos": "noun",
+      "definition": "A deep sound expressing pain, despair or the strain of weight.",
+      "example": "The old floorboards gave a groan."
+    },
+    {
+      "id": "ss-052",
+      "word": "Whimper",
+      "pos": "noun",
+      "definition": "A low, feeble sound expressing pain or distress.",
+      "example": "The puppy gave a soft whimper."
+    },
+    {
+      "id": "ss-053",
+      "word": "Sigh",
+      "pos": "noun",
+      "definition": "A long, deep audible breath expressing sadness or relief.",
+      "example": "She let out a weary sigh."
+    },
+    {
+      "id": "ss-054",
+      "word": "Gasp",
+      "pos": "noun",
+      "definition": "A short, sharp intake of breath from shock.",
+      "example": "The audience gave a collective gasp."
+    },
+    {
+      "id": "ss-055",
+      "word": "Wheeze",
+      "pos": "noun",
+      "definition": "A whistling sound made when breathing with difficulty.",
+      "example": "The old man's wheeze worried his family."
+    },
+    {
+      "id": "ss-056",
+      "word": "Sob",
+      "pos": "noun",
+      "definition": "A convulsive gasp made while weeping.",
+      "example": "A quiet sob escaped her."
+    },
+    {
+      "id": "ss-057",
+      "word": "Wail",
+      "pos": "noun",
+      "definition": "A prolonged high-pitched cry of grief or pain.",
+      "example": "A wail rose from the mourners."
+    },
+    {
+      "id": "ss-058",
+      "word": "Yelp",
+      "pos": "noun",
+      "definition": "A short, sharp cry of pain or alarm.",
+      "example": "The dog gave a sudden yelp."
+    },
+    {
+      "id": "ss-059",
+      "word": "Whoop",
+      "pos": "noun",
+      "definition": "A loud cry of excitement or joy.",
+      "example": "He gave a whoop when his team scored."
+    },
+    {
+      "id": "ss-060",
+      "word": "Applause",
+      "pos": "noun",
+      "definition": "Approval expressed by clapping.",
+      "example": "The soloist received warm applause."
+    },
+    {
+      "id": "ss-061",
+      "word": "Clap",
+      "pos": "noun",
+      "definition": "A sharp sound of hands striking together.",
+      "example": "One loud clap silenced the room."
+    },
+    {
+      "id": "ss-062",
+      "word": "Snap",
+      "pos": "noun",
+      "definition": "A sudden sharp cracking sound.",
+      "example": "The twig broke with a snap."
+    },
+    {
+      "id": "ss-063",
+      "word": "Crack",
+      "pos": "noun",
+      "definition": "A sudden loud, sharp noise.",
+      "example": "There was a crack of thunder overhead."
+    },
+    {
+      "id": "ss-064",
+      "word": "Crackle",
+      "pos": "noun",
+      "definition": "A series of slight sharp sounds.",
+      "example": "The fire's crackle filled the cabin."
+    },
+    {
+      "id": "ss-065",
+      "word": "Pop",
+      "pos": "noun",
+      "definition": "A short, explosive sound.",
+      "example": "The cork gave a satisfying pop."
+    },
+    {
+      "id": "ss-066",
+      "word": "Sizzle",
+      "pos": "noun",
+      "definition": "A hissing sound as of frying food.",
+      "example": "Bacon began to sizzle in the pan."
+    },
+    {
+      "id": "ss-067",
+      "word": "Fizz",
+      "pos": "noun",
+      "definition": "A hissing sound from bubbling liquid.",
+      "example": "Cola gave a soft fizz."
+    },
+    {
+      "id": "ss-068",
+      "word": "Whoosh",
+      "pos": "noun",
+      "definition": "A sudden rushing sound of air or water.",
+      "example": "The train passed with a whoosh."
+    },
+    {
+      "id": "ss-069",
+      "word": "Swoosh",
+      "pos": "noun",
+      "definition": "A soft rushing or swishing sound.",
+      "example": "Her long skirt made a gentle swoosh."
+    },
+    {
+      "id": "ss-070",
+      "word": "Swish",
+      "pos": "noun",
+      "definition": "A soft rustling or hissing sound.",
+      "example": "A curtain closed with a swish."
+    },
+    {
+      "id": "ss-071",
+      "word": "Patter",
+      "pos": "noun",
+      "definition": "A rapid succession of light tapping sounds.",
+      "example": "The patter of rain lulled him to sleep."
+    },
+    {
+      "id": "ss-072",
+      "word": "Pitter-patter",
+      "pos": "noun",
+      "definition": "A repeated light tapping sound, especially of raindrops or small feet.",
+      "example": "We heard the pitter-patter of little feet."
+    },
+    {
+      "id": "ss-073",
+      "word": "Plop",
+      "pos": "noun",
+      "definition": "A soft, hollow, splashing sound.",
+      "example": "The pebble fell with a plop."
+    },
+    {
+      "id": "ss-074",
+      "word": "Splash",
+      "pos": "noun",
+      "definition": "The sound of water striking or being struck.",
+      "example": "A frog jumped in with a splash."
+    },
+    {
+      "id": "ss-075",
+      "word": "Drip",
+      "pos": "noun",
+      "definition": "The sound of a liquid falling in drops.",
+      "example": "The drip of the tap kept me awake."
+    },
+    {
+      "id": "ss-076",
+      "word": "Trickle",
+      "pos": "noun",
+      "definition": "A small stream of liquid making a soft flowing sound.",
+      "example": "The trickle of water soothed her."
+    },
+    {
+      "id": "ss-077",
+      "word": "Gurgle",
+      "pos": "noun",
+      "definition": "A hollow bubbling sound made by liquid.",
+      "example": "The baby's gurgle made everyone smile."
+    },
+    {
+      "id": "ss-078",
+      "word": "Slosh",
+      "pos": "noun",
+      "definition": "The sound of liquid moving about heavily.",
+      "example": "Water sloshed in the bucket."
+    },
+    {
+      "id": "ss-079",
+      "word": "Slurp",
+      "pos": "noun",
+      "definition": "A loud sucking sound made while eating or drinking.",
+      "example": "He finished his soup with a slurp."
+    },
+    {
+      "id": "ss-080",
+      "word": "Gulp",
+      "pos": "noun",
+      "definition": "The sound of swallowing a mouthful quickly.",
+      "example": "She drank the water in one gulp."
+    },
+    {
+      "id": "ss-081",
+      "word": "Crunch",
+      "pos": "noun",
+      "definition": "The loud, sharp sound of something being crushed or bitten.",
+      "example": "We heard the crunch of gravel underfoot."
+    },
+    {
+      "id": "ss-082",
+      "word": "Munch",
+      "pos": "noun",
+      "definition": "A steady chewing sound.",
+      "example": "He gave a happy munch on the apple."
+    },
+    {
+      "id": "ss-083",
+      "word": "Slap",
+      "pos": "noun",
+      "definition": "A sharp sound like a flat blow.",
+      "example": "A wave gave the hull a hard slap."
+    },
+    {
+      "id": "ss-084",
+      "word": "Thud",
+      "pos": "noun",
+      "definition": "A dull, heavy sound of an impact.",
+      "example": "The book landed with a thud."
+    },
+    {
+      "id": "ss-085",
+      "word": "Thump",
+      "pos": "noun",
+      "definition": "A heavy, dull sound of a solid impact.",
+      "example": "His heart gave a nervous thump."
+    },
+    {
+      "id": "ss-086",
+      "word": "Bang",
+      "pos": "noun",
+      "definition": "A sudden loud sharp noise.",
+      "example": "The door slammed shut with a bang."
+    },
+    {
+      "id": "ss-087",
+      "word": "Boom",
+      "pos": "noun",
+      "definition": "A deep, resonant sound.",
+      "example": "A distant boom announced the thunder."
+    },
+    {
+      "id": "ss-088",
+      "word": "Clatter",
+      "pos": "noun",
+      "definition": "A loud rattling sound of hard objects.",
+      "example": "Pots fell with a clatter."
+    },
+    {
+      "id": "ss-089",
+      "word": "Clang",
+      "pos": "noun",
+      "definition": "A loud resonant metallic sound.",
+      "example": "The gate closed with a clang."
+    },
+    {
+      "id": "ss-090",
+      "word": "Ding",
+      "pos": "noun",
+      "definition": "A short, ringing sound.",
+      "example": "The lift gave a soft ding."
+    },
+    {
+      "id": "ss-091",
+      "word": "Jingle",
+      "pos": "noun",
+      "definition": "A light ringing sound of small bells or coins.",
+      "example": "The jingle of keys announced his arrival."
+    },
+    {
+      "id": "ss-092",
+      "word": "Tinkle",
+      "pos": "noun",
+      "definition": "A short, light ringing sound.",
+      "example": "A silver bell gave a tiny tinkle."
+    },
+    {
+      "id": "ss-093",
+      "word": "Rattle",
+      "pos": "noun",
+      "definition": "A rapid succession of short, sharp sounds.",
+      "example": "The old pipe began to rattle."
+    },
+    {
+      "id": "ss-094",
+      "word": "Whistle",
+      "pos": "noun",
+      "definition": "A clear, high-pitched sound made by forcing breath through the lips or a tube.",
+      "example": "He gave a sharp whistle to his dog."
+    },
+    {
+      "id": "ss-095",
+      "word": "Sough",
+      "pos": "noun",
+      "definition": "A soft, low murmuring sound, as of wind in trees.",
+      "example": "The sough of pines filled the glade."
+    },
+    {
+      "id": "ss-096",
+      "word": "Rumble",
+      "pos": "noun",
+      "definition": "A continuous deep, resonant sound.",
+      "example": "A rumble of thunder rolled across the hills."
+    },
+    {
+      "id": "ss-097",
+      "word": "Grumble",
+      "pos": "noun",
+      "definition": "A low complaining or rumbling sound.",
+      "example": "We heard the grumble of distant traffic."
+    },
+    {
+      "id": "ss-098",
+      "word": "Yodel",
+      "pos": "noun",
+      "definition": "A form of singing that alternates rapidly between chest and head voice.",
+      "example": "The mountaineer gave a cheerful yodel."
+    },
+    {
+      "id": "ss-099",
+      "word": "Ululation",
+      "pos": "noun",
+      "definition": "A loud, wavering cry or howl, often ceremonial.",
+      "example": "Ululation filled the wedding hall."
+    },
+    {
+      "id": "ss-100",
+      "word": "Cackle",
+      "pos": "noun",
+      "definition": "A loud, harsh laugh, or the sound of a hen after laying.",
+      "example": "Her cackle carried through the yard."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ss-q1",
+      "question": "Which word means: \"A soft, whispering or rustling sound.\"?",
+      "options": [
+        "Susurration",
+        "Yodel",
+        "Crunch",
+        "Grumble"
+      ],
+      "answer": 0,
+      "explanation": "Susurration (noun) — A soft, whispering or rustling sound."
+    },
+    {
+      "id": "ss-q2",
+      "question": "Which word means: \"The formation of a word from a sound associated with what is named.\"?",
+      "options": [
+        "Onomatopoeia",
+        "Sizzle",
+        "Trickle",
+        "Clamor"
+      ],
+      "answer": 0,
+      "explanation": "Onomatopoeia (noun) — The formation of a word from a sound associated with what is named."
+    },
+    {
+      "id": "ss-q3",
+      "question": "Which word means: \"A harsh, discordant mixture of sounds.\"?",
+      "options": [
+        "Applause",
+        "Pitter-patter",
+        "Howl",
+        "Cacophony"
+      ],
+      "answer": 3,
+      "explanation": "Cacophony (noun) — A harsh, discordant mixture of sounds."
+    },
+    {
+      "id": "ss-q4",
+      "question": "Which word means: \"A pleasing, harmonious combination of sounds.\"?",
+      "options": [
+        "Snap",
+        "Honk",
+        "Murmur",
+        "Euphony"
+      ],
+      "answer": 3,
+      "explanation": "Euphony (noun) — A pleasing, harmonious combination of sounds."
+    },
+    {
+      "id": "ss-q5",
+      "question": "Which word means: \"A loud, unpleasant and prolonged noise.\"?",
+      "options": [
+        "Susurration",
+        "Din",
+        "Squeak",
+        "Howl"
+      ],
+      "answer": 1,
+      "explanation": "Din (noun) — A loud, unpleasant and prolonged noise."
+    },
+    {
+      "id": "ss-q6",
+      "question": "Which word means: \"A loud, confused noise, especially of people shouting.\"?",
+      "options": [
+        "Clatter",
+        "Clamor",
+        "Squeal",
+        "Wheeze"
+      ],
+      "answer": 1,
+      "explanation": "Clamor (noun) — A loud, confused noise, especially of people shouting."
+    },
+    {
+      "id": "ss-q7",
+      "question": "Which word means: \"A low, continuous, regular sound like that of a machine.\"?",
+      "options": [
+        "Din",
+        "Euphony",
+        "Whir",
+        "Onomatopoeia"
+      ],
+      "answer": 2,
+      "explanation": "Whir (noun) — A low, continuous, regular sound like that of a machine."
+    },
+    {
+      "id": "ss-q8",
+      "question": "Which word means: \"A low, steady continuous sound.\"?",
+      "options": [
+        "Drip",
+        "Chirp",
+        "Crow",
+        "Hum"
+      ],
+      "answer": 3,
+      "explanation": "Hum (noun) — A low, steady continuous sound."
+    },
+    {
+      "id": "ss-q9",
+      "question": "Which word means: \"A low, continuous humming or murmuring sound made by insects or machines.\"?",
+      "options": [
+        "Thud",
+        "Gulp",
+        "Croak",
+        "Buzz"
+      ],
+      "answer": 3,
+      "explanation": "Buzz (noun) — A low, continuous humming or murmuring sound made by insects or machines."
+    },
+    {
+      "id": "ss-q10",
+      "question": "Which word means: \"A continuous low humming sound.\"?",
+      "options": [
+        "Babble",
+        "Groan",
+        "Drone",
+        "Slap"
+      ],
+      "answer": 2,
+      "explanation": "Drone (noun) — A continuous low humming sound."
+    },
+    {
+      "id": "ss-q11",
+      "question": "Which word means: \"A ringing, musical sound made by a bell or bells.\"?",
+      "options": [
+        "Chime",
+        "Wail",
+        "Whoosh",
+        "Trill"
+      ],
+      "answer": 0,
+      "explanation": "Chime (noun) — A ringing, musical sound made by a bell or bells."
+    },
+    {
+      "id": "ss-q12",
+      "question": "Which word means: \"A loud, prolonged ringing of bells.\"?",
+      "options": [
+        "Sizzle",
+        "Murmur",
+        "Munch",
+        "Peal"
+      ],
+      "answer": 3,
+      "explanation": "Peal (noun) — A loud, prolonged ringing of bells."
+    },
+    {
+      "id": "ss-q13",
+      "question": "Which word means: \"The slow, ringing sound of a large bell.\"?",
+      "options": [
+        "Toll",
+        "Cluck",
+        "Pitter-patter",
+        "Trill"
+      ],
+      "answer": 0,
+      "explanation": "Toll (noun) — The slow, ringing sound of a large bell."
+    },
+    {
+      "id": "ss-q14",
+      "question": "Which word means: \"The mournful sound of a bell rung for a death.\"?",
+      "options": [
+        "Knell",
+        "Onomatopoeia",
+        "Euphony",
+        "Wail"
+      ],
+      "answer": 0,
+      "explanation": "Knell (noun) — The mournful sound of a bell rung for a death."
+    },
+    {
+      "id": "ss-q15",
+      "question": "Which word means: \"A soft, muffled crackling sound, as of leaves or paper.\"?",
+      "options": [
+        "Drip",
+        "Euphony",
+        "Rustle",
+        "Creak"
+      ],
+      "answer": 2,
+      "explanation": "Rustle (noun) — A soft, muffled crackling sound, as of leaves or paper."
+    },
+    {
+      "id": "ss-q16",
+      "question": "Which word means: \"A soft, hushed way of speaking.\"?",
+      "options": [
+        "Thump",
+        "Caw",
+        "Whisper",
+        "Snarl"
+      ],
+      "answer": 2,
+      "explanation": "Whisper (noun) — A soft, hushed way of speaking."
+    },
+    {
+      "id": "ss-q17",
+      "question": "Which word means: \"A low, continuous sound, as of voices heard from a distance.\"?",
+      "options": [
+        "Whistle",
+        "Swish",
+        "Hiss",
+        "Murmur"
+      ],
+      "answer": 3,
+      "explanation": "Murmur (noun) — A low, continuous sound, as of voices heard from a distance."
+    },
+    {
+      "id": "ss-q18",
+      "question": "Which word means: \"A confused mixture of sounds or voices; also the gurgling of a stream.\"?",
+      "options": [
+        "Chime",
+        "Babble",
+        "Chatter",
+        "Neigh"
+      ],
+      "answer": 1,
+      "explanation": "Babble (noun) — A confused mixture of sounds or voices; also the gurgling of a stream."
+    },
+    {
+      "id": "ss-q19",
+      "question": "Which word means: \"Foolish or inconsequential talk.\"?",
+      "options": [
+        "Applause",
+        "Slosh",
+        "Prattle",
+        "Rustle"
+      ],
+      "answer": 2,
+      "explanation": "Prattle (noun) — Foolish or inconsequential talk."
+    },
+    {
+      "id": "ss-q20",
+      "question": "Which word means: \"Rapid, continuous, informal talk or animal sound.\"?",
+      "options": [
+        "Caw",
+        "Meow",
+        "Chatter",
+        "Whinny"
+      ],
+      "answer": 2,
+      "explanation": "Chatter (noun) — Rapid, continuous, informal talk or animal sound."
+    },
+    {
+      "id": "ss-q21",
+      "question": "Which word means: \"A sound made by a bird that trembles and changes pitch.\"?",
+      "options": [
+        "Whimper",
+        "Warble",
+        "Bark",
+        "Squawk"
+      ],
+      "answer": 1,
+      "explanation": "Warble (noun) — A sound made by a bird that trembles and changes pitch."
+    },
+    {
+      "id": "ss-q22",
+      "question": "Which word means: \"A quavering or vibratory sound, especially of a bird's voice.\"?",
+      "options": [
+        "Crackle",
+        "Drone",
+        "Trill",
+        "Gasp"
+      ],
+      "answer": 2,
+      "explanation": "Trill (noun) — A quavering or vibratory sound, especially of a bird's voice."
+    },
+    {
+      "id": "ss-q23",
+      "question": "Which word means: \"A short, sharp sound made by a small bird or insect.\"?",
+      "options": [
+        "Grunt",
+        "Slap",
+        "Creak",
+        "Chirp"
+      ],
+      "answer": 3,
+      "explanation": "Chirp (noun) — A short, sharp sound made by a small bird or insect."
+    },
+    {
+      "id": "ss-q24",
+      "question": "Which word means: \"A short high-pitched sound made by a small bird.\"?",
+      "options": [
+        "Chirp",
+        "Onomatopoeia",
+        "Tweet",
+        "Roar"
+      ],
+      "answer": 2,
+      "explanation": "Tweet (noun) — A short high-pitched sound made by a small bird."
+    },
+    {
+      "id": "ss-q25",
+      "question": "Which word means: \"The harsh cry of a crow or rook.\"?",
+      "options": [
+        "Gulp",
+        "Crack",
+        "Caw",
+        "Honk"
+      ],
+      "answer": 2,
+      "explanation": "Caw (noun) — The harsh cry of a crow or rook."
+    },
+    {
+      "id": "ss-q26",
+      "question": "Which word means: \"The deep, hoarse cry of a frog or raven.\"?",
+      "options": [
+        "Caw",
+        "Croak",
+        "Slurp",
+        "Whisper"
+      ],
+      "answer": 1,
+      "explanation": "Croak (noun) — The deep, hoarse cry of a frog or raven."
+    },
+    {
+      "id": "ss-q27",
+      "question": "Which word means: \"The long, deep cry of an owl.\"?",
+      "options": [
+        "Ululation",
+        "Hoot",
+        "Whoosh",
+        "Fizz"
+      ],
+      "answer": 1,
+      "explanation": "Hoot (noun) — The long, deep cry of an owl."
+    },
+    {
+      "id": "ss-q28",
+      "question": "Which word means: \"The sharp, explosive cry of a dog.\"?",
+      "options": [
+        "Bay",
+        "Bark",
+        "Rustle",
+        "Euphony"
+      ],
+      "answer": 1,
+      "explanation": "Bark (noun) — The sharp, explosive cry of a dog."
+    },
+    {
+      "id": "ss-q29",
+      "question": "Which word means: \"The prolonged howling cry of hounds when hunting.\"?",
+      "options": [
+        "Chime",
+        "Ding",
+        "Bay",
+        "Sough"
+      ],
+      "answer": 2,
+      "explanation": "Bay (noun) — The prolonged howling cry of hounds when hunting."
+    },
+    {
+      "id": "ss-q30",
+      "question": "Which word means: \"A long, loud, doleful cry of a wolf or dog.\"?",
+      "options": [
+        "Crack",
+        "Croak",
+        "Howl",
+        "Peal"
+      ],
+      "answer": 2,
+      "explanation": "Howl (noun) — A long, loud, doleful cry of a wolf or dog."
+    },
+    {
+      "id": "ss-q31",
+      "question": "Which word means: \"A low, guttural sound of anger from an animal.\"?",
+      "options": [
+        "Clap",
+        "Grumble",
+        "Pop",
+        "Growl"
+      ],
+      "answer": 3,
+      "explanation": "Growl (noun) — A low, guttural sound of anger from an animal."
+    },
+    {
+      "id": "ss-q32",
+      "question": "Which word means: \"An angry growl with the teeth bared.\"?",
+      "options": [
+        "Caw",
+        "Snarl",
+        "Chirp",
+        "Purr"
+      ],
+      "answer": 1,
+      "explanation": "Snarl (noun) — An angry growl with the teeth bared."
+    },
+    {
+      "id": "ss-q33",
+      "question": "Which word means: \"A sharp sibilant sound like a prolonged 's'.\"?",
+      "options": [
+        "Knell",
+        "Hiss",
+        "Whimper",
+        "Trickle"
+      ],
+      "answer": 1,
+      "explanation": "Hiss (noun) — A sharp sibilant sound like a prolonged 's'."
+    },
+    {
+      "id": "ss-q34",
+      "question": "Which word means: \"A low, continuous vibratory sound made by a contented cat.\"?",
+      "options": [
+        "Whistle",
+        "Wail",
+        "Crackle",
+        "Purr"
+      ],
+      "answer": 3,
+      "explanation": "Purr (noun) — A low, continuous vibratory sound made by a contented cat."
+    },
+    {
+      "id": "ss-q35",
+      "question": "Which word means: \"The characteristic sound made by a cat.\"?",
+      "options": [
+        "Knell",
+        "Grunt",
+        "Crunch",
+        "Meow"
+      ],
+      "answer": 3,
+      "explanation": "Meow (noun) — The characteristic sound made by a cat."
+    },
+    {
+      "id": "ss-q36",
+      "question": "Which word means: \"The wavering cry of a sheep or goat.\"?",
+      "options": [
+        "Squeak",
+        "Bleat",
+        "Screech",
+        "Splash"
+      ],
+      "answer": 1,
+      "explanation": "Bleat (noun) — The wavering cry of a sheep or goat."
+    },
+    {
+      "id": "ss-q37",
+      "question": "Which word means: \"The long, loud cry of a horse.\"?",
+      "options": [
+        "Din",
+        "Hiss",
+        "Fizz",
+        "Neigh"
+      ],
+      "answer": 3,
+      "explanation": "Neigh (noun) — The long, loud cry of a horse."
+    },
+    {
+      "id": "ss-q38",
+      "question": "Which word means: \"A gentle, high-pitched neigh of a horse.\"?",
+      "options": [
+        "Whimper",
+        "Rustle",
+        "Whinny",
+        "Euphony"
+      ],
+      "answer": 2,
+      "explanation": "Whinny (noun) — A gentle, high-pitched neigh of a horse."
+    },
+    {
+      "id": "ss-q39",
+      "question": "Which word means: \"A deep, loud roar, especially from a large animal or an angry person.\"?",
+      "options": [
+        "Snarl",
+        "Screech",
+        "Bellow",
+        "Tweet"
+      ],
+      "answer": 2,
+      "explanation": "Bellow (noun) — A deep, loud roar, especially from a large animal or an angry person."
+    },
+    {
+      "id": "ss-q40",
+      "question": "Which word means: \"A loud, deep, prolonged cry, as of a lion.\"?",
+      "options": [
+        "Grunt",
+        "Prattle",
+        "Roar",
+        "Squeak"
+      ],
+      "answer": 2,
+      "explanation": "Roar (noun) — A loud, deep, prolonged cry, as of a lion."
+    },
+    {
+      "id": "ss-q41",
+      "question": "Which word means: \"A long, high-pitched cry or sound.\"?",
+      "options": [
+        "Squeal",
+        "Onomatopoeia",
+        "Ding",
+        "Rattle"
+      ],
+      "answer": 0,
+      "explanation": "Squeal (noun) — A long, high-pitched cry or sound."
+    },
+    {
+      "id": "ss-q42",
+      "question": "Which word means: \"A low, short guttural sound from a person or animal.\"?",
+      "options": [
+        "Grunt",
+        "Howl",
+        "Cluck",
+        "Splash"
+      ],
+      "answer": 0,
+      "explanation": "Grunt (noun) — A low, short guttural sound from a person or animal."
+    },
+    {
+      "id": "ss-q43",
+      "question": "Which word means: \"The short, throaty sound made by a hen.\"?",
+      "options": [
+        "Swoosh",
+        "Cluck",
+        "Slurp",
+        "Bark"
+      ],
+      "answer": 1,
+      "explanation": "Cluck (noun) — The short, throaty sound made by a hen."
+    },
+    {
+      "id": "ss-q44",
+      "question": "Which word means: \"The loud cry of a rooster.\"?",
+      "options": [
+        "Crow",
+        "Slurp",
+        "Boom",
+        "Rattle"
+      ],
+      "answer": 0,
+      "explanation": "Crow (noun) — The loud cry of a rooster."
+    },
+    {
+      "id": "ss-q45",
+      "question": "Which word means: \"The characteristic harsh sound of a duck.\"?",
+      "options": [
+        "Quack",
+        "Clang",
+        "Yodel",
+        "Wail"
+      ],
+      "answer": 0,
+      "explanation": "Quack (noun) — The characteristic harsh sound of a duck."
+    },
+    {
+      "id": "ss-q46",
+      "question": "Which word means: \"The loud, harsh cry of a goose or the sound of a car horn.\"?",
+      "options": [
+        "Pop",
+        "Whir",
+        "Croak",
+        "Honk"
+      ],
+      "answer": 3,
+      "explanation": "Honk (noun) — The loud, harsh cry of a goose or the sound of a car horn."
+    },
+    {
+      "id": "ss-q47",
+      "question": "Which word means: \"A loud, harsh, piercing cry or sound.\"?",
+      "options": [
+        "Wheeze",
+        "Screech",
+        "Whoop",
+        "Whisper"
+      ],
+      "answer": 1,
+      "explanation": "Screech (noun) — A loud, harsh, piercing cry or sound."
+    },
+    {
+      "id": "ss-q48",
+      "question": "Which word means: \"A loud, harsh cry, especially from a bird.\"?",
+      "options": [
+        "Growl",
+        "Squawk",
+        "Groan",
+        "Gurgle"
+      ],
+      "answer": 1,
+      "explanation": "Squawk (noun) — A loud, harsh cry, especially from a bird."
+    },
+    {
+      "id": "ss-q49",
+      "question": "Which word means: \"A short, high-pitched sound or cry.\"?",
+      "options": [
+        "Susurration",
+        "Thud",
+        "Drip",
+        "Squeak"
+      ],
+      "answer": 3,
+      "explanation": "Squeak (noun) — A short, high-pitched sound or cry."
+    },
+    {
+      "id": "ss-q50",
+      "question": "Which word means: \"A harsh, high-pitched sound, as of unoiled hinges.\"?",
+      "options": [
+        "Swish",
+        "Creak",
+        "Din",
+        "Sigh"
+      ],
+      "answer": 1,
+      "explanation": "Creak (noun) — A harsh, high-pitched sound, as of unoiled hinges."
+    },
+    {
+      "id": "ss-q51",
+      "question": "Which word means: \"A deep sound expressing pain, despair or the strain of weight.\"?",
+      "options": [
+        "Buzz",
+        "Snap",
+        "Toll",
+        "Groan"
+      ],
+      "answer": 3,
+      "explanation": "Groan (noun) — A deep sound expressing pain, despair or the strain of weight."
+    },
+    {
+      "id": "ss-q52",
+      "question": "Which word means: \"A low, feeble sound expressing pain or distress.\"?",
+      "options": [
+        "Whimper",
+        "Bleat",
+        "Squeal",
+        "Yodel"
+      ],
+      "answer": 0,
+      "explanation": "Whimper (noun) — A low, feeble sound expressing pain or distress."
+    },
+    {
+      "id": "ss-q53",
+      "question": "Which word means: \"A long, deep audible breath expressing sadness or relief.\"?",
+      "options": [
+        "Sigh",
+        "Pop",
+        "Squeal",
+        "Plop"
+      ],
+      "answer": 0,
+      "explanation": "Sigh (noun) — A long, deep audible breath expressing sadness or relief."
+    },
+    {
+      "id": "ss-q54",
+      "question": "Which word means: \"A short, sharp intake of breath from shock.\"?",
+      "options": [
+        "Pop",
+        "Gasp",
+        "Applause",
+        "Jingle"
+      ],
+      "answer": 1,
+      "explanation": "Gasp (noun) — A short, sharp intake of breath from shock."
+    },
+    {
+      "id": "ss-q55",
+      "question": "Which word means: \"A whistling sound made when breathing with difficulty.\"?",
+      "options": [
+        "Bay",
+        "Whir",
+        "Wheeze",
+        "Euphony"
+      ],
+      "answer": 2,
+      "explanation": "Wheeze (noun) — A whistling sound made when breathing with difficulty."
+    },
+    {
+      "id": "ss-q56",
+      "question": "Which word means: \"A convulsive gasp made while weeping.\"?",
+      "options": [
+        "Ding",
+        "Whistle",
+        "Grunt",
+        "Sob"
+      ],
+      "answer": 3,
+      "explanation": "Sob (noun) — A convulsive gasp made while weeping."
+    },
+    {
+      "id": "ss-q57",
+      "question": "Which word means: \"A prolonged high-pitched cry of grief or pain.\"?",
+      "options": [
+        "Caw",
+        "Peal",
+        "Wail",
+        "Whistle"
+      ],
+      "answer": 2,
+      "explanation": "Wail (noun) — A prolonged high-pitched cry of grief or pain."
+    },
+    {
+      "id": "ss-q58",
+      "question": "Which word means: \"A short, sharp cry of pain or alarm.\"?",
+      "options": [
+        "Whir",
+        "Purr",
+        "Yelp",
+        "Ding"
+      ],
+      "answer": 2,
+      "explanation": "Yelp (noun) — A short, sharp cry of pain or alarm."
+    },
+    {
+      "id": "ss-q59",
+      "question": "Which word means: \"A loud cry of excitement or joy.\"?",
+      "options": [
+        "Bellow",
+        "Drone",
+        "Whoop",
+        "Purr"
+      ],
+      "answer": 2,
+      "explanation": "Whoop (noun) — A loud cry of excitement or joy."
+    },
+    {
+      "id": "ss-q60",
+      "question": "Which word means: \"Approval expressed by clapping.\"?",
+      "options": [
+        "Meow",
+        "Applause",
+        "Trill",
+        "Jingle"
+      ],
+      "answer": 1,
+      "explanation": "Applause (noun) — Approval expressed by clapping."
+    },
+    {
+      "id": "ss-q61",
+      "question": "Which word means: \"A sharp sound of hands striking together.\"?",
+      "options": [
+        "Whisper",
+        "Clap",
+        "Squeal",
+        "Murmur"
+      ],
+      "answer": 1,
+      "explanation": "Clap (noun) — A sharp sound of hands striking together."
+    },
+    {
+      "id": "ss-q62",
+      "question": "Which word means: \"A sudden sharp cracking sound.\"?",
+      "options": [
+        "Yelp",
+        "Snap",
+        "Boom",
+        "Slap"
+      ],
+      "answer": 1,
+      "explanation": "Snap (noun) — A sudden sharp cracking sound."
+    },
+    {
+      "id": "ss-q63",
+      "question": "Which word means: \"A sudden loud, sharp noise.\"?",
+      "options": [
+        "Drip",
+        "Bang",
+        "Snap",
+        "Crack"
+      ],
+      "answer": 3,
+      "explanation": "Crack (noun) — A sudden loud, sharp noise."
+    },
+    {
+      "id": "ss-q64",
+      "question": "Which word means: \"A series of slight sharp sounds.\"?",
+      "options": [
+        "Snap",
+        "Crackle",
+        "Cackle",
+        "Sough"
+      ],
+      "answer": 1,
+      "explanation": "Crackle (noun) — A series of slight sharp sounds."
+    },
+    {
+      "id": "ss-q65",
+      "question": "Which word means: \"A short, explosive sound.\"?",
+      "options": [
+        "Rattle",
+        "Pop",
+        "Whinny",
+        "Cackle"
+      ],
+      "answer": 1,
+      "explanation": "Pop (noun) — A short, explosive sound."
+    },
+    {
+      "id": "ss-q66",
+      "question": "Which word means: \"A hissing sound as of frying food.\"?",
+      "options": [
+        "Sizzle",
+        "Bang",
+        "Rumble",
+        "Thud"
+      ],
+      "answer": 0,
+      "explanation": "Sizzle (noun) — A hissing sound as of frying food."
+    },
+    {
+      "id": "ss-q67",
+      "question": "Which word means: \"A hissing sound from bubbling liquid.\"?",
+      "options": [
+        "Fizz",
+        "Hum",
+        "Drone",
+        "Crackle"
+      ],
+      "answer": 0,
+      "explanation": "Fizz (noun) — A hissing sound from bubbling liquid."
+    },
+    {
+      "id": "ss-q68",
+      "question": "Which word means: \"A sudden rushing sound of air or water.\"?",
+      "options": [
+        "Caw",
+        "Creak",
+        "Applause",
+        "Whoosh"
+      ],
+      "answer": 3,
+      "explanation": "Whoosh (noun) — A sudden rushing sound of air or water."
+    },
+    {
+      "id": "ss-q69",
+      "question": "Which word means: \"A soft rushing or swishing sound.\"?",
+      "options": [
+        "Hoot",
+        "Swoosh",
+        "Gurgle",
+        "Ululation"
+      ],
+      "answer": 1,
+      "explanation": "Swoosh (noun) — A soft rushing or swishing sound."
+    },
+    {
+      "id": "ss-q70",
+      "question": "Which word means: \"A soft rustling or hissing sound.\"?",
+      "options": [
+        "Chatter",
+        "Pop",
+        "Swish",
+        "Thump"
+      ],
+      "answer": 2,
+      "explanation": "Swish (noun) — A soft rustling or hissing sound."
+    },
+    {
+      "id": "ss-q71",
+      "question": "Which word means: \"A rapid succession of light tapping sounds.\"?",
+      "options": [
+        "Yelp",
+        "Screech",
+        "Patter",
+        "Creak"
+      ],
+      "answer": 2,
+      "explanation": "Patter (noun) — A rapid succession of light tapping sounds."
+    },
+    {
+      "id": "ss-q72",
+      "question": "Which word means: \"A repeated light tapping sound, especially of raindrops or small feet.\"?",
+      "options": [
+        "Buzz",
+        "Pitter-patter",
+        "Wheeze",
+        "Bleat"
+      ],
+      "answer": 1,
+      "explanation": "Pitter-patter (noun) — A repeated light tapping sound, especially of raindrops or small feet."
+    },
+    {
+      "id": "ss-q73",
+      "question": "Which word means: \"A soft, hollow, splashing sound.\"?",
+      "options": [
+        "Knell",
+        "Drip",
+        "Plop",
+        "Thud"
+      ],
+      "answer": 2,
+      "explanation": "Plop (noun) — A soft, hollow, splashing sound."
+    },
+    {
+      "id": "ss-q74",
+      "question": "Which word means: \"The sound of water striking or being struck.\"?",
+      "options": [
+        "Growl",
+        "Splash",
+        "Rustle",
+        "Grumble"
+      ],
+      "answer": 1,
+      "explanation": "Splash (noun) — The sound of water striking or being struck."
+    },
+    {
+      "id": "ss-q75",
+      "question": "Which word means: \"The sound of a liquid falling in drops.\"?",
+      "options": [
+        "Meow",
+        "Clap",
+        "Euphony",
+        "Drip"
+      ],
+      "answer": 3,
+      "explanation": "Drip (noun) — The sound of a liquid falling in drops."
+    },
+    {
+      "id": "ss-q76",
+      "question": "Which word means: \"A small stream of liquid making a soft flowing sound.\"?",
+      "options": [
+        "Trickle",
+        "Whisper",
+        "Patter",
+        "Chime"
+      ],
+      "answer": 0,
+      "explanation": "Trickle (noun) — A small stream of liquid making a soft flowing sound."
+    },
+    {
+      "id": "ss-q77",
+      "question": "Which word means: \"A hollow bubbling sound made by liquid.\"?",
+      "options": [
+        "Chatter",
+        "Groan",
+        "Pop",
+        "Gurgle"
+      ],
+      "answer": 3,
+      "explanation": "Gurgle (noun) — A hollow bubbling sound made by liquid."
+    },
+    {
+      "id": "ss-q78",
+      "question": "Which word means: \"The sound of liquid moving about heavily.\"?",
+      "options": [
+        "Wail",
+        "Slosh",
+        "Whir",
+        "Meow"
+      ],
+      "answer": 1,
+      "explanation": "Slosh (noun) — The sound of liquid moving about heavily."
+    },
+    {
+      "id": "ss-q79",
+      "question": "Which word means: \"A loud sucking sound made while eating or drinking.\"?",
+      "options": [
+        "Sough",
+        "Squeak",
+        "Thump",
+        "Slurp"
+      ],
+      "answer": 3,
+      "explanation": "Slurp (noun) — A loud sucking sound made while eating or drinking."
+    },
+    {
+      "id": "ss-q80",
+      "question": "Which word means: \"The sound of swallowing a mouthful quickly.\"?",
+      "options": [
+        "Caw",
+        "Whimper",
+        "Gulp",
+        "Chirp"
+      ],
+      "answer": 2,
+      "explanation": "Gulp (noun) — The sound of swallowing a mouthful quickly."
+    },
+    {
+      "id": "ss-q81",
+      "question": "Which word means: \"The loud, sharp sound of something being crushed or bitten.\"?",
+      "options": [
+        "Sob",
+        "Crunch",
+        "Knell",
+        "Fizz"
+      ],
+      "answer": 1,
+      "explanation": "Crunch (noun) — The loud, sharp sound of something being crushed or bitten."
+    },
+    {
+      "id": "ss-q82",
+      "question": "Which word means: \"A steady chewing sound.\"?",
+      "options": [
+        "Munch",
+        "Bay",
+        "Whir",
+        "Rustle"
+      ],
+      "answer": 0,
+      "explanation": "Munch (noun) — A steady chewing sound."
+    },
+    {
+      "id": "ss-q83",
+      "question": "Which word means: \"A sharp sound like a flat blow.\"?",
+      "options": [
+        "Swoosh",
+        "Slap",
+        "Buzz",
+        "Growl"
+      ],
+      "answer": 1,
+      "explanation": "Slap (noun) — A sharp sound like a flat blow."
+    },
+    {
+      "id": "ss-q84",
+      "question": "Which word means: \"A dull, heavy sound of an impact.\"?",
+      "options": [
+        "Gulp",
+        "Rattle",
+        "Jingle",
+        "Thud"
+      ],
+      "answer": 3,
+      "explanation": "Thud (noun) — A dull, heavy sound of an impact."
+    },
+    {
+      "id": "ss-q85",
+      "question": "Which word means: \"A heavy, dull sound of a solid impact.\"?",
+      "options": [
+        "Thump",
+        "Toll",
+        "Bay",
+        "Sough"
+      ],
+      "answer": 0,
+      "explanation": "Thump (noun) — A heavy, dull sound of a solid impact."
+    },
+    {
+      "id": "ss-q86",
+      "question": "Which word means: \"A sudden loud sharp noise.\"?",
+      "options": [
+        "Trill",
+        "Hoot",
+        "Bang",
+        "Quack"
+      ],
+      "answer": 2,
+      "explanation": "Bang (noun) — A sudden loud sharp noise."
+    },
+    {
+      "id": "ss-q87",
+      "question": "Which word means: \"A deep, resonant sound.\"?",
+      "options": [
+        "Sough",
+        "Boom",
+        "Toll",
+        "Susurration"
+      ],
+      "answer": 1,
+      "explanation": "Boom (noun) — A deep, resonant sound."
+    },
+    {
+      "id": "ss-q88",
+      "question": "Which word means: \"A loud rattling sound of hard objects.\"?",
+      "options": [
+        "Ding",
+        "Clatter",
+        "Rumble",
+        "Roar"
+      ],
+      "answer": 1,
+      "explanation": "Clatter (noun) — A loud rattling sound of hard objects."
+    },
+    {
+      "id": "ss-q89",
+      "question": "Which word means: \"A loud resonant metallic sound.\"?",
+      "options": [
+        "Clatter",
+        "Trill",
+        "Clang",
+        "Buzz"
+      ],
+      "answer": 2,
+      "explanation": "Clang (noun) — A loud resonant metallic sound."
+    },
+    {
+      "id": "ss-q90",
+      "question": "Which word means: \"A short, ringing sound.\"?",
+      "options": [
+        "Prattle",
+        "Bang",
+        "Onomatopoeia",
+        "Ding"
+      ],
+      "answer": 3,
+      "explanation": "Ding (noun) — A short, ringing sound."
+    },
+    {
+      "id": "ss-q91",
+      "question": "Which word means: \"A light ringing sound of small bells or coins.\"?",
+      "options": [
+        "Chirp",
+        "Purr",
+        "Jingle",
+        "Cacophony"
+      ],
+      "answer": 2,
+      "explanation": "Jingle (noun) — A light ringing sound of small bells or coins."
+    },
+    {
+      "id": "ss-q92",
+      "question": "Which word means: \"A short, light ringing sound.\"?",
+      "options": [
+        "Clap",
+        "Tinkle",
+        "Honk",
+        "Gurgle"
+      ],
+      "answer": 1,
+      "explanation": "Tinkle (noun) — A short, light ringing sound."
+    },
+    {
+      "id": "ss-q93",
+      "question": "Which word means: \"A rapid succession of short, sharp sounds.\"?",
+      "options": [
+        "Rattle",
+        "Rustle",
+        "Clamor",
+        "Clap"
+      ],
+      "answer": 0,
+      "explanation": "Rattle (noun) — A rapid succession of short, sharp sounds."
+    },
+    {
+      "id": "ss-q94",
+      "question": "Which word means: \"A clear, high-pitched sound made by forcing breath through the lips or a tube.\"?",
+      "options": [
+        "Whistle",
+        "Pop",
+        "Howl",
+        "Whoosh"
+      ],
+      "answer": 0,
+      "explanation": "Whistle (noun) — A clear, high-pitched sound made by forcing breath through the lips or a tube."
+    },
+    {
+      "id": "ss-q95",
+      "question": "Which word means: \"A soft, low murmuring sound, as of wind in trees.\"?",
+      "options": [
+        "Toll",
+        "Sough",
+        "Bellow",
+        "Rumble"
+      ],
+      "answer": 1,
+      "explanation": "Sough (noun) — A soft, low murmuring sound, as of wind in trees."
+    },
+    {
+      "id": "ss-q96",
+      "question": "Which word means: \"A continuous deep, resonant sound.\"?",
+      "options": [
+        "Sough",
+        "Quack",
+        "Rumble",
+        "Swish"
+      ],
+      "answer": 2,
+      "explanation": "Rumble (noun) — A continuous deep, resonant sound."
+    },
+    {
+      "id": "ss-q97",
+      "question": "Which word means: \"A low complaining or rumbling sound.\"?",
+      "options": [
+        "Grumble",
+        "Whoop",
+        "Screech",
+        "Hiss"
+      ],
+      "answer": 0,
+      "explanation": "Grumble (noun) — A low complaining or rumbling sound."
+    },
+    {
+      "id": "ss-q98",
+      "question": "Which word means: \"A form of singing that alternates rapidly between chest and head voice.\"?",
+      "options": [
+        "Fizz",
+        "Cluck",
+        "Jingle",
+        "Yodel"
+      ],
+      "answer": 3,
+      "explanation": "Yodel (noun) — A form of singing that alternates rapidly between chest and head voice."
+    },
+    {
+      "id": "ss-q99",
+      "question": "Which word means: \"A loud, wavering cry or howl, often ceremonial.\"?",
+      "options": [
+        "Whistle",
+        "Fizz",
+        "Ululation",
+        "Clatter"
+      ],
+      "answer": 2,
+      "explanation": "Ululation (noun) — A loud, wavering cry or howl, often ceremonial."
+    },
+    {
+      "id": "ss-q100",
+      "question": "Which word means: \"A loud, harsh laugh, or the sound of a hen after laying.\"?",
+      "options": [
+        "Cackle",
+        "Bay",
+        "Thump",
+        "Prattle"
+      ],
+      "answer": 0,
+      "explanation": "Cackle (noun) — A loud, harsh laugh, or the sound of a hen after laying."
+    }
+  ]
+}

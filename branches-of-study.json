@@ -1,0 +1,1908 @@
+{
+  "category": "branches-of-study",
+  "title": "Branches of Study",
+  "words": [
+    {
+      "id": "st-01",
+      "word": "Anthropology",
+      "pos": "noun",
+      "definition": "The study of humans, past and present.",
+      "example": "Cultural anthropology examines living societies."
+    },
+    {
+      "id": "st-02",
+      "word": "Archaeology",
+      "pos": "noun",
+      "definition": "The study of human history through material remains.",
+      "example": "Archaeology unearthed a Bronze Age settlement."
+    },
+    {
+      "id": "st-03",
+      "word": "Astronomy",
+      "pos": "noun",
+      "definition": "The study of celestial objects and the universe.",
+      "example": "Astronomy has revealed thousands of exoplanets."
+    },
+    {
+      "id": "st-04",
+      "word": "Astrophysics",
+      "pos": "noun",
+      "definition": "The branch of astronomy dealing with the physics of celestial bodies.",
+      "example": "Astrophysics explores stellar life cycles."
+    },
+    {
+      "id": "st-05",
+      "word": "Biology",
+      "pos": "noun",
+      "definition": "The study of living organisms.",
+      "example": "Biology encompasses molecules to ecosystems."
+    },
+    {
+      "id": "st-06",
+      "word": "Botany",
+      "pos": "noun",
+      "definition": "The scientific study of plants.",
+      "example": "Botany traces plant evolution and use."
+    },
+    {
+      "id": "st-07",
+      "word": "Cardiology",
+      "pos": "noun",
+      "definition": "The study of the heart and its diseases.",
+      "example": "Cardiology has advanced with imaging technology."
+    },
+    {
+      "id": "st-08",
+      "word": "Cartography",
+      "pos": "noun",
+      "definition": "The science of drawing maps.",
+      "example": "Digital cartography has transformed navigation."
+    },
+    {
+      "id": "st-09",
+      "word": "Chemistry",
+      "pos": "noun",
+      "definition": "The study of matter and its interactions.",
+      "example": "Chemistry underlies modern materials science."
+    },
+    {
+      "id": "st-10",
+      "word": "Chronology",
+      "pos": "noun",
+      "definition": "The study of the arrangement of events in time.",
+      "example": "Careful chronology is essential to history."
+    },
+    {
+      "id": "st-11",
+      "word": "Cosmology",
+      "pos": "noun",
+      "definition": "The study of the origin and development of the universe.",
+      "example": "Cosmology asks the largest possible questions."
+    },
+    {
+      "id": "st-12",
+      "word": "Criminology",
+      "pos": "noun",
+      "definition": "The scientific study of crime.",
+      "example": "Criminology draws on sociology and psychology."
+    },
+    {
+      "id": "st-13",
+      "word": "Cryptography",
+      "pos": "noun",
+      "definition": "The study of secure communication techniques.",
+      "example": "Modern cryptography protects online banking."
+    },
+    {
+      "id": "st-14",
+      "word": "Cytology",
+      "pos": "noun",
+      "definition": "The study of cells.",
+      "example": "Cytology diagnoses many cancers."
+    },
+    {
+      "id": "st-15",
+      "word": "Dendrology",
+      "pos": "noun",
+      "definition": "The scientific study of trees.",
+      "example": "Dendrology dates ancient forests via tree rings."
+    },
+    {
+      "id": "st-16",
+      "word": "Demography",
+      "pos": "noun",
+      "definition": "The statistical study of populations.",
+      "example": "Demography informs public planning."
+    },
+    {
+      "id": "st-17",
+      "word": "Ecology",
+      "pos": "noun",
+      "definition": "The study of organisms and their environments.",
+      "example": "Ecology explains species interdependence."
+    },
+    {
+      "id": "st-18",
+      "word": "Economics",
+      "pos": "noun",
+      "definition": "The study of the production, distribution and consumption of goods.",
+      "example": "Economics attempts to explain inflation."
+    },
+    {
+      "id": "st-19",
+      "word": "Entomology",
+      "pos": "noun",
+      "definition": "The study of insects.",
+      "example": "Entomology aids agricultural pest control."
+    },
+    {
+      "id": "st-20",
+      "word": "Epidemiology",
+      "pos": "noun",
+      "definition": "The study of the distribution and control of diseases.",
+      "example": "Epidemiology guided the pandemic response."
+    },
+    {
+      "id": "st-21",
+      "word": "Ethnology",
+      "pos": "noun",
+      "definition": "The study of the characteristics of peoples and cultures.",
+      "example": "Ethnology compares social structures cross-culturally."
+    },
+    {
+      "id": "st-22",
+      "word": "Etymology",
+      "pos": "noun",
+      "definition": "The study of the origin of words.",
+      "example": "Etymology traces English roots to Latin and Anglo-Saxon."
+    },
+    {
+      "id": "st-23",
+      "word": "Genealogy",
+      "pos": "noun",
+      "definition": "The study of family origins and history.",
+      "example": "Genealogy has been transformed by DNA testing."
+    },
+    {
+      "id": "st-24",
+      "word": "Geography",
+      "pos": "noun",
+      "definition": "The study of the earth's physical features and human activity.",
+      "example": "Geography links climate to settlement patterns."
+    },
+    {
+      "id": "st-25",
+      "word": "Geology",
+      "pos": "noun",
+      "definition": "The study of the earth's structure and history.",
+      "example": "Geology reads deep time in rock strata."
+    },
+    {
+      "id": "st-26",
+      "word": "Gerontology",
+      "pos": "noun",
+      "definition": "The study of ageing.",
+      "example": "Gerontology combines biology and sociology."
+    },
+    {
+      "id": "st-27",
+      "word": "Graphology",
+      "pos": "noun",
+      "definition": "The study of handwriting.",
+      "example": "Graphology once played a role in forensic analysis."
+    },
+    {
+      "id": "st-28",
+      "word": "Gynaecology",
+      "pos": "noun",
+      "definition": "The branch of medicine concerned with the female reproductive system.",
+      "example": "Gynaecology dovetails with obstetrics."
+    },
+    {
+      "id": "st-29",
+      "word": "Haematology",
+      "pos": "noun",
+      "definition": "The study of blood and blood-forming organs.",
+      "example": "Haematology treats leukaemias and lymphomas."
+    },
+    {
+      "id": "st-30",
+      "word": "Herpetology",
+      "pos": "noun",
+      "definition": "The study of reptiles and amphibians.",
+      "example": "Herpetology field trips visit swamps at dawn."
+    },
+    {
+      "id": "st-31",
+      "word": "Histology",
+      "pos": "noun",
+      "definition": "The study of the microscopic structure of tissues.",
+      "example": "Histology confirmed the tumour's type."
+    },
+    {
+      "id": "st-32",
+      "word": "Hydrology",
+      "pos": "noun",
+      "definition": "The study of water in the earth.",
+      "example": "Hydrology maps rivers and aquifers."
+    },
+    {
+      "id": "st-33",
+      "word": "Ichthyology",
+      "pos": "noun",
+      "definition": "The study of fish.",
+      "example": "Ichthyology tracks migratory patterns."
+    },
+    {
+      "id": "st-34",
+      "word": "Kinesiology",
+      "pos": "noun",
+      "definition": "The study of human movement.",
+      "example": "Kinesiology informs sports coaching."
+    },
+    {
+      "id": "st-35",
+      "word": "Linguistics",
+      "pos": "noun",
+      "definition": "The scientific study of language.",
+      "example": "Linguistics distinguishes descriptive from prescriptive grammar."
+    },
+    {
+      "id": "st-36",
+      "word": "Meteorology",
+      "pos": "noun",
+      "definition": "The study of the atmosphere and weather.",
+      "example": "Meteorology issued severe-storm warnings."
+    },
+    {
+      "id": "st-37",
+      "word": "Mineralogy",
+      "pos": "noun",
+      "definition": "The study of minerals.",
+      "example": "Mineralogy underpins gem identification."
+    },
+    {
+      "id": "st-38",
+      "word": "Musicology",
+      "pos": "noun",
+      "definition": "The academic study of music.",
+      "example": "Musicology reconstructs medieval performance."
+    },
+    {
+      "id": "st-39",
+      "word": "Mycology",
+      "pos": "noun",
+      "definition": "The study of fungi.",
+      "example": "Mycology has revealed vast underground networks."
+    },
+    {
+      "id": "st-40",
+      "word": "Neurology",
+      "pos": "noun",
+      "definition": "The study of the nervous system and its disorders.",
+      "example": "Neurology has been transformed by imaging."
+    },
+    {
+      "id": "st-41",
+      "word": "Numismatics",
+      "pos": "noun",
+      "definition": "The study of coins and medals.",
+      "example": "Numismatics informs ancient economic history."
+    },
+    {
+      "id": "st-42",
+      "word": "Oceanography",
+      "pos": "noun",
+      "definition": "The study of the seas.",
+      "example": "Oceanography monitors deep-water currents."
+    },
+    {
+      "id": "st-43",
+      "word": "Ophthalmology",
+      "pos": "noun",
+      "definition": "The branch of medicine concerned with the eye.",
+      "example": "Ophthalmology has developed laser surgery."
+    },
+    {
+      "id": "st-44",
+      "word": "Ornithology",
+      "pos": "noun",
+      "definition": "The study of birds.",
+      "example": "Ornithology relies on annual bird counts."
+    },
+    {
+      "id": "st-45",
+      "word": "Palaeontology",
+      "pos": "noun",
+      "definition": "The study of fossils.",
+      "example": "Palaeontology reconstructs vanished ecosystems."
+    },
+    {
+      "id": "st-46",
+      "word": "Pathology",
+      "pos": "noun",
+      "definition": "The study of the causes and effects of disease.",
+      "example": "Pathology reports guide treatment decisions."
+    },
+    {
+      "id": "st-47",
+      "word": "Pedagogy",
+      "pos": "noun",
+      "definition": "The theory and practice of teaching.",
+      "example": "Modern pedagogy emphasises active learning."
+    },
+    {
+      "id": "st-48",
+      "word": "Philology",
+      "pos": "noun",
+      "definition": "The study of language in historical texts.",
+      "example": "Philology reconstructs lost dialects."
+    },
+    {
+      "id": "st-49",
+      "word": "Seismology",
+      "pos": "noun",
+      "definition": "The study of earthquakes.",
+      "example": "Seismology informs building codes."
+    },
+    {
+      "id": "st-50",
+      "word": "Zoology",
+      "pos": "noun",
+      "definition": "The study of animals.",
+      "example": "Zoology encompasses ecology, behaviour and taxonomy."
+    },
+    {
+      "id": "bos-051",
+      "word": "Acarology",
+      "pos": "noun",
+      "definition": "Study of mites and ticks.",
+      "example": "Acarology helps control livestock parasites."
+    },
+    {
+      "id": "bos-052",
+      "word": "Aerology",
+      "pos": "noun",
+      "definition": "Study of the atmosphere.",
+      "example": "Aerology overlaps with meteorology."
+    },
+    {
+      "id": "bos-053",
+      "word": "Agrology",
+      "pos": "noun",
+      "definition": "Study of soils for agriculture.",
+      "example": "Agrology guides crop planning."
+    },
+    {
+      "id": "bos-054",
+      "word": "Algology",
+      "pos": "noun",
+      "definition": "Study of algae.",
+      "example": "Algology examines pond blooms."
+    },
+    {
+      "id": "bos-055",
+      "word": "Andrology",
+      "pos": "noun",
+      "definition": "Study of male health.",
+      "example": "Andrology addresses fertility issues."
+    },
+    {
+      "id": "bos-056",
+      "word": "Apiology",
+      "pos": "noun",
+      "definition": "Study of bees.",
+      "example": "Apiology explores hive behaviour."
+    },
+    {
+      "id": "bos-057",
+      "word": "Arachnology",
+      "pos": "noun",
+      "definition": "Study of spiders.",
+      "example": "Arachnology reveals silk properties."
+    },
+    {
+      "id": "bos-058",
+      "word": "Areology",
+      "pos": "noun",
+      "definition": "Study of Mars.",
+      "example": "Areology uses rover data."
+    },
+    {
+      "id": "bos-059",
+      "word": "Audiology",
+      "pos": "noun",
+      "definition": "Study of hearing.",
+      "example": "Audiology diagnoses hearing loss."
+    },
+    {
+      "id": "bos-060",
+      "word": "Bacteriology",
+      "pos": "noun",
+      "definition": "Study of bacteria.",
+      "example": "Bacteriology underpins antibiotics research."
+    },
+    {
+      "id": "bos-061",
+      "word": "Bryology",
+      "pos": "noun",
+      "definition": "Study of mosses.",
+      "example": "Bryology examines forest floors."
+    },
+    {
+      "id": "bos-062",
+      "word": "Cetology",
+      "pos": "noun",
+      "definition": "Study of whales and dolphins.",
+      "example": "Cetology tracks migration."
+    },
+    {
+      "id": "bos-063",
+      "word": "Climatology",
+      "pos": "noun",
+      "definition": "Study of climate.",
+      "example": "Climatology informs policy."
+    },
+    {
+      "id": "bos-064",
+      "word": "Codicology",
+      "pos": "noun",
+      "definition": "Study of manuscripts as artifacts.",
+      "example": "Codicology dates medieval books."
+    },
+    {
+      "id": "bos-065",
+      "word": "Conchology",
+      "pos": "noun",
+      "definition": "Study of shells.",
+      "example": "Conchology attracts beach walkers."
+    },
+    {
+      "id": "bos-066",
+      "word": "Cosmetology",
+      "pos": "noun",
+      "definition": "Study of beauty treatments.",
+      "example": "Cosmetology trains stylists."
+    },
+    {
+      "id": "bos-067",
+      "word": "Cynology",
+      "pos": "noun",
+      "definition": "Study of dogs.",
+      "example": "Cynology covers canine breeds."
+    },
+    {
+      "id": "bos-068",
+      "word": "Deontology",
+      "pos": "noun",
+      "definition": "Study of moral duty.",
+      "example": "Deontology stresses obligation."
+    },
+    {
+      "id": "bos-069",
+      "word": "Dermatology",
+      "pos": "noun",
+      "definition": "Study of skin.",
+      "example": "Dermatology treats acne."
+    },
+    {
+      "id": "bos-070",
+      "word": "Dialectology",
+      "pos": "noun",
+      "definition": "Study of dialects.",
+      "example": "Dialectology maps regional speech."
+    },
+    {
+      "id": "bos-071",
+      "word": "Ecclesiology",
+      "pos": "noun",
+      "definition": "Study of the Church.",
+      "example": "Ecclesiology examines doctrine."
+    },
+    {
+      "id": "bos-072",
+      "word": "Eschatology",
+      "pos": "noun",
+      "definition": "Study of end times.",
+      "example": "Eschatology varies by religion."
+    },
+    {
+      "id": "bos-073",
+      "word": "Ethology",
+      "pos": "noun",
+      "definition": "Study of animal behaviour.",
+      "example": "Ethology influenced conservation."
+    },
+    {
+      "id": "bos-074",
+      "word": "Futurology",
+      "pos": "noun",
+      "definition": "Study of futures.",
+      "example": "Futurology inspires strategy."
+    },
+    {
+      "id": "bos-075",
+      "word": "Gastrology",
+      "pos": "noun",
+      "definition": "Study of the stomach.",
+      "example": "Gastrology overlaps with gastronomy."
+    },
+    {
+      "id": "bos-076",
+      "word": "Hagiology",
+      "pos": "noun",
+      "definition": "Study of saints.",
+      "example": "Hagiology draws on hagiographies."
+    },
+    {
+      "id": "bos-077",
+      "word": "Helioseismology",
+      "pos": "noun",
+      "definition": "Study of solar oscillations.",
+      "example": "Helioseismology probes the sun's interior."
+    },
+    {
+      "id": "bos-078",
+      "word": "Helminthology",
+      "pos": "noun",
+      "definition": "Study of parasitic worms.",
+      "example": "Helminthology aids public health."
+    },
+    {
+      "id": "bos-079",
+      "word": "Hepatology",
+      "pos": "noun",
+      "definition": "Study of the liver.",
+      "example": "Hepatology treats hepatitis."
+    },
+    {
+      "id": "bos-080",
+      "word": "Hippology",
+      "pos": "noun",
+      "definition": "Study of horses.",
+      "example": "Hippology informs equine care."
+    },
+    {
+      "id": "bos-081",
+      "word": "Horology",
+      "pos": "noun",
+      "definition": "Study of time and clocks.",
+      "example": "Horology reveres antique watches."
+    },
+    {
+      "id": "bos-082",
+      "word": "Hymnology",
+      "pos": "noun",
+      "definition": "Study of hymns.",
+      "example": "Hymnology traces sacred music."
+    },
+    {
+      "id": "bos-083",
+      "word": "Iconology",
+      "pos": "noun",
+      "definition": "Study of visual imagery.",
+      "example": "Iconology reads paintings symbolically."
+    },
+    {
+      "id": "bos-084",
+      "word": "Kalology",
+      "pos": "noun",
+      "definition": "Study of beauty.",
+      "example": "Kalology draws on aesthetics."
+    },
+    {
+      "id": "bos-085",
+      "word": "Karyology",
+      "pos": "noun",
+      "definition": "Study of cell nuclei.",
+      "example": "Karyology examines chromosomes."
+    },
+    {
+      "id": "bos-086",
+      "word": "Lepidopterology",
+      "pos": "noun",
+      "definition": "Study of butterflies and moths.",
+      "example": "Lepidopterology thrills naturalists."
+    },
+    {
+      "id": "bos-087",
+      "word": "Lexicology",
+      "pos": "noun",
+      "definition": "Study of words.",
+      "example": "Lexicology feeds dictionary-making."
+    },
+    {
+      "id": "bos-088",
+      "word": "Malacology",
+      "pos": "noun",
+      "definition": "Study of molluscs.",
+      "example": "Malacology surveys marine life."
+    },
+    {
+      "id": "bos-089",
+      "word": "Mammalogy",
+      "pos": "noun",
+      "definition": "Study of mammals.",
+      "example": "Mammalogy tracks endangered species."
+    },
+    {
+      "id": "bos-090",
+      "word": "Metrology",
+      "pos": "noun",
+      "definition": "Science of measurement.",
+      "example": "Metrology maintains standards."
+    },
+    {
+      "id": "bos-091",
+      "word": "Nephology",
+      "pos": "noun",
+      "definition": "Study of clouds.",
+      "example": "Nephology helps forecast weather."
+    },
+    {
+      "id": "bos-092",
+      "word": "Nephrology",
+      "pos": "noun",
+      "definition": "Study of kidneys.",
+      "example": "Nephrology treats renal failure."
+    },
+    {
+      "id": "bos-093",
+      "word": "Nosology",
+      "pos": "noun",
+      "definition": "Classification of diseases.",
+      "example": "Nosology structures medical records."
+    },
+    {
+      "id": "bos-094",
+      "word": "Ontology",
+      "pos": "noun",
+      "definition": "Study of being.",
+      "example": "Ontology asks what exists."
+    },
+    {
+      "id": "bos-095",
+      "word": "Otology",
+      "pos": "noun",
+      "definition": "Study of the ear.",
+      "example": "Otology treats hearing disorders."
+    },
+    {
+      "id": "bos-096",
+      "word": "Papyrology",
+      "pos": "noun",
+      "definition": "Study of ancient papyri.",
+      "example": "Papyrology reveals ancient life."
+    },
+    {
+      "id": "bos-097",
+      "word": "Penology",
+      "pos": "noun",
+      "definition": "Study of punishment.",
+      "example": "Penology guides prison reform."
+    },
+    {
+      "id": "bos-098",
+      "word": "Phenology",
+      "pos": "noun",
+      "definition": "Study of periodic biological events.",
+      "example": "Phenology tracks flowering times."
+    },
+    {
+      "id": "bos-099",
+      "word": "Sedimentology",
+      "pos": "noun",
+      "definition": "Study of sediments.",
+      "example": "Sedimentology explains rock layers."
+    },
+    {
+      "id": "bos-100",
+      "word": "Volcanology",
+      "pos": "noun",
+      "definition": "Study of volcanoes.",
+      "example": "Volcanology forecasts eruptions."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "bra-q1",
+      "question": "Which word means: \"The study of humans, past and present.\"?",
+      "options": [
+        "Botany",
+        "Anthropology",
+        "Cetology",
+        "Musicology"
+      ],
+      "answer": 1,
+      "explanation": "Anthropology (noun) — The study of humans, past and present."
+    },
+    {
+      "id": "bra-q2",
+      "question": "Which word means: \"The study of human history through material remains.\"?",
+      "options": [
+        "Anthropology",
+        "Hippology",
+        "Archaeology",
+        "Audiology"
+      ],
+      "answer": 2,
+      "explanation": "Archaeology (noun) — The study of human history through material remains."
+    },
+    {
+      "id": "bra-q3",
+      "question": "Which word means: \"The study of celestial objects and the universe.\"?",
+      "options": [
+        "Eschatology",
+        "Ethnology",
+        "Haematology",
+        "Astronomy"
+      ],
+      "answer": 3,
+      "explanation": "Astronomy (noun) — The study of celestial objects and the universe."
+    },
+    {
+      "id": "bra-q4",
+      "question": "Which word means: \"The branch of astronomy dealing with the physics of celestial bodies.\"?",
+      "options": [
+        "Ecology",
+        "Neurology",
+        "Astrophysics",
+        "Hydrology"
+      ],
+      "answer": 2,
+      "explanation": "Astrophysics (noun) — The branch of astronomy dealing with the physics of celestial bodies."
+    },
+    {
+      "id": "bra-q5",
+      "question": "Which word means: \"The study of living organisms.\"?",
+      "options": [
+        "Bacteriology",
+        "Horology",
+        "Biology",
+        "Iconology"
+      ],
+      "answer": 2,
+      "explanation": "Biology (noun) — The study of living organisms."
+    },
+    {
+      "id": "bra-q6",
+      "question": "Which word means: \"The scientific study of plants.\"?",
+      "options": [
+        "Botany",
+        "Helminthology",
+        "Astronomy",
+        "Dialectology"
+      ],
+      "answer": 0,
+      "explanation": "Botany (noun) — The scientific study of plants."
+    },
+    {
+      "id": "bra-q7",
+      "question": "Which word means: \"The study of the heart and its diseases.\"?",
+      "options": [
+        "Cardiology",
+        "Apiology",
+        "Mycology",
+        "Anthropology"
+      ],
+      "answer": 0,
+      "explanation": "Cardiology (noun) — The study of the heart and its diseases."
+    },
+    {
+      "id": "bra-q8",
+      "question": "Which word means: \"The science of drawing maps.\"?",
+      "options": [
+        "Lexicology",
+        "Cartography",
+        "Geology",
+        "Criminology"
+      ],
+      "answer": 1,
+      "explanation": "Cartography (noun) — The science of drawing maps."
+    },
+    {
+      "id": "bra-q9",
+      "question": "Which word means: \"The study of matter and its interactions.\"?",
+      "options": [
+        "Acarology",
+        "Botany",
+        "Cetology",
+        "Chemistry"
+      ],
+      "answer": 3,
+      "explanation": "Chemistry (noun) — The study of matter and its interactions."
+    },
+    {
+      "id": "bra-q10",
+      "question": "Which word means: \"The study of the arrangement of events in time.\"?",
+      "options": [
+        "Pedagogy",
+        "Chronology",
+        "Astronomy",
+        "Penology"
+      ],
+      "answer": 1,
+      "explanation": "Chronology (noun) — The study of the arrangement of events in time."
+    },
+    {
+      "id": "bra-q11",
+      "question": "Which word means: \"The study of the origin and development of the universe.\"?",
+      "options": [
+        "Cosmology",
+        "Lepidopterology",
+        "Hymnology",
+        "Otology"
+      ],
+      "answer": 0,
+      "explanation": "Cosmology (noun) — The study of the origin and development of the universe."
+    },
+    {
+      "id": "bra-q12",
+      "question": "Which word means: \"The scientific study of crime.\"?",
+      "options": [
+        "Botany",
+        "Entomology",
+        "Criminology",
+        "Pedagogy"
+      ],
+      "answer": 2,
+      "explanation": "Criminology (noun) — The scientific study of crime."
+    },
+    {
+      "id": "bra-q13",
+      "question": "Which word means: \"The study of secure communication techniques.\"?",
+      "options": [
+        "Bryology",
+        "Mammalogy",
+        "Nephology",
+        "Cryptography"
+      ],
+      "answer": 3,
+      "explanation": "Cryptography (noun) — The study of secure communication techniques."
+    },
+    {
+      "id": "bra-q14",
+      "question": "Which word means: \"The study of cells.\"?",
+      "options": [
+        "Nosology",
+        "Chemistry",
+        "Entomology",
+        "Cytology"
+      ],
+      "answer": 3,
+      "explanation": "Cytology (noun) — The study of cells."
+    },
+    {
+      "id": "bra-q15",
+      "question": "Which word means: \"The scientific study of trees.\"?",
+      "options": [
+        "Graphology",
+        "Botany",
+        "Dendrology",
+        "Oceanography"
+      ],
+      "answer": 2,
+      "explanation": "Dendrology (noun) — The scientific study of trees."
+    },
+    {
+      "id": "bra-q16",
+      "question": "Which word means: \"The statistical study of populations.\"?",
+      "options": [
+        "Cetology",
+        "Demography",
+        "Kinesiology",
+        "Ecclesiology"
+      ],
+      "answer": 1,
+      "explanation": "Demography (noun) — The statistical study of populations."
+    },
+    {
+      "id": "bra-q17",
+      "question": "Which word means: \"The study of organisms and their environments.\"?",
+      "options": [
+        "Ecology",
+        "Musicology",
+        "Pedagogy",
+        "Cardiology"
+      ],
+      "answer": 0,
+      "explanation": "Ecology (noun) — The study of organisms and their environments."
+    },
+    {
+      "id": "bra-q18",
+      "question": "Which word means: \"The study of the production, distribution and consumption of goods.\"?",
+      "options": [
+        "Seismology",
+        "Agrology",
+        "Arachnology",
+        "Economics"
+      ],
+      "answer": 3,
+      "explanation": "Economics (noun) — The study of the production, distribution and consumption of goods."
+    },
+    {
+      "id": "bra-q19",
+      "question": "Which word means: \"The study of insects.\"?",
+      "options": [
+        "Geology",
+        "Metrology",
+        "Conchology",
+        "Entomology"
+      ],
+      "answer": 3,
+      "explanation": "Entomology (noun) — The study of insects."
+    },
+    {
+      "id": "bra-q20",
+      "question": "Which word means: \"The study of the distribution and control of diseases.\"?",
+      "options": [
+        "Apiology",
+        "Epidemiology",
+        "Otology",
+        "Cosmology"
+      ],
+      "answer": 1,
+      "explanation": "Epidemiology (noun) — The study of the distribution and control of diseases."
+    },
+    {
+      "id": "bra-q21",
+      "question": "Which word means: \"The study of the characteristics of peoples and cultures.\"?",
+      "options": [
+        "Ophthalmology",
+        "Mycology",
+        "Ethnology",
+        "Ecclesiology"
+      ],
+      "answer": 2,
+      "explanation": "Ethnology (noun) — The study of the characteristics of peoples and cultures."
+    },
+    {
+      "id": "bra-q22",
+      "question": "Which word means: \"The study of the origin of words.\"?",
+      "options": [
+        "Lepidopterology",
+        "Mycology",
+        "Numismatics",
+        "Etymology"
+      ],
+      "answer": 3,
+      "explanation": "Etymology (noun) — The study of the origin of words."
+    },
+    {
+      "id": "bra-q23",
+      "question": "Which word means: \"The study of family origins and history.\"?",
+      "options": [
+        "Genealogy",
+        "Etymology",
+        "Metrology",
+        "Areology"
+      ],
+      "answer": 0,
+      "explanation": "Genealogy (noun) — The study of family origins and history."
+    },
+    {
+      "id": "bra-q24",
+      "question": "Which word means: \"The study of the earth's physical features and human activity.\"?",
+      "options": [
+        "Hippology",
+        "Otology",
+        "Pedagogy",
+        "Geography"
+      ],
+      "answer": 3,
+      "explanation": "Geography (noun) — The study of the earth's physical features and human activity."
+    },
+    {
+      "id": "bra-q25",
+      "question": "Which word means: \"The study of the earth's structure and history.\"?",
+      "options": [
+        "Iconology",
+        "Chronology",
+        "Lexicology",
+        "Geology"
+      ],
+      "answer": 3,
+      "explanation": "Geology (noun) — The study of the earth's structure and history."
+    },
+    {
+      "id": "bra-q26",
+      "question": "Which word means: \"The study of ageing.\"?",
+      "options": [
+        "Entomology",
+        "Hepatology",
+        "Astrophysics",
+        "Gerontology"
+      ],
+      "answer": 3,
+      "explanation": "Gerontology (noun) — The study of ageing."
+    },
+    {
+      "id": "bra-q27",
+      "question": "Which word means: \"The study of handwriting.\"?",
+      "options": [
+        "Chemistry",
+        "Graphology",
+        "Hydrology",
+        "Kalology"
+      ],
+      "answer": 1,
+      "explanation": "Graphology (noun) — The study of handwriting."
+    },
+    {
+      "id": "bra-q28",
+      "question": "Which word means: \"The branch of medicine concerned with the female reproductive system.\"?",
+      "options": [
+        "Futurology",
+        "Gynaecology",
+        "Hepatology",
+        "Biology"
+      ],
+      "answer": 1,
+      "explanation": "Gynaecology (noun) — The branch of medicine concerned with the female reproductive system."
+    },
+    {
+      "id": "bra-q29",
+      "question": "Which word means: \"The study of blood and blood-forming organs.\"?",
+      "options": [
+        "Areology",
+        "Haematology",
+        "Sedimentology",
+        "Seismology"
+      ],
+      "answer": 1,
+      "explanation": "Haematology (noun) — The study of blood and blood-forming organs."
+    },
+    {
+      "id": "bra-q30",
+      "question": "Which word means: \"The study of reptiles and amphibians.\"?",
+      "options": [
+        "Dermatology",
+        "Philology",
+        "Herpetology",
+        "Aerology"
+      ],
+      "answer": 2,
+      "explanation": "Herpetology (noun) — The study of reptiles and amphibians."
+    },
+    {
+      "id": "bra-q31",
+      "question": "Which word means: \"The study of the microscopic structure of tissues.\"?",
+      "options": [
+        "Ichthyology",
+        "Astrophysics",
+        "Histology",
+        "Dendrology"
+      ],
+      "answer": 2,
+      "explanation": "Histology (noun) — The study of the microscopic structure of tissues."
+    },
+    {
+      "id": "bra-q32",
+      "question": "Which word means: \"The study of water in the earth.\"?",
+      "options": [
+        "Ethology",
+        "Demography",
+        "Hydrology",
+        "Linguistics"
+      ],
+      "answer": 2,
+      "explanation": "Hydrology (noun) — The study of water in the earth."
+    },
+    {
+      "id": "bra-q33",
+      "question": "Which word means: \"The study of fish.\"?",
+      "options": [
+        "Hippology",
+        "Musicology",
+        "Gynaecology",
+        "Ichthyology"
+      ],
+      "answer": 3,
+      "explanation": "Ichthyology (noun) — The study of fish."
+    },
+    {
+      "id": "bra-q34",
+      "question": "Which word means: \"The study of human movement.\"?",
+      "options": [
+        "Economics",
+        "Kinesiology",
+        "Audiology",
+        "Chronology"
+      ],
+      "answer": 1,
+      "explanation": "Kinesiology (noun) — The study of human movement."
+    },
+    {
+      "id": "bra-q35",
+      "question": "Which word means: \"The scientific study of language.\"?",
+      "options": [
+        "Mammalogy",
+        "Criminology",
+        "Linguistics",
+        "Oceanography"
+      ],
+      "answer": 2,
+      "explanation": "Linguistics (noun) — The scientific study of language."
+    },
+    {
+      "id": "bra-q36",
+      "question": "Which word means: \"The study of the atmosphere and weather.\"?",
+      "options": [
+        "Ecclesiology",
+        "Meteorology",
+        "Eschatology",
+        "Mycology"
+      ],
+      "answer": 1,
+      "explanation": "Meteorology (noun) — The study of the atmosphere and weather."
+    },
+    {
+      "id": "bra-q37",
+      "question": "Which word means: \"The study of minerals.\"?",
+      "options": [
+        "Cynology",
+        "Haematology",
+        "Mineralogy",
+        "Philology"
+      ],
+      "answer": 2,
+      "explanation": "Mineralogy (noun) — The study of minerals."
+    },
+    {
+      "id": "bra-q38",
+      "question": "Which word means: \"The academic study of music.\"?",
+      "options": [
+        "Histology",
+        "Conchology",
+        "Musicology",
+        "Astrophysics"
+      ],
+      "answer": 2,
+      "explanation": "Musicology (noun) — The academic study of music."
+    },
+    {
+      "id": "bra-q39",
+      "question": "Which word means: \"The study of fungi.\"?",
+      "options": [
+        "Ecology",
+        "Eschatology",
+        "Mycology",
+        "Bryology"
+      ],
+      "answer": 2,
+      "explanation": "Mycology (noun) — The study of fungi."
+    },
+    {
+      "id": "bra-q40",
+      "question": "Which word means: \"The study of the nervous system and its disorders.\"?",
+      "options": [
+        "Aerology",
+        "Nosology",
+        "Ontology",
+        "Neurology"
+      ],
+      "answer": 3,
+      "explanation": "Neurology (noun) — The study of the nervous system and its disorders."
+    },
+    {
+      "id": "bra-q41",
+      "question": "Which word means: \"The study of coins and medals.\"?",
+      "options": [
+        "Gastrology",
+        "Algology",
+        "Numismatics",
+        "Volcanology"
+      ],
+      "answer": 2,
+      "explanation": "Numismatics (noun) — The study of coins and medals."
+    },
+    {
+      "id": "bra-q42",
+      "question": "Which word means: \"The study of the seas.\"?",
+      "options": [
+        "Kalology",
+        "Chronology",
+        "Audiology",
+        "Oceanography"
+      ],
+      "answer": 3,
+      "explanation": "Oceanography (noun) — The study of the seas."
+    },
+    {
+      "id": "bra-q43",
+      "question": "Which word means: \"The branch of medicine concerned with the eye.\"?",
+      "options": [
+        "Iconology",
+        "Ophthalmology",
+        "Ecology",
+        "Eschatology"
+      ],
+      "answer": 1,
+      "explanation": "Ophthalmology (noun) — The branch of medicine concerned with the eye."
+    },
+    {
+      "id": "bra-q44",
+      "question": "Which word means: \"The study of birds.\"?",
+      "options": [
+        "Demography",
+        "Cosmetology",
+        "Ornithology",
+        "Cartography"
+      ],
+      "answer": 2,
+      "explanation": "Ornithology (noun) — The study of birds."
+    },
+    {
+      "id": "bra-q45",
+      "question": "Which word means: \"The study of fossils.\"?",
+      "options": [
+        "Ethnology",
+        "Nephrology",
+        "Palaeontology",
+        "Oceanography"
+      ],
+      "answer": 2,
+      "explanation": "Palaeontology (noun) — The study of fossils."
+    },
+    {
+      "id": "bra-q46",
+      "question": "Which word means: \"The study of the causes and effects of disease.\"?",
+      "options": [
+        "Pathology",
+        "Ichthyology",
+        "Cosmology",
+        "Gerontology"
+      ],
+      "answer": 0,
+      "explanation": "Pathology (noun) — The study of the causes and effects of disease."
+    },
+    {
+      "id": "bra-q47",
+      "question": "Which word means: \"The theory and practice of teaching.\"?",
+      "options": [
+        "Pedagogy",
+        "Hippology",
+        "Criminology",
+        "Dialectology"
+      ],
+      "answer": 0,
+      "explanation": "Pedagogy (noun) — The theory and practice of teaching."
+    },
+    {
+      "id": "bra-q48",
+      "question": "Which word means: \"The study of language in historical texts.\"?",
+      "options": [
+        "Lepidopterology",
+        "Etymology",
+        "Philology",
+        "Horology"
+      ],
+      "answer": 2,
+      "explanation": "Philology (noun) — The study of language in historical texts."
+    },
+    {
+      "id": "bra-q49",
+      "question": "Which word means: \"The study of earthquakes.\"?",
+      "options": [
+        "Cosmology",
+        "Astrophysics",
+        "Seismology",
+        "Botany"
+      ],
+      "answer": 2,
+      "explanation": "Seismology (noun) — The study of earthquakes."
+    },
+    {
+      "id": "bra-q50",
+      "question": "Which word means: \"The study of animals.\"?",
+      "options": [
+        "Zoology",
+        "Andrology",
+        "Gastrology",
+        "Volcanology"
+      ],
+      "answer": 0,
+      "explanation": "Zoology (noun) — The study of animals."
+    },
+    {
+      "id": "bra-q51",
+      "question": "Which word means: \"Study of mites and ticks.\"?",
+      "options": [
+        "Kalology",
+        "Acarology",
+        "Climatology",
+        "Mycology"
+      ],
+      "answer": 1,
+      "explanation": "Acarology (noun) — Study of mites and ticks."
+    },
+    {
+      "id": "bra-q52",
+      "question": "Which word means: \"Study of the atmosphere.\"?",
+      "options": [
+        "Chronology",
+        "Bacteriology",
+        "Aerology",
+        "Mycology"
+      ],
+      "answer": 2,
+      "explanation": "Aerology (noun) — Study of the atmosphere."
+    },
+    {
+      "id": "bra-q53",
+      "question": "Which word means: \"Study of soils for agriculture.\"?",
+      "options": [
+        "Bryology",
+        "Andrology",
+        "Agrology",
+        "Climatology"
+      ],
+      "answer": 2,
+      "explanation": "Agrology (noun) — Study of soils for agriculture."
+    },
+    {
+      "id": "bra-q54",
+      "question": "Which word means: \"Study of algae.\"?",
+      "options": [
+        "Algology",
+        "Numismatics",
+        "Nosology",
+        "Otology"
+      ],
+      "answer": 0,
+      "explanation": "Algology (noun) — Study of algae."
+    },
+    {
+      "id": "bra-q55",
+      "question": "Which word means: \"Study of male health.\"?",
+      "options": [
+        "Cynology",
+        "Andrology",
+        "Philology",
+        "Sedimentology"
+      ],
+      "answer": 1,
+      "explanation": "Andrology (noun) — Study of male health."
+    },
+    {
+      "id": "bra-q56",
+      "question": "Which word means: \"Study of bees.\"?",
+      "options": [
+        "Demography",
+        "Linguistics",
+        "Bryology",
+        "Apiology"
+      ],
+      "answer": 3,
+      "explanation": "Apiology (noun) — Study of bees."
+    },
+    {
+      "id": "bra-q57",
+      "question": "Which word means: \"Study of spiders.\"?",
+      "options": [
+        "Cryptography",
+        "Cardiology",
+        "Musicology",
+        "Arachnology"
+      ],
+      "answer": 3,
+      "explanation": "Arachnology (noun) — Study of spiders."
+    },
+    {
+      "id": "bra-q58",
+      "question": "Which word means: \"Study of Mars.\"?",
+      "options": [
+        "Ethnology",
+        "Areology",
+        "Hydrology",
+        "Oceanography"
+      ],
+      "answer": 1,
+      "explanation": "Areology (noun) — Study of Mars."
+    },
+    {
+      "id": "bra-q59",
+      "question": "Which word means: \"Study of hearing.\"?",
+      "options": [
+        "Conchology",
+        "Bryology",
+        "Cynology",
+        "Audiology"
+      ],
+      "answer": 3,
+      "explanation": "Audiology (noun) — Study of hearing."
+    },
+    {
+      "id": "bra-q60",
+      "question": "Which word means: \"Study of bacteria.\"?",
+      "options": [
+        "Criminology",
+        "Acarology",
+        "Astronomy",
+        "Bacteriology"
+      ],
+      "answer": 3,
+      "explanation": "Bacteriology (noun) — Study of bacteria."
+    },
+    {
+      "id": "bra-q61",
+      "question": "Which word means: \"Study of mosses.\"?",
+      "options": [
+        "Bryology",
+        "Cardiology",
+        "Pathology",
+        "Hagiology"
+      ],
+      "answer": 0,
+      "explanation": "Bryology (noun) — Study of mosses."
+    },
+    {
+      "id": "bra-q62",
+      "question": "Which word means: \"Study of whales and dolphins.\"?",
+      "options": [
+        "Malacology",
+        "Helminthology",
+        "Karyology",
+        "Cetology"
+      ],
+      "answer": 3,
+      "explanation": "Cetology (noun) — Study of whales and dolphins."
+    },
+    {
+      "id": "bra-q63",
+      "question": "Which word means: \"Study of climate.\"?",
+      "options": [
+        "Cytology",
+        "Apiology",
+        "Climatology",
+        "Economics"
+      ],
+      "answer": 2,
+      "explanation": "Climatology (noun) — Study of climate."
+    },
+    {
+      "id": "bra-q64",
+      "question": "Which word means: \"Study of manuscripts as artifacts.\"?",
+      "options": [
+        "Pedagogy",
+        "Codicology",
+        "Aerology",
+        "Sedimentology"
+      ],
+      "answer": 1,
+      "explanation": "Codicology (noun) — Study of manuscripts as artifacts."
+    },
+    {
+      "id": "bra-q65",
+      "question": "Which word means: \"Study of shells.\"?",
+      "options": [
+        "Futurology",
+        "Ethology",
+        "Conchology",
+        "Geology"
+      ],
+      "answer": 2,
+      "explanation": "Conchology (noun) — Study of shells."
+    },
+    {
+      "id": "bra-q66",
+      "question": "Which word means: \"Study of beauty treatments.\"?",
+      "options": [
+        "Chronology",
+        "Zoology",
+        "Conchology",
+        "Cosmetology"
+      ],
+      "answer": 3,
+      "explanation": "Cosmetology (noun) — Study of beauty treatments."
+    },
+    {
+      "id": "bra-q67",
+      "question": "Which word means: \"Study of dogs.\"?",
+      "options": [
+        "Mammalogy",
+        "Hippology",
+        "Cynology",
+        "Horology"
+      ],
+      "answer": 2,
+      "explanation": "Cynology (noun) — Study of dogs."
+    },
+    {
+      "id": "bra-q68",
+      "question": "Which word means: \"Study of moral duty.\"?",
+      "options": [
+        "Philology",
+        "Deontology",
+        "Acarology",
+        "Ornithology"
+      ],
+      "answer": 1,
+      "explanation": "Deontology (noun) — Study of moral duty."
+    },
+    {
+      "id": "bra-q69",
+      "question": "Which word means: \"Study of skin.\"?",
+      "options": [
+        "Cosmetology",
+        "Aerology",
+        "Dermatology",
+        "Hepatology"
+      ],
+      "answer": 2,
+      "explanation": "Dermatology (noun) — Study of skin."
+    },
+    {
+      "id": "bra-q70",
+      "question": "Which word means: \"Study of dialects.\"?",
+      "options": [
+        "Economics",
+        "Nosology",
+        "Ophthalmology",
+        "Dialectology"
+      ],
+      "answer": 3,
+      "explanation": "Dialectology (noun) — Study of dialects."
+    },
+    {
+      "id": "bra-q71",
+      "question": "Which word means: \"Study of the Church.\"?",
+      "options": [
+        "Epidemiology",
+        "Cosmetology",
+        "Ecclesiology",
+        "Hepatology"
+      ],
+      "answer": 2,
+      "explanation": "Ecclesiology (noun) — Study of the Church."
+    },
+    {
+      "id": "bra-q72",
+      "question": "Which word means: \"Study of end times.\"?",
+      "options": [
+        "Ethnology",
+        "Acarology",
+        "Eschatology",
+        "Hippology"
+      ],
+      "answer": 2,
+      "explanation": "Eschatology (noun) — Study of end times."
+    },
+    {
+      "id": "bra-q73",
+      "question": "Which word means: \"Study of animal behaviour.\"?",
+      "options": [
+        "Conchology",
+        "Cosmetology",
+        "Dermatology",
+        "Ethology"
+      ],
+      "answer": 3,
+      "explanation": "Ethology (noun) — Study of animal behaviour."
+    },
+    {
+      "id": "bra-q74",
+      "question": "Which word means: \"Study of futures.\"?",
+      "options": [
+        "Astronomy",
+        "Bryology",
+        "Futurology",
+        "Philology"
+      ],
+      "answer": 2,
+      "explanation": "Futurology (noun) — Study of futures."
+    },
+    {
+      "id": "bra-q75",
+      "question": "Which word means: \"Study of the stomach.\"?",
+      "options": [
+        "Gastrology",
+        "Hagiology",
+        "Neurology",
+        "Algology"
+      ],
+      "answer": 0,
+      "explanation": "Gastrology (noun) — Study of the stomach."
+    },
+    {
+      "id": "bra-q76",
+      "question": "Which word means: \"Study of saints.\"?",
+      "options": [
+        "Hagiology",
+        "Kinesiology",
+        "Gastrology",
+        "Karyology"
+      ],
+      "answer": 0,
+      "explanation": "Hagiology (noun) — Study of saints."
+    },
+    {
+      "id": "bra-q77",
+      "question": "Which word means: \"Study of solar oscillations.\"?",
+      "options": [
+        "Cetology",
+        "Etymology",
+        "Gastrology",
+        "Helioseismology"
+      ],
+      "answer": 3,
+      "explanation": "Helioseismology (noun) — Study of solar oscillations."
+    },
+    {
+      "id": "bra-q78",
+      "question": "Which word means: \"Study of parasitic worms.\"?",
+      "options": [
+        "Futurology",
+        "Nephology",
+        "Helminthology",
+        "Biology"
+      ],
+      "answer": 2,
+      "explanation": "Helminthology (noun) — Study of parasitic worms."
+    },
+    {
+      "id": "bra-q79",
+      "question": "Which word means: \"Study of the liver.\"?",
+      "options": [
+        "Algology",
+        "Arachnology",
+        "Hepatology",
+        "Numismatics"
+      ],
+      "answer": 2,
+      "explanation": "Hepatology (noun) — Study of the liver."
+    },
+    {
+      "id": "bra-q80",
+      "question": "Which word means: \"Study of horses.\"?",
+      "options": [
+        "Conchology",
+        "Agrology",
+        "Hepatology",
+        "Hippology"
+      ],
+      "answer": 3,
+      "explanation": "Hippology (noun) — Study of horses."
+    },
+    {
+      "id": "bra-q81",
+      "question": "Which word means: \"Study of time and clocks.\"?",
+      "options": [
+        "Nephrology",
+        "Horology",
+        "Cynology",
+        "Economics"
+      ],
+      "answer": 1,
+      "explanation": "Horology (noun) — Study of time and clocks."
+    },
+    {
+      "id": "bra-q82",
+      "question": "Which word means: \"Study of hymns.\"?",
+      "options": [
+        "Deontology",
+        "Lepidopterology",
+        "Cetology",
+        "Hymnology"
+      ],
+      "answer": 3,
+      "explanation": "Hymnology (noun) — Study of hymns."
+    },
+    {
+      "id": "bra-q83",
+      "question": "Which word means: \"Study of visual imagery.\"?",
+      "options": [
+        "Audiology",
+        "Dermatology",
+        "Iconology",
+        "Ornithology"
+      ],
+      "answer": 2,
+      "explanation": "Iconology (noun) — Study of visual imagery."
+    },
+    {
+      "id": "bra-q84",
+      "question": "Which word means: \"Study of beauty.\"?",
+      "options": [
+        "Hepatology",
+        "Geology",
+        "Kalology",
+        "Cetology"
+      ],
+      "answer": 2,
+      "explanation": "Kalology (noun) — Study of beauty."
+    },
+    {
+      "id": "bra-q85",
+      "question": "Which word means: \"Study of cell nuclei.\"?",
+      "options": [
+        "Mycology",
+        "Haematology",
+        "Karyology",
+        "Volcanology"
+      ],
+      "answer": 2,
+      "explanation": "Karyology (noun) — Study of cell nuclei."
+    },
+    {
+      "id": "bra-q86",
+      "question": "Which word means: \"Study of butterflies and moths.\"?",
+      "options": [
+        "Metrology",
+        "Lepidopterology",
+        "Nephrology",
+        "Climatology"
+      ],
+      "answer": 1,
+      "explanation": "Lepidopterology (noun) — Study of butterflies and moths."
+    },
+    {
+      "id": "bra-q87",
+      "question": "Which word means: \"Study of words.\"?",
+      "options": [
+        "Lexicology",
+        "Ontology",
+        "Eschatology",
+        "Meteorology"
+      ],
+      "answer": 0,
+      "explanation": "Lexicology (noun) — Study of words."
+    },
+    {
+      "id": "bra-q88",
+      "question": "Which word means: \"Study of molluscs.\"?",
+      "options": [
+        "Volcanology",
+        "Acarology",
+        "Malacology",
+        "Palaeontology"
+      ],
+      "answer": 2,
+      "explanation": "Malacology (noun) — Study of molluscs."
+    },
+    {
+      "id": "bra-q89",
+      "question": "Which word means: \"Study of mammals.\"?",
+      "options": [
+        "Mineralogy",
+        "Mammalogy",
+        "Nosology",
+        "Cosmology"
+      ],
+      "answer": 1,
+      "explanation": "Mammalogy (noun) — Study of mammals."
+    },
+    {
+      "id": "bra-q90",
+      "question": "Which word means: \"Science of measurement.\"?",
+      "options": [
+        "Penology",
+        "Metrology",
+        "Gynaecology",
+        "Cetology"
+      ],
+      "answer": 1,
+      "explanation": "Metrology (noun) — Science of measurement."
+    },
+    {
+      "id": "bra-q91",
+      "question": "Which word means: \"Study of clouds.\"?",
+      "options": [
+        "Nephology",
+        "Linguistics",
+        "Eschatology",
+        "Metrology"
+      ],
+      "answer": 0,
+      "explanation": "Nephology (noun) — Study of clouds."
+    },
+    {
+      "id": "bra-q92",
+      "question": "Which word means: \"Study of kidneys.\"?",
+      "options": [
+        "Nephrology",
+        "Hydrology",
+        "Lepidopterology",
+        "Cardiology"
+      ],
+      "answer": 0,
+      "explanation": "Nephrology (noun) — Study of kidneys."
+    },
+    {
+      "id": "bra-q93",
+      "question": "Which word means: \"Classification of diseases.\"?",
+      "options": [
+        "Cardiology",
+        "Cryptography",
+        "Nosology",
+        "Agrology"
+      ],
+      "answer": 2,
+      "explanation": "Nosology (noun) — Classification of diseases."
+    },
+    {
+      "id": "bra-q94",
+      "question": "Which word means: \"Study of being.\"?",
+      "options": [
+        "Ontology",
+        "Volcanology",
+        "Cryptography",
+        "Malacology"
+      ],
+      "answer": 0,
+      "explanation": "Ontology (noun) — Study of being."
+    },
+    {
+      "id": "bra-q95",
+      "question": "Which word means: \"Study of the ear.\"?",
+      "options": [
+        "Kalology",
+        "Agrology",
+        "Bryology",
+        "Otology"
+      ],
+      "answer": 3,
+      "explanation": "Otology (noun) — Study of the ear."
+    },
+    {
+      "id": "bra-q96",
+      "question": "Which word means: \"Study of ancient papyri.\"?",
+      "options": [
+        "Mineralogy",
+        "Phenology",
+        "Papyrology",
+        "Oceanography"
+      ],
+      "answer": 2,
+      "explanation": "Papyrology (noun) — Study of ancient papyri."
+    },
+    {
+      "id": "bra-q97",
+      "question": "Which word means: \"Study of punishment.\"?",
+      "options": [
+        "Penology",
+        "Volcanology",
+        "Kalology",
+        "Criminology"
+      ],
+      "answer": 0,
+      "explanation": "Penology (noun) — Study of punishment."
+    },
+    {
+      "id": "bra-q98",
+      "question": "Which word means: \"Study of periodic biological events.\"?",
+      "options": [
+        "Biology",
+        "Genealogy",
+        "Algology",
+        "Phenology"
+      ],
+      "answer": 3,
+      "explanation": "Phenology (noun) — Study of periodic biological events."
+    },
+    {
+      "id": "bra-q99",
+      "question": "Which word means: \"Study of sediments.\"?",
+      "options": [
+        "Biology",
+        "Sedimentology",
+        "Musicology",
+        "Papyrology"
+      ],
+      "answer": 1,
+      "explanation": "Sedimentology (noun) — Study of sediments."
+    },
+    {
+      "id": "bra-q100",
+      "question": "Which word means: \"Study of volcanoes.\"?",
+      "options": [
+        "Audiology",
+        "Mineralogy",
+        "Ophthalmology",
+        "Volcanology"
+      ],
+      "answer": 3,
+      "explanation": "Volcanology (noun) — Study of volcanoes."
+    }
+  ]
+}
